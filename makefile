@@ -1,14 +1,14 @@
 allmd = $(wildcard *.md)
 
-allhtml = $(patsubst %.md,%.html,$(allmd))
+derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
 all : toolkit.epub
 
-toolkit.epub : $(allhtml)
-	ebook-convert toc.html toolkit.epub
+toolkit.epub : $(derivedhtml)
+	ebook-convert TOC.html toolkit.epub --cover images/cover.png --title "Digital Publishing Toolkit"
 
 %.html: %.md
 	python scripts/chapter.py $< > $@
 
 clean:
-	rm -f *.html
+	rm -f $(derivedhtml)
