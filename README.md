@@ -40,11 +40,19 @@ Calibre
 
 Setting your git identity
 ------------
+An ssh key is in a nutshell a password-alternative. Rather than entering a password every time you login, or storing a password in a cookie, ssh keys have a private and a public part. You then upload (for once and forever) the public part to the servers you want to login to, and from that point on, your computer is able to login. Note that the system works because at login, the private half of the key stored on your computer is used so that no one else could steal your identity if they only have the public half of the key.
+
+Step one is creating your own "ssh key" and adding the public half to either the github DPT account, or your own github account (if you have one). This then gives your computer permission to upload changes. If you use multiple computers, generate a key on each one, and add each to the server (github in this case).
+
+    [Generating SSH Keys](http://help.github.com/articles/generating-ssh-keys)
+
+Secondly, you tell git tool the name and email address you'd like to use:
 
     git config --global user.name "Your Name"
     git config --global user.email you@example.com
 
-When Using git pull, you need to revert files (kind of weird)
+If you want to set this to be different per repository, just omit the --global option and make sure you are inside the directory when you do the command.
+
 
 Add, Commit, Push
 ------------------
