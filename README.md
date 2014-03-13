@@ -7,8 +7,6 @@ Workshop in using interchangable tools in a (static file) based (e)publishing wo
 
 Assemble sources to a convincing epub with styles + svg figures (and an index ?!)
 
-* Fun way to share (with version control ?!)
-
 
 Sublime + Markdown
 ----------------------------
