@@ -11,6 +11,8 @@ Welcome to the Tookit epub reader.
 I add some things here!
 
 Now to test a conflict.
+This change should induce a conflict.
+But it's easy enough to resolve.
 
 Test change from Kimmy's laptop. Now using git from sublime. Not working because of https based authentication... 
 
