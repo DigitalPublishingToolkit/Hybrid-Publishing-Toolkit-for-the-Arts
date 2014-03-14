@@ -8,4 +8,4 @@ Welcome to the Tookit epub reader.
 * [Chapter 2](Chapter02.html)
 * [Red page](Red_page.html)
 
-Test change from Kimmy's laptop.
+Test change from Kimmy's laptop. Now using git from sublime.
