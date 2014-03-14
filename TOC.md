@@ -14,6 +14,8 @@ Now to test a conflict.
 This change should induce a conflict.
 But it's easy enough to resolve.
 
+More changes.
+
 Test change from Kimmy's laptop. Now using git from sublime. Not working because of https based authentication... 
 
     fatal: could not read Username for 'https://github.com': Device not configured
