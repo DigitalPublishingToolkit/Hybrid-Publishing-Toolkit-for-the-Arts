@@ -10,6 +10,8 @@ Welcome to the Tookit epub reader.
 
 I add some things here!
 
+This change should induce a conflict.
+
 Test change from Kimmy's laptop. Now using git from sublime. Not working because of https based authentication... 
 
     fatal: could not read Username for 'https://github.com': Device not configured
