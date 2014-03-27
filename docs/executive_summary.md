@@ -1,7 +1,6 @@
 # Executive summary
 
-"You must change your life" - borrowing from philosopher Peter Sloterdijk, this is our burdensome message for arts- and design-oriented publishers, writers, editors and designers inwho want to transition towards electronic publishing or, more typically, towards hybrid print and electronic publishing. The changes in your life 
-*At least you will need to change your life if electronic publishing will not merely be an afterthought in your production chain and product portfolio, but become just as important as print.*
+"You must change your life" - borrowing from philosopher Peter Sloterdijk, this is our burdensome message for arts- and design-oriented publishers, writers, editors and designers who want to transition towards electronic publishing or, more typically, towards hybrid print and electronic publishing. If electronic publishing will merely remain an afterthought in your production chain and product portfolio, this change can be light. If it will become just as important as print, it can be radical.
 
 In short, the transition will require a rethinking of traditional publication formats, a rethinking of editorial and production workflows, and last but not least a rethinking of distribution. This will even be the case if your publication won't drastically change its form and content in the electronic medium. For arts and design publications however, the challenge of going electronic can be even greater than for other fields of publishing for a number of reasons: 
 - visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and platforms;
