@@ -9,7 +9,7 @@
 - best practices
 - opportunities
 
-# [Overview](overview.html) <!--Margreet will work out, max 800 words-->
+# [Overview](docs/overview.html) <!--Margreet will work out, max 800 words-->
 
 graphical map
 
