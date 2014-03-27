@@ -1,4 +1,5 @@
-# more
+# Makefile for Digital Publishing Toolkit
+#
 
 allmd = $(wildcard *.md docs/*.md)
 
