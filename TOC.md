@@ -1,4 +1,3 @@
-
 %% DIGITAL PUBLISHING TOOLKIT // 
 
 # Executive Summary //400 words
@@ -179,42 +178,42 @@ traditional workflow vs. new workflow
 Focus: epub2/3, HTML5 (app) + PDF
     
 
-### a simple e-book //example Manifesto, El Lissitzky //4000 words
+## a simple e-book //example Manifesto, El Lissitzky //4000 words
 
 Flow chart: workflow
 
-#### From markdown to epub 
+### From markdown to epub 
 
 A step-by-step guide
 
-#### Epub from scratch
+### Epub from scratch
 
 A step-by-step guide
 
 
-### art/design exhibition type catalogue //4000 words
+## art/design exhibition type catalogue //4000 words
 
 Flow chart: workflow
 
-#### General questions
+### General questions
 
 Should it be a 1:1 transfer from paper book to e-book?
 
 What are alternatives?
 
-#### How to make an exhibition catalogue in epub2/3
+### How to make an exhibition catalogue in epub2/3
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an exhibition catalogue as HTML5 (/app)
+### How to make an exhibition catalogue as HTML5 (/app)
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an exhibition catalogue as PDF
+### How to make an exhibition catalogue as PDF
 
 A step-by-step guide
 
@@ -222,29 +221,29 @@ Advantages, disadvantages
 
 
 
-### research like publication //INC example //4000 words //Miriam
+## research like publication //INC example //4000 words //Miriam
 
 Flow chart: workflow
 
-#### General questions
+### General questions
 
 Should it be a 1:1 transfer from paper book to e-book?
 
 What are alternatives?
 
-#### How to make a research publication in epub2/3
+### How to make a research publication in epub2/3
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make a research publication as HTML5 (/app)
+### How to make a research publication as HTML5 (/app)
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make a research publication as PDF
+### How to make a research publication as PDF
 
 A step-by-step guide
 
@@ -252,58 +251,68 @@ Advantages, disadvantages
 
 
 
-### arts/design periodical //example 1.Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 2. Niet commercieel website / PDF 3. Academical magazine (jStor) 4. Public Magazine 5. Commercial / app store model. //1000 words
+## arts/design periodical //example 
+
+- Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 
+
+- Niet commercieel website / PDF 
+
+- Academic magazine (jStor) 
+
+- Public Magazine 
+
+- Commercial / app store model. //1000 words
 
 Flow chart: workflow
 
-#### General questions
+### General questions
 
 Should it be a 1:1 transfer from paper book to e-book?
 
 What are alternatives?
 
-#### How to make an arts/design periodical in epub2/3
+### How to make an arts/design periodical in epub2/3
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an arts/design periodical as HTML5 (/app)
+### How to make an arts/design periodical as HTML5 (/app)
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an arts/design periodical as PDF
+### How to make an arts/design periodical as PDF
 
 A step-by-step guide
 
 Advantages, disadvantages
 
 
-### artist's/experimental book //less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian
+## artist's/experimental book //less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian
 
 Flow chart: workflow
 
-#### General questions
+### General questions
 
 Should it be a 1:1 transfer from paper book to e-book?
 
 What are alternatives?
 
-#### How to make an artist's/designer's book in epub2/3
+### How to make an artist's/designer's book in epub2/3
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an artist's/designer's book as HTML5 (/app)
+### How to make an artist's/designer's book as HTML5 (/app)
 
 A step-by-step guide
 
 Advantages, disadvantages
 
-#### How to make an artist's/designer's book as PDF
+### How to make an artist's/designer's book as PDF
 
 A step-by-step guide
 
