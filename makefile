@@ -1,3 +1,5 @@
+# more
+
 allmd = $(wildcard *.md docs/*.md)
 
 derivedhtml = $(patsubst %.md,%.html,$(allmd))
