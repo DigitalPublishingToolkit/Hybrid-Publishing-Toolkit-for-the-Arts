@@ -12,10 +12,11 @@ traditional workflow vs. new workflow
 ### research publication
 
 Text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing
-Traditional, print oriented workflow: see Kimmy's visualized workflow for the INC
+Traditional, print oriented workflow: see Kimmy's visualized workflow for the INC, which 
 
 Editor works with author(s) on manuscript
 Several versions going back and forth between different people in different roles (editor, author, copyeditor, designer)
+Final version in a text editor or Word format
 
 traditional workflow vs. new workflow
 
