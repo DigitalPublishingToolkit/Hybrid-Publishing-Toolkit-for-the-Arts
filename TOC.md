@@ -1,6 +1,7 @@
 %% DIGITAL PUBLISHING TOOLKIT // 
 
 # Executive Summary //400 words
+//Florian, sprint
 
 - real versus perceived challenges
 - technological shortcomings 
@@ -9,6 +10,7 @@
 - opportunities
 
 # Overview //800 words
+//Margreet
 
 graphical map
 
@@ -21,8 +23,9 @@ graphical map
 
 
 # General Introduction //2000 words //Joost
-
 ## [Genres of publication: our scenarios](genresofpublications.html) //Pia
+//first sketch/notes during sprint
+
 ###  art/design catalogue like  
 Short summary: issues of going electronic, opportunities of going electronic
 ### research like publication 
@@ -189,7 +192,7 @@ A step-by-step guide
 ### Epub from scratch
 
 A step-by-step guide
-
+// Florian, keyword during sprint
 
 ## art/design exhibition type catalogue //4000 words
 
