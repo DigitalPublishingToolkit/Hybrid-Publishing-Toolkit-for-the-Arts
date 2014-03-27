@@ -192,10 +192,10 @@ Flow chart: workflow
 
 A step-by-step guide
 
-### Epub from scratch
+### Deconstructing Epub
 
-A step-by-step guide
-// Florian, keyword during sprint
+A step-by-step guide: dowloading, unzipping and tweaking and epub file
+// Marc, Florian, keyword during sprint
 
 ## art/design exhibition type catalogue //4000 words
 
