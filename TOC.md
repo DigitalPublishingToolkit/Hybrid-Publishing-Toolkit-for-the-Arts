@@ -1,7 +1,7 @@
 %% DIGITAL PUBLISHING TOOLKIT // 
 
-# Executive Summary //400 words
-//Florian, sprint
+# [Executive Summary](docs/executive_summary.txt)
+//400 words, Florian, sprint
 
 - real versus perceived challenges
 - technological shortcomings 
