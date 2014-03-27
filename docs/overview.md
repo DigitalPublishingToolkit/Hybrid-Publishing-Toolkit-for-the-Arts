@@ -1,4 +1,4 @@
-# [Overview](overview.html) //800 words //Margreet
+# [Overview](overview.html) <!--//800 words //Margreet-->
 
 ## How to use this toolkit
 This toolkit will help you to develop ePubs, specifically arts publications, that overall make more use of different fonts and graphics. Chapter 3 will give a general introduction of this publications and sketches out various scenarios to develop ePubs. Issues and opportunities of going electronic will be discussed, as well as strenghts and limitations of particular, reader hardware and software, file formats and lastly distribution platforms. 
