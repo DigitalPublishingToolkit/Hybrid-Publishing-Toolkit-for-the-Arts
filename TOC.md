@@ -156,7 +156,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## Per scenario // <!-- Miriam maakt begin -->
+## [Workflows per scenario](worksflowsperscenario.html) // <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
@@ -225,8 +225,8 @@ A step-by-step guide
 Advantages, disadvantages
 
 
+## [Research like publication](researchlikepub.html) // INC example // <!-- Miriam maakt begin, 4000 words -->
 
-## research like publication //INC example //4000 words //Miriam
 
 Flow chart: workflow
 
