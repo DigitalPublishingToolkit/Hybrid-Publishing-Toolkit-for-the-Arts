@@ -21,11 +21,14 @@ graphical map
 ## Who worked on this toolkit
 
 
-# General Introduction //2000 words //Joost
+# General Introduction //2000 words
+
+## General // Joost
+
 ## [Genres of publication: our scenarios](genresofpublications.html) //Pia
 //first sketch/notes during sprint
 
-###  art/design catalogue like  
+### art/design catalogue like  
 Short summary: issues of going electronic, opportunities of going electronic
 ### research like publication 
 Short summary: issues of going electronic, opportunities of going electronic
@@ -153,7 +156,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## Per scenario[^1]
+## Per scenario // <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
