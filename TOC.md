@@ -1,6 +1,6 @@
 %% DIGITAL PUBLISHING TOOLKIT // 
 
-# [Executive Summary](docs/executive_summary.txt)
+# [Executive Summary](docs/executive_summary.html)
 //400 words, Florian, sprint
 
 - real versus perceived challenges
