@@ -23,7 +23,7 @@ graphical map
 
 # General Introduction //2000 words //Joost
 
-## [Genres of publication: our scenarios](genresofpublication.html) //Pia
+## [Genres of publication: our scenarios](genresofpublications.html) //Pia
 ###  art/design catalogue like  
 Short summary: issues of going electronic, opportunities of going electronic
 ### research like publication 
