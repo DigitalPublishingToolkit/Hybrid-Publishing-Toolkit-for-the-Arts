@@ -9,10 +9,7 @@ In short, the transition will require a rethinking of traditional publication fo
 
 These factors often amount to a huge contrast between computer industry promises and the reality of the new medium. On the one hand, publishers, editors, designers and artists overestimate interactive and multimedia opportunities of electronic publishing. These possibilities do exist, but tend be more expensive and specific to particular technical reading platforms - why and how is explained here in detail. On the other hand, publishers often underestimate that even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). 
 
-Last not least, but perhaps most importantly, going electronic - or going hybrid -
+Last not least, going electronic - or going hybrid - means that you need to change the way you work in the whole process from manuscript to publication. The software tools currently in use, from word processors like Microsoft Word to desktop publishing suites like InDesign, were created for the analog world. Although it's possible to create electronic publications from those Word and InDesign files that are the standard in publishing houses, it will be painful, slow, inefficient and expensive in most cases. This Toolkit is primarily aimed at low-budget publishers who do not outsource e-book design to external service providers. Therefore, it provides easy-to-use tools for editing and designing hybrid print and electronic publications for everyone - publishing houses, editors, writers, designers and artists. 
 
-They also tend to underestimate the necessities of changing editorial processes and technical workflows. 
-
-This is especially true when electronic publications are no longer produced experimentally, as separate (sometimes costly) design projects outsourced to external design teams, but as 
-
+This toolkit has a particular (but not exclusive) focus on epub as an electronic publication format and on Markdown as a word processing format because of the specific needs of small edition publishers in the arts and design field: low cost, ease of use, sustainability, platform-independence. These recommendations result from our practical experience in collaborating with four Dutch art, design and research publishers on electronic publication projects.
 
