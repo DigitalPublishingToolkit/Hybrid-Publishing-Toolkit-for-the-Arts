@@ -335,7 +335,7 @@ Where will e-publishing be in 2020?
 
 
 
-# Software catalogue //Michael
+# [Software catalogue](software.html) //Michael
 
 ## Pre-existing software
 - Open Source 
