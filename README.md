@@ -2,7 +2,7 @@ Digitial Publishing Toolkit
 ===========================
 
 
-Meeting in Amsterdam 27 March 2014
+Meeting in *Amsterdam* 27 March 2014
 
 The [github](https://github.com/DigitalPublishingToolkit) account.
 
