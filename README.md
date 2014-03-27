@@ -3,6 +3,8 @@ Digitial Publishing Toolkit
 
 **THIS IS A TEST PROJECT and may not actually be accurate or useful**
 
+Update Thursday March 27, 2014
+
 Workshop in using interchangable tools in a (static file) based (e)publishing workflow.
 
 Assemble sources to a convincing epub with styles + svg figures (and an index ?!)
