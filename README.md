@@ -3,7 +3,7 @@ Digitial Publishing Toolkit
 
 **THIS IS A TEST PROJECT and may not actually be accurate or useful**
 
-Update Thursday March 27, 2014
+*ANOTHER* Update Thursday March 27, 2014
 
 Workshop in using interchangable tools in a (static file) based (e)publishing workflow.
 
