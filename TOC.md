@@ -9,7 +9,7 @@
 - best practices
 - opportunities
 
-# [Overview](overview.html) //800 words //Margreet
+# [Overview](overview.html) <!--Margreet will work out, max 800 words-->
 
 graphical map
 
@@ -17,7 +17,7 @@ graphical map
 ## Why this toolkit
 ## For whom is this toolkit written
 ## What this toolkit is not
-## What culture shock to expect
+## What culture shock to expect <!--Input required Florian-->
 ## Who worked on this toolkit
 
 
