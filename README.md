@@ -1,9 +1,10 @@
 Digitial Publishing Toolkit
 ===========================
 
-**THIS IS A TEST PROJECT and may not actually be accurate or useful**
 
-*ANOTHER* Update Thursday March 27, 2014
+Meeting in Amsterdam 27 March 2014
+
+The [github](https://github.com/DigitalPublishingToolkit) account.
 
 Workshop in using interchangable tools in a (static file) based (e)publishing workflow.
 
