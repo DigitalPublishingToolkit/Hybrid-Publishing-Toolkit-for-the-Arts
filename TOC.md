@@ -1,4 +1,5 @@
-%% DIGITAL PUBLISHING TOOLKIT // 
+DIGITAL PUBLISHING TOOLKIT
+===========================
 
 # [Executive Summary](docs/executive_summary.html)
 //400 words, Florian, sprint
