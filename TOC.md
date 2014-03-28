@@ -38,8 +38,8 @@ Short summary: issues of going electronic, opportunities of going electronic
 ### artist's/experimental book 
 Short summary: issues of going electronic, opportunities of going electronic
 <<<<<<< HEAD
-### new types of publications <!--optional
-Short summary: issues of going electronic, opportunities of going electronic -->
+### new types of publications <!--optional -->
+Short summary: issues of going electronic, opportunities of going electronic
 
 ## Strengths & limitations of particular
 reader hardware <!--Marc -->
@@ -197,7 +197,7 @@ traditional workflow vs. new workflow
 Focus: epub2/3, HTML5 (app) + PDF
     
 
-## a simple e-book <!--example Manifesto, El Lissitzky--> //4000 words
+## a simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
 
 Flow chart: workflow
 
@@ -239,7 +239,7 @@ A step-by-step guide
 Advantages, disadvantages
 
 
-## [Research like publication](docs/researchlikepub.html) <!-- INC example // <!-- Miriam maakt begin, 4000 words -->
+## [Research like publication](docs/researchlikepub.html) <!-- INC example, Miriam maakt begin, 4000 words -->
 
 
 Flow chart: workflow
@@ -292,7 +292,7 @@ Advantages, disadvantages
 
 - Public Magazine 
 
-- Commercial / app store model. <!--1000 words
+- Commercial / app store model. <!--1000 words -->
 
 Flow chart: workflow
 
@@ -365,17 +365,17 @@ Where will e-publishing be in 2020?
 
 # Appendix 
 
-## [Glossary of technical terms](docs/glossary.html) <!--Loes
+## [Glossary of technical terms](docs/glossary.html) <!--Loes -->
 
 ## Keyword index 
 
 ## Bibliography 
 
-## Link list <!--mirrored linking
+## Link list <!--mirrored linking -->
 
 
 
-# [Software catalogue](docs/software.html) <!--Michael
+# [Software catalogue](docs/software.html) <!--Michael -->
 
 ## Pre-existing software
 - Open Source 
