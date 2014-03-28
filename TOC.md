@@ -38,14 +38,14 @@ Short summary: issues of going electronic, opportunities of going electronic
 ### artist's/experimental book 
 Short summary: issues of going electronic, opportunities of going electronic
 ### new types of publications <!--optional
-Short summary: issues of going electronic, opportunities of going electronic
+Short summary: issues of going electronic, opportunities of going electronic -->
 
 ## Strengths & limitations of particular
-reader hardware <!--Marc
-reader software <!--Marc  
+reader hardware <!--Marc -->
+reader software <!--Marc  -->
 file formats 
 
-## Reader hardware <!--Marc
+## Reader hardware <!--Marc -->
 
 ### e-reader
 Pros
