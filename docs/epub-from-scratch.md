@@ -1,4 +1,4 @@
-##EPUB from scratch
+##EPUB from scratch##
 
 Part of the process of creating an EPUB by hand is very similar to developing a simple website. The EPUB file format is basically a compressed collection of HTML files, compiled together with some extra files containing descriptive markers regarding the content of the publication. A typical EPUB file is just a Zip archive without the .zip file extension, which is instead substituted by .epub. A file archiver can easily decompress EPUB files, although the user sometimes has to replace the .epub extension with .zip in order for the file archiver to recognise the EPUB as a compressed archive.
 
@@ -8,7 +8,7 @@ A rudimentary EPUB is used as an example to explain several concepts and may be 
 ###Layout of an EPUB file###
 After decompressing an EPUB the following directory layout is revealed:
 
-[[Screenshot of directory layout]]
+[[Figure: Screenshot of directory layout]]
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes as an EPUB. 
 
