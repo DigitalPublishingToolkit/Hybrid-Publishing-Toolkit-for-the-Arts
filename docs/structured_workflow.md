@@ -6,7 +6,7 @@ Flow charts: workflows
 
 Advantages, limitations
 
-![INC Current Workflow](/images/img.jpg "workflowINC__Current_v01.svg")
+![INC Current Workflow](../images/workflowINC_Current_v01.svg)
 
 ##XML
 
@@ -23,5 +23,5 @@ Is it an easier alternative to XML?
 
 ##Database publishing / Content Management System
 
-_question: shouldn't we add html and use of tools like calibre / pandoc? A large part of the workflow you can keep working with Word and use these tools to convert to the necessary output. Or is this part of Single source cross media?_
+_question: shouldn't we add html and use of tools like calibre / pandoc? A large part of the workflow can stick with Word and use these tools to convert to the necessary output. Or is this part of Single source cross media?_
 
