@@ -16,9 +16,10 @@ The tablet-market is dominated by a two main players, Apple and Samsung. Apple u
 The most important advantage of tablets over traditional e-readers is the fact that the latter doesn't support colour. The upside of the tablet's colour screen is at the same time also a weakness, as backlit LED screens are generally supposed to induce eye fatigue. Reading in the sun is problematic as well, because direct sunlight obscures most of the visibility of  Battery life is another issue with tablets. Though newer tablet models often claim impressive battery life hours, e-readers still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphone###
-The story for tablets also largely applies to the realm of smartphones. Of course most smartphones sport smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are enough to 
+The story for tablets also largely applies to the realm of smartphones. Of course most smartphones sport smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
 
 ###PC/Laptop###
+Reading e-books on a laptop or personal computer is of course a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chanses of eye fatigue exist as with tablets.
 
 ###Other devices###
 <!-- What other devices? -->
