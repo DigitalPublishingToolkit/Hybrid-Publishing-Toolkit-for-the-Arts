@@ -37,6 +37,7 @@ Short summary: issues of going electronic, opportunities of going electronic
 Short summary: issues of going electronic, opportunities of going electronic
 ### artist's/experimental book 
 Short summary: issues of going electronic, opportunities of going electronic
+<<<<<<< HEAD
 ### new types of publications <!--optional
 Short summary: issues of going electronic, opportunities of going electronic -->
 
@@ -46,6 +47,17 @@ reader software <!--Marc  -->
 file formats 
 
 ## Reader hardware <!--Marc -->
+=======
+### new types of publications <!--optional-->
+Short summary: issues of going electronic, opportunities of going electronic
+
+## Strengths & limitations of particular
+reader hardware <!--Marc-->
+reader software <!--Marc  -->
+file formats 
+
+## Reader hardware <!--Marc-->
+>>>>>>> 8733a3ad8d73b8c5c7244c3c03edc518827c1a6f
 
 ### e-reader
 Pros
@@ -63,7 +75,7 @@ Contras
 Pros
 Contras
 
-## Reader software <!--Marc
+## Reader software <!--Marc-->
 ### reader hardware vs. user-installable reader software
 #### mobile apps
 The most popular/important reading apps
@@ -78,7 +90,7 @@ and their strengths and weaknesses
 The most popular/important standalone PC programs
 and their strengths and weaknesses
 
-## File formats <!--Marc
+## File formats <!--Marc-->
 ### web site 
 Pros
 Contras
@@ -95,31 +107,32 @@ Contras
 Pros
 Contras
 
-## Distribution platforms <!--Marc
+## Distribution platforms <!--Marc-->
+
 ### e-book stores: Amazon, Apple, Google, Kobo, Sony...
 Strengths
 Weaknesses
 
-### online reading platforms: Scribd, Issu...
+### online reading platforms: Scribd, Issuu, website... // Miriam
 Strengths
 Weaknesses
 
-### print-on-demand 
+### print-on-demand // Margreet
 Strengths
 Weaknesses
 
-### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
+### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru // Florian
 Strengths
 Weaknesses
 
-### artist-/designer-run projects: Badlands, KYUR8, artistsebooks
+### artist-/designer-run projects: Badlands, KYUR8, artistsebooks // Florian
 Strengths
 Weaknesses
 
 
 
 
-# Workflows <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong
+# Workflows <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
 ## General
 
@@ -134,7 +147,7 @@ In-house development versus outsourcing to service providers: advantages, disadv
 Why new workflows are essential for small edition, low budget publishing.
 
 
-## [Structured workflows](docs/structured_workflow.html) <!--executive management advies /keuze van workflow
+## [Structured workflows](docs/structured_workflow.html) <!--executive management advies /keuze van workflow-->
 
 Flow charts: workflows
 
@@ -157,7 +170,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## [Workflows per scenario](docs/workflowsperscenario.html) <!-- <!-- Miriam maakt begin -->
+## [Workflows per scenario](docs/workflowsperscenario.html) <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
@@ -184,7 +197,7 @@ traditional workflow vs. new workflow
 Focus: epub2/3, HTML5 (app) + PDF
     
 
-## a simple e-book <!--example Manifesto, El Lissitzky //4000 words
+## a simple e-book <!--example Manifesto, El Lissitzky--> //4000 words
 
 Flow chart: workflow
 
@@ -195,9 +208,9 @@ A step-by-step guide
 ### [Deconstructing Epub](docs/epub-from-scratch.html)
 
 A step-by-step guide: dowloading, unzipping and tweaking and epub file
-<!-- Marc, Florian, keyword during sprint
+<!-- Marc, Florian, keyword during sprint-->
 
-## art/design exhibition type catalogue <!--4000 words
+## art/design exhibition type catalogue <!--4000 words-->
 
 Flow chart: workflow
 
@@ -269,7 +282,7 @@ Advantages, disadvantages
 
 
 
-## arts/design periodical <!--example 
+## arts/design periodical <!--example -->
 
 - Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 
 
@@ -308,7 +321,7 @@ A step-by-step guide
 Advantages, disadvantages
 
 
-## artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian
+## artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
 Flow chart: workflow
 
