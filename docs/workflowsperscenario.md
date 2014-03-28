@@ -5,13 +5,11 @@
 
 traditional workflow vs. new workflow
 
-###  artist's/designer's book: traditional vs. new 
+###  artist's/designer's book
 
 traditional workflow vs. new workflow
 
 ### research publication
-
-traditional workflow vs. new workflow
 
 Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing  
 See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html)

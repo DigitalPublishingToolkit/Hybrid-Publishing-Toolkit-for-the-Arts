@@ -179,7 +179,7 @@ traditional workflow vs. new workflow
 
 
 
-# Guide: Design your own e-publication 
+# Guide: Design your own e-publication <!-- see research pub for proposal on structure of the general questions part ^Miriam -->
 
 Focus: epub2/3, HTML5 (app) + PDF
     
@@ -233,9 +233,21 @@ Flow chart: workflow
 
 ### General questions
 
+#### Decision making  
 Should it be a 1:1 transfer from paper book to e-book?
 
-What are alternatives?
+What are alternatives and possibilities?
+
+#### Instructions
+How to adjust the style guide?
+
+What metadata to add?
+
+Do editorial criteria regarding the content change?
+
+#### Specific issues for this publication type
+
+#### Based on the above, what to choose?
 
 ### How to make a research publication in epub2/3
 

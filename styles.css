@@ -15,7 +15,7 @@ h1, h2 {
 }
 h1 {
     text-transform: uppercase;
-    border-top: 3px solid #0F0;
+    border-top: 5px solid #0F0;
 }
 a {
     color: #0F0;
