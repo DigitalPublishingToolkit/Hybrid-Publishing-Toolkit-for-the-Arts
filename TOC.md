@@ -134,7 +134,7 @@ In-house development versus outsourcing to service providers: advantages, disadv
 Why new workflows are essential for small edition, low budget publishing.
 
 
-## Structured workflows //executive management advies /keuze van workflow
+## [Structured workflows](docs/structured_workflow.html) //executive management advies /keuze van workflow
 
 Flow charts: workflows
 
