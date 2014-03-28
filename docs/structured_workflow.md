@@ -6,7 +6,7 @@ Flow charts: workflows
 
 Advantages, limitations
 
-![INC Current Workflow](../images/workflowINC_Current_v01.svg)
+![INC *Current* Workflow](../images/workflowINC__Current_v01.svg "workflow blah...")
 
 ##XML
 
