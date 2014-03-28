@@ -157,7 +157,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## [Workflows per scenario](docs/worksflowsperscenario.html) // <!-- Miriam maakt begin -->
+## [Workflows per scenario](docs/workflowsperscenario.html) // <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
@@ -192,7 +192,7 @@ Flow chart: workflow
 
 A step-by-step guide
 
-### Deconstructing Epub
+### [Deconstructing Epub](docs/epub-from-scratch.html)
 
 A step-by-step guide: dowloading, unzipping and tweaking and epub file
 // Marc, Florian, keyword during sprint
