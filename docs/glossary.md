@@ -45,9 +45,12 @@ Is een apparaat waarmee men digitale teksten kan lezen. De twee voornaamste vorm
 Voorbeelden van verschillende bestandtypen gebruikt voor digitale uitgaven zijn: .azw (file format used by the Amazon Kindle e-Book reader), KF8 (Amazons new Kindle Format 8 used on the Kindle Fire), EPUB, PDF <!--uit overzicht Arjen 02LAndscapeDigitalPubl.pdf pagina 6--> plain text, HTML, PDF, EPUB, MObipocket, DjVu, Fictionbook, ereader, Tome raider, iOS apps, kindle apps, Android apps)
 #### Fixed format
 In iBooks, the Fixed Layout Format is an EPUB that utilizes CSS positioning and the HTML viewport meta tag to create precise layouts including full-bleed images and text overlapping images.
+#### Frameworks
+Een softwareframework is een geheel van softwarecomponenten dat gebruikt kan worden bij het programmeren van applicaties. Echter ook afspraken hoe die componenten gebruikt worden binnen een groep ontwikkelaars en welke code-standaarden en bibliotheken gebruikt worden kunnen ook onderdeel zijn van een framework.
 
 ### G
 #### GitHub
+Collaboration programme, code review, and code management for open source and private projects.
 
 ### H
 #### HTML
@@ -62,14 +65,20 @@ Is in de basis een HTML5 applicatie die verpakt is in een native “schil”. Er
 Is een programma voor het lezen en kopen van e-books, ontwikkeld door Apple Inc voor besturingssysteem iOS.
 #### iBookstore
 Hier is het mogelijk om boeken e-books te kopen en te downloaden. De boeken in de winkel zijn in het ePub-formaat opgeslagen.
+#### Interface
+Is een intermediair waarmee twee systemen met elkaar communiceren en zet informatie van het ene systeem om in begrijpelijke en herkenbare informatie van een ander systeem.
 #### iOS
 Het mobiele besturingssysteem iOS (vóór juni 2010 iPhone OS) is het besturingssysteem van de iPhone, iPad, iPod touch en Apple TV.
 #### iPad
 Is een in 2010 geïntroduceerde tablet-pc van het Amerikaanse elektronicabedrijf Apple. Net zoals de iPhone en de iPod touch bevat de iPad een multi-touchscherm, waardoor deze met de vingers is te bedienen
 
 ### J
+#### Javascript
+Is een scripttaal die veel gebruikt wordt om webpagina's interactief te maken en webapplicaties te ontwikkelen.
 #### jQuery
 Een van de populairste JavaScript bibliotheken van dit moment. Levert een versimpeling in het schrijven van JavaScript voor webapplicaties en websites, hierbij moet gedacht worden aan user interface functionaliteit, animaties, manipulatie van elementen op een pagina (tekst, beeld, e.d.) en het ophalen van data uit externe bronnen.
+#### Json
+JSON, JavaScript Object Notation, is syntax for storing and exchanging text information. Much like XML. JSON is smaller than XML, and faster and easier to parse. It can be an executed as well. 
 
 ### K
 #### KF8
@@ -80,20 +89,31 @@ Is een tablet van het Amerikaanse bedrijf Amazon. De tablet maakt gebruik van he
 Maakt fysieke e-readers en applicaties voor iPad, Android, e.d. Tevens is er een Kobo winkel waar epubs gekocht kunnen worden.
 
 ### L
+#### LAMP
+Is een acroniem voor een set van gratis vrije softwarepakketten, die vaak samen gebruikt worden om dynamische websites te draaien:
+
+* Linux, het besturingssysteem;
+* Apache HTTP Server, de webserver;
+* MariaDB of MySQL, het databasemanagementsysteem (of databaseserver); of in plaats daarvan PostgreSQL (LAPP) of SQLite (LASP)
+* P for PHP, Perl, en/of Python, de programmeertaal
+####Linuxkernel
+Is de kernel (kern) van besturingssystemen uit de Linuxfamilie.
 
 ### M
 #### Mobi
 (.mobi, ook wel dotMobi genoemd) is een topleveldomein (TLD). Het hoofddoel van deze TLD is om websites voor mobiele telefoons beter te kunnen onderscheiden. Een TLD is het meest rechtse gedeelte in een internetdomeinnaam, zoals .nl, .org, .gov, .brussels etc.
 #### Mobipocket 
-<!--(wat is dat?)-->
+Is a French company incorporated in March 2000 that produces Mobipocket Reader software, an e-book reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems.
 
 ### N
 #### Native app
-Deze app is geschreven in de programmeertaal (Java voor Android, Objective-C in combinatie met Cocoa voor iOS) van het platform waarop de applicatie gelanceerd wordt. De meeste native applicaties kunnen worden gedownload uit de app store.
+Een native applicatie is een programma dat specifiek ontwikkeld en geïmplementeerd is voor het gegeven model, microprocessor of besturingssysteem. Deze app is geschreven in de programmeertaal (Java voor Android, Objective-C in combinatie met Cocoa voor iOS) van het platform waarop de applicatie gelanceerd wordt. De meeste native applicaties kunnen worden gedownload uit de app store.
 
 ### O
 #### Objective-C
 De programmeertaal waar veel OS X en iOS applicaties in geschreven worden. De taal heeft de programmeertaal C als basis. Objective-C is vergelijkbaar met het door Microsoft ontwikkelde C Sharp, ook een dialect van C.
+#### Opensource
+Beschrijft de praktijk die in productie en ontwikkeling vrije toegang geeft tot de bronmaterialen (de source) van het eindproduct. De bekendste vorm is opensourcesoftware.
 
 ### P
 #### PDF
@@ -112,6 +132,8 @@ Bij reflowable content kan de tekst van de boeken voor elke e-reader geoptimalis
 Een object (applicatie, bestand, e.d.) dat geen externe bronnen nodig heeft om te opereren en is dus makkelijk te verplaatsen of te kopiëren. Een EPUB is in principe “selfcontained” als er niet gerefereerd wordt naar extern aanwezige afbeeldingen of andere media.
 #### Smartphone
 Is een mobiele telefoon die uitgebreidere computermogelijkheden biedt. Een smartphone kan ook beschouwd worden als een handcomputer die tegelijk ook een telefoon is.
+#### Switch Statements
+Is a type of selection control mechanism used to allow the value of a variable or expression to change the control flow of program execution via a multiway branch.
 #### Syntax
 De taalregels/gramatica van een programmeertaal. Er bestaan specifieke regels voor het aanduiden van programmeerconcepten (functies, objecten, variabelen, switch statements, e.d.) die verschillen per programmeertaal.
 
@@ -132,6 +154,8 @@ Is een mobiele versie van een website, waarbij alleen de belangrijkste onderdele
 ### X
 #### XHTML
 (Extensible Hypertext Markup Language) is een opmaaktaal voor vooral websites, die de functionaliteit heeft van HTML, maar een striktere syntaxis waardoor deze gemakkelijker verwerkt kunnen worden door een XML-parser.
+#### XML
+XML is a generalized Markup up Language for the exchange of information. It is generalized in that it allows users to define their own tags and thus there is a data definition table required to decode the data. 
 
 ### Y
 
