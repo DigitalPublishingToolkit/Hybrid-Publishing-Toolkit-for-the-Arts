@@ -6,7 +6,7 @@ Chapters 4 offers practical, how-to guidance for workflows (structured and per s
 
 Within this publication a division has been made in three levels of publications:
 
-* One-to-One; where a book is considered as a separate product where text-authors, illustrators, artists, photographers, and designers that generally work together to produce the book as a one-off team. 
+* One-to-One; where a book is considered as a separate product where text-authors, illustrators, artists, photographers, and designers generally work together to produce the book as a one-off team. 
 * One-to-Many; this book is not a single object, but has various cameliontic <!--do you mean: chameleonic? -->appearances. 
 * One-to-Database; here the various more-or-less independent components are separately defined as modules that can be multiple used and re-used by everybody that has access to the database. It goes without saying that such modules must be well defined and cushioned in a equally well defined system of metadata.
 
