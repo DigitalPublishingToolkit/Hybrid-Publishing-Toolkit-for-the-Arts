@@ -46,12 +46,15 @@ One of the issues with going digital with a Art/Design periodical lies in the
 
 #### Artist's/experimental books
 
-By Artist's/experimental book we mean publications which are created without a specific set of rules. They could be objects by themselves and take on different forms.
+By Artist's/experimental book we mean publications created by artists as art works in their own right (rather than being books _about_ artists or art projects). These books do not have a specific set of rules. They could be objects by themselves and take on different forms.
 
-- Heavy in use of images
-- Images (often) take a central role 
-- Use of images is (often) primary
-- Use of text changes, may completley be absent
+Some characterics:
+
+- artistic inquiry into what a book is;
+- complex use of images and typography, often pushing the possibilities of the medium;
+- in print: making use of the book as a material, visual and haptic object;
+- difficult or impossible translation into other media;
+- text is often used in non-descriptive or non-narrative ways.
 
 #### New types of publications
 
