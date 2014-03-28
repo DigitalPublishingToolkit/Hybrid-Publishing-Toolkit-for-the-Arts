@@ -188,7 +188,7 @@ Focus: epub2/3, HTML5 (app) + PDF
 
 Flow chart: workflow
 
-### From markdown to epub 
+### [From markdown to epub](docs/frommarkdowntoepub.html) 
 
 A step-by-step guide
 
