@@ -340,7 +340,7 @@ Where will e-publishing be in 2020?
 
 # Appendix 
 
-## Glossary of technical terms 
+## [Glossary of technical terms](docs/glossary.html) //Loes
 
 ## Keyword index 
 
