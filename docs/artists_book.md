@@ -26,7 +26,12 @@ For such activist or minimalist projects,the lowest technical denominator and mo
 Since the design of most samizdat books does not differ from that of [research publications](...) or other visually plain publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. 
 
 #### How to make visually oriented artists' books
-
+<!--- still to be written, Florian --->
+(- Reference to Arjen's overview graph of non-visual vs. visual epublishing technologies: platform-agnostic vs. platform-specific)
+(- PDF as simple default solution)
+(- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
+(- self-contained HTML5)
+(- epub 2, epub 3)
 
 
 [^1]: Ulises Carrión, "The new art of making books", Aegean editions, 2001
