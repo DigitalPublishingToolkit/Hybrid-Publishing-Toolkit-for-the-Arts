@@ -12,7 +12,7 @@ Within this publication a division has been made in three levels of publications
 </ul>
 
 ## Why this toolkit
-This toolkit aims to provide publishers, as well as everyone else interested in developing an ePub, a practical guide on how to approac this. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate this diverse and complex landscape of digital publishing in a more grounded way.
+This toolkit aims to provide publishers, as well as everyone else interested in developing an ePub, a practical guide on how to approach this. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate this diverse and complex landscape of digital publishing in a more grounded way.
 
 ## For whom is this toolkit written
 You may be a publisher, an experienced programmer or a designer or someone just starting out. You probably identify with or work in the arts fields. You may be hoping for some answers, gain knowledge, get tips, and conduct various resources. This toolkit intends to provide them all, and the overall focus is on pragmatic solutions for digital publishers within the art and culture sector. We will assume no prior knowledge of creating an ePub is required. With that said, a healthy familiarity of a variety of computer software is helpful, as is the willingness and inquisitive curiosity to look beyond this book for certain answers. 
