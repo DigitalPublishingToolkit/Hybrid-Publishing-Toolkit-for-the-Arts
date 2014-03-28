@@ -2,9 +2,9 @@
 
 ### A
 #### Android
-is een opensourceplatform en besturingssysteem voor mobiele telefoons, tablet-pcs, koelkasten, camera's en meer, gebaseerd op de Linuxkernel en het Java-programmeerplatform. Android is het meest verkochte besturingssysteem op mobiele telefoons
+Is een opensourceplatform en besturingssysteem voor mobiele telefoons, tablet-pcs, koelkasten, camera's en meer, gebaseerd op de Linuxkernel en het Java-programmeerplatform. Android is het meest verkochte besturingssysteem op mobiele telefoons
 #### Amazon
-internetwinkel waar digitale uitgave worden aangeboden in file format .AZW, KF8<!--die gelezen kunnen worden door Kindle(?)-->
+Internetwinkel waar digitale uitgave worden aangeboden in file format .AZW, KF8<!--die gelezen kunnen worden door Kindle(?)-->
 #### API
 Een “application programming interface” is een formele specificatie van hoe twee software systemen met elkaar kunnen communiceren. De API is als het ware een technische brug tussen Applicatie A en Applicatie B. Stel je wil met een (web)applicatie de 10 meest recente tweets van een bepaald Twitter-account ophalen dan kan dit via de API die Twitter aanbiedt. Door een verzoek naar de API van Twitter te versturen krijg je via die service een “antwoord” in een gestructureerd standaardformaat (vaak in een taal als XML of JSON, e.d.) terug dat gebruikt kan verder verwerkt kan worden. Veel APIs behelzen ook schrijftoegang, waarbij bestanden of andersoortige objecten (afbeeldingen, tekst, etc.) van Applicatie A naar Applicatie B verzonden via de API.
 #### App
@@ -16,17 +16,17 @@ Amazon word, file format used by the Amazon Kindle e-Book reader
 
 ### B
 #### Besturingssystemen/
-voorbeelden: iOS, Android, Microsoft Windows
+Voorbeelden: iOS, Android, Microsoft Windows
 
 ### C
 #### Cocoa 
-is een verzameling van grofweg drie frameworks, en formeel gezien een object-georiënteerde “aplication programming interface” (API) voor OS X. Cocoa Touch is de variant voor iOS.
+Is een verzameling van grofweg drie frameworks, en formeel gezien een object-georiënteerde “aplication programming interface” (API) voor OS X. Cocoa Touch is de variant voor iOS.
 #### CSS
 Cascading Style Sheets (afgekort tot CSS), stijlbladen, zijn een mogelijkheid om de vormgeving van webpagina's los te koppelen van hun feitelijke inhoud en centraal vast te leggen
 
 ### D
 #### Device
-is een elektronisch handapparaat zoals: smartphone, tablet-pc, phablet, personal digital assistant (pda), mobiele telefoon, draagbare spelcomputer (PlayStation Portable, Nintendo DS, PlayStation Vita). <!--dus geen desktop?-->
+Is een elektronisch handapparaat zoals: smartphone, tablet-pc, phablet, personal digital assistant (pda), mobiele telefoon, draagbare spelcomputer (PlayStation Portable, Nintendo DS, PlayStation Vita). <!--dus geen desktop?-->
 #### Devices
 Tablets: iPad, Androids, Kindle Fire. Smartphones: iPhone, Blackberry… Desktops <!--(?)-->
 #### DRM
