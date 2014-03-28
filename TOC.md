@@ -26,7 +26,7 @@ graphical map
 
 ## General // Joost
 
-## [Genres of publication: our scenarios](genresofpublications.html) //Pia
+## [Genres of publication: our scenarios](docs/genresofpublications.html) //Pia
 //first sketch/notes during sprint
 
 ### art/design catalogue like  
@@ -157,7 +157,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## [Workflows per scenario](worksflowsperscenario.html) // <!-- Miriam maakt begin -->
+## [Workflows per scenario](docs/worksflowsperscenario.html) // <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
@@ -226,7 +226,7 @@ A step-by-step guide
 Advantages, disadvantages
 
 
-## [Research like publication](researchlikepub.html) // INC example // <!-- Miriam maakt begin, 4000 words -->
+## [Research like publication](docs/researchlikepub.html) // INC example // <!-- Miriam maakt begin, 4000 words -->
 
 
 Flow chart: workflow
