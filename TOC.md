@@ -95,24 +95,24 @@ Contras
 Pros
 Contras
 
-## Distribution platforms //Marc
+## Distribution platforms // 
 ### e-book stores: Amazon, Apple, Google, Kobo, Sony...
 Strengths
 Weaknesses
 
-### online reading platforms: Scribd, Issu...
+### online reading platforms: Scribd, Issuu, website... // Miriam
 Strengths
 Weaknesses
 
-### print-on-demand 
+### print-on-demand // Margreet
 Strengths
 Weaknesses
 
-### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
+### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru // Florian
 Strengths
 Weaknesses
 
-### artist-/designer-run projects: Badlands, KYUR8, artistsebooks
+### artist-/designer-run projects: Badlands, KYUR8, artistsebooks // Florian
 Strengths
 Weaknesses
 
