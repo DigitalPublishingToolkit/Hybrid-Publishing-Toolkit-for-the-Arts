@@ -5,6 +5,8 @@
 body {
     font-family: sans-serif;
     margin: 2em;
+    font-size: 10pt;
+    line-height: 10pt;
 }
 h1, h2 {
     font-family: 'Ubuntu Mono Bold', monospace;
@@ -13,7 +15,7 @@ h1, h2 {
 }
 h1 {
     text-transform: uppercase;
-    border-top: 3px solid black;
+    border-top: 3px solid #0F0;
 }
 a {
     color: #0F0;

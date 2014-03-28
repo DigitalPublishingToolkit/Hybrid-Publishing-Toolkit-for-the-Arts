@@ -26,3 +26,5 @@ pip-log.txt
 *.html
 *.epub
 !images/README.html
+!docs/README.html
+!lib/README.html
