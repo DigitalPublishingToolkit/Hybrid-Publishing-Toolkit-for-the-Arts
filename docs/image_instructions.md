@@ -1,7 +1,7 @@
 # image instructions
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
-![your caption here](../images/chapterabb_img.png ”title”)
+![your caption here](../images/chapterabb_img.gif ”title”)
 
 example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg ”geeks”)
 
