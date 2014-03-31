@@ -18,8 +18,8 @@ h1 {
     border-top: 5px solid #0F0;
 }
 a {
-    color: #0F0;
-    text-decoration: none;
+    color: #000;
+    text-decoration: underline;
 }
 a:hover {
     color: #0F0;

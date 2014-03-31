@@ -1,12 +1,29 @@
 #Structured Workflow //executive management advies /keuze van workflow
 
+*Kimmy is working on this*
+
 Flow charts: workflows
 
 ##Single source cross-media with established software tools (Word, InDesign)
 
-Advantages, limitations
+#####Advantages, limitations
+The current workflow of desktop publishing, from Word to inDesign, has certain advantages. It is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What you Get in relation to design. In the case of print changing hyphenation is for instance both an editing and a typographic problem. When changing to digital these hyphenations can no longer be determined before going to 'print', they change according to the aspect ratio of the device you are using. 
 
+The main disadvantage of this workflow is that you only target one medium and the step to go from here to digital are cumbersome, and do not make full use of it's potential. It tries to implement the digital into the print, keeping the workflow one-dimensional. Working with the established software tools - Word and InDesign - it does this almost literally by allowing you to create quirky and strange 'interactive' publications in PDF, which in the end is a static inDesign document, upgraded with some interactive layers. This is a very limited vision on what the possibilities are for digital publishing. Next to this it is possible to export your publication as an .ePub from InDesign. InDesign is however not developed as a program to produce pubs and the results are very messy and it requires extra steps for the Designer. (For a full description of InDesign to Epub see Elizabeth Castro's Epub Straight to the Point) 
+
+####E-publishing as additional requirement
+Another possible workflow, before going the hybrid publishing way, is having digital publishing as an additional requirement. This is doable if e-pub is a secondary market for the publisher. This workflow still starts from Word and, or inDesign documents, and centers around outsourcing the document engineering to external partners, mostly in India. These engineers work with semi-automized software that translate one document format to another, making sure the document is structured. However, the more you use these companies the more problematic it becomes as the costs will explode. For each document, but also every platform you would need to ask these companies to make a translation. 
+
+
+1. **InDesign** will never become a hybrid publishing tool as it is (too) specifically developed for print design. 
+2. **Word **(or any other text editor that uses this approach, for instance Open Office) will never become a structured text processor. It is a hybrid of a text editor, a desktop program with typographic attributes, and something like a semantic mark-up program. To a certain extend you can work in a structured manner using stylesheets - determining for instance different types of headers. However, the big problem is that these programs don't enforce to work in this structured manner.  If only one person doesn't use these stylesheets, but uses manual formatting (instead of structuring!), the whole document is messed-up. The problem with these programs is that there is no separation between formatting and structure, as if these two are equal to each-other, but especially in the world of digital publishing this is not the case.
+
+![INC Current Workflow](../images/_in_progress/workflow_v0.tif "INC Current Workflow")
+
+<<<<<<< HEAD
 ![INC *Current* Workflow](../images/_in_progress/workflowINC__Current_v01.svg "workflow blah...")
+=======
+>>>>>>> FETCH_HEAD
 
 ##XML
 
@@ -23,5 +40,71 @@ Is it an easier alternative to XML?
 
 ##Database publishing / Content Management System
 
-_question: shouldn't we add html and use of tools like calibre / pandoc? A large part of the workflow can stick with Word and use these tools to convert to the necessary output. Or is this part of Single source cross media?_
+<!--shouldn't we add html and use of tools like calibre / pandoc? A large part of the workflow can stick with Word and use these tools to convert to the necessary output. Or is this part of Single source cross media? Or will these technical things be discussed in the next part - design your own epub?-->
 
+
+
+
+NOTES FROM FLORIAN'S TALK
+##Desktop Publishing
+The current workflow of desktop publishing, from Word to inDesign, has certain advantages. It is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What you Get in relation to design. In the case of print changing hyphenation is for instance both an editing and a typographic problem. When changing to digital these hyphenations can no longer be determined before going to 'print', they change according to the aspect ratio of the device you are using. 
+
+The main disadvantage of this workflow is that you only target one medium and the step to go from here to digital are cumbersome, and do not make full use of it's potential. 
+
+####Adobe's vision
+Adobe's vision on digital publishing leans too much on this old workflow. It tries to implement the digital into the print, keeping the workflow one-dimensional. It does this almost literally by allowing you to create quirky and strange 'interactive' publications in PDF. (The static inDesign document, upgraded with some interactive layers. `maybe elaborate a bit further on why these documents are so quirky / why they do not take full advantage of 'being digital'.`) This is a very limited vision on what the possibilities are for digital publishing. Essentially, it allows you to put your PDF publication in iTunes so you can get it on your iPad. However, as Florian emphasizes, you shoot yourself in the foot when only publishing to Apple's platform. The market is becoming more and more diverse, and Apple no longer has a monopoly over it. It went from 30% to an 11% market share. (`what was the source of these numbers?`)
+
+####E-publishing as additional requirement
+Another possible workflow, before going the hybrid publishing way, is having digital publishing as an additional requirement. This is doable if e-pub is a secondary market for the publisher. This workflow still starts from Word and, or inDesign documents, and centers around outsourcing the document engineering to external partners, mostly in India. These engineers work with semi-automized software that translate one document format to another, making sure the document is structured. However, the more you use these companies the more problematic it becomes as the costs will explode. For each document, but also every platform you would need to ask these companies to make a translation. 
+
+##Hybrid Publishing!
+Hybrid publishing is a way to overcome these endless conversions and high costs. In this workflow you make a version of the document that can be changed to all publishing platforms.
+
+####Problems of Technology
+In relation to this shift of workflows it is important to acknowledge the limitations of the computer programs publishers currently work with and have designed their workflows around.
+
+1. **InDesign** will never become a hybrid publishing tool as it is (too) specifically developed for print design. (`can you elaborate a little on this?`)
+2. **Word **(or any other text editor that uses this approach, for instance Open Office) will never become a structured text processor. It is a hybrid of a text editor, a desktop program with typographic attributes, and something like a semantic mark-up program. To a certain extend you can work in a structured manner using stylesheets - determining for instance different types of headers. However, the big problem is that these programs don't enforce to work in this structured manner.  If only one person doesn't use these stylesheets, but uses manual formatting (instead of structuring!), the whole document is messed-up. ( `maybe explain a bit further what gets messed-up? why is it such a big deal to do this correctly and separate formatting and structure`)The problem with these programs is that there is no separation between formatting and structure, as if these two are equal to each-other, but especially in the world of digital publishing this is not the case.
+
+####Solution
+`*I missed this - can you expand on this?*`
+
+You wrote: 
+Solution
+From the IT textbook:
+1.	abstracting content from formatting
+2.	i.e. abstracting information from display
+3.	translating information to various displays
+
+####Problems
+`*I missed this - can you expand on this?*`
+
+Problems
+•	Easier for highly formal publications (research papers)
+•	Difficult for visual publications
+•	Visuals will always require made-to-measure design
+
+####Technological considerations
+In the digital publishing landscape there are certain technological consideration you should keep in mind. (For a more comprehensive overview of these issues see the post [Landscape Digital Publishing](http://digitalpublishingtoolkit.org/2013/07/landscape-digital-publishing-research-pdf/) and [Digital Publishing in Practice](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/)). 
+
+- **Screen sizes and ratios**: There are several devices with all their different sizes and aspect ratio's. 
+- **Resolution and color**: They have their own resolutions and for instance do not always allow the use of color. 
+- **File sizes**: The question here is how media-rich can you make an ebook before it exceeds your bandwidths or space on your reader?
+- **File format requirements of distribution**: Several distribution platforms demand you create your ebook in a certain [file format](http://en.wikipedia.org/wiki/Comparison_of_e-book_formats). Apple for instance uses the .iBook format, forcing you to comply with their terms of use, which mean you can only sell your beautifully designed .ibooks through Apple's iBook store. But Amazon also developed their own .kf8 format. There is thus no standardization of file formats, and as a result you need to adjust your ebook to match the specifications of these different distribution platforms.
+
+####The holy grail - XML extended markup language
+The most detailed structuring language developed is XML. The advantage is that it is very clean, but on the other hand it is very difficult to work with. It is a purely semantic language - with a clear separation with formatting - allowing you to structure the document in a very detailed and thorough manner. These documents work like a database. The original XML document is your fundament, your manuscript, and from there you can create translations for every medium. Thus, if there is a misspelling or another error - you change this in your XML document and you make new translation to the different media that you have produced. For formatting you would need to add a second step, like for instance CSS stylesheets. However, because XML is so detailed it becomes too difficult to work with as the tagging systems become very complex.
+
+####Pragmatic solutions
+**CMS, or wiki's** also allow you to structure documents. Even Wordpress puts in certain semantics like a header, tag and comments. Moreover, from these platforms it is very easy to translate the content to other media. A disadvantage of these platforms is that it works with commercially owned databases. You do not have the source document on your own server, but you have to extract it from the service database. XML on the other hand can for instance be edited in any text editor, you can open it always and everywhere.
+
+Another example that is more like XML, is **[xHTML](http://en.wikipedia.org/wiki/XHTML)** as solution. It has a proper separation between syntax, formatting and semantics. However the syntax is not very rich, you for instance don't have semantics for footnotes. (it is however possible to work around this). As a result you need strict discipline to write properly structured html.
+
+**[Booktype](http://www.sourcefabric.org/en/booktype/)** is an open source platform developed by Adam Hyde to "help you publish and print digital books." It is comparable to Wordpress or Wiki, but developed for producing text heavy books. This would thus more be a pre-production tool; grooming the source document, and than give it to the designers who can make it esthetically appealing. But just like Wiki and Wordpress the source document is in their database.
+
+**(Multi)markdown** seems to be the most pragmatic solution. It reads like normal text, it is popular, it has richer semantics than xhtml, and it separates structure from formatting. In a way you can see it as XML for dummies as it is more user friendly to use without loosing too much 'structuring power'. One disadvantage however is that you cannot make your own tags, you are stuck with what is given. Examples of MultiMarkdown tools for mac are [iawriter](http://iawriter.com), [mou app](http://mouapp.com) and [bywordapp](http://bywordapp.com). And for Windows you for instance have [Markdownpad](http://markdownpad.com).
+
+
+##Conclusion
+1. There is no holy grail, but there are better ones than the common used.
+2. When you are forced to work with hybrid publications you have a problem if you don't change your workflow.

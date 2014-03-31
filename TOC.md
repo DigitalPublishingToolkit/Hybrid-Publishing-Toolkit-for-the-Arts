@@ -2,7 +2,7 @@ DIGITAL PUBLISHING TOOLKIT
 ===========================
 
 # [Executive Summary](docs/executive_summary.html)
-//400 words, Florian, sprint
+<!--400 words, Florian, sprint-->
 
 - real versus perceived challenges
 - technological shortcomings 
@@ -22,12 +22,12 @@ graphical map
 ## Who worked on this toolkit
 
 
-# General Introduction //2000 words
+# General Introduction <!--2000 words-->
 
-## General // Joost
+## General <!-- Joost-->
 
-## [Genres of publication: our scenarios](docs/genresofpublications.html) //Pia
-//first sketch/notes during sprint
+## [Genres of publication: our scenarios](docs/genresofpublications.html) <!--Pia-->
+<!--first sketch/notes during sprint-->
 
 ### art/design catalogue like  
 Short summary: issues of going electronic, opportunities of going electronic
@@ -37,15 +37,27 @@ Short summary: issues of going electronic, opportunities of going electronic
 Short summary: issues of going electronic, opportunities of going electronic
 ### artist's/experimental book 
 Short summary: issues of going electronic, opportunities of going electronic
-### new types of publications //optional
+<<<<<<< HEAD
+### new types of publications <!--optional -->
 Short summary: issues of going electronic, opportunities of going electronic
 
 ## Strengths & limitations of particular
-reader hardware //Marc
-reader software //Marc  
+reader hardware <!--Marc -->
+reader software <!--Marc  -->
 file formats 
 
-## Reader hardware //Marc
+## Reader hardware <!--Marc -->
+=======
+### new types of publications <!--optional-->
+Short summary: issues of going electronic, opportunities of going electronic
+
+## Strengths & limitations of particular
+reader hardware <!--Marc-->
+reader software <!--Marc  -->
+file formats 
+
+## Reader hardware <!--Marc-->
+>>>>>>> 8733a3ad8d73b8c5c7244c3c03edc518827c1a6f
 
 ### e-reader
 Pros
@@ -63,7 +75,7 @@ Contras
 Pros
 Contras
 
-## Reader software //Marc
+## Reader software <!--Marc-->
 ### reader hardware vs. user-installable reader software
 #### mobile apps
 The most popular/important reading apps
@@ -78,7 +90,7 @@ and their strengths and weaknesses
 The most popular/important standalone PC programs
 and their strengths and weaknesses
 
-## File formats //Marc
+## File formats <!--Marc-->
 ### web site 
 Pros
 Contras
@@ -95,31 +107,32 @@ Contras
 Pros
 Contras
 
-## Distribution platforms //Marc
+## Distribution platforms <!--Marc-->
+
 ### e-book stores: Amazon, Apple, Google, Kobo, Sony...
 Strengths
 Weaknesses
 
-### online reading platforms: Scribd, Issu...
+### online reading platforms: Scribd, Issuu, website... // Miriam
 Strengths
 Weaknesses
 
-### print-on-demand 
+### print-on-demand // Margreet
 Strengths
 Weaknesses
 
-### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
+### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru // Florian
 Strengths
 Weaknesses
 
-### artist-/designer-run projects: Badlands, KYUR8, artistsebooks
+### artist-/designer-run projects: Badlands, KYUR8, artistsebooks // Florian
 Strengths
 Weaknesses
 
 
 
 
-# Workflows //2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong
+# Workflows <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
 ## General
 
@@ -134,7 +147,7 @@ In-house development versus outsourcing to service providers: advantages, disadv
 Why new workflows are essential for small edition, low budget publishing.
 
 
-## [Structured workflows](docs/structured_workflow.html) //executive management advies /keuze van workflow
+## [Structured workflows](docs/structured_workflow.html) <!--executive management advies /keuze van workflow-->
 
 Flow charts: workflows
 
@@ -157,7 +170,7 @@ Is it an easier alternative to XML?
 ### Database publishing / Content Management System
 
 
-## [Workflows per scenario](docs/workflowsperscenario.html) // <!-- Miriam maakt begin -->
+## [Workflows per scenario](docs/workflowsperscenario.html) <!-- Miriam maakt begin -->
 
 
 ### art/design catalogue like
@@ -179,12 +192,12 @@ traditional workflow vs. new workflow
 
 
 
-# Guide: Design your own e-publication 
+# Guide: Design your own e-publication <!-- see research pub for proposal on structure of the general questions part ^Miriam -->
 
 Focus: epub2/3, HTML5 (app) + PDF
     
 
-## a simple e-book //example Manifesto, El Lissitzky //4000 words
+## a simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
 
 Flow chart: workflow
 
@@ -195,9 +208,9 @@ A step-by-step guide
 ### [Deconstructing Epub](docs/epub-from-scratch.html)
 
 A step-by-step guide: dowloading, unzipping and tweaking and epub file
-// Marc, Florian, keyword during sprint
+<!-- Marc, Florian, keyword during sprint-->
 
-## art/design exhibition type catalogue //4000 words
+## art/design exhibition type catalogue <!--4000 words-->
 
 Flow chart: workflow
 
@@ -226,16 +239,28 @@ A step-by-step guide
 Advantages, disadvantages
 
 
-## [Research like publication](docs/researchlikepub.html) // INC example // <!-- Miriam maakt begin, 4000 words -->
+## [Research like publication](docs/researchlikepub.html) <!-- INC example, Miriam maakt begin, 4000 words -->
 
 
 Flow chart: workflow
 
 ### General questions
 
+#### Decision making  
 Should it be a 1:1 transfer from paper book to e-book?
 
-What are alternatives?
+What are alternatives and possibilities?
+
+#### Instructions
+How to adjust the style guide?
+
+What metadata to add?
+
+Do editorial criteria regarding the content change?
+
+#### Specific issues for this publication type
+
+#### Based on the above, what to choose?
 
 ### How to make a research publication in epub2/3
 
@@ -257,7 +282,7 @@ Advantages, disadvantages
 
 
 
-## arts/design periodical //example 
+## arts/design periodical <!--example -->
 
 - Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 
 
@@ -267,7 +292,7 @@ Advantages, disadvantages
 
 - Public Magazine 
 
-- Commercial / app store model. //1000 words
+- Commercial / app store model. <!--1000 words -->
 
 Flow chart: workflow
 
@@ -296,7 +321,7 @@ A step-by-step guide
 Advantages, disadvantages
 
 
-## artist's/experimental book //less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian
+## artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
 Flow chart: workflow
 
@@ -326,7 +351,7 @@ Advantages, disadvantages
 
 
 
-# Futurology //2000 words
+# Futurology <!--2000 words-->
 
 Where will e-publishing be in 2020?
 
@@ -340,17 +365,17 @@ Where will e-publishing be in 2020?
 
 # Appendix 
 
-## [Glossary of technical terms](docs/glossary.html) //Loes
+## [Glossary of technical terms](docs/glossary.html) <!--Loes -->
 
 ## Keyword index 
 
 ## Bibliography 
 
-## Link list //mirrored linking
+## Link list <!--mirrored linking -->
 
 
 
-# [Software catalogue](docs/software.html) //Michael
+# [Software catalogue](docs/software.html) <!--Michael -->
 
 ## Pre-existing software
 - Open Source 
