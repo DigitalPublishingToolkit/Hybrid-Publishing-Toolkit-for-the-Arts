@@ -20,6 +20,10 @@ Another possible workflow, before going the hybrid publishing way, is having dig
 
 ![INC Current Workflow](../_in_progress/workflowINC__Current_v01.svg "INC Current Workflow")
 
+<<<<<<< HEAD
+![INC *Current* Workflow](../images/_in_progress/workflowINC__Current_v01.svg "workflow blah...")
+=======
+>>>>>>> FETCH_HEAD
 
 ##XML
 
