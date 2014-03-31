@@ -18,7 +18,7 @@ Another possible workflow, before going the hybrid publishing way, is having dig
 1. **InDesign** will never become a hybrid publishing tool as it is (too) specifically developed for print design. 
 2. **Word **(or any other text editor that uses this approach, for instance Open Office) will never become a structured text processor. It is a hybrid of a text editor, a desktop program with typographic attributes, and something like a semantic mark-up program. To a certain extend you can work in a structured manner using stylesheets - determining for instance different types of headers. However, the big problem is that these programs don't enforce to work in this structured manner.  If only one person doesn't use these stylesheets, but uses manual formatting (instead of structuring!), the whole document is messed-up. The problem with these programs is that there is no separation between formatting and structure, as if these two are equal to each-other, but especially in the world of digital publishing this is not the case.
 
-![INC Current Workflow](../images/_in_progress/workflow_v0.tif "INC Current Workflow")
+![INC Current Workflow](../_in_progress/workflowINC__Current_v01.svg "INC Current Workflow")
 
 
 ##XML
