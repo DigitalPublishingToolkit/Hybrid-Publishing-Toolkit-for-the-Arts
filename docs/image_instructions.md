@@ -1,17 +1,17 @@
 # image instructions
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
-![your caption here](../images/chapterabb_img.gif ”title”)
+![your caption here](../images/chapterabb_img.gif "title")
 
-example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg ”geeks”)
+example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")
 
-2. Specify the name of the image and the caption, which both will be used in the actual publication.
+2. Specify the name of the image and the caption, which both will be used in the actual publication, as well as the document name.
 Do this both for actual images and for visualisation requests. In the case of a visualisation request it will generate a placeholder image in the text.
 
-3. Leave an additional discription of your ideas about the visualisation as follows:  <!— discription—>
+3. Leave an additional description of your ideas about the visualisation as follows:  <!— description—>
 and/or add images as inspiration.
 
-4. Put your image in the toolkit/images folder (prefered format is .svg) and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.
+4. Put your image in the toolkit/images folder and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.
 
 ##chapters and abbreviations
 * executive summary: exsu_
