@@ -2,7 +2,6 @@
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
 ![your caption here](../images/chapterabb_img.gif ”title”)
-
 example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg ”geeks”)
 
 2. Specify the name of the image and the caption, which both will be used in the actual publication.
@@ -24,11 +23,10 @@ and/or add images as inspiration.
 * software catalogue: soca_
 * glossary: glos_
 
+<b>Don’t put images in the folder which are not linked in the text.</b>
 
-5. Don’t put images in the folder which are not linked in the text.
-
-Images specifications:
-RGB and 300 dpi 
+Images specifications:  
+RGB and 300 dpi  
 .svg if not a vector than .tiff
 
 
