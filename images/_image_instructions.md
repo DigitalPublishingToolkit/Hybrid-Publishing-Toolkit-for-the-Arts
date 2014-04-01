@@ -7,7 +7,7 @@ example: ![digital publishing toolkit meeting on the 28th of march 2014](../imag
 2. Specify the name of the image and the caption, which both will be used in the actual publication, as well as the document name.
 Do this both for actual images and for visualisation requests. In the case of a visualisation request it will generate a placeholder image in the text.
 
-3. Leave an additional description of your ideas about the visualisation as follows:  <!— description—>
+3. Leave an additional description of your ideas about the visualisation as follows: <!— description—>
 and/or add images as inspiration.
 
 4. Put your image in the toolkit/images folder and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.  
