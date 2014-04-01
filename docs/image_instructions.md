@@ -1,13 +1,8 @@
 # image instructions
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
-<<<<<<< HEAD
-![your caption here](../images/chapterabb_img.gif ”title”)
-example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg ”geeks”)
-=======
-![your caption here](../images/chapterabb_img.gif "title")
+![your caption here](../images/chapterabb_img.gif "title")  
 example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")
->>>>>>> FETCH_HEAD
 
 2. Specify the name of the image and the caption, which both will be used in the actual publication, as well as the document name.
 Do this both for actual images and for visualisation requests. In the case of a visualisation request it will generate a placeholder image in the text.
@@ -17,7 +12,6 @@ and/or add images as inspiration.
 
 4. Put your image in the toolkit/images folder and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.  
 
-<<<<<<< HEAD
 ####chapters and abbreviations
 - executive summary: exsu_
 - overview: ovv_
@@ -34,13 +28,6 @@ and/or add images as inspiration.
 Image specifications:  
 RGB and 300 dpi  
 .svg if not a vector than .tiff  
-=======
-<b>Don’t put images in the folder which are not linked in the text.</b>
-
-Images specifications:  
-RGB and 300 dpi  
-.svg if not a vector than .tiff
->>>>>>> FETCH_HEAD
 
 
 
