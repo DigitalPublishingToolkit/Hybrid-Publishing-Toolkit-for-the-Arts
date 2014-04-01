@@ -12,7 +12,7 @@ and/or add images as inspiration.
 
 4. Put your image in the toolkit/images folder and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.  
 
-####chapters and abbreviations
+####chapters and abbreviations 
 - executive summary: exsu_
 - overview: ovv_
 - general introduction: gein_
