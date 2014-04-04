@@ -46,7 +46,7 @@ reader hardware <!--Marc -->
 reader software <!--Marc  -->
 file formats 
 
-## Reader hardware <!--Marc -->
+## [Reader hardware](docs/reader-hardware.html) <!--Marc -->
 =======
 ### new types of publications <!--optional-->
 Short summary: issues of going electronic, opportunities of going electronic
@@ -57,7 +57,6 @@ reader software <!--Marc  -->
 file formats 
 
 ## Reader hardware <!--Marc-->
->>>>>>> 8733a3ad8d73b8c5c7244c3c03edc518827c1a6f
 
 ### e-reader
 Pros
