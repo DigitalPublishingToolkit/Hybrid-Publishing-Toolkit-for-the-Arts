@@ -1,7 +1,7 @@
 # Makefile for Digital Publishing Toolkit
 #
 
-allmd = $(wildcard *.md docs/*.md)
+allmd = $(wildcard *.md docs/*.md images/*.md)
 
 derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
