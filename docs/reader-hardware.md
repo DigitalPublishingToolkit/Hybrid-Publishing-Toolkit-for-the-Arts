@@ -11,15 +11,18 @@ Because of the lack of a colour screen the current generation of e-readers is be
 
 
 ###Tablets###
-The tablet-market is dominated by a two main players, Apple and Samsung. Apple utilises their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android, albeit heavily modified from the base, open source version of the OS. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reading applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software](reader-software.html) section of the toolkit.
+The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilises their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android, albeit heavily modified from the base, open source version of the OS. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reading applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software](reader-software.html) section of the toolkit.
 
 The most important advantage of tablets over traditional e-readers is the fact that the latter doesn't support colour. The upside of the tablet's colour screen is at the same time also a weakness, as backlit LED screens are generally supposed to induce eye fatigue. Reading in the sun is problematic as well, because direct sunlight obscures most of the visibility of  Battery life is another issue with tablets. Though newer tablet models often claim impressive battery life hours, e-readers still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphone###
-The story for tablets also largely applies to the realm of smartphones. Of course most smartphones sport smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
+The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones sport smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
 
 ###PC/Laptop###
-Reading e-books on a laptop or personal computer is of course a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chanses of eye fatigue exist as with tablets.
+Reading e-books on a laptop or personal computer is of course a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets.
 
 ###Other devices###
 <!-- What other devices? -->
+
+[^sales-figures-tablet]: http://www.gartner.com/newsroom/id/2674215
+[^sales-figures-phone]: http://www.gartner.com/newsroom/id/2665715
