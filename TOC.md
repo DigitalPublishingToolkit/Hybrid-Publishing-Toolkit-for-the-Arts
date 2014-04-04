@@ -364,7 +364,6 @@ Where will e-publishing be in 2020?
 
 # Appendix 
 
-## [Instructions for placing images](images/_image_instructions.html)
 
 ## [Glossary of technical terms](docs/glossary.html) <!--Loes -->
 
@@ -374,6 +373,10 @@ Where will e-publishing be in 2020?
 
 ## Link list <!--mirrored linking -->
 
+# Instructions used in the preparation of this document
+<!-- Does this become a part of the final publication as appendix? -->
+
+## [Instructions for placing images](images/_image_instructions.html)
 
 
 # [Software catalogue](docs/software.html) <!--Michael -->
