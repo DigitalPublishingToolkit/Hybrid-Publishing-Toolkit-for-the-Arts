@@ -162,9 +162,11 @@ Does it work for me?
 
 ### Markdown
 
-Advantages, limitations
+[Advantages, limitations](docs/markdown-advantages.md)
 
-Is it an easier alternative to XML?
+[Is it an easier alternative to XML?](docs/markdown-vs-xml.md)
+
+[Practical tips and tricks](docs/markdown-tips.md)
 
 ### Database publishing / Content Management System
 
