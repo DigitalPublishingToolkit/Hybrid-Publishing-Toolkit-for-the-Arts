@@ -28,10 +28,12 @@ Since the design of most samizdat books does not differ from that of [research p
 #### How to make visually oriented artists' books
 <!--- still to be written, Florian --->
 (- Reference to Arjen's overview graph of non-visual vs. visual epublishing technologies: platform-agnostic vs. platform-specific)
+(- example of 1990s e-poetry/e-literature: experimental publication formats, issue of digital decay)
 (- PDF as simple default solution)
 (- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
 (- self-contained HTML5)
 (- epub 2, epub 3)
+(- plain text: e-zines, BBS era e-books, typograms/typoscripts)
 
 
 [^1]: Ulises Carrión, "The new art of making books", Aegean editions, 2001
