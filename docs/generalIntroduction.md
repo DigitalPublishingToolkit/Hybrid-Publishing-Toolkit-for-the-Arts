@@ -1,4 +1,4 @@
-# [General introduction](generalintroduction.html)
+# General introduction
 
 Novel electronic capabilities enable a great number of possible publication outlets. Before entering into the problematic aspects of such a plurality of presentations of the same message, we investigate the possibilities.
 As with all technological possibilities; the coin has two sides (leaving aside the unstable rim) which exclude each other.  The printing press introduced pagination and indexing, allowing many thousands of identical texts to be read and compared by even more readers over the years. In an electronic world with non-fixed screen sizes, this fact becomes problematic. On paper, text is fixed and this allows comparisons and interactions between different readers, separated in space and in time. In an electronic version the fixity of the text remains, as the text file is independent from its final substrate (e-ink, lcd, paper), but its presentation onto the final substrate can vary substantially.  The challenge even becomes greater if we widen our ambition to pictures, audio&video, hyper links, etc. 
