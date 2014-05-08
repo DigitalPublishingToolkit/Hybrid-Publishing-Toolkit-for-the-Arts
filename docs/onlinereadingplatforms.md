@@ -4,22 +4,67 @@ Online reading platforms are browser-based platforms where digital publications 
 
 Below several platforms are discussed, including characteristics, statistics, strenghts and weaknesses, and how-to.
 
+[maybe as an aside?] INC experience regarding stats:
+The publication of the Society of the Query Reader was on April 23, 2014
+Stats for the whole month of April, all publications
+Issuu:
+2502 reads
+21,191 impressions
+03:33 time spent
+101 downloads in total
+49 downloads of the Society of the Query Reader
+
+Scribd:
+64,854 reads
+2,007 embed views
+02:49 time spent
+29 downloads of the Society of the Query Reader
+
+
+
 
 ####Issuu
 
 **Characteristics**
 Issuu can be found at http://www.issuu.com
-It offers many options to distribute works: In-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website. It is used for books, brochures, magazines, etc. Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications.
+It offers many options to publish and distribute works: In-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website. It is used for books, brochures, magazines, etc. Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications. 
+Mostly used by independent publishers and individual users
+Supports all devices. Mobile and desktop.
+Full embedding possibilities
+Supports most file formats
+
+
 
 
 **Statistics**
+*For Issuu*
+80 million monthly readers
+15 million publications
+
+
+*For individual users*
+Issuu offers general statistics for users and their publications
+
+
 **Strengths and weaknesses**
 *Strengths*
-**Weaknesses*
+Embed on all platforms
+Sharing possibilities
+Professional look and feel
+Audio support
+
+*Weaknesses*
+Limit on publications of 500 pages
+No selling possibilities, only link to shop
+
 **Revenue Model**
+Freemium model
+
 **How-to**
-
-
+Make an account
+Easy upload of many different file formats
+Embed on your own website
+Offer downloadable file
 
 
 ####Scribd
@@ -50,6 +95,7 @@ Scribd offers general statistics for users and their publications
 *Strengths*
 International outreach
 Sharing possibilities
+Selling possibilities
 
 *Weaknesses*
 Few options for metadata
@@ -66,7 +112,36 @@ Offer in-browser reading and downloadable file
 
 ####Third party blogs
 
-For example Medium
+For example: Medium
+
+**Characteristics**
+External party
+Text-based
+Not for publishing whole books, but for example a summary or chapter
+
+
+**Statistics**
+
+
+**Strengths and weaknesses**
+*Strengths*
+New audiences and communities
+Designed specially for reading 
+Responsive website
+
+*Weaknesses*
+Third party website
+Suitable for shorter texts only
+
+**Revenue Model**
+No revenue model
+
+**How-to**
+Make account and upload text for blog
+
+
+
+####Social reading platforms
 
 **Characteristics**
 **Statistics**
@@ -76,17 +151,6 @@ For example Medium
 **Revenue Model**
 **How-to**
 
-####Website
-
-**Characteristics**
-**Statistics**
-**Strengths and weaknesses**
-*Strengths*
-**Weaknesses*
-**Revenue Model**
-**How-to**
 
 
-
-Miriam has statistics for the different platforms...
 
