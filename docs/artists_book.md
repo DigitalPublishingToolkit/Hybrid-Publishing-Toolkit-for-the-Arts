@@ -25,11 +25,22 @@ For such activist or minimalist projects, the lowest technical denominator and m
 - epub. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to e-readers. Projects can very easily be made and provided both in HTML and epub.
 Since the design of most samizdat books does not differ from that of [research publications](...) or other visually simple publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. 
 
-#### How to make visually oriented artists' books
-<!--- still to be written, Florian --->
-(- Reference to Arjen's overview graph of non-visual vs. visual epublishing technologies: platform-agnostic vs. platform-specific)
-(- example of 1990s e-poetry/e-literature: experimental publication formats, issue of digital decay)
-(- PDF as simple default solution)
+### How to make visually oriented artists' books
+
+#### Pre-history and general issues
+
+There is, factually, a rich tradition of artists' audiovisual electronic books: It began in the 1990s with hypertext and interactive multimedia literary experiments on floppy disk, CD-ROMs, later web sites and mobile apps. The [Electronic Literature Organization](http://eliterature.org) and the international research project [ELMCIP](http://elmcip.net/knowledgebase) document it extensively. Much of this documentation has become media archeology since multimedia formats have become obsolete: CD-ROM applications that no longer run on contemporary computers, websites whose links or plug-ins are no longer working or not compatible to today's browsers anymore. 
+
+This problem was greater in the 1990s and early 2000s when working open, cross-platform multimedia standards barely existed. But even today, the rule explained in chapter ... <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. 
+
+#### Simple solutions
+
+Electronic visual books can be made in very simple ways:
+* As a sequence of images, embedded into an epub file <!-- add reference-->, a self-contained HTML file <!-- add reference--> or a PDF file.
+* As a PDF file. PDF generally is the most easy-to-use straightforward format for visual publications in a universally working format.[^2] PDF documents can be graphically designed to work on different screen sizes, and resolution of embedded visuals can be decreased to keep the file size friendly for downloading. Still, the format is essentially limited to fixed document sizes and remains an electronic representation of printed matter. 
+* Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, mp4 video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^3] 
+* Self-contained HTML. <!--- explain the use of self-contained HTML with base64--->
+
 (- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
 (- self-contained HTML5)
 (- epub 2, epub 3)
@@ -37,4 +48,5 @@ Since the design of most samizdat books does not differ from that of [research p
 
 
 [^1]: Ulises Carrión, "The new art of making books", Aegean editions, 2001
-
+[^2]: For long-time durability, the "PDF/A" format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard orginally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
+[^3]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith.
