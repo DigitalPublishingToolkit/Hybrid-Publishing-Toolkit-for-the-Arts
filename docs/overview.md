@@ -1,18 +1,12 @@
 # [Overview](overview.html) <!--//800 words //Margreet-->
 
 
-<!--
-Within this publication a division has been made in three levels of publications: production pipline 
+<!--Within this publication a division has been made in three levels of publications: production pipline 
 *joost*?
 * One-to-One; where a book is considered as a separate product where text-authors, illustrators, artists, photographers, and designers generally work together to produce the book as a one-off team. 
 * One-to-Many; this book is not a single object, but has various chameleonic appearances. 
-<<<<<<< HEAD
 * One-to-Database; here the various more-or-less independent components are separately defined as modules that can be multiple used and re-used by everybody that has access to the database. It goes without saying that such modules must be well defined and cushioned in a equally well defined system of metadata.
-
-## Why this toolkit
-This toolkit aims to provide a practical guide on how develop ePubs for publishers as well as anyone else interested in this. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate this diverse and complex landscape of digital publishing in a more grounded way.
-=======
-* One-to-Database; here the various more-or-less independent components are separately defined as modules that can be multiple used and re-used by everybody that has access to the database. It goes without saying that such modules must be well defined and cushioned in a equally well defined system of metadata. -->
+* One-to-Database; here the various more-or-less independent components are separately defined as modules that can be multiple used and re-used by everybody that has access to the database. It goes without saying that such modules must be well defined and cushioned in a equally well defined system of metadata.-->
 
 
 ## Why this toolkit
