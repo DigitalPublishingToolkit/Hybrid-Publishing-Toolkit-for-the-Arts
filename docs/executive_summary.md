@@ -1,5 +1,7 @@
 # Executive summary
 
+<!-- visualization by Loes: old model of funnelling multiple source media into one product (print book) vs. new model of funnelling multiple source media into multiple products (print book, ebook, unknown future formats) -->
+
 ## Electronic publishing requires deeper changes in your work than you might have expected
 
 "You must change your life" - borrowing from philosopher Peter Sloterdijk, this is could be the summary of our message for arts- and design-oriented publishers, writers, editors and designers transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will, sooner or later, confront them with the following: (a) a rethinking of traditional publication formats, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. 
