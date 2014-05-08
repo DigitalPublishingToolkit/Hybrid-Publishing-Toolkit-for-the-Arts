@@ -28,14 +28,14 @@ In the present project we deal with various kinds of products which we combine i
 
 #####1) Art/Design Catalogue like
 
-- Heavy in use of images
-- images take central role over texts
-- images are primary (text refers to images)
-- Descriptive texts of changing lenghts
+- heavy in use of images
+- visuals take central role over texts
+- visuals are primary (text refers to visuals)
+- descriptive texts of changing lengths
 
 Issues and advantages of going electronic:  
 
-One of the main issues which arise when trying to go electronic with Art/Design catalogue-like publications lies in the use of images. The quality of the images is important. Images must often be high in quality with as little distortion of colours as possible. An issue of concern is that often a fixed page lay out determines the message. Changes in size might influence the flow of content.
+One of the main issues which arise when trying to go electronic with Art/Design catalogue-like publications lies in the use of visuals. The quality of the visuals is important. Visuals must often be high in quality with as little distortion of colours as possible. An issue of concern is that often a fixed page lay out determines the message. Changes in size might influence the flow of content.
 	An advantage of going electronic with this type of publication could lie in the use of other (interactive) materials and easier distribution.  
 
 
@@ -44,45 +44,45 @@ One of the main issues which arise when trying to go electronic with Art/Design 
 - heavy in use of text
 - texts take a central role
 - rethoric in character
-- images are secondary (images refer to texts)
+- visuals are secondary (images refer to texts)
 - often longer texts
 - often standardised structure
 
 Issues and advantages of going electronic:  
 
-One of the issues with going electronic with a research-like publication is setting parameters for the use of and interaction between text and images. Advantages of going electronic with this type of publication have to do with the wider reach and availability of the content. Making the text available digitally could increase its spreading. This is often a goal of research-like publications. Another advantage is that due to the high level of standardised structure a "modularisation" of the content becomes possible thereby allowing to go beyond the traditional essay writing. In particulat when authors refer to each other, they often share data, quotations, tables, figures, etc. Multiple use and reuse of "modules" will enormously enhance the communication within a community. (lit ref: see for scientif article: de Waard, Anita; Kircz, Joost (2008) Modeling scientific discourse - shifting perspectives and persistent issues, ELPUB2008. Open Scholarship: Authority, Community, and Sustainability in the Age of Web 2.0 - Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008 / Edited by: Leslie Chan and Susanna Mornati. ISBN 978-0-7727-6315-0, 2008, pp. 234-245. http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008)
+One of the issues with going electronic with a research-like publication is setting parameters for the use of and interaction between text and images. Advantages of going electronic with this type of publication have to do with the wider reach and availability of the content. Making the text available digitally could increase its spreading. This is often a goal of research-like publications. Another advantage is that due to the high level of standardised structure a "modularisation" of the content becomes possible thereby allowing to go beyond the traditional essay writing. In particular when authors refer to each other, they often share data, quotations, tables, figures, etc. Multiple use and reuse of "modules" will enormously enhance the communication within a community. (lit ref: see for scientific article: de Waard, Anita; Kircz, Joost (2008) Modeling scientific discourse - shifting perspectives and persistent issues, ELPUB2008. Open Scholarship: Authority, Community, and Sustainability in the Age of Web 2.0 - Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008 / Edited by: Leslie Chan and Susanna Mornati. ISBN 978-0-7727-6315-0, 2008, pp. 234-245. http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008)
 
 
 #####3) Art/design periodical
 
-- Heavy in use of texts and images and mixtures of both
-- Both images and texts take central role
-- Use of images is both primary and secondary
-- Texts of changing lengths
+- heavy in use of texts and visuals and mixtures of both
+- both visuals and texts take central role
+- use of visuals is both primary and secondary
+- texts of changing lengths
 - a more-or-less fixed page-layout format
-- Recurring publication format (e.g. magazines, series etc.)
+- recurring publication format (e.g. magazines, series etc.)
 
 
 Issues and advantages of going digital:  
 
-One of the issues with going digital with a Art/Design periodical lies in the archival aspect. New articles can refer to older onces and even integrate parts. The periodical as such become a repository and therewith a playground for new work. Furthermore, an advantage of going electronic with a(n) (Art/design) periodical lies in the increased possibilities in extending content (interactivity, video etc.). Another specific advantage of the periodical lies in the decreasing of distribution costs and the convenience with which a large audience can be reached.
+One of the issues with going digital with a Art/Design periodical lies in the archival aspect. New articles can refer to older ones and even integrate parts. The periodical as such becomes a repository and therewith a playground for new work. Furthermore, an advantage of going electronic with a(n) (Art/design) periodical lies in the increased possibilities in extending content (interactivity, video etc.). Another specific advantage of the periodical lies in the decreasing of distribution costs and the convenience with which a large audience can be reached.
 
 
 
 ####4)  Artist's/experimental books
 
 - book *by* an artist, rather than *about* an artist
-- complex use of images and typography, often pushing the possibilities of the medium
+- complex use of visuals and typography, often pushing the possibilities of the medium
 - in print: making use of the book as a material, visual and haptic object;
 - difficult or impossible translation into other media;
 - text is often used in non-descriptive or non-narrative ways.
 
-An issue with making a digital publication out of an Artist's/experimental book is the choice of material. The choice to go digital in this case is the most fundamental. Furthermore, here too, the quality of images and the relation between text and images is important. The choices which are being made by the creator influence the final outcome immensely. Advantages of going digital lie in the more extensive possibilities digitalisation offers (e.g. interactive material etc.).
+An issue with making a digital publication out of an Artist's/experimental book is the choice of material. The choice to go digital in this case is the most fundamental. Furthermore, here too, the quality of visuals and the relation between text and visuals is important. The choices which are being made by the creator influence the final outcome immensely. Advantages of going digital lie in the more extensive possibilities digitalisation offers (e.g. interactive material etc.).
 
 
 ####5) New types of publications
 
-By new types of publications we mean publications which cannot easily be placed in one of the genres mentioned above. These could be publications which fall outside of what we would normally consider a 'book'. Examples could be an app or a series of tweets etc. Setting a predisposed set of parameters for this genre would be difficult. Here we can imagine the use of games appraches too.
+By new types of publications we mean publications which cannot easily be placed in one of the genres mentioned above. These could be publications which fall outside of what we would normally consider a 'book'. Examples could be an app or a series of tweets etc. Setting a predisposed set of parameters for this genre would be difficult. Here we can imagine the use of games approaches too.
 
 
 
