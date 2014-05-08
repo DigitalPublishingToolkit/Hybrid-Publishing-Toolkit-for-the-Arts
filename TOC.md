@@ -137,12 +137,6 @@ Why new workflows are essential for small edition, low budget publishing.
 
 ## [Structured workflows](docs/structured_workflow.html) <!--executive management advies /keuze van workflow-->
 
-What does "structured" mean?
-
-Semantic versus visual formatting
-
-What is markup?
-
 Flow charts: workflows
 
 ### Single source cross-media with established software tools (Word, InDesign)
