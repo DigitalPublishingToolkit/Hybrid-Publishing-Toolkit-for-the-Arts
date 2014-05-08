@@ -41,6 +41,7 @@ Short summary: issues of going electronic, opportunities of going electronic
 Short summary: issues of going electronic, opportunities of going electronic
 
 ## [Strengths & limitations of particular] (docs/strengths_limitations_of_particular.html)
+
 reader hardware <!--Marc -->
 reader software <!--Marc  -->
 file formats 
