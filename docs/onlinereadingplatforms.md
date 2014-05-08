@@ -150,7 +150,7 @@ Make account and upload text for blog
 **Statistics**
 **Strengths and weaknesses**
 *Strengths*
-**Weaknesses*
+*Weaknesses*
 **Revenue Model**
 **How-to**
 >>>>>>> FETCH_HEAD
