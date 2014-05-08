@@ -111,3 +111,6 @@ Another example that is more like XML, is **[xHTML](http://en.wikipedia.org/wiki
 ##Conclusion
 1. There is no holy grail, but there are better ones than the common used.
 2. When you are forced to work with hybrid publications you have a problem if you don't change your workflow.
+
+
+<!-- comments from Amy: perhaps some definitions or descriptions of what 'mark-up', 'semantic langauge' and 'restructured text' is after this part? -->
