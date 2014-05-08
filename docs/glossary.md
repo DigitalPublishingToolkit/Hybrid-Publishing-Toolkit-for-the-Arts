@@ -1,4 +1,4 @@
-## [Glossary of technical terms] (glossary.html)
+## Glossary of technical terms
 
 ### **A**
 
