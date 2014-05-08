@@ -1,8 +1,16 @@
 # image instructions
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
+
+<pre>![your caption here](../images/chapterabb_img.gif "title")</pre>
+
 ![your caption here](../images/chapterabb_img.gif "title")  
-example: ![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")
+
+example:
+
+<pre>![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")</pre>
+
+![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")
 
 2. Specify the name of the image and the caption, which both will be used in the actual publication, as well as the document name.
 Do this both for actual images and for visualisation requests. In the case of a visualisation request it will generate a placeholder image in the text.
