@@ -14,15 +14,15 @@ DIGITAL PUBLISHING TOOLKIT
 
 graphical map
 
-## How to use this toolkit
 ## Why this toolkit
 ## For whom is this toolkit written
 ## What this toolkit is not
 ## What culture shock to expect <!--Input required Florian-->
+## How to use this toolkit
 ## Who worked on this toolkit
 
 
-# General Introduction <!--2000 words-->
+# [General Introduction](docs/generalIntroduction.html) <!--2000 words-->
 
 ## General <!-- Joost-->
 
@@ -40,7 +40,8 @@ Short summary: issues of going electronic, opportunities of going electronic
 ### new types of publications <!--optional -->
 Short summary: issues of going electronic, opportunities of going electronic
 
-## Strengths & limitations of particular
+## [Strengths & limitations of particular](docs/strengths_limitations_of_particular.html)
+
 reader hardware <!--Marc -->
 reader software <!--Marc  -->
 file formats 
@@ -63,7 +64,7 @@ Contras
 Pros
 Contras
 
-## Reader software <!--Marc-->
+## [Reader software](docs/reader-software.html) <!--Marc-->
 ### reader hardware vs. user-installable reader software
 #### mobile apps
 The most popular/important reading apps
@@ -78,7 +79,7 @@ and their strengths and weaknesses
 The most popular/important standalone PC programs
 and their strengths and weaknesses
 
-## File formats <!--Marc-->
+## [File formats](docs/file_formats.html) <!--Marc-->
 ### web site 
 Pros
 Contras
@@ -95,7 +96,7 @@ Contras
 Pros
 Contras
 
-## Distribution platforms <!--Marc-->
+## [Distribution platforms](docs/distribution_platforms.html) <!--Marc-->
 
 ### e-book stores: Amazon, Apple, Google, Kobo, Sony...
 Strengths
@@ -120,7 +121,7 @@ Weaknesses
 
 
 
-# Workflows <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
+# [Workflows](docs/Workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
 ## General
 
