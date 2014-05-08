@@ -121,7 +121,7 @@ Weaknesses
 
 
 
-# [Workflows](docs/Workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
+# [Workflows](docs/workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
 ## General
 
