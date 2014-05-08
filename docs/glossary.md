@@ -1,4 +1,4 @@
-## Glossary of technical terms
+## Glossary of technical terms (4)
 
 ### **A**
 
@@ -498,6 +498,21 @@ passing across data and variables. The term interface, also known as
 user interface, also describes the software that is used to enable human
 beings to communicate with a computer.
 
+*Internet*
+
+The Internet, or simply "the Net", is a computer network connecting
+millions of computers all over the world. It provides communications to
+governments, businesses, universities, schools and homes. Any modern
+computer can be connected to the Internet using existing communications
+systems. Schools and universities normally access the Internet via their
+own educational networks, but private individuals usually have to take
+out a subscription with an Internet Service Provider (ISP). Although the
+Internet is in fact a network of networks, it appears to users as a
+network of individual computers. The Internet dates back to the group of
+interconnected networks that evolved from the ARPANET of the late 60's
+and early 70's. It has grown from a handful of interconnected networks
+into a huge network of millions of computers.
+
 *Ipad*
 
 *iPod*
@@ -655,6 +670,38 @@ in MP31, WMA2 or WAV3 file format.
 The screen on which output from a computer is displayed. Also referred
 to as Display Screen.
 
+*MOV*
+
+The format for storing and playing back audio and video files using the
+QuickTime media player on the Apple Macintosh, but also available for
+the multimedia PC. Economical in terms of storage space.
+
+*MP4*
+
+Abbreviation for the MPEG-4 file format. There are two basic types of
+MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video
+Coding). The MP4 AAC file format is used to store audio files in a more
+manageable size without affecting the quality. MP4 AAC's best known use
+is as the default audio format of Apple's iPhone, iPod and iTunes Media
+Player. The MP4 AVC file format is used to store video files in a more
+manageable size wihout affecting the quality. It is also increasingly
+being used for storing video on iPods and similar portable devices.
+
+*MPEG *or *MPG*
+
+Abbreviation for Motion Picture Expert Group. Pronounced "Empeg". A
+standard file format for storing movies in digital format and
+high-quality audio files in a variation known as MP3. Video files stored
+MPEG format can be recognised by the Extension.mpg or .mpeg. MP3 audio
+files can be recognised by the Extension .mp3. A newer file format is
+MP4. MP4 files that can be recognised by the Extension .mp4. See ASF,
+AVI7 MOV8 RM, which are alternative video file formats.
+
+*Multimedia*
+
+The integration of two or more types of information (text, images,
+audio, video, animation, etc.) in a single application.
+
 ### N
 
 #### Native app
@@ -666,7 +713,16 @@ voor Android, Objective-C in combinatie met Cocoa voor iOS) van het
 platform waarop de applicatie gelanceerd wordt. De meeste native
 applicaties kunnen worden gedownload uit de app store.
 
-### O
+### **O**
+
+*OCR*
+
+Abbreviation for Optical Character Recognition. OCR software is used
+conjunction with a *scanner* to convert printed text into digital
+format. For example, a page from a printed book can be placed on the
+scanner and the OCR software will be used by the scanner to detect the
+individual words from which it is made up and then convert them into a
+form that can be stored on a computer,
 
 #### Objective-C
 
@@ -677,28 +733,121 @@ dialect van C. \#\#\#\# Opensource Beschrijft de praktijk die in
 productie en ontwikkeling vrije toegang geeft tot de bronmaterialen (de
 source) van het eindproduct. De bekendste vorm is opensourcesoftware.
 
-### P
+### **P**
 
-#### PDF
+*PDF*
 
-Het Portable Document Format, of kortweg PDF, is sinds ongeveer 1993 een
-de facto standaard voor de uitwisseling van elektronische documenten en
-formulieren die in hun oorspronkelijke vorm gereproduceerd moeten kunnen
-worden. PDF is een universele bestandsindeling waarmee lettertypen,
-afbeeldingen en lay-out van elk willekeurig brondocument behouden
-blijven, ongeacht het programma of het platform waarmee het document
-werd gemaakt, dit in tegenstelling tot bijvoorbeeld HTML. \#\#\#\#
-Platform Is in een basis waarop software ontwikkeld wordt. De bekendste
-platformen zijn: Java, .NET, Microsoft Windows, Linux, Mac OSX, LAMP.
+An abbreviation for Portable Document Format. This is a file type
+created by Adobe that allows fully formatted, documents to be
+transmitted across the Internet and viewed on any computer that has
+Adobe Acrobat Reader software - a proprietary software viewing program
+available for free at the Adobe website: http://www.adobe.com/uk/.
+Businesses and educational institutions often use PDF-formatted files to
+display the original look of their brochures or for publishing a
+complete magazine in electronic format. Using the full Adobe Acrobat
+software package, it is possible to create a high-quality piece of
+artwork or a brochure which preserves the look of the original, complete
+with fonts, colours, images, and formatting. Documents in PDF format can
+be published on the Web without having to be converted into HTML.
 
-### Q
+*Pixel*
 
-### R
+A contraction of picture element. What you see on a computer Display
+Screen1 is made up of thousands of coloured pixels or small dots, which
+can be set according to the user's choice to produce either
+low-resolution output, medium-resolution output or high-resolution
+output, the usual combinations of pixels across each line of the screen
+(horizontal pixels) and down each line of the screen (vertical pixels)
+being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more
+pixels on the screen the higher the resolution (i.e. producing a finer,
+sharper image) and the greater the variety of colours that can be
+displayed.
+
+*Platform*
+
+Often used as an alternative term for a computer system, including both
+the hardware and the software. Essentially this term describes something
+that is used to build something else. The term *platform-independent* -
+used to describe software - means that the software can be run on any
+computer.
+
+*Podcast*
+
+A podcast is a broadcast digital audio recording, made available via the
+Web in a way that allows the recording to be downloaded for listening at
+the user's convenience. Cf. Vodcast, which is often used to describe a
+downloadable broadcast digital video recording.
+
+*Pop-up*
+
+A small Window that appears within a program or over the top of a Web
+page to deliver additional information. Pop-ups on the Web can be
+annoying as they are often used for unwanted advertising material.
+
+*Program*
+
+The American spelling is standard in computer jargon, enabling a useful
+distinction to be made in British English between a *computer program*
+and a *programme* in the sense of a *programme of study*. A talk with
+the title "Turning programmes into programs" (or maybe it was the other
+way round) was presented by a British Council officer at the annual
+TESOL conference in the USA in 1987 - which puzzled the American
+audience but made sense to the British participants.
+
+*Protocol*
+
+In Internet terminology protocol usually refers to a set of rules that
+define an exact format for communication between systems. For example
+the HTTP protocol defines the format for communication between Web
+browsers and Web server.
+
+### **Q**
+
+*QR Code*
+
+Short for Quick Response Code. A QR Code is a two-dimensional barcode
+that can store a variety of different types of information, e.g. text, a
+website URL, a telephone number, an SMS message, an email address, an
+email message, contact details, information about an event, a Google
+Maps1 location, your social media profile (Facebook, Twitter, etc), an
+iTunes link, a YouTube link, etc. QR Codes can be read by barcode
+readers and Smartphone cameras. Instead of writing down the information
+relating to a website URL or map location etc, you just take a photo of
+the QR Code.
+
+*QuickTime*
+
+Software by Apple used for viewing movies and listening to audio
+recordings
+
+### **R**
 
 #### Reflowable
 
 Bij reflowable content kan de tekst van de boeken voor elke e-reader
 geoptimaliseerd worden (dit is de tegenhanger van fixed content)
+
+*Resolution*
+
+A measure of the number of pixels or small dots displayed on a computer
+display screen, printer or scanner. One normally talks in terms of the
+quality of resolution, using the expression low-resolution,
+medium-resolutionand high-resolution. The resolution of a computer
+display screenis normally expressed as two numbers representing the
+horizontal and vertical resolution, i.e. dots across each line of the
+screen and down each line of the screen: e.g. 640 x 480, 1024 x 768,
+etc. The resolution of a Printer is normally referred to by the number
+of dots per inch (dpi)- i.e. square inch.
+
+*RTF*
+
+Abbreviation for Rich Text Format, an alternative way of storing a
+document created with a MS-Word-processor. RTF-formatted files can be
+moved relatively easily between different computer systems. RTF format
+is also recommended when transmitting an Attachment by Email as it is
+much safer than the Microsoft Word formats, which can harbour Word Macro
+viruses. RTF files preserve most of the formatting contained in
+DOC-formatted files.
 
 ### S
 
@@ -718,29 +867,147 @@ programmeertaal. Er bestaan specifieke regels voor het aanduiden van
 programmeerconcepten (functies, objecten, variabelen, switch statements,
 e.d.) die verschillen per programmeertaal.
 
-### T
+*Semantic Web*
 
-#### Tablet
+The *Semantic Web* is not a new type of Web, but rather an extension of
+the Web whereby data available in different locations on the Web is
+linked together in a way that allows the user to search the Web in a
+more sophisticated way, e.g. by requesting information in forms such as
+"Tell me where I can find information about 21st-century writers who
+live within 50 miles of my home town":
 
-Een tablet-pc is een computer die in de hand kan worden gebruikt, zoals
-ipad, Samsung Galaxcy Tab en Kindle Fire) \#\#\#\# TLD Is het meest
-rechtse gedeelte in een internetdomeinnaam, zoals .nl, .org, .gov,
-.brussels etc.
+*Setup Program*
 
-### U
+A program that enables the user to set up a program or suite of programs
+on the computer's hard disc. Also known as Install Program or
+Installation Program.
 
-### V
+*Shockwave Player*
 
-### W
+Software developed by Adobe that enables Web pages containing
+interactive multimedia materials to be played on the Web. Such materials
+may contain games, product demonstrations and online learning
+applications.
 
-#### Web-app
+*Streaming*
 
-Is een mobiele versie van een website, waarbij alleen de belangrijkste
-onderdelen worden getoond. Deze website wordt speciaal vormgegeven voor
-de grootte van het scherm. Daarbij wordt gebruik gemaakt van HTML,
-JavaScript en besturingssysteem-afhankelijke functionaliteit.
+Playing audio or video in real time from a website. In order to play
+streaming multimedia files you need a specific Plug-in program that
+links in with your Browser and plays the file as it is transmitted
+rather than downloading it to your computer first. Streaming requires a
+Broadband connection to the Internet since multimedia files are not
+stored on your computer but played in a continuous stream direct from
+the computer where they are stored.
 
-### X
+### **T**
+
+*Tablet Computer*
+
+A tablet computer is compact portable computer that makes use of a
+Touchscreen instead of a keyboard for typing and running appklications.
+Apple's iPad is a typical example of a tablet computer.
+
+*Tag*
+
+Tags are small alpha-numeric indicators around a word or part of text to
+define the role and/or function of that text. It is an essential tool in
+XML and HTML.
+
+Tagging has become more common in recent years as a result of the
+widespread use of Social Media for sharing images, audio recordings,
+video recordings, website references, etc. Tags are labels that briefly
+describe the what the media or references are all about and help other
+people find them quickly.
+
+*TCP/IP*
+
+Abbreviation for Transfer Control Protocol / Internet Protocol. The main
+data transfer protocol used on the Internet.
+
+### *U*
+
+*Unicode*
+
+The Unicode Worldwide Character Standard is a character coding system
+designed to support the interchange, processing, and display of the
+written texts of the diverse languages of the modern world. In addition,
+it supports classical and historical texts of many written languages:
+http://www.unicode.org.
+
+*Unix*
+
+An Operating System widely used on large computer systems in
+corporations and universities, on which many Web servers are hosted. A
+PC version of Unix, called Linux, is becoming increasingly popular as an
+alternative to Windows.
+
+**V**
+
+*Vector Graphic*
+
+A method of creating graphic images on a computer by telling it to draw
+lines in particular positions. An advantage of a *vector graphic* is
+that it can be enlarged or reduced in size without loss of sharpness or
+distortion. Most modern image creation and edtiting packages can save
+images in vector graphic format. Vector graphics can be contrasted with
+*bit-mapped graphics*, which are made of a fixed number of pixels (small
+dots), and therefore sharpness may be lost when the image is resized.
+
+# 
+
+*Vodcast*
+
+A contraction of Video Podcast. A type of Podcast1 that incoporates
+video as well as audio.
+
+**W**
+
+*WAV*
+
+Short for Waveform Audio Format. A format for storing high-quality audio
+files.
+
+*Word-processor*
+
+Probably the most widely used computer Application. Modern
+word-processors allow the user to create fine-looking documents
+including images, tables, photographs, and even sound and video
+recordings if they are to be viewed on screen rather than from the
+printed page. In many respects they are similar to Desktop Publishing
+applications. Word-processors normally include a spellchecker, a grammar
+checker, a style checker and a thesaurus, as well as tools for writing
+in HTML, the coding language used for producing Web
+pages.Word-processors have been widely used in teaching and learning
+foreign languages ever since they first appeared.
+
+*World Wide Web*
+
+Usually referred to simply as the Web. This is the most powerful and
+fastest growing Internet service. The World Wide Web was the brainchild
+of Tim Berners-Lee, who in 1989 invented the HTML coding language that
+is the basis of the Web. The Web became a public service in 1993. It is
+a huge collection of resources of information, including learning
+materials, which is accessed by means of a computer program known as a
+Browser. The World Wide Web is only part of the Internet, but many
+people treat both terms as synonyms.
+
+*WYSIWYG*
+
+Acronym for What You See Is What You Get, dating back to the pre-Windows
+and pre-Mac period, when what you saw on the screen, e.g. in a Word
+document, was not necessarily what appeared on your Printer - something
+we now take for granted.
+
+### **X**
+
+*XML*
+
+Abbreviation for eXtensible Markup Language. XML is a specification
+emanating from the World Wide Web Consortium (W3C) that allows Web
+designers to create their own language for displaying documents on the
+Web. XML is an extension to the standard language for creating Web
+pages, HTML, and makes it possible to create websites containing more
+complex interactivity.
 
 #### XHTML
 
