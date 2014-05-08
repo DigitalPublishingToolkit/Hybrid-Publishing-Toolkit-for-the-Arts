@@ -4,14 +4,14 @@
 This toolkit will help you to develop ePubs, specifically art and design publications, that overall make more use <!-- needs clarifying/ more specific --> of different fonts, graphics and layouting. Chapter 3 will give a general introduction of these publications and sketches out various scenarios to develop ePubs. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular, reader hardware and software, file formats and lastly distribution platforms. 
 Chapters 4 offers practical, how-to guidance for workflows (structured and per scenario) and designing ePubs for the various scenarios addressed earlier in chapter 3. Chapter 5 illustrates the concepts with concrete examples from the <a href="http://digitalpublishingtoolkit.org/">Digital Publishing Toolkit</a> program. 
 
-Within this publication a division has been made in three levels of publications:
+<<!--Within this publication a division has been made in three levels of publications:
 
 * One-to-One; where a book is considered as a separate product where text-authors, illustrators, artists, photographers, and designers generally work together to produce the book as a one-off team. 
-* One-to-Many; this book is not a single object, but has various cameliontic <!--do you mean: chameleonic? -->appearances. 
+* One-to-Many; this book is not a single object, but has various chameleonic appearances. 
 * One-to-Database; here the various more-or-less independent components are separately defined as modules that can be multiple used and re-used by everybody that has access to the database. It goes without saying that such modules must be well defined and cushioned in a equally well defined system of metadata.
 
 ## Why this toolkit
-This toolkit aims to provide a practical guide on how develop ePubs for pulishers as well as anyone else interested in this. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate this diverse and complex landscape of digital publishing in a more grounded way.
+This toolkit aims to provide a practical guide on how develop ePubs for publishers as well as anyone else interested in this. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate this diverse and complex landscape of digital publishing in a more grounded way.
 
 ## Whom is this toolkit written for?
 You may be a publisher, an experienced programmer, a designer or someone just starting out. You probably identify with or work in the arts fields. You may be hoping to gain answers, knowledge, get tips, and conduct various resources<!-- what do you mean by 'conduct various resources' .--> This toolkit intends to provide them all, and the overall focus is on pragmatic solutions for digital publishers within the art and cultural sector. No prior knowledge of creating an ePub is required – with that said, a healthy familiarity of a variety of computer software is helpful, as is the willingness and inquisitive curiosity to look beyond this book for certain answers. 
