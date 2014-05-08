@@ -1,1 +1,1 @@
-## [Distribution platforms] (docs/distribution_platforms.html)
+## Distribution platforms
