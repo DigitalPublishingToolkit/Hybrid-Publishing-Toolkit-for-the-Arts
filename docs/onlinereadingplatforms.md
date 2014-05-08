@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- ### online reading platforms: Scribd, Issuu, website... // Miriam
-=======
 ### Online reading platforms: Scribd, Issuu, website / blog // Miriam
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
@@ -153,7 +150,7 @@ Make account and upload text for blog
 *Weaknesses*
 **Revenue Model**
 **How-to**
->>>>>>> FETCH_HEAD
+
 
 
 
