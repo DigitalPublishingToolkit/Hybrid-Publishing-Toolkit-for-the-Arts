@@ -16,7 +16,6 @@ graphical map
 
 ## Why this toolkit
 ## For whom is this toolkit written
-## What this toolkit is not
 ## What culture shock to expect <!--Input required Florian-->
 ## How to use this toolkit
 ## Who worked on this toolkit
