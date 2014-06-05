@@ -11,7 +11,8 @@ toolkit.epub : $(derivedhtml)
 	ebook-convert TOC.html toolkit.epub --cover images/cover.png --title "Digital Publishing Toolkit"
 
 %.html: %.md
-	python scripts/chapter.py $< > $@
+	# python scripts/chapter.py $< > $@
+	pandoc --css=styles.css -s $< > $@
 
 clean:
 	rm -f $(derivedhtml)
