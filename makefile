@@ -8,7 +8,7 @@ derivedhtml = $(patsubst %.md,%.html,$(allmd))
 all : toolkit.epub
 
 toolkit.epub : $(derivedhtml)
-	ebook-convert TOC.html toolkit.epub --cover images/cover.png --title "Digital Publishing Toolkit"
+	ebook-convert TOC.html toolkit.epub --cover images/_dpt/cover.png --title "Digital Publishing Toolkit"
 
 %.html: %.md
 	# python scripts/chapter.py $< > $@
