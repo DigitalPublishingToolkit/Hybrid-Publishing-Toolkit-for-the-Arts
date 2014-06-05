@@ -1,4 +1,4 @@
-Preview site: [http://dpt.automatist.org/toolkit/](http://dpt.automatist.org/toolkit/TOC.html)
+Preview of the Toolkit publication (in process): [http://dpt.automatist.org/toolkit/TOC.html](http://dpt.automatist.org/toolkit/TOC.html)
 
 Welcome to the working version of the [Digital Publishing Toolkit](http://digitalpublishingtoolkit.org) project.
 
