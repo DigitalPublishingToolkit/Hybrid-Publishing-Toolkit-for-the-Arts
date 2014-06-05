@@ -102,11 +102,11 @@ Contras
 Strengths
 Weaknesses
 
-### online reading platforms: Scribd, Issuu, website... // Miriam
+### [online reading platforms: Scribd, Issuu, website, etc.](docs/onlinereadingplatforms.html) // Miriam
 Strengths
 Weaknesses
 
-### print-on-demand // Margreet
+### [print-on-demand](docs/print-on-demand.html) // Margreet
 Strengths
 Weaknesses
 
