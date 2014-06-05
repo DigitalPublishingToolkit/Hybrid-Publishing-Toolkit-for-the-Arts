@@ -80,7 +80,8 @@ Choose your preferred ways of distribution
 
 
 ###CB Print on demand
-CB is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling e-books through Dutch and Belgian retailers, CB also facilitates international sales.
+CB is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling e-books through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
 
 ###Boekscout
+Boekscout is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
