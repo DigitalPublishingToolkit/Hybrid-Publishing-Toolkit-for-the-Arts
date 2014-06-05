@@ -1,4 +1,4 @@
-#Structured Workflow //executive management advies /keuze van workflow
+#Structured Workflow //executive management advice /workflow choice
 
 *Kimmy is working on this, it's a work-in-progress*
 
@@ -6,14 +6,14 @@ Flow charts: workflows
 
 ##Single source cross-media with established software tools (Word, InDesign)
 
-#####Advantages, limitations
+###Advantages, limitations
 The current workflow of desktop publishing, from Word to inDesign, has certain advantages. It is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What you Get in relation to design. In the case of print changing hyphenation is for instance both an editing and a typographic problem. When changing to digital these hyphenations can no longer be determined before going to 'print', they change according to the aspect ratio of the device you are using. <!-- perhaps this is more clear? For example, in the case of analogue print where the page is fixed, changing hyphenation is both an editing and a typographic issue. However when transitioning into digital publishing, these hyphenations will be subject to change as they'll change acording to the aspect ratio of the device you are using. --> 
 
 
 
 The main disadvantage of this workflow is that you only target one medium and the step to go from here to digital are cumbersome, and do not make full use of it's potential. It tries to implement the print into the digital, keeping the workflow one-dimensional. Working with the established software tools - Word and InDesign - it does this almost literally by allowing you to create quirky and strange 'interactive' publications in PDF, which in the end is a static inDesign document, upgraded with some interactive layers. This is a very limited vision on what the possibilities are for digital publishing. Next to this it is possible to export your publication as an .ePub from InDesign, however it is not developed as a program to produce e.pubs and the results are very messy and requires extra steps for the designer. (For a full description of InDesign to Epub see Elizabeth Castro's Epub Straight to the Point) 
 
-####E-publishing as additional requirement
+###E-publishing as additional requirement
 
 Before going the hybrid publishing way, another possibility is having a digital publishing workflow as an additional requirement. This is doable <!-- alternative suggestion: 'feasible' --> if e-pub is a secondary market for the publisher. This workflow still starts from Word and, or inDesign documents, and centers around outsourcing the document engineering to external partners, mostly in India. These engineers work with semi-automized software that translate one document format to another, making sure the document is structured. However, the more you use these companies the more problematic it becomes as the costs will explode. For each document, but also every platform you would need to ask these companies to make a translation. 
 
