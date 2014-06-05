@@ -11,12 +11,9 @@
 
 ## Why this toolkit
 This toolkit aims to provide a practical guide on how develop ePubs for publishers as well as for anyone else interested in this subject matter. It will give insight into the preconditions of digital publishing, providing open-source tools where possible, and allowing publishers of the arts and culture sector to navigate the diverse and complex landscape of digital publishing in a more grounded way.
->>>>>>> FETCH_HEAD
 
 ## Whom is this toolkit written for?
 You may be a publisher, an experienced programmer, a designer or someone who is just starting out. You probably identify with or work in the arts fields. You may be hoping to gain answers, knowledge, get tips, and consult various resources. This toolkit intends to provide them all. The overall focus is on pragmatic solutions for digital publishers within the art and cultural sector. No prior knowledge of creating an ePub is required – with that said, a healthy familiarity of a variety of computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this book for certain answers. 
-
-## What this toolkit is not
 This publication is not a tutorial on how to make an epublication, it just gives you some guidance on where to start and how to make a first attempt to make a digital publication. 
 
 ## What culture shock to expect <!--Input required Florian-->
