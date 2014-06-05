@@ -20,7 +20,7 @@ See Kimmy's visualized workflow for the INC, which will be generalized for [rese
 * This is then designed in InDesign  
 * Corrections made on the print proof and added in the InDesign file  
 * Certified PDF goes to printer  
-* How to make an e-publication from InDesign - this is the big problem. Going from InDesign to ePub is not easy and needs a lot of handywork
+* How to make an e-publication from InDesign - this is the big problem. Going from InDesign to ePub is not easy and needs a lot of manual work
 
 *New workflow*  
 This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 

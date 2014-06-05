@@ -16,7 +16,6 @@ graphical map
 
 ## Why this toolkit
 ## For whom is this toolkit written
-## What this toolkit is not
 ## What culture shock to expect <!--Input required Florian-->
 ## How to use this toolkit
 ## Who worked on this toolkit
@@ -102,11 +101,11 @@ Contras
 Strengths
 Weaknesses
 
-### online reading platforms: Scribd, Issuu, website... // Miriam
+### [online reading platforms: Scribd, Issuu, website, etc.](docs/onlinereadingplatforms.html) // Miriam
 Strengths
 Weaknesses
 
-### print-on-demand // Margreet
+### [print-on-demand](docs/print-on-demand.html) // Margreet
 Strengths
 Weaknesses
 
