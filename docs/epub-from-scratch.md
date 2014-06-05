@@ -8,7 +8,7 @@ A rudimentary EPUB is used as an example to explain several of its concepts and 
 ###Layout of an EPUB package
 Decompressing an EPUB will reveal its directory layout and in that way make clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed Zip archive, looking as follows after unzipping it:
 
-[[Figure: Screenshot of directory layout]]
+![Figure: EPUB layout](../images/chapterabb_img.gif "Figure: EPUB layout")
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes as an EPUB. 
 
