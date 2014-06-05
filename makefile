@@ -14,7 +14,6 @@ toolkit.pdf : $(derivedhtml)
 	ebook-convert TOC.html toolkit.pdf --cover images/_dpt/cover.png --title "Digital Publishing Toolkit" --pubdate "01 July 2014" --publisher "Institute of Network Cultures"
 
 %.html: %.md
-	# python scripts/chapter.py $< > $@
 	pandoc --css=styles.css -s $< > $@
 
 clean:
