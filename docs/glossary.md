@@ -1,4 +1,4 @@
-## Glossary of technical terms (4)
+## Glossary of technical terms (5)
 
 ### **A**
 
@@ -18,18 +18,17 @@ report it back to advertisers to help them channel relevant ads to you.
 
 *Aliasing, anti-aliasing*
 
-Pictures on your computer monitor are made up of square [pixel][]. When
-the edge of a solid colored object in a GIF image is a diagonal or
-curved line, and it is displayed against a contrasting color, the edges
-appear jagged, like stair steps. This jagged appearance is called
-aliasing. The jagged appearance can be softened by filling in adjacent
-pixels with intermediate colors between the object and the background.
-This softening of the edges is called anti-aliasing. Software like
-PhotoShop can apply anti-aliasing for you automatically.
-
-One problem with anti-aliasing GIF images is that it increases the
-number of colors used, necessarily increasing the file size. You must
-decide whether quick loading or smoothed edges serves your needs better.
+Pictures on your computer monitor are made up of square pixel. When the
+edge of a solid colored object in a GIF image is a diagonal or curved
+line, and it is displayed against a contrasting color, the edges appear
+jagged, like stair steps. This jagged appearance is called aliasing. The
+jagged appearance can be softened by filling in adjacent pixels with
+intermediate colors between the object and the background. This
+softening of the edges is called anti-aliasing. Software like PhotoShop
+can apply anti-aliasing for you automatically. One problem with
+anti-aliasing GIF images is that it increases the number of colors used,
+necessarily increasing the file size. You must decide whether quick
+loading or smoothed edges serves your needs better.
 
 *Algorithm*
 
@@ -85,8 +84,8 @@ jumped to by clicking on a hyperlink.
 
 *Animated GIF*
 
-A [GIF][pixel] graphic file, which consists of two or more images shown
-in a timed sequence to give the effect of motion.
+A GIF2 graphic file, which consists of two or more images shown in a
+timed sequence to give the effect of motion.
 
 *API*
 
@@ -97,10 +96,10 @@ each other.
 *Applet*
 
 An Applet is a small program that is downloaded from a web page and
-executed by [browse][pixel]r oftware. Also, an HTML tag that defines an
-applet program.which is written in Java and designed to run on a web
-page. It can be used to display scrolling text such as a marquee across
-the top of a page or other animations
+executed by browse3r oftware. Also, an HTML tag that defines an applet
+program.which is written in Java and designed to run on a web page. It
+can be used to display scrolling text such as a marquee across the top
+of a page or other animations
 
 *ASCII*
 
@@ -167,8 +166,6 @@ differences in browsers create a challenge for web page developers.
 A measurement of computer memory or disc capacity. A byte comprises 8
 *bits*.
 
-#### 
-
 ### **C**
 
 *CAD/CAM*
@@ -181,15 +178,15 @@ term for computer support during the manufacturing process.
 
 *Cascading Style Sheets (CSS)*
 
-Cascading Style Sheets are a feature of [HTML][pixel] that enables a
-range of styles for headers, body text, bullet points, links etc., to be
+Cascading Style Sheets are a feature of HTML4 that enables a range of
+styles for headers, body text, bullet points, links etc., to be
 specified for hypertext documents. This makes it possible to set up CSS
 file containing a library of styles that are used throughout a website,
 thereby facilitating consistency. If a style needs to be changed
 throughout a website it only needs to be changed once in the CSS file
 and then it will be applied automatically.
 
-*CMS *
+*CMS*
 
 Abbreviation for *Content Management System*, a software package that
 makes it possible for non-technical users to publish content (text,
@@ -289,7 +286,7 @@ known as a *dither matrix,* to simulate a dot of an intermediate colour.
 
 Disk Operating System
 
-*Dot Matrix Printer *
+*Dot Matrix Printer*
 
 An older type of printer that works by firing sets of pins in different
 combinations at an ink ribbon located against a sheet of paper. Such
@@ -309,9 +306,9 @@ mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400,
 which means that the number of horizontal dots is different from the
 number of vertical dots
 
-### **E **
+### **E** 
 
-#### ebook
+#### *ebook*
 
 Is een verzamelnaam voor digitale documenten die weergegeven kunnen
 worden op een e-reader evenals op beeldschermen van computers en
@@ -325,6 +322,14 @@ vormen van digitale teksten op een e-reader zijn het e-book en de
 e-paper, als equivalenten van respectievelijk het boek en de krant.
 
 *E-ink*
+
+Electrophoretic ink, a sytem in whch small particals are
+electrostatically charged in such a way they can become black or white
+and remain so. Hence, electricity is in fact only used by refreshing the
+page, which reduces considerably the power consumption and makes it an
+ideal technology for long reading. The resolution of the stable screen
+is very high. A disadvantage is that, like paper, the presentation does
+not allow motion pictures or animations.
 
 *Encryption*
 
@@ -418,7 +423,7 @@ mouse.
 
 *Hexadecimal*
 
- A number system used in computers in which numbers are composed of
+A number system used in computers in which numbers are composed of
 combinations of 16 digits, using 0-9 then the letters A-F to represent
 10-15. Hex allows binary numbers to be expressed in a more compact and
 comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)
@@ -687,7 +692,7 @@ Player. The MP4 AVC file format is used to store video files in a more
 manageable size wihout affecting the quality. It is also increasingly
 being used for storing video on iPods and similar portable devices.
 
-*MPEG *or *MPG*
+*MPEG* or *MPG*
 
 Abbreviation for Motion Picture Expert Group. Pronounced "Empeg". A
 standard file format for storing movies in digital format and
@@ -713,6 +718,24 @@ voor Android, Objective-C in combinatie met Cocoa voor iOS) van het
 platform waarop de applicatie gelanceerd wordt. De meeste native
 applicaties kunnen worden gedownload uit de app store.
 
+Unicode
+
+Unicode is a computing industry standard for the consistent encoding,
+representation and handling of text expressed in most of the world's
+writing systems. Developed in conjunction with the Universal Character
+Set standard and published in book form as The Unicode Standard, the
+latest version of Unicode contains a repertoire of more than 110,000
+characters covering 100 scripts and various symbols. The standard
+consists of a set of code charts for visual reference, an encoding
+method and set of standard character encodings, a set of reference data
+computer files, and a number of related items, such as character
+properties, rules for normalization, decomposition, collation,
+rendering, and bidirectional display order (for the correct display of
+text containing both right-to-left scripts, such as Arabic and Hebrew,
+and left-to-right scripts). As of September 2013, the most recent
+version is Unicode 6.3. The standard is maintained by the Unicode
+Consortium1.
+
 ### **O**
 
 *OCR*
@@ -724,7 +747,7 @@ scanner and the OCR software will be used by the scanner to detect the
 individual words from which it is made up and then convert them into a
 form that can be stored on a computer,
 
-#### Objective-C
+#### *Objective-C*
 
 De programmeertaal waar veel OS X en iOS applicaties in geschreven
 worden. De taal heeft de programmeertaal C als basis. Objective-C is
@@ -822,10 +845,10 @@ recordings
 
 ### **R**
 
-#### Reflowable
+#### *Reflowable*
 
-Bij reflowable content kan de tekst van de boeken voor elke e-reader
-geoptimaliseerd worden (dit is de tegenhanger van fixed content)
+A reflowable document is a type of electronic document that can adapt
+its presentation to the output device.
 
 *Resolution*
 
@@ -850,22 +873,6 @@ viruses. RTF files preserve most of the formatting contained in
 DOC-formatted files.
 
 ### S
-
-#### Selfcontained
-
-Een object (applicatie, bestand, e.d.) dat geen externe bronnen nodig
-heeft om te opereren en is dus makkelijk te verplaatsen of te kopiëren.
-Een EPUB is in principe “selfcontained” als er niet gerefereerd wordt
-naar extern aanwezige afbeeldingen of andere media. \#\#\#\# Smartphone
-Is een mobiele telefoon die uitgebreidere computermogelijkheden biedt.
-Een smartphone kan ook beschouwd worden als een handcomputer die
-tegelijk ook een telefoon is. \#\#\#\# Switch Statements Is a type of
-selection control mechanism used to allow the value of a variable or
-expression to change the control flow of program execution via a
-multiway branch. \#\#\#\# Syntax De taalregels/gramatica van een
-programmeertaal. Er bestaan specifieke regels voor het aanduiden van
-programmeerconcepten (functies, objecten, variabelen, switch statements,
-e.d.) die verschillen per programmeertaal.
 
 *Semantic Web*
 
@@ -924,6 +931,10 @@ people find them quickly.
 Abbreviation for Transfer Control Protocol / Internet Protocol. The main
 data transfer protocol used on the Internet.
 
+*Text editor*
+
+A computer program that allow the manipulation of text.
+
 ### *U*
 
 *Unicode*
@@ -952,8 +963,6 @@ distortion. Most modern image creation and edtiting packages can save
 images in vector graphic format. Vector graphics can be contrasted with
 *bit-mapped graphics*, which are made of a fixed number of pixels (small
 dots), and therefore sharpness may be lost when the image is resized.
-
-# 
 
 *Vodcast*
 
@@ -1023,4 +1032,11 @@ to decode the data.
 
 ### Z
 
-  [pixel]: #
+*Zebras *
+
+Zebras are several species of African20 equids united by their
+distinctive black and white stripes. Their stripes come in different
+patterns, unique to each individual. They are generally social animals
+that live in small harems to large herds. Unlike their closest
+relatives, horses and donkeys, zebras have never been truly
+domesticated.
