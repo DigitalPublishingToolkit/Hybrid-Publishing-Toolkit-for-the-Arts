@@ -108,7 +108,7 @@ Electronic visual books can be made in very simple ways:
 * As a sequence of images, embedded into an epub file <!-- add reference-->, a self-contained HTML file <!-- add reference--> or a PDF file.
 * As a PDF file. PDF generally is the most easy-to-use straightforward format for visual publications in a universally working format.[^2] PDF documents can be graphically designed to work on different screen sizes, and resolution of embedded visuals can be decreased to keep the file size friendly for downloading. Still, the format is essentially limited to fixed document sizes and remains an electronic representation of printed matter. 
 * Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, mp4 video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^3] 
-* Self-contained HTML. <!--- explain the use of self-contained HTML with base64--->
+* Self-contained HTML. <!-- explain the use of self-contained HTML with base64 -->
 
 (- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
 (- self-contained HTML5)
