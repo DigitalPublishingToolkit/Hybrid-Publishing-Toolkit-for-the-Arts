@@ -72,6 +72,7 @@ An issue with making a digital publication out of an artist's/experimental book 
 
 
 
+
 ###5) New genres
 
 By new types of publications we mean publications which cannot easily be placed in one of the genres mentioned above. These could be publications which fall outside of what we would normally consider a 'book'. Examples could be an app or a series of tweets etc. Setting a predisposed set of parameters for this genre would be difficult. Similar to adventure games, here we can imagine the use of an interactive approach where the reader is able to control the narrative.
