@@ -253,7 +253,7 @@ Boekscout is one of the biggest print-on-demand publishers in The Netherlands, a
 
 
 
-## pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--To do Florian/ check Miriam's structure-->
+## pirate platforms
 
 As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. 
 
@@ -289,7 +289,7 @@ All these sites run like small specialty bookstores (although they don't sell an
 
 
 
-## artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian/ checks miriam sctructure-->
+## artist-/designer-run e-publishing projects
 
 In the last couple of years, there have been first attempts to create only
 small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html):
