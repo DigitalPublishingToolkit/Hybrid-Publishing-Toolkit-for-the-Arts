@@ -1,4 +1,4 @@
-Intro-Introduction for newcomers.
+# Intro-Introduction for newcomers
 
 Because there exist no stupid questions but only stupid answers. There may be times when you're hesitant to ask questions in a situation where people around seem to know already. The function of this section is to solve your shyness. We explain the fundamentals of digital publishing in order to help the reader to formulate questions more precisely. 
 
