@@ -1,11 +1,6 @@
-# General introduction
+# Genres of Publication
 
-Novel electronic capabilities enable a great number of possible publication outlets. Before entering into the problematic aspects of such a plurality of presentations of the same message, we investigate the possibilities. As with all technological possibilities; the coin has two sides (leaving aside the unstable rim) which exclude each other. The printing press introduced pagination and indexing, allowing many thousands of identical texts to be read and compared by even more readers over the years. In an electronic world with non-fixed screen sizes, this fact becomes problematic. On paper, text is fixed and this allows comparisons and interactions between different readers, separated in space and in time. In an electronic version the fixity of the text remains, as the text file is independent from its final substrate (e-ink, lcd, paper), but its presentation onto the final substrate can vary substantially. The challenge even becomes greater if we widen our ambition to pictures, audio and video, hyperlinks, etc. 
-
-In the Toolkit project we deal with the field of art books. This category of books integrates all aspects of text-only publications but expands it with visual information that can be explanatory of the text and -even more- importantly to visual information which is a 'stand alone' statement. In such cases, text, helps the 'reader' (viewer) to deeper appreciate and understand the object. It is clear that various forms of art books demand and enable different electronic representations. 
-
-Nevertheless, as cultural standardisation over the centuries has rendered, for example, a detective, religious or an educational book instantly distinguishable by its typography and lay-out, - this too will also become a fact for electronic books. Apart from the electronic (or paper) book as a 'object d'art', electronic art book publishing will have many commonalities despite its difference in genre. A major issue is that the electronic sub-structure makes all files just bitstreams. The digital files containing the various kinds of information are all equal on this level of digital bitstreams in the computer memory: merely standardized code. The great new thing in the world of electronic art books is that based on standardised, though well tailored structures, the creative message can be published in a great variety of ways. This not only depends on the capabilities of the output (reading/viewing/listening) device, but also on the function of the book for the author, in a present context, such as a dictionary, a study, a reference, a coffee table book, or a leisure book. The same source can and will be represented differently under different circumstances. 
-All these vistas demand a thorough editorial and production strategy. Not only because the same source can express itself in various output forms but even more so because once properly edited and stored electronically, information and its constituting parts can be reused and used differently.
+## Traditional forms of publication
 
 In the present project we deal with various kinds of products which we combine into  five genres: 
 
@@ -20,7 +15,7 @@ In the present project we deal with various kinds of products which we combine i
  5) New types of publications.
 
 
-####1) Art/design catalogue-like
+###1) Art/design catalogue-like
 
 - Heavy in use of images
 - Visuals take central role over texts
@@ -32,7 +27,7 @@ Issues and advantages of going electronic:
 One of the main issues which arise when trying to go electronic with Art/design catalogue-like publications lies in the use of images. The quality of the images is important. They must often be high in quality with as little distortion of colours as possible. An issue of concern is that often a fixed page layout determines the message. Changes in size might influence the flow of content. An advantage of going electronic with this type of publication could lie in the use of other (interactive) materials and easier distribution.  
 
 
-####2) Research-like publication 
+###2) Research-like publication 
 
 - Heavy in use of text
 - Texts take a central role
@@ -46,7 +41,7 @@ One of the issues with going electronic with a research-like publication is sett
 
 
 
-####3) Art/design periodical
+###3) Art/design periodical
 
 - Heavy in use of texts and images and mixtures of both
 - Both images and texts take central role
@@ -62,7 +57,7 @@ One of the issues with going digital with an art/design periodical lies in the l
 
 
 
-####4)  Artist's/experimental books
+###4)  Artist's/experimental books
 
 - Book *by* an artist, rather than *about* an artist
 - Complex use of images and typography, often pushing the possibilities of the medium
@@ -73,13 +68,12 @@ One of the issues with going digital with an art/design periodical lies in the l
 An issue with making a digital publication out of an artist's/experimental book is the choice of material. The choice to go digital in this case is the most fundamental. Furthermore, here too, the quality of images and the relation between text and images is important. The choices which are being made by the creator influence the final outcome immensely. Advantages of going digital lie in the more extensive possibilities digitalization offers (e.g. interactive material etc.).
 
 
-####5) New types of publications
+###5) New genres
 
 By new types of publications we mean publications which cannot easily be placed in one of the genres mentioned above. These could be publications which fall outside of what we would normally consider a 'book'. Examples could be an app or a series of tweets etc. Setting a predisposed set of parameters for this genre would be difficult. Similar to adventure games, here we can imagine the use of an interactive approach where the reader is able to control the narrative.
 
 
-
-### Project Goal
+## New forms of publication
 
 The goal of the project is to define a common ground for directions, strategies, and tools that will enhance the transition from paper-only publications to a mixture of paper & electronic publication, given the above listed genres of publications.
 As the mind set of the partners in the projects are very diverse and in most companies the discussion is only in an early stage, it does not make sense to produce a matrix of all questions and all answers. A better approach is to try and sketch the overall picture, based on commonalities and diversions. This attempt is presented below. 
@@ -92,23 +86,21 @@ A. One-to-one; when a book is considered as a separate product where text-author
 
 B. One-to-many; this publication is not a single object, but has various chameleonic appearances, dependent from the context and available presentation media (type & size of screen/paper). 
 
-C. One-to-database; here the various independent components are separately defined as modules that can be used mutiple times and re-used by everybody that has access to the database. 
+C. One-to-database; here the various independent components are separately defined as modules that can be used multiple times and re-used by everybody that has access to the database. 
 
 Below we expand a little more on this and compare it with our four genres:
 
 
-####A) One-to-one publications
+###A) One-to-one publications
 
 On the lowest level, we have the unique book. Here we consider each book as a separate product where text-authors, illustrators/artists/photographers, and designers work together to produce the book as a one-off team. As there are many of such unique books, the production workflow is traditional. Pictures and/or full layout pages are not (yet) considered as reusable digital objects. In many cases no archives of the independent ingredients that together creates the end-product are available. N.B. there are many common characteristics between books in one genre. Hence, the question is how we can reveal/define these characteristics to enhance insight in the nature of these books. Artist's/experimental books are the obvious example of this kind of book.
 
 The issue at hand is experimenting with an e-representation of the same book. In some cases files of the final pages/book are being conversed into Epub3 (by an external agent). The final pages are controlled on readability and clearness (e.g. figures and captions have to be on the same page), changed where needed and hey presto – the e-book is ready. On this level the e-book is not more than an exact-as-possible picture of the printed book. In such cases the publisher might use a document management system, which can be a mere system of folders. Archiving files is important for possible reprints. Workflows are to a large extent unique though follow traditional publication path ways.
 
-####B) One-to-many publications
+###B) One-to-many publications
 
-On the next level we see a bifurcation between the manifestation of a paper print version and the electronic version. In fact, the electronic version, contrary to the paper version, is not a single object but has various chameleonic appearances. This is due to the fact that the presentation substrate of an electronic book is not unique. Furthermore the sizes of reading devices are not standardised and allow for both portrait or oblong viewing. On top of this, the popular semi-standard Epub3 allows for flowable pages and allows the reader to change the font and fontsize (corps) to avoid the need of reading glasses for a more pleasant consumer experience. The best exampale of the one-to-many publication are the art/design catalogue-like publications and research-like publications. In this category workflow schemes become very important as the same (part of) texts and images are used in various outlets. A workflow and related descriptors (metadata) set is compulsory. Future readers must be able to make choice from the collection of available essays. The most stable approach might be a XML based database model
+On the next level we see a bifurcation between the manifestation of a paper print version and the electronic version. In fact, the electronic version, contrary to the paper version, is not a single object but has various chameleonic appearances. This is due to the fact that the presentation substrate of an electronic book is not unique. Furthermore the sizes of reading devices are not standardised and allow for both portrait or oblong viewing. On top of this, the popular semi-standard Epub3 allows for flowable pages and allows the reader to change the font and fontsize (corps) to avoid the need of reading glasses for a more pleasant consumer experience. The best example of the one-to-many publication are the art/design catalogue-like publications and research-like publications. In this category workflow schemes become very important as the same (part of) texts and images are used in various outlets. A workflow and related descriptors (metadata) set is compulsory. Future readers must be able to make choice from the collection of available essays. The most stable approach might be a XML based database model
 
-####C) One-to-database
+###C) One-to-database
 
-The next level is Database Publishing. Database publishing means that all those objects or entities that can be used independently from each other. This means that it can be used in multiple ways, can be easily reused, are uniquely defined and stored in a memory system. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. In the case of a collection of essays, the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogsposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is never a one-workflow-fits-all, but the scheme of metadata can be complete as not all of the fields have to be used.
-
-
+The next level is Database Publishing. Database publishing means that all those objects or entities that can be used independently from each other. This means that it can be used in multiple ways, can be easily reused, are uniquely defined and stored in a memory system. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. In the case of a collection of essays, the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is never a one-workflow-fits-all, but the scheme of metadata can be complete as not all of the fields have to be used.

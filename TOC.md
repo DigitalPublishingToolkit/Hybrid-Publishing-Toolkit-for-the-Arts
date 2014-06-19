@@ -1,7 +1,7 @@
 DIGITAL PUBLISHING TOOLKIT
 ===========================
 
-# [Executive Summary](docs/executive_summary.html)
+# [01 Executive Summary](docs/01_executive_summary.html)
 <!--400 words, Florian, sprint-->
 
 - real versus perceived challenges
@@ -10,7 +10,7 @@ DIGITAL PUBLISHING TOOLKIT
 - best practices
 - opportunities
 
-# [Overview](docs/overview.html) <!--Margreet will work out, max 800 words-->
+# [02 Overview](docs/02_overview.html) <!--Margreet will work out, max 800 words-->
 
 graphical map
 
@@ -20,107 +20,33 @@ graphical map
 ## How to use this toolkit
 ## Who worked on this toolkit
 
-# IntroIntro
-# [General Introduction](docs/generalIntroduction.html) <!--2000 words-->
+# [03 Introduction](docs/03_introduction.html)<!--2000 words-->
 
-## General <!-- Joost-->
+## For the newcomers in the field
+## General introduction <!-- Joost-->
+ 
 
-## [Genres of publication: our scenarios](docs/genresofpublications.html) <!--Pia-->
+# [04 Genres of publication](docs/04_genres_of_publications.html) <!--Pia-->
 <!--first sketch/notes during sprint-->
+## Traditional forms of publication
+## New forms of publication
 
-### art/design catalogue like  
-Short summary: issues of going electronic, opportunities of going electronic
-### research like publication 
-Short summary: issues of going electronic, opportunities of going electronic
-### arts/design periodical 
-Short summary: issues of going electronic, opportunities of going electronic
-### artist's/experimental book 
-Short summary: issues of going electronic, opportunities of going electronic
-### new types of publications <!--optional -->
-Short summary: issues of going electronic, opportunities of going electronic
+# [05 Strengths & limitations of e-reading technologies ](docs/05_strengths_limitations.html)
 
-## [Strengths & limitations of particular](docs/strengths_limitations_of_particular.html)
+## Reader hardware <!--Marc -->
+## Reader software <!--Marc  -->
+## Some examples
+## File formats 
 
-reader hardware <!--Marc -->
-reader software <!--Marc  -->
-file formats 
+# [06 Distribution platforms](docs/06_distribution_platforms.html) <!--Marc-->
 
-## [Reader hardware](docs/reader-hardware.html) <!--Marc -->
+## e-book stores: Amazon, Apple, Google, Kobo, Sony... <!--todo-->
+## online reading platforms: Scribd, Issuu, website, etc. <!--Miriam-->
+## print-on-demand <!--Miriam-->
+## pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
+## artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian-->
 
-### e-reader
-Pros
-Contras
-### tablet
-Pros
-Contras
-### smartphone
-Pros
-Contras
-### PC/laptop
-Pros
-Contras
-### Other devices
-Pros
-Contras
-
-## [Reader software](docs/reader-software.html) <!--Marc-->
-### reader hardware vs. user-installable reader software
-#### mobile apps
-The most popular/important reading apps
-and their strengths and weaknesses
-#### web platforms
-The most popular/important reading web platforms
-and their strengths and weaknesses
-#### browser apps
-The most popular/important browser apps
-and their strengths and weaknesses
-#### standalone PC programs
-The most popular/important standalone PC programs
-and their strengths and weaknesses
-
-## [File formats](docs/file_formats.html) <!--Marc-->
-### web site 
-Pros
-Contras
-### PDF 
-Pros
-Contras
-### mobile app: native & HTML 5
-Pros
-Contras
-### epub 2/mobi 
-Pros
-Contras
-### epub 3/HTML5/iBooks/KF8 
-Pros
-Contras
-
-## [Distribution platforms](docs/distribution_platforms.html) <!--Marc-->
-
-### e-book stores: Amazon, Apple, Google, Kobo, Sony...
-Strengths
-Weaknesses
-
-### [online reading platforms: Scribd, Issuu, website, etc.](docs/onlinereadingplatforms.html) // Miriam
-Strengths
-Weaknesses
-
-### [print-on-demand](docs/print-on-demand.html) // Margreet
-Strengths
-Weaknesses
-
-### pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru // Florian
-Strengths
-Weaknesses
-
-### artist-/designer-run projects: Badlands, KYUR8, artistsebooks // Florian
-Strengths
-Weaknesses
-
-
-
-
-# [Workflows](docs/workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
+# [07 Workflows](docs/07_workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
 ## General
 
