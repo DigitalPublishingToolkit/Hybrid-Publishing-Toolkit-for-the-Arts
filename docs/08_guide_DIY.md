@@ -1,5 +1,30 @@
-##EPUB from scratch##
+# Guide: Design your own e-publication
 
+<!-- see research pub for proposal on structure of the general questions part ^Miriam -->
+
+Focus: epub2/3, HTML5 (app) + PDF
+    
+
+## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
+Flow chart: workflow <!-- Loes & Kimmy-->
+
+
+## Direct conversion to epub
+
+![Simplest possible case](../images/gd_markdowntoepub_simple.svg)
+
+Making an epub doesn't have to be complicated. As the epub standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an epub from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an epub.
+
+Two popular conversion programs that can convert from a wide variety of input formats and produce epub's are ''pandoc''[] and ''ebook-convert''[^1](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
+
+For example, consider Charlotte Bronte's ''Jane Eyre,'' available from Project Gutenberg in a variety of formats (including epub). The ["plain text" version](http://www.gutenberg.org/cache/epub/1260/pg1260.txt), is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc).
+
+TODO: Give simple example of using markdown + pandoc? to produce a simple epub.
+
+
+
+
+##EPUB from scratch
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an epub is "self-contained", any pages that are linked to or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
 
 An EPUB is a Zip archive typically named with the extension ".epub" instead of ".zip". The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an ereader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB file. In some cases, it might simply be necessary to rename the ".epub" with ".zip".
@@ -23,12 +48,12 @@ The file *mimetype* contains a single line describing the EPUB file as `applicat
 These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB.
 
 
-###Creating your own EPUB###
+###Creating your own EPUB
 
 Most of the elements of an EPUB can be produced by hand in a text editor - not to be confused by a word processor like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
 
 
-####Creating the required files and directories####
+####Creating the required files and directories
 
 1. Create a directory to store the files and subdirectories for your EPUB in, e.g. *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
@@ -38,7 +63,7 @@ Most of the elements of an EPUB can be produced by hand in a text editor - not t
 Now there are the two directories and one text file, like we saw when we decompressed the EPUB used as an example.
 
 
-####container.xml####
+####container.xml
 
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*;
 2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on and will be stored in the *OEBPS* directory.
@@ -56,7 +81,7 @@ Now there are the two directories and one text file, like we saw when we decompr
 3. Save and close *container.xml*.
 	
 
-####The OPF file####
+####The OPF file
 
 The OPF file is an important part of the structure of an EPUB and located in the *OEBPS* directory, as it contains the necessary metadata to accurately describe the publication, but also because it may contain a linear reading order which, in combination with the contents of *toc.ncx*, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below.
 
@@ -96,16 +121,21 @@ A manifest lists all the resources available in the EPUB package, with the excep
 Lastly, the `spine` lists all the pages present in the publication and it's listing arrangement tells an e-reader the linear reading order of the publication. The `spine` may only contain (X)HTML pages, not images or other content. The `toc` attribute refers to the `id`  of the `toc.ncx` in the manifest.
 	
 
-####The Content####
+####The Content
 
 As stated in the introduction of this section a large part of an EPUB is a collection of HTML files, often interlinked. The process of creating the pages for an EPUB is similar to building a website, but with the particular limitations of e-readers in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here]().
 Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of e-readers ignore or do not parse many of the style definitions.
 
 
-####Packaging####
+####Packaging
 
 Creating an .epub file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like *The Unarchiver* (Mac) or WinZip (Windows) or a special purpose utility.[^epub-zip-unzip] Some of these programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB. Most e-readers will safely ignore extraneous files, though parse the document properly. Validation of EPUBs can be done online using the [EPUB Validator](http://validator.idpf.org) or [a desktop application](http://www.pagina-online.de/produkte/epub-checker/). The .zip extension of the archive may then be renamed to .epub. This file can then be opened in an e-reader like Calibre, iBooks or similar applications.
 
 
 [^epub-standard]: [http://www.idpf.org/epub/30/spec/epub30-ocf.html](http://www.idpf.org/epub/30/spec/epub30-ocf.html)
 [^epub-zip-unzip]: [http://www.mobileread.com/forums/showthread.php?t=55681](http://www.mobileread.com/forums/showthread.php?t=55681)
+
+
+
+
+

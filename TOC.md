@@ -1,6 +1,8 @@
 DIGITAL PUBLISHING TOOLKIT
 ===========================
 
+<!-- have a closer look at the order of genres in 04, 09 -->
+
 # [01 Executive Summary](docs/01_executive_summary.html)
 <!--400 words, Florian, sprint-->
 
@@ -12,8 +14,7 @@ DIGITAL PUBLISHING TOOLKIT
 
 # [02 Overview](docs/02_overview.html) <!--Margreet will work out, max 800 words-->
 
-graphical map
-
+## Graphical map <!-- what should this be/contain?-->
 ## Why this toolkit
 ## For whom is this toolkit written
 ## What culture shock to expect <!--Input required Florian-->
@@ -25,9 +26,9 @@ graphical map
 ## For the newcomers in the field
 ## General introduction <!-- Joost-->
  
-
 # [04 Genres of publication](docs/04_genres_of_publications.html) <!--Pia-->
 <!--first sketch/notes during sprint-->
+
 ## Traditional forms of publication
 ## New forms of publication
 
@@ -48,273 +49,43 @@ graphical map
 
 # [07 Workflows](docs/07_workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
-## General
+## General <!-- todo -->
+## Structured workflows <!--needs a lot of editing - The three files of Markdown go in here - Kimmy edits this-->
+## Workflows per scenario <!-- Miriam maakt begin -->
 
-Flow charts: workflows
+# [08 Guide: Do it yourself epub](docs/08_guide_DIY.html) 
 
-From single medium to cross-media/hybrid publishing.
+## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
+## From markdown to epub <!-- Michael--> 
+## Epub from scratch <!-- Mark-->
 
-From-scratch development of each publication format vs. single source-multi format publishing: advantages, disadvantages
+# [09 Guide: E-publications per genre](docs/09_guide_genres.html)
 
-In-house development versus outsourcing to service providers: advantages, disadvantages
+## Art/design exhibition type catalogue <!--4000 words-->
+## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+## Research like publication <!-- INC example, Miriam maakt begin, 4000 words -->
+## Arts/design periodical <!--To do -->
+## New Genres
 
-Why new workflows are essential for small edition, low budget publishing.
+# [10 Futurology](docs/10_futurology.html) <!--2000 words-->
 
+## Reading technology 
+## Reading culture 
+## Publishing culture
 
-## [Structured workflows](docs/structured_workflow.html) <!--executive management advies /keuze van workflow-->
 
-Flow charts: workflows
+# [11 Glossary of technical terms](docs/11_glossary.html) <!--Loes & Joost -->
 
-### Single source cross-media with established software tools (Word, InDesign)
-
-Advantages, limitations
-
-### XML
-
-Advantages, limitations
-
-Does it work for me?
-
-### Markdown
-
-[Advantages, limitations](docs/markdown-advantages.md)
-
-[Is it an easier alternative to XML?](docs/markdown-vs-xml.md)
-
-[Practical tips and tricks](docs/markdown-tips.md)
-
-### Database publishing / Content Management System
-
-
-## [Workflows per scenario](docs/workflowsperscenario.html) <!-- Miriam maakt begin -->
-
-
-### art/design catalogue like
-
-traditional workflow vs. new workflow
-
-###  artist's/designer's book: traditional vs. new 
-
-traditional workflow vs. new workflow
-
-### research publication
-
-traditional workflow vs. new workflow
-
-
-### arts/design periodical
-
-traditional workflow vs. new workflow
-
-
-
-# Guide: Design your own e-publication <!-- see research pub for proposal on structure of the general questions part ^Miriam -->
-
-Focus: epub2/3, HTML5 (app) + PDF
-    
-
-## a simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
-
-Flow chart: workflow
-
-### [From markdown to epub](docs/frommarkdowntoepub.html) 
-
-A step-by-step guide
-
-### [Deconstructing Epub](docs/epub-from-scratch.html)
-
-A step-by-step guide: dowloading, unzipping and tweaking and epub file
-<!-- Marc, Florian, keyword during sprint-->
-
-## art/design exhibition type catalogue <!--4000 words-->
-
-Flow chart: workflow
-
-### General questions
-
-Should it be a 1:1 transfer from paper book to e-book?
-
-What are alternatives?
-
-### How to make an exhibition catalogue in epub2/3
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an exhibition catalogue as HTML5 (/app)
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an exhibition catalogue as PDF
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-
-## [Research like publication](docs/researchlikepub.html) <!-- INC example, Miriam maakt begin, 4000 words -->
-
-
-Flow chart: workflow
-
-### General questions
-
-#### Decision making  
-Should it be a 1:1 transfer from paper book to e-book?
-
-What are alternatives and possibilities?
-
-#### Instructions
-How to adjust the style guide?
-
-What metadata to add?
-
-Do editorial criteria regarding the content change?
-
-#### Specific issues for this publication type
-
-#### Based on the above, what to choose?
-
-### How to make a research publication in epub2/3
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make a research publication as HTML5 (/app)
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make a research publication as PDF
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-
-
-## arts/design periodical <!--example -->
-
-- Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 
-
-- Niet commercieel website / PDF 
-
-- Academic magazine (jStor) 
-
-- Public Magazine 
-
-- Commercial / app store model. <!--1000 words -->
-
-Flow chart: workflow
-
-### General questions
-
-Should it be a 1:1 transfer from paper book to e-book?
-
-What are alternatives?
-
-### How to make an arts/design periodical in epub2/3
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an arts/design periodical as HTML5 (/app)
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an arts/design periodical as PDF
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-
-## artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
-
-Flow chart: workflow
-
-### General questions
-
-Should it be a 1:1 transfer from paper book to e-book?
-
-What are alternatives?
-
-### How to make an artist's/designer's book in epub2/3
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an artist's/designer's book as HTML5 (/app)
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-### How to make an artist's/designer's book as PDF
-
-A step-by-step guide
-
-Advantages, disadvantages
-
-
-
-# Futurology <!--2000 words-->
-
-Where will e-publishing be in 2020?
-
-## reading technology 
-
-## reading culture 
-
-## publishing culture
-
-
-
-# Appendix 
-
-
-## [Glossary of technical terms](docs/glossary.html) <!--Loes -->
-
-## Keyword index 
-
-## Bibliography 
-
-## Link list <!--mirrored linking -->
-
-# Instructions used in the preparation of this document
-<!-- Does this become a part of the final publication as appendix? -->
-
-## [Instructions for placing images](images/_image_instructions.html)
-
-
-# [Software catalogue](docs/software.html) <!--Michael -->
+# [12 Software catalogue](docs/software.html) <!--Michael -->
 
 ## Pre-existing software
-- Open Source 
-- close-source Freeware 
-- Proprietary
-
 ## Self-written software
 
+# [13 Appendix](docs/13_appendix.html)
 
-
-
-
-[^1]: Guiding principle for authoring the single chapters:
-
-Provide a step-by-step guide rom well-structured sources to final e-publication 
-
-Leave out & merely reference: 
-- everything covered elsewhere; 
-- everything too case-specific; 
-- everything for which you really need an external pro.
-
+## Keyword index 
+## Bibliography 
+## Link list <!--mirrored linking -->
+## Instructions used in the preparation of this document
+<!-- Does this become a part of the final publication as appendix? -->
+## Instructions for placing images

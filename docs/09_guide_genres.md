@@ -1,10 +1,68 @@
-Part of:   
-Guide: Design your own e-publication 
+# Guide: E-publications per genre
 
-Focus: epub2/3, HTML5 (app) + PDF
+## Art/design exhibition type catalogue <!--4000 words-->
+
+Flow chart: workflow
+
+### General questions
+
+Should it be a 1:1 transfer from paper book to e-book?
+
+What are alternatives?
+
+### How to make an exhibition catalogue in epub2/3
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an exhibition catalogue as HTML5 (/app)
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an exhibition catalogue as PDF
+
+A step-by-step guide
+
+Advantages, disadvantages
 
 
-## research like publication //INC example //4000 words //Miriam
+
+
+## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+
+Flow chart: workflow
+
+### General questions
+
+Should it be a 1:1 transfer from paper book to e-book?
+
+What are alternatives?
+
+### How to make an artist's/designer's book in epub2/3
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an artist's/designer's book as HTML5 (/app)
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an artist's/designer's book as PDF
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+
+
+
+## Research like publication 
 
 Flow chart: workflow - <!-- Miriam: see over at workflows? Or is the workflows per scenario chapter only introductory without the visuals yet? Or a division of old vs new? -->
 
@@ -84,3 +142,53 @@ From InDesign - when it's 1:1 use the certified PDF that goes to the printer, do
 Possibilities for reading online: Scribd, Issuu, in-browser reading
 
 Advantages, disadvantages
+
+
+
+
+
+## Arts/design periodical <!--To do -->
+
+- Art OPEN Magazine of e-Flux journal, advise to use the web, instead of e-pub. 
+
+- Niet commercieel website / PDF 
+
+- Academic magazine (jStor) 
+
+- Public Magazine 
+
+- Commercial / app store model. <!--1000 words -->
+
+Flow chart: workflow
+
+### General questions
+
+Should it be a 1:1 transfer from paper book to e-book?
+
+What are alternatives?
+
+### How to make an arts/design periodical in epub2/3
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an arts/design periodical as HTML5 (/app)
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+### How to make an arts/design periodical as PDF
+
+A step-by-step guide
+
+Advantages, disadvantages
+
+
+
+
+
+## New genres
+
+
