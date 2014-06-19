@@ -11,7 +11,7 @@ Flow chart: workflow <!-- Loes & Kimmy-->
 
 ## Direct conversion to epub
 
-![Simplest possible case](../images/gd_markdowntoepub_simple.svg)
+![Simplest possible case](images/gd_markdowntoepub_simple)
 
 Making an epub doesn't have to be complicated. As the epub standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an epub from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an epub.
 
@@ -35,7 +35,7 @@ A rudimentary EPUB is used as an example to explain several of its concepts and 
 
 Decompressing an EPUB will reveal its directory layout and in that way make clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed Zip archive, looking as follows after unzipping it:
 
-![Figure: EPUB layout](../images/chapterabb_img.gif "Figure: EPUB layout")
+![Figure: EPUB layout](images/chapterabb_img "Figure: EPUB layout")
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes as an EPUB. 
 
