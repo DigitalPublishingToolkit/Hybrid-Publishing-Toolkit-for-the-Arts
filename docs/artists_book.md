@@ -1,4 +1,4 @@
-## Artist's/designer's book
+# Artist's/designer's book
 
 Lately, artists' and designer's books have grown from a niche phenomenon to a major genre within arts and design publishing. It could be argued that the book as an art or design object in its own right has become more prominent now that the function of the book as a generic carrier of information (such as in a telephone directory, a dictionary or a run-of-the-mill novel or non-fiction paperback) is increasingly taken over by the World Wide Web and by e-readers. 
 
@@ -6,7 +6,7 @@ The history of artists' books - or "bookworks", as the Mexican-Dutch writer and 
 
 The common denominator of these books is that they defy easy categorization and genre characteristics, making it difficult to give standard recommendations for their design as electronic books. 
 
-### Transfer from paper to electronic?
+## Transfer from paper to electronic?
 
 The more medium-specific an artist's book is, the less sense it makes to translate it 1:1 into an electronic book. Dieter Roth's sculptural book objects, for example, would change from book art works to mere depictions of book art workds when reproduced electronically. 
 
@@ -16,7 +16,7 @@ On the other hand, many contemporary artists, designers and media activists expe
 - Since the late 1990s, there have been a number of artist-run sites - textz.com, ubu.com, aaaaarg.org, monoskop.org - that offer free downloads of cultural theory and arts-related books, typically in simple formats such as plain text, PDF and epub.
 In these examples, the focus is not on the book as a visual object, but on concepts and politics of its sharing and dissemination; in other words, artists' publishing as electronic samizdat. In such scenarios, artists' books as simple 1:1 transfers from print originals to electronic reproductions can make sense.
 
-#### Technical solutions for samizdat publications
+### Technical solutions for samizdat publications
 
 For such activist or minimalist projects, the lowest technical denominator and most easily readable file formats are advisable:
 - plain text (ASCII) as the most simple, compatible and minimalist solution
@@ -25,15 +25,15 @@ For such activist or minimalist projects, the lowest technical denominator and m
 - epub. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to e-readers. Projects can very easily be made and provided both in HTML and epub.
 Since the design of most samizdat books does not differ from that of [research publications](...) or other visually simple publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. 
 
-### How to make visually oriented artists' books
+## How to make visually oriented artists' books
 
-#### Pre-history and general issues
+### Pre-history and general issues
 
 There is, factually, a rich tradition of artists' audiovisual electronic books: It began in the 1990s with hypertext and interactive multimedia literary experiments on floppy disk, CD-ROMs, later web sites and mobile apps. The [Electronic Literature Organization](http://eliterature.org) and the international research project [ELMCIP](http://elmcip.net/knowledgebase) document it extensively. Much of this documentation has become media archeology since multimedia formats have become obsolete: CD-ROM applications that no longer run on contemporary computers, websites whose links or plug-ins are no longer working or not compatible to today's browsers anymore. 
 
 This problem was greater in the 1990s and early 2000s when working open, cross-platform multimedia standards barely existed. But even today, the rule explained in chapter ... <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. 
 
-#### Simple solutions
+### Simple solutions
 
 Electronic visual books can be made in very simple ways:
 * As a sequence of images, embedded into an epub file <!-- add reference-->, a self-contained HTML file <!-- add reference--> or a PDF file.
