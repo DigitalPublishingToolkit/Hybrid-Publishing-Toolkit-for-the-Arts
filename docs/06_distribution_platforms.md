@@ -9,6 +9,8 @@ Weaknesses
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
 
+When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical e-bookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
+
 Below several platforms are discussed, including characteristics, statistics, strenghts and weaknesses, and how-to.
 
 [maybe as an aside?] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
@@ -253,5 +255,51 @@ Boekscout is one of the biggest print-on-demand publishers in The Netherlands, a
 
 ## pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--To do Florian/ check Miriam's structure-->
 
+As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. 
+
+Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. Netflix, the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on The Pirate Bay. 
+
+### Examples
+
+Pirate platforms are, by their nature, even more volatile than online bookstores and e-reading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
+
+#### All-purpose download sites
+
+Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent ) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
+
+The content listed on The Pirate Bay and other sites for the bittorrent protocol tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and Science Fiction among the e-book downloads. For example, on a particular day and minute in June 2014, the book "Atlast of Ancient Worlds" had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series "Game of Thrones" - had more than 70000 downloads. 
+
+
+#### General e-book sites
+
+The most simple pirate e-book sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little _of_publication.mdore than a simple search engine that spits out downloadable e-books. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org).
+
+What online booksellers could learn from these sites: 
+* Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether a bestseller or obscure.
+* Simplicity in formats. The sites provide epubs or PDFs depending on whatever file format they have available (and obtained from hacker networks). 
+
+#### Specialized sites
+
+Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, "textz.com" by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name "textz" was a pun on "warez", a slang name for illegally copied software. Later, the web sites aaaaarg.org and Monoskop provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
+
+Best known, and factually legendary, is [Ubuweb](http://www.ubu.com), an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
+
+All these sites run like small specialty bookstores (although they don't sell anything). They show that the opposite of Amazon and bookfi.org can work as well: personal selection and combination of books. If they are as strong as in the case of Ubuweb and Monoskop, they create their own public that will download a work not because of having heard of it or of the author, but because being on such a particular site is recommendation enough. 
+
+
+
 
 ## artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian/ checks miriam sctructure-->
+
+In the last couple of years, there have been first attempts to create only
+small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html):
+graphic designer James Bridle (who coined the term "new aesthetics") created
+the website "artistsebooks.org"  with freely downloadable epub-files by
+experimental writers and artists. American contemporary artist and designer
+Paul Chan initiated the more commercial online press Badlands Unlimited that
+sells artist-made visual electronic books that are proprietary to the iPad and
+Apple's iBooks-platform. The iPhone/iPad app "KYR8" (slang riff on
+"curate") invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections.
+
+None of these projects compete with classical e-book stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portofolio pieces. 
+
