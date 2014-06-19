@@ -41,25 +41,31 @@ DIGITAL PUBLISHING TOOLKIT
 
 # [06 Distribution platforms](docs/06_distribution_platforms.html) <!--Marc-->
 
-## e-book stores: Amazon, Apple, Google, Kobo, Sony... <!--todo-->
-## online reading platforms: Scribd, Issuu, website, etc. <!--Miriam-->
-## print-on-demand <!--Miriam-->
-## pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
-## artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian-->
+## E-book stores: Amazon, Apple, Google, Kobo, Sony... <!--todo-->
+## Online reading platforms: Scribd, Issuu, website, etc. <!--Miriam-->
+## Print-on-demand <!--Miriam-->
+## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
+## Artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian-->
 
 # [07 Workflows](docs/07_workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
 
-## General <!-- todo -->
-## Structured workflows <!--needs a lot of editing - The three files of Markdown go in here - Kimmy edits this-->
-## Workflows per scenario <!-- Miriam maakt begin -->
+## Why change your life <!-- todo -->
+## Towards a hybrid workflow 
 
-# [08 Guide: Do it yourself epub](docs/08_guide_DIY.html) 
+# [08 Guide: Workflow per scenario](docs/08_guide_workflow.html) <!-- Miriam maakt begin -->
+
+## Art/design exhibition type catalogue <!--4000 words-->
+## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+## Research like publication <!-- INC example, Miriam maakt begin, 4000 words -->
+## Arts/design periodical <!--To do -->
+
+# [09 Guide: Do it yourself epub](docs/09_guide_DIY.html) 
 
 ## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
 ## From markdown to epub <!-- Michael--> 
 ## Epub from scratch <!-- Mark-->
 
-# [09 Guide: E-publications per genre](docs/09_guide_genres.html)
+# [10 Guide: E-publications per genre](docs/10_guide_genres.html)
 
 ## Art/design exhibition type catalogue <!--4000 words-->
 ## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
@@ -67,21 +73,21 @@ DIGITAL PUBLISHING TOOLKIT
 ## Arts/design periodical <!--To do -->
 ## New Genres
 
-# [10 Futurology](docs/10_futurology.html) <!--2000 words-->
+# [11 Futurology](docs/11_futurology.html) <!--2000 words-->
 
 ## Reading technology 
 ## Reading culture 
 ## Publishing culture
 
 
-# [11 Glossary of technical terms](docs/11_glossary.html) <!--Loes & Joost -->
+# [12 Glossary of technical terms](docs/12_glossary.html) <!--Loes & Joost -->
 
-# [12 Software catalogue](docs/software.html) <!--Michael -->
+# [13 Software catalogue](docs/13_software.html) <!--Michael -->
 
 ## Pre-existing software
 ## Self-written software
 
-# [13 Appendix](docs/13_appendix.html)
+# [14 Appendix](docs/14_appendix.html)
 
 ## Keyword index 
 ## Bibliography 
