@@ -125,7 +125,7 @@ means that information is stored in unique entities. Only when we decide
 to deal with the smallest entity possible: a zero and a one, we speak
 about binary.
 
-## General introduction
+## Electronic possibilities 
 
 Novel electronic capabilities enable a great number of possible
 publication outlets. Before entering into the problematic aspects of

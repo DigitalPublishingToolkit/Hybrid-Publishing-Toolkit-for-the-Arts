@@ -3,79 +3,81 @@ DIGITAL PUBLISHING TOOLKIT
 
 
 # [01 Executive Summary](docs/01_executive_summary.html)
-<!--400 words, Florian, sprint-->
+<!--status: Joost adds a few things, then it's ready for copy edit.-->
 
-- real versus perceived challenges
-- technological shortcomings 
-- other common traps
-- best practices
-- opportunities
+# [02 Overview](docs/02_overview.html) 
+<!--status: ready for copy-edit-->
 
-# [02 Overview](docs/02_overview.html) <!--Margreet will work out, max 800 words-->
-
-## Graphical map <!-- what should this be/contain?-->
 ## Why this toolkit
 ## For whom is this toolkit written
-## What culture shock to expect <!--Input required Florian-->
+## What culture shock to expect 
 ## How to use this toolkit
 ## Who worked on this toolkit
 
-# [03 Introduction](docs/03_introduction.html)<!--2000 words-->
+# [03 Introduction](docs/03_introduction.html)
+<!--status: ready for copy-edit-->
 
 ## For the newcomers in the field
-## General introduction <!-- Joost-->
- 
-# [04 Genres of publication](docs/04_genres_of_publications.html) <!--Pia-->
-<!--first sketch/notes during sprint-->
+## Electronic possibilities 
 
-## Traditional forms of publication
-## New forms of publication
+ 
+# [04 Genres of publication](docs/04_genres_of_publications.html) 
+<!--status: ready for copy-edit-->
+
+## Forms of publication
+## Levels of electronic publishing
 
 # [05 Strengths & limitations of e-reading technologies ](docs/05_strengths_limitations.html)
+<!--status: thorough reading by Pia and Margreet-->
 
-## Reader hardware <!--Marc -->
-## Reader software <!--Marc  -->
-## Some examples
+## Reader hardware 
+## Reader software 
 ## File formats 
 
-# [06 Distribution platforms](docs/06_distribution_platforms.html) <!--Marc-->
+# [06 Distribution platforms](docs/06_distribution_platforms.html) 
+<!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
 
-## E-book stores: Amazon, Apple, Google, Kobo, Sony... <!--todo-->
+## E-book stores: Amazon, Apple, Google, Kobo, Sony... <!--Marc-->
 ## Online reading platforms: Scribd, Issuu, website, etc. <!--Miriam-->
 ## Print-on-demand <!--Miriam-->
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
-## Artist-/designer-run projects: Badlands, KYUR8, artistsebooks <!--Florian-->
+## Artist-/designer-run projects: Badlands, KYUR8, artists e-books <!--Florian-->
 
-# [07 Workflows](docs/07_workflows.html) <!--2500 words, small executive summary of the guide. How to organize your work. Start with image Arjen de Jong-->
+# [07 Workflows](docs/07_workflows.html) 
+<!--status: needs work and cutting-->
 
-## Why change your life <!-- todo -->
+## Why change your life <!-- Florian -->
 ## Towards a hybrid workflow 
 
 # [08 Guide: Do it yourself epub](docs/08_guide_DIY.html) 
+<!--status: ask input from Florian -->
 
-## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
-## From markdown to epub <!-- Michael--> 
-## Epub from scratch <!-- Mark-->
+## A simple e-book 
+## Direct conversion to ePub
+## Epub from scratch 
 
+# [09 Guide: / E-publications per genre](docs/09_guide_workflow.html) 
+<!--status: work needed-->
 
-# [09 Guide: / E-publications per genre](docs/09_guide_workflow.html) <!-- Miriam maakt begin -->
+## Research publication <!--INC project, Miriam-->
+## Art/design catalogue <!--Stedelijk project, Loes & Barbera-->
+## Artist/designer book <!--Florian shorten/rewrite-->
+## Art/design periodical <!--Open online, Margreet-->
 
-## Research publication <!-- INC example, Miriam maakt begin, 4000 words -->
-## Art/design catalogue <!--4000 words-->
-## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
-## Art/design periodical <!--To do -->
-## New genres
-
-# [10 Futurology](docs/10_futurology.html) <!--2000 words-->
+# [10 Futurology](docs/10_futurology.html) 
+<!--status: work needed--><!--Michael, Silvio, Florian, Joost, Arjen, Kimmy-->
 
 ## Reading technology 
 ## Reading culture 
 ## Publishing culture
+## New genres 
 
 
-# [11 Glossary of technical terms](docs/11_glossary.html) <!--Loes & Joost -->
+# [11 Glossary of technical terms](docs/11_glossary.html)
+<!--status: pending, add unknown words when you see them-->
 
-# [12 Software catalogue](docs/12_software.html) <!--Michael -->
+# [12 Software catalogue](docs/12_software.html) 
+<!--status: -->
 
 ## Pre-existing software
 ## Self-written software
