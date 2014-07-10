@@ -17,14 +17,14 @@ mind that in the Roman times (when texts were cut in stone) we had
 continuing writing: no spaces between the words. This was not considered
 a problem as reading was a craft only a few people mastered. These
 people knew the words and hence were able to read aloud, just try:
-Icanreadthiseasilyalound. In time, the craft of reading became a common
-good and many design helpers were introduced, such spaces between words,
-capitals at the beginning of new sentences, commas, semicolons, colons
-and line breaks. Also the notion of paragraphs, chapters, etc. developed
-into a standardized culture that allowed a smooth transmission between
-the structure the author endowed their text with and the reader who
-became familiar to these standards enabling the ease of reading and
-furthermore to do this silently.
+*Icanreadthiseasilyalound*. In time, the craft of reading became a
+common good and many design helpers were introduced, such as spaces
+between words, capitals at the beginning of new sentences, commas,
+semicolons, colons and line breaks. Also the notion of paragraphs,
+chapters, etc., developed into a standardized culture that allowed a
+smooth transmission between the structure the authors endowed their text
+with and the readers who became familiar to these standards enabling the
+ease of reading and furthermore to do this silently.
 
 This whole structure of stratifying words into sentences, sentences into
 paragraphs and so on, including reading aids such as exclamation marks,
@@ -39,42 +39,41 @@ the conflation of an E and a t – we call this conflations, *ligatures*.
 Hence, to be able to handle all vanities and define what we allow and
 what not, **Markup languages** emerged.
 
-Markup languages are grammars that define the markup and the the
-relations between markup elements. With the emergence of computer
-networks and the increasing need to standardize texts for multiple
-usages (think about manuals), in 1982 an international ISO standard was
-established called: Standardised General Markup Language (SGML). This
-logically structured markup language was a big step forward, as it made
-a fundamental split between the text structure as such and the final
-representation of that structure. For example, contrary to languages
-used in wordprocessors such as Tex, Latex, Word, MSWord, Wordperfect or
-ODF (open office document format), where presentation and text
-structuring are mixed, SGML only defines functions or roles. So, when we
-type using a word processor a **Bold** word in the text we in fact type
-“start bold” -\> type the word- \> “end bold”. What is happening here is
-a mixture of structure and **Layout** . Layout is the activity of
-presenting a text onto a medium, such as a paper page. SGML and it
-derivatives, the easier HTML (HyperText Markup Language) and the
-expanded XML (EXtensible Markup Language) make a strict distinction
-between structure and representation. A markup language knows notions
-such as “highlighted word or phrase” and then type 1,2,3... This allows
-you to equate e.g.: chapter heading with type1 and quotation with type
-4. Depending on the output substrate you can then define in the layout
-phase how this will look like. For instance, a chapter heading is in a
-certain type font and font size and centred on the page, whilst a
-quotation is represented in the same corps and font of the running text,
-but now in italics. On a screen we can have things like chapter heading
-in pink and quotations are yellow. This layout freedom is then
-explicated in a so-called **style sheet**, which is a table that
-connects a layout schema with the markup schema. This way of working is
-imperative if we want to allow a source text to be represented on many
-different ways on various media of various size. Note, that in many
-programs these translations are done fairly invisibly to the user. If we
-translate a .odt file into a .docx file, in principle all coding is
-one-to-one translated. As we will see in the following translation
-between one file type into another is not always symmetrical. Hence, the
-golden rule is to always make sure that the source text is as
-systemically structured as possible.
+Markup languages are grammars that define the markup and the relations
+between markup elements. With the emergence of computer networks and the
+increasing need to standardize texts for multiple usages (think about
+manuals), in 1982 an international ISO standard was established called:
+Standardised General Markup Language (SGML). This logically structured
+markup language was a big step forward, as it made a fundamental split
+between the text structure as such and the final representation of that
+structure. For example, contrary to languages used in wordprocessors
+such as Tex, Latex, Word, MSWord, Wordperfect or ODF (open office
+document format), where presentation and text structuring are mixed,
+SGML only defines functions or roles. So, when we type using a word
+processor a **Bold** word in the text we in fact type “start bold” -\>
+type the word- \> “end bold”. What is happening here is a mixture of
+structure and **Layout** . Layout is the activity of presenting a text
+onto a medium, such as a paper page. SGML and it derivatives, the easier
+HTML (HyperText Markup Language) and the expanded XML (EXtensible Markup
+Language) make a strict distinction between structure and
+representation. A markup language knows notions such as “highlighted
+word or phrase” and then type 1,2,3... This allows you to equate e.g.:
+chapter heading with type1 and quotation with type 4. Depending on the
+output substrate you can then define in the layout phase how this will
+look like. For instance, a chapter heading is in a certain type font and
+font size and centred on the page, whilst a quotation is represented in
+the same corps and font of the running text, but now in italics. On a
+screen we can have things like chapter heading in pink and quotations
+are yellow. This layout freedom is then explicated in a so-called
+**style sheet**, which is a table that connects a layout schema with the
+markup schema. This way of working is imperative if we want to allow a
+source text to be represented on many different ways on various media of
+various size. Note, that in many programs these translations are done
+fairly invisibly to the user. If we translate a .odt file into a .docx
+file, in principle all coding is one-to-one translated. As we will see
+in the following, translation between one file type into another is not
+always symmetrical. Hence, the golden rule is to always make sure that
+the source text is as systemically structured as possible.
 
 An important notion is that all text and accompanying coding are all
 written in simple letters and numerals, it is and remains **Flat text**.
@@ -125,7 +124,7 @@ means that information is stored in unique entities. Only when we decide
 to deal with the smallest entity possible: a zero and a one, we speak
 about binary.
 
-## Electronic possibilities 
+## Electronic possibilities
 
 Novel electronic capabilities enable a great number of possible
 publication outlets. Before entering into the problematic aspects of
