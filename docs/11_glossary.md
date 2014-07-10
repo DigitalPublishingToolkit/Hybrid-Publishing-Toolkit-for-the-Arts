@@ -709,7 +709,7 @@ AVI7 MOV8 RM, which are alternative video file formats.
 The integration of two or more types of information (text, images,
 audio, video, animation, etc.) in a single application.
 
-### N
+### **N**
 
 *Native app*
 
@@ -808,6 +808,9 @@ downloadable broadcast digital video recording.
 A small Window that appears within a program or over the top of a Web
 page to deliver additional information. Pop-ups on the Web can be
 annoying as they are often used for unwanted advertising material.
+
+*Print-on-Demand*
+Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model flies in the face of traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. The sales of online books and e-books facilitate POD and eliminate the need for hard copy book displays. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print on demand is sometimes called publish on demand.
 
 *Program*
 
