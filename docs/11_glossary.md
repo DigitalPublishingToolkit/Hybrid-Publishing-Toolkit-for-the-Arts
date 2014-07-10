@@ -114,6 +114,8 @@ Audio Video Interleaved. A Microsoft video format where audio and video
 coding appears in alternate segments. AVI files will end with an .avi
 extension.
 
+*AZW*
+
 ### **B**
 
 *Bandwidth*
@@ -306,7 +308,9 @@ mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400,
 which means that the number of horizontal dots is different from the
 number of vertical dots
 
-### **E** 
+*Drm*
+
+### **E**
 
 *e-book*
 
@@ -330,6 +334,8 @@ page, which reduces considerably the power consumption and makes it an
 ideal technology for long reading. The resolution of the stable screen
 is very high. A disadvantage is that, like paper, the presentation does
 not allow motion pictures or animations.
+
+*Epub*
 
 *Encryption*
 
@@ -389,6 +395,8 @@ managers.
 
 The process of preparing a writeable disc for use. Formatting creates a
 structure on the disc which enables it to hold data.
+
+*Freemium*
 
 ### **G**
 
@@ -518,6 +526,8 @@ interconnected networks that evolved from the ARPANET of the late 60's
 and early 70's. It has grown from a handful of interconnected networks
 into a huge network of millions of computers.
 
+iOS
+
 *Ipad*
 
 *iPod*
@@ -560,20 +570,20 @@ popular library called Jquery has come along that offers users a lot of
 interactivity without using Flash. Jquery also supports a host of
 specialist plug-ins to extend the library.
 
-*JPEG or JPG* 
+*JPEG or JPG*
 
-Abbreviation for Joint Photographic Expert Group.
-Pronounced "Jaypeg". A file format used for storing images. The JPEG/JPG
-format uses a palette of millions of colours and is primarily intended
-for photographic images. The internal compression algorithm of the
-JPEG/JPG format, unlike the GIF format, actually throws out superfluous
-information, which is why JPEG/JPG files containing photographic images
-end up smaller than GIF files containing photographic images. If you
-store an image, say, of a flag containing just three colours in JPEG/JPG
-format it may end up bigger than a GIF file containing the same image,
-but not necessarily a lot bigger - it depends on the type and range of
-colours it contains. JPEG/JPG files containing photographic images are
-normally smaller than GIF files containing photographic images.
+Abbreviation for Joint Photographic Expert Group. Pronounced "Jaypeg". A
+file format used for storing images. The JPEG/JPG format uses a palette
+of millions of colours and is primarily intended for photographic
+images. The internal compression algorithm of the JPEG/JPG format,
+unlike the GIF format, actually throws out superfluous information,
+which is why JPEG/JPG files containing photographic images end up
+smaller than GIF files containing photographic images. If you store an
+image, say, of a flag containing just three colours in JPEG/JPG format
+it may end up bigger than a GIF file containing the same image, but not
+necessarily a lot bigger - it depends on the type and range of colours
+it contains. JPEG/JPG files containing photographic images are normally
+smaller than GIF files containing photographic images.
 
 ### **K**
 
@@ -655,6 +665,15 @@ A *mashup* is a Web page that brings together data from two or more Web
 services and combines the data into a new application with added
 functionality.
 
+*Metadata*
+
+*MIDI*
+
+Abbreviation for Musical Instrument Digital Interface. A format for
+synthesised music. Music in MIDI format is created and played through
+the use of synthesisers, unlike "real" music which is normally recorded
+in MP31, WMA2 or WAV3 file format.
+
 *Mobi*
 
 (.mobi, ook wel dotMobi genoemd) is een topleveldomein (TLD). Het
@@ -664,13 +683,6 @@ internetdomeinnaam, zoals .nl, .org, .gov, .brussels etc. \#\#\#\#
 Mobipocket Is a French company incorporated in March 2000 that produces
 Mobipocket Reader software, an e-book reader for some personal digital
 assistants (PDA), wireless telephones and desktop operating systems.
-
-*MIDI*
-
-Abbreviation for Musical Instrument Digital Interface. A format for
-synthesised music. Music in MIDI format is created and played through
-the use of synthesisers, unlike "real" music which is normally recorded
-in MP31, WMA2 or WAV3 file format.
 
 *Monitor*
 
@@ -758,7 +770,13 @@ dialect van C. \#\#\#\# Opensource Beschrijft de praktijk die in
 productie en ontwikkeling vrije toegang geeft tot de bronmaterialen (de
 source) van het eindproduct. De bekendste vorm is opensourcesoftware.
 
+*Open source*
+
+*OS* Operating system
+
 ### **P**
+
+*PDA*
 
 *PDF*
 
@@ -875,6 +893,8 @@ viruses. RTF files preserve most of the formatting contained in
 DOC-formatted files.
 
 ### S
+
+*SDK*
 
 *Semantic Web*
 
