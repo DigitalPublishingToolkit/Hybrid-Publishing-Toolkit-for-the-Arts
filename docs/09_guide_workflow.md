@@ -217,7 +217,3 @@ A step-by-step guide
 
 Advantages, disadvantages
 
-
-
-
-## New genres

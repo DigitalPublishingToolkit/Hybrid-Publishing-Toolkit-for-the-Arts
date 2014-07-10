@@ -1,11 +1,13 @@
 # Strengths & limitations of e-reading technologies
 
-##Reader Hardware
+<!--Visual by Arjen-->
+
+##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts.
 
 
-###e-Readers
-e-Readers became widely known by the introduction of Amazon Kindle in 2007. e-Readers differ from tablets in the way that they are really only suitable for reading books, are relatively cheap and have monochrome displays. An important characteristic of the e-reader is the use of *electronic paper* (e-paper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as close as possible and is relatively low on energy consumption. Current generation e-paper is incapable of rendering complex motion, so animations and video are not possible.
+###E-readers
+E-readers became widely known by the introduction of Amazon Kindle in 2007. E-readers differ from tablets in the way that they are really only suitable for reading books, are relatively cheap and have monochrome displays. An important characteristic of the e-reader is the use of *electronic paper* (e-paper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as close as possible and is relatively low on energy consumption. Current generation e-paper is incapable of rendering complex motion, so animations and video are not possible.
 
 Both Amazon and Barnes & Noble also offer more expensive models, Kindle Fire (and Kindle Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really e-readers anymore, but fully-fledged, small sized tablets. These models do not use *e-paper*, but colour LED screens with backlight – a standard component of tablets like iPad or Galaxy Tab. Mostly these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic e-readers using their own operating system built on a version of Linux. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to these smaller sized tablets.
 
@@ -26,38 +28,12 @@ Reading e-books on a laptop or personal computer is of course a possibility but 
 ###Other devices
 <!-- What other devices? -->
 
-##Reader Software
+##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on e-readers. Firstly almost all devices offer a full colour display, as opposed to the monochrome e-ink screens of e-readers. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
 ###Mobile applications
 There exist many applications for mobile devices (tablets and smartphones). Some of the available software constitute of companion apps to well-known e-readers, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not available e-readers and often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the e-reader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8) and PDF.
 
-###PC Software
-A plethora of desktop applications exist which allow users to read EPUBs. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software. The functionality is similar to that of the mobile versions.
-
-Calibre is an application of note here, because it's an e-book management suite with many features. It offers tools for managing large collections of e-books, but also converts files to many different formats (e-books and other text based formats)[^calibre-file-formats]. Viewing all major e-books file formats, as well as editing EPUBs and AZWs is also part of the software package.
-
-###Web Platforms
-There exist some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012. The reason given for the closure mentions an "interesting experiment" but also the dramatic changes in the e-book ecosystem over the past few years. [Booki.sh](https://booki.sh), another project is still online and offers a complete library of e-books which may be view and stored online. It doesn't appear to operate commercially though, the ability to purchase books was removed in June 2013.[^bookish-blog]
-
-###Browser Applications
-Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are probably more of a convenience method in order to quickly (pre)view e-books, instead of being fully-fledged solutions for reading e-books comparable to the functionality of e-readers.
-
-One example is Readium, a project by the idpf and several publishers and technology companies. It aims to provide a reference system, a collection of best practices, for rendering EPUB 3 publications. [^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Browser. After installing the extension offers an EPUB reader inside the browser window.
-
-
-[^calibre-file-formats]: http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from
-[^ade-readers]: http://blogs.adobe.com/digitalpublishing/supported-devices
-[^bookish-blog]: http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/
-[^readium-goals]: http://readium.org/readium-project-goals
-[^readium-extension]: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl
-
-
-
-<!-- Move to a different section -->
-## Some Examples
-
-###Mobile application
 ####iBooks####
 iBooks is Apple's e-reader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied from a desktop to the library of iBooks. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and	 the closed-source `.ibooks` file format (IBA) - a derivative of EPUB 3.
 
@@ -74,7 +50,12 @@ Kindle is Amazon's counterpart for tablets and smartphones to their physical e-r
 Kobo, like Amazon, produces e-reader hardware and also has a large bookstore. As such the apps they offer for Android and iOS are largely complementary to the e-reader companion devices manufactured by Kobo. Libraries are synced across devices, provided all the content is bought in Kobo's bookstore. Kobo supports both EPUB and PDF files.
 
 
-###PC Software
+
+###PC software
+A plethora of desktop applications exist which allow users to read EPUBs. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software. The functionality is similar to that of the mobile versions.
+
+Calibre is an application of note here, because it's an e-book management suite with many features. It offers tools for managing large collections of e-books, but also converts files to many different formats (e-books and other text based formats)[^calibre-file-formats]. Viewing all major e-books file formats, as well as editing EPUBs and AZWs is also part of the software package.
+
 
 ####Calibre
 Calibre is an e-book management suite with many features. It offers tools for managing large collections of e-books, but also converts files to many different formats (e-books and other text based formats)[^calibre-file-formats]. Viewing all major e-books file formats, as well as editing EPUBs and AZWs is also part of the software package.
@@ -85,14 +66,32 @@ Adobe Digital Editions (ADE) is an e-book reader and management tool which is ab
 Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are probably more of a convenience method in order to quickly (pre)view e-books, instead of being fully-fledged solutions for reading e-books comparable to the functionality of e-readers.
 
 
-###Browser Applications
+
+###Web platforms
+There exist some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012. The reason given for the closure mentions an "interesting experiment" but also the dramatic changes in the e-book ecosystem over the past few years. [Booki.sh](https://booki.sh), another project is still online and offers a complete library of e-books which may be view and stored online. It doesn't appear to operate commercially though, the ability to purchase books was removed in June 2013.[^bookish-blog]
+
+###Browser applications
+Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are probably more of a convenience method in order to quickly (pre)view e-books, instead of being fully-fledged solutions for reading e-books comparable to the functionality of e-readers.
+
+One example is Readium, a project by the idpf and several publishers and technology companies. It aims to provide a reference system, a collection of best practices, for rendering EPUB 3 publications. [^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Browser. After installing the extension offers an EPUB reader inside the browser window.
+
+
 ####Readium
 Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications. [^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Browser. After installing the extension offers an EPUB reader inside the browser window.
 
 ####EPUBReader
 EPUBReader is similar to the browser extension offered by Readium, the main difference is the supported browser, as EPUBReader is only compatible with Mozilla Firefox.
 
-<!-- end move section -->
+
+
+[^calibre-file-formats]: http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from
+[^ade-readers]: http://blogs.adobe.com/digitalpublishing/supported-devices
+[^bookish-blog]: http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/
+[^readium-goals]: http://readium.org/readium-project-goals
+[^readium-extension]: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl
+
+
+
 
 ##File formats
 ###Reflowable documents (EPUB and AZW)

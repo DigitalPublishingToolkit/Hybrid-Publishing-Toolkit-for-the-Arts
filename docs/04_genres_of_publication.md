@@ -13,7 +13,7 @@ In the present project we deal with various kinds of products which we combine i
  5) New genres of publication.
 
 
-##1) Research-like publication 
+##1) Research publication 
 
 - Heavy in use of text
 - Texts take a central role

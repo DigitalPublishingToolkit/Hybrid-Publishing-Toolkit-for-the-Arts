@@ -1,11 +1,11 @@
 # Guide: How to make a simple ePub
 
-<!-- see research pub for proposal on structure of the general questions part ^Miriam -->
-
 Focus: epub2/3, HTML5 (app) + PDF
+
+<!--example Manifesto, El Lissitzky-->
     
 
-## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
+## A simple e-book 
 Flow chart: workflow <!-- Loes & Kimmy-->
 
 

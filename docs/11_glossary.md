@@ -1,4 +1,4 @@
-## Glossary of technical terms (5)
+## Glossary of technical terms
 
 ### **A**
 
@@ -41,7 +41,7 @@ they would look up the problem of 'How to sort a list' and a good book
 would tell them a number of ways to do this. Algorithms are not computer
 code,
 
-#### Android
+*Android*
 
 Is een opensourceplatform en besturingssysteem voor mobiele telefoons,
 tablet-pcs, koelkasten, camera's en meer, gebaseerd op de Linuxkernel en
@@ -238,7 +238,7 @@ a computer. It is usually distinguished from a *computer program*, which
 is a set of instructions that a computer carries out. Data can be text
 or sets of figures on which a computer program operates.
 
-#### Device
+*Device*
 
 Is een elektronisch handapparaat zoals: smartphone, tablet-pc, phablet,
 personal digital assistant (pda), mobiele telefoon, draagbare
@@ -308,7 +308,7 @@ number of vertical dots
 
 ### **E** 
 
-#### *ebook*
+*e-book*
 
 Is een verzamelnaam voor digitale documenten die weergegeven kunnen
 worden op een e-reader evenals op beeldschermen van computers en
@@ -404,7 +404,7 @@ will be big if the image has a wide range of colours, e.g. a
 photograph.GIF files are commonly used for storing images on the Web.
 GIF files are also suitable for storing animated (i.e. moving) images.
 
-#### *GitHub*
+*GitHub*
 
 Collaboration programme, code review, and code management for open
 source and private projects.
@@ -428,7 +428,7 @@ combinations of 16 digits, using 0-9 then the letters A-F to represent
 10-15. Hex allows binary numbers to be expressed in a more compact and
 comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)
 
-#### *HTML*
+*HTML*
 
 Abbreviation for Hypertext Markup Language, structuring language based
 on SGML. The coding system used for creating pages on the World Wide
@@ -462,7 +462,7 @@ hyperlinks. The concept of hypertext predates the Web by many years.
 
 ### **I**
 
-#### IBooks
+*IBooks*
 
 Is een programma voor het lezen en kopen van e-books, ontwikkeld door
 Apple Inc voor besturingssysteem iOS. \#\#\#\# iBookstore Hier is het
@@ -540,7 +540,7 @@ Web, satellites and mobile phones.
 Java is a high level programming language. It is useful for creating
 small web applications and applets for use as part of a web page.
 
-#### *Javascript*
+*Javascript*
 
 JavaScript is a scripting language originally developed by Netscape
 mainly for use as code within a web page.
@@ -560,7 +560,9 @@ popular library called Jquery has come along that offers users a lot of
 interactivity without using Flash. Jquery also supports a host of
 specialist plug-ins to extend the library.
 
-**JPEG**or **JPG:** Abbreviation for Joint Photographic Expert Group.
+*JPEG or JPG* 
+
+Abbreviation for Joint Photographic Expert Group.
 Pronounced "Jaypeg". A file format used for storing images. The JPEG/JPG
 format uses a palette of millions of colours and is primarily intended
 for photographic images. The internal compression algorithm of the
@@ -575,7 +577,7 @@ normally smaller than GIF files containing photographic images.
 
 ### **K**
 
-#### *KF8*
+*KF8*
 
 Is Amazons new Kindle Format 8 used on the Kindle Fire \#\#\#\# Kindle
 Fire Is een tablet van het Amerikaanse bedrijf Amazon. De tablet maakt
@@ -601,7 +603,7 @@ the most powerful computer in the network Users of computers connected
 to a LAN can access their own files remotely and exchange information
 with the server and other users connected to the network.
 
-#### LAMP
+*LAMP*
 
 Is een acroniem voor een set van gratis vrije softwarepakketten, die
 vaak samen gebruikt worden om dynamische websites te draaien:
@@ -653,7 +655,7 @@ A *mashup* is a Web page that brings together data from two or more Web
 services and combines the data into a new application with added
 functionality.
 
-#### Mobi
+*Mobi*
 
 (.mobi, ook wel dotMobi genoemd) is een topleveldomein (TLD). Het
 hoofddoel van deze TLD is om websites voor mobiele telefoons beter te
@@ -709,7 +711,7 @@ audio, video, animation, etc.) in a single application.
 
 ### N
 
-#### Native app
+*Native app*
 
 Een native applicatie is een programma dat specifiek ontwikkeld en
 geïmplementeerd is voor het gegeven model, microprocessor of
@@ -747,7 +749,7 @@ scanner and the OCR software will be used by the scanner to detect the
 individual words from which it is made up and then convert them into a
 form that can be stored on a computer,
 
-#### *Objective-C*
+*Objective-C*
 
 De programmeertaal waar veel OS X en iOS applicaties in geschreven
 worden. De taal heeft de programmeertaal C als basis. Objective-C is
@@ -845,7 +847,7 @@ recordings
 
 ### **R**
 
-#### *Reflowable*
+*Reflowable*
 
 A reflowable document is a type of electronic document that can adapt
 its presentation to the output device.
@@ -952,7 +954,7 @@ corporations and universities, on which many Web servers are hosted. A
 PC version of Unix, called Linux, is becoming increasingly popular as an
 alternative to Windows.
 
-**V**
+### *V*
 
 *Vector Graphic*
 
@@ -969,7 +971,7 @@ dots), and therefore sharpness may be lost when the image is resized.
 A contraction of Video Podcast. A type of Podcast1 that incoporates
 video as well as audio.
 
-**W**
+### *W*
 
 *WAV*
 
@@ -1018,7 +1020,7 @@ Web. XML is an extension to the standard language for creating Web
 pages, HTML, and makes it possible to create websites containing more
 complex interactivity.
 
-#### XHTML
+*XHTML*
 
 (Extensible Hypertext Markup Language) is een opmaaktaal voor vooral
 websites, die de functionaliteit heeft van HTML, maar een striktere
@@ -1032,7 +1034,7 @@ to decode the data.
 
 ### Z
 
-*Zebras *
+*Zebras*
 
 Zebras are several species of African20 equids united by their
 distinctive black and white stripes. Their stripes come in different
