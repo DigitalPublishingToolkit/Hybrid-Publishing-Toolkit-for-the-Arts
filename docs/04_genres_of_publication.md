@@ -1,33 +1,19 @@
 # Genres of Publication
 
-## Traditional forms of publication
-
 In the present project we deal with various kinds of products which we combine into  five genres: 
 
- 1) Art/design catalogue-like;  
+ 1) Research publication;  
 
- 2) Research-like publication;  
+ 2) Art/design catalogue;  
 
- 3) Art/design periodical;  
+ 3) Artist/designer book;  
 
- 4) Artist's/experimental book;  
+ 4) Art/design periodical;  
 
- 5) New types of publications.
-
-
-###1) Art/design catalogue-like
-
-- Heavy in use of images
-- Visuals take central role over texts
-- Visuals are primary (text refers to visuals)
-- Descriptive texts of changing lengths
-
-**Issues and advantages of going electronic:**  
-
-One of the main issues which arise when trying to go electronic with Art/design catalogue-like publications lies in the use of images. The quality of the images is important. They must often be high in quality with as little distortion of colours as possible. An issue of concern is that often a fixed page layout determines the message. Changes in size might influence the flow of content. An advantage of going electronic with this type of publication could lie in the use of other (interactive) materials and easier distribution.  
+ 5) New genres of publication.
 
 
-###2) Research-like publication 
+##1) Research-like publication 
 
 - Heavy in use of text
 - Texts take a central role
@@ -42,8 +28,30 @@ One of the issues with going electronic with a research-like publication is sett
 
 [^Kircz]:lit ref: see for scientific article: de Waard, Anita; Kircz, Joost (2008) Modeling scientific discourse - shifting perspectives and persistent issues, ELPUB2008. Open Scholarship: Authority, Community, and Sustainability in the Age of Web 2.0 - Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008 / Edited by: Leslie Chan and Susanna Mornati. ISBN 978-0-7727-6315-0, 2008, pp. 234-245. http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008)
 
+##2) Art/design catalogue
 
-###3) Art/design periodical
+- Heavy in use of images
+- Visuals take central role over texts
+- Visuals are primary (text refers to visuals)
+- Descriptive texts of changing lengths
+
+**Issues and advantages of going electronic:**  
+
+One of the main issues which arise when trying to go electronic with Art/design catalogue-like publications lies in the use of images. The quality of the images is important. They must often be high in quality with as little distortion of colours as possible. An issue of concern is that often a fixed page layout determines the message. Changes in size might influence the flow of content. An advantage of going electronic with this type of publication could lie in the use of other (interactive) materials and easier distribution.  
+
+
+##3)  Artist/designer book
+
+- Book *by* an artist, rather than *about* an artist
+- Complex use of images and typography, often pushing the possibilities of the medium
+- In print: making use of the book as a material, visual and haptic object;
+- Difficult or impossible translation into other media;
+- Text is often used in non-descriptive or non-narrative ways.
+
+**Issues and advantages of going electronic:** 
+An issue with making a digital publication out of an artist's/experimental book is the choice of material. The choice to go digital in this case is the most fundamental. Furthermore, here too, the quality of images and the relation between text and images is important. The choices which are being made by the creator influence the final outcome immensely. Advantages of going digital lie in the more extensive possibilities digitalization offers (e.g. interactive material etc.).
+
+##4) Art/design periodical
 
 - Heavy in use of both texts and images 
 - Both images and texts take central role
@@ -58,27 +66,12 @@ One of the issues with going electronic with a research-like publication is sett
 One of the issues with going digital with an art/design periodical lies in the limitations of the digital medium. The periodical thrives well by its physical presence. It can be tossed in a bag and just as easily be disposed of. In a digital form, the physical presence becomes limited. Another issue with going digital with an art/design periodical lies in the archival aspect. New articles can refer to older ones and even integrate parts. The periodical as such becomes a repository and therefore a playground for new work. An advantage of going electronic with this kind of periodical lies in the increased possibilities in extending content (interactivity, video etc.). Another specific advantage of the periodical lies in the decreasing of distribution costs and the convenience with which a large audience can be reached. 
 
 
-
-###4)  Artist's/experimental books
-
-- Book *by* an artist, rather than *about* an artist
-- Complex use of images and typography, often pushing the possibilities of the medium
-- In print: making use of the book as a material, visual and haptic object;
-- Difficult or impossible translation into other media;
-- Text is often used in non-descriptive or non-narrative ways.
-
-**Issues and advantages of going electronic:** 
-An issue with making a digital publication out of an artist's/experimental book is the choice of material. The choice to go digital in this case is the most fundamental. Furthermore, here too, the quality of images and the relation between text and images is important. The choices which are being made by the creator influence the final outcome immensely. Advantages of going digital lie in the more extensive possibilities digitalization offers (e.g. interactive material etc.).
-
-
-
-
-###5) New genres
+##5) New genres of publication
 
 By new types of publications we mean publications which cannot easily be placed in one of the genres mentioned above. These could be publications which fall outside of what we would normally consider a 'book'. Examples could be an app or a series of tweets etc. Setting a predisposed set of parameters for this genre would be difficult. Similar to adventure games, here we can imagine the use of an interactive approach where the reader is able to control the narrative.
 
 
-## New forms of publication
+## Three levels of electronic publishing
 
 The goal of the project is to define a common ground for directions, strategies, and tools that will enhance the transition from paper-only publications to a mixture of paper & electronic publication, given the above listed genres of publications.
 As the mind set of the partners in the projects are very diverse and in most companies the discussion is only in an early stage, it does not make sense to produce a matrix of all questions and all answers. A better approach is to try and sketch the overall picture, based on commonalities and diversions. This attempt is presented below. 
@@ -93,7 +86,7 @@ B. One-to-many; this publication is not a single object, but has various chamele
 
 C. One-to-database; here the various independent components are defined as modules that can be used and re-used multiple times by whomever has acces to them.
 
-Below we expand a little more on this and compare it with our four genres:
+Below we expand a little more on this and compare it with the mentioned genres:
 
 
 ###A) One-to-one publications

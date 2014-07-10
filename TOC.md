@@ -1,7 +1,6 @@
 DIGITAL PUBLISHING TOOLKIT
 ===========================
 
-<!-- have a closer look at the order of genres in 04, 09 -->
 
 # [01 Executive Summary](docs/01_executive_summary.html)
 <!--400 words, Florian, sprint-->
@@ -52,42 +51,36 @@ DIGITAL PUBLISHING TOOLKIT
 ## Why change your life <!-- todo -->
 ## Towards a hybrid workflow 
 
-# [08 Guide: Workflow per scenario](docs/08_guide_workflow.html) <!-- Miriam maakt begin -->
-
-## Art/design exhibition type catalogue <!--4000 words-->
-## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
-## Research like publication <!-- INC example, Miriam maakt begin, 4000 words -->
-## Arts/design periodical <!--To do -->
-
-# [09 Guide: Do it yourself epub](docs/09_guide_DIY.html) 
+# [08 Guide: Do it yourself epub](docs/08_guide_DIY.html) 
 
 ## A simple e-book <!--example Manifesto, El Lissitzky, 4000 words -->
 ## From markdown to epub <!-- Michael--> 
 ## Epub from scratch <!-- Mark-->
 
-# [10 Guide: E-publications per genre](docs/10_guide_genres.html)
 
-## Art/design exhibition type catalogue <!--4000 words-->
-## Artist's/experimental book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
-## Research like publication <!-- INC example, Miriam maakt begin, 4000 words -->
-## Arts/design periodical <!--To do -->
-## New Genres
+# [09 Guide: / E-publications per genre](docs/09_guide_workflow.html) <!-- Miriam maakt begin -->
 
-# [11 Futurology](docs/11_futurology.html) <!--2000 words-->
+## Research publication <!-- INC example, Miriam maakt begin, 4000 words -->
+## Art/design catalogue <!--4000 words-->
+## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+## Art/design periodical <!--To do -->
+## New genres
+
+# [10 Futurology](docs/10_futurology.html) <!--2000 words-->
 
 ## Reading technology 
 ## Reading culture 
 ## Publishing culture
 
 
-# [12 Glossary of technical terms](docs/12_glossary.html) <!--Loes & Joost -->
+# [11 Glossary of technical terms](docs/11_glossary.html) <!--Loes & Joost -->
 
-# [13 Software catalogue](docs/13_software.html) <!--Michael -->
+# [12 Software catalogue](docs/12_software.html) <!--Michael -->
 
 ## Pre-existing software
 ## Self-written software
 
-# [14 Appendix](docs/14_appendix.html)
+# [13 Appendix](docs/13_appendix.html)
 
 ## Keyword index 
 ## Bibliography 
