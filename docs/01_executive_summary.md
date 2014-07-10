@@ -1,5 +1,4 @@
 # Executive summary
-
 <!-- visualization by Loes: old model of funnelling multiple source media into one product (print book) vs. new model of funnelling multiple source media into multiple products (print book, ebook, unknown future formats) -->
 
 ## Electronic publishing requires deeper changes in your work than you might have expected

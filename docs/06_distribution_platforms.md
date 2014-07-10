@@ -5,15 +5,16 @@ Strengths
 Weaknesses
 <!-- to do -->
 
+
 ## Online reading platforms: Scribd, Issuu, website / blog
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
 
 When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical e-bookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
 
-Below several platforms are discussed, including characteristics, statistics, strenghts and weaknesses, and how-to.
+Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to [what?].
 
-[maybe as an aside?] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
+[maybe as an aside? i'm wondering how interesting this is for general readers/publishers? i.e. they don't know the reader] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
 Stats for the whole month of April, all publications  
 *Issuu:*  
 2502 reads  

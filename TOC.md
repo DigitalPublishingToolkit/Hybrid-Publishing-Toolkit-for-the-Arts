@@ -1,4 +1,4 @@
-DIGITAL PUBLISHING TOOLKIT
+D0IGITAL PUBLISHING TOOLKIT
 ===========================
 
 
