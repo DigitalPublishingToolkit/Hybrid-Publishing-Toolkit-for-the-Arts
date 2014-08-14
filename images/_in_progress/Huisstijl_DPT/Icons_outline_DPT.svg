@@ -1054,4 +1054,160 @@
 	<path fill="#010101" d="M178.099,137.931c-0.37,0-0.67-0.301-0.67-0.67c0-0.37,0.3-0.67,0.67-0.67s0.67,0.3,0.67,0.67
 		C178.769,137.63,178.47,137.931,178.099,137.931L178.099,137.931z"/>
 </g>
+<rect x="661.727" y="257.008" fill="none" width="92.212" height="26.861"/>
+<text transform="matrix(1 0 0 1 661.7266 277.1328)" font-family="'UbuntuMono-Bold'" font-size="29">EDITOR</text>
+<circle cx="701.665" cy="218.274" r="3.5"/>
+<circle cx="694.832" cy="228.274" r="3.5"/>
+<circle cx="708.165" cy="228.274" r="3.5"/>
+<circle cx="687.832" cy="238.274" r="3.5"/>
+<circle cx="701.165" cy="238.274" r="3.5"/>
+<circle cx="716.498" cy="238.274" r="3.5"/>
+<circle cx="681.832" cy="248.274" r="3.5"/>
+<circle cx="696.165" cy="248.274" r="3.5"/>
+<circle cx="709.498" cy="248.274" r="3.5"/>
+<circle cx="724.831" cy="248.274" r="3.5"/>
+<rect x="651.559" y="479.677" fill="none" width="92.212" height="26.861"/>
+<text transform="matrix(1 0 0 1 651.5586 499.8008)" font-family="'UbuntuMono-Bold'" font-size="29">EDITOR</text>
+<circle cx="691.497" cy="440.942" r="3.5"/>
+<circle cx="684.664" cy="450.942" r="3.5"/>
+<circle cx="697.997" cy="450.942" r="3.5"/>
+<circle cx="677.664" cy="460.942" r="3.5"/>
+<circle cx="690.997" cy="460.942" r="3.5"/>
+<circle cx="706.33" cy="460.942" r="3.5"/>
+<circle cx="671.664" cy="470.942" r="3.5"/>
+<circle cx="685.997" cy="470.942" r="3.5"/>
+<circle cx="699.33" cy="470.942" r="3.5"/>
+<circle cx="714.663" cy="470.942" r="3.5"/>
+<rect x="648.726" y="347.026" fill="none" width="120.836" height="32.373"/>
+<text transform="matrix(1 0 0 1 648.7256 367.1499)" font-family="'UbuntuMono-Bold'" font-size="29">DESIGNER</text>
+<circle cx="680.831" cy="338.292" r="3.5"/>
+<circle cx="695.164" cy="338.292" r="3.5"/>
+<circle cx="708.497" cy="338.292" r="3.5"/>
+<circle cx="723.83" cy="338.292" r="3.5"/>
+<rect x="775.659" y="482.822" fill="none" width="120.836" height="32.373"/>
+<text transform="matrix(1 0 0 1 775.6592 502.9453)" font-family="'UbuntuMono-Bold'" font-size="29">DESIGNER</text>
+<circle cx="809.137" cy="474.088" r="3.276"/>
+<circle cx="822.555" cy="474.088" r="3.277"/>
+<circle cx="835.037" cy="474.088" r="3.276"/>
+<circle cx="849.392" cy="474.088" r="3.276"/>
+<circle cx="809.137" cy="513.107" r="3.276"/>
+<circle cx="822.555" cy="513.107" r="3.277"/>
+<circle cx="835.037" cy="513.107" r="3.276"/>
+<circle cx="849.392" cy="513.107" r="3.276"/>
+<rect x="773.479" y="568.156" fill="none" width="116.405" height="32.373"/>
+<text transform="matrix(1 0 0 1 773.4795 588.2812)" font-family="'UbuntuMono-Bold'" font-size="29">DESIGNER</text>
+<rect x="821.771" y="256.958" fill="none" width="87.277" height="26.861"/>
+<text transform="matrix(1 0 0 1 821.7715 277.0835)" font-family="'UbuntuMono-Bold'" font-size="29">AUTHOR</text>
+<g>
+	<circle cx="849.41" cy="238.274" r="3.5"/>
+	<circle cx="862.743" cy="238.274" r="3.5"/>
+	<circle cx="836.077" cy="238.274" r="3.5"/>
+	<circle cx="878.076" cy="238.274" r="3.5"/>
+	<circle cx="893.405" cy="238.274" r="3.5"/>
+	<circle cx="843.41" cy="248.274" r="3.5"/>
+	<circle cx="857.743" cy="248.274" r="3.5"/>
+	<circle cx="871.076" cy="248.274" r="3.5"/>
+	<circle cx="886.409" cy="248.274" r="3.5"/>
+	<circle cx="901.742" cy="248.274" r="3.5"/>
+	<circle cx="829.077" cy="248.274" r="3.5"/>
+</g>
+<rect x="529.078" y="479.676" fill="none" width="87.277" height="26.861"/>
+<text transform="matrix(1 0 0 1 529.0781 499.8018)" font-family="'UbuntuMono-Bold'" font-size="29">AUTHOR</text>
+<g>
+	<circle cx="588.716" cy="519.607" r="3.5"/>
+	<circle cx="575.383" cy="519.607" r="3.5"/>
+	<circle cx="602.049" cy="519.607" r="3.5"/>
+	<circle cx="560.05" cy="519.607" r="3.5"/>
+	<circle cx="544.721" cy="519.607" r="3.5"/>
+	<circle cx="594.716" cy="509.607" r="3.5"/>
+	<circle cx="580.383" cy="509.607" r="3.5"/>
+	<circle cx="567.05" cy="509.607" r="3.5"/>
+	<circle cx="551.717" cy="509.607" r="3.5"/>
+	<circle cx="536.384" cy="509.607" r="3.5"/>
+	<circle cx="609.049" cy="509.607" r="3.5"/>
+</g>
+<rect x="651.559" y="567.558" fill="none" width="92.212" height="26.861"/>
+<text transform="matrix(1 0 0 1 651.5586 587.6816)" font-family="'UbuntuMono-Bold'" font-size="29">EDITOR</text>
+<circle cx="691.497" cy="528.823" r="3.5"/>
+<circle cx="684.664" cy="538.823" r="3.5"/>
+<circle cx="697.997" cy="538.823" r="3.5"/>
+<circle cx="677.664" cy="548.823" r="3.5"/>
+<circle cx="690.997" cy="548.823" r="3.5"/>
+<circle cx="706.33" cy="548.823" r="3.5"/>
+<circle cx="671.664" cy="558.823" r="3.5"/>
+<circle cx="685.997" cy="558.823" r="3.5"/>
+<circle cx="699.33" cy="558.823" r="3.5"/>
+<circle cx="714.663" cy="558.823" r="3.5"/>
+<rect x="529.078" y="567.557" fill="none" width="87.277" height="26.861"/>
+<text transform="matrix(1 0 0 1 529.0781 587.6826)" font-family="'UbuntuMono-Bold'" font-size="29">AUTHOR</text>
+<g>
+	<circle cx="588.716" cy="607.488" r="3.5"/>
+	<circle cx="575.383" cy="607.488" r="3.5"/>
+	<circle cx="602.049" cy="607.488" r="3.5"/>
+	<circle cx="560.05" cy="607.488" r="3.5"/>
+	<circle cx="544.721" cy="607.488" r="3.5"/>
+	<circle cx="594.716" cy="597.488" r="3.5"/>
+	<circle cx="580.383" cy="597.488" r="3.5"/>
+	<circle cx="567.05" cy="597.488" r="3.5"/>
+	<circle cx="551.717" cy="597.488" r="3.5"/>
+	<circle cx="536.384" cy="597.488" r="3.5"/>
+	<circle cx="609.049" cy="597.488" r="3.5"/>
+</g>
+<g>
+	<g>
+		<circle cx="825.002" cy="338.292" r="3.5"/>
+		<circle cx="839.334" cy="338.292" r="3.5"/>
+		<circle cx="852.668" cy="338.292" r="3.5"/>
+		<circle cx="868" cy="338.292" r="3.5"/>
+		<circle cx="883.334" cy="338.292" r="3.5"/>
+	</g>
+	<g>
+		<circle cx="897.666" cy="338.292" r="3.5"/>
+		<circle cx="912" cy="338.292" r="3.5"/>
+		<circle cx="925.332" cy="338.292" r="3.5"/>
+		<circle cx="883.334" cy="338.292" r="3.5"/>
+	</g>
+</g>
+<rect x="800.721" y="347.026" fill="none" width="131.17" height="32.373"/>
+<text transform="matrix(1 0 0 1 800.7207 367.1514)" font-family="'UbuntuMono-Bold'" font-size="29">DEVELOPER</text>
+<g>
+	<g>
+		<circle cx="935.245" cy="512.432" r="3.5"/>
+		<circle cx="949.577" cy="512.432" r="3.5"/>
+		<circle cx="962.911" cy="512.432" r="3.5"/>
+		<circle cx="978.243" cy="512.432" r="3.5"/>
+		<circle cx="993.577" cy="512.432" r="3.5"/>
+	</g>
+	<g>
+		<circle cx="1007.909" cy="512.432" r="3.5"/>
+		<circle cx="1022.243" cy="512.432" r="3.5"/>
+		<circle cx="1035.575" cy="512.432" r="3.5"/>
+		<circle cx="1048.907" cy="512.432" r="3.5"/>
+		<circle cx="1062.239" cy="512.432" r="3.5"/>
+		<circle cx="993.577" cy="512.432" r="3.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<circle cx="781.517" cy="598.441" r="3.5"/>
+		<circle cx="795.849" cy="598.441" r="3.5"/>
+		<circle cx="809.183" cy="598.441" r="3.5"/>
+		<circle cx="824.515" cy="598.441" r="3.5"/>
+		<circle cx="839.849" cy="598.441" r="3.5"/>
+	</g>
+	<g>
+		<circle cx="854.181" cy="598.441" r="3.5"/>
+		<circle cx="868.515" cy="598.441" r="3.5"/>
+		<circle cx="881.847" cy="598.441" r="3.5"/>
+		<circle cx="839.849" cy="598.441" r="3.5"/>
+	</g>
+</g>
+<rect x="933.157" y="479.676" fill="none" width="131.17" height="26.431"/>
+<text transform="matrix(1 0 0 1 933.1572 499.8008)" font-family="'UbuntuMono-Bold'" font-size="29">DEVELOPER</text>
+<g>
+	<circle cx="925.019" cy="577.678" r="3.5"/>
+	<circle cx="1073.093" cy="577.678" r="3.5"/>
+</g>
+<rect x="933.471" y="566.213" fill="none" width="131.17" height="26.431"/>
+<text transform="matrix(1 0 0 1 933.4707 586.3379)" font-family="'UbuntuMono-Bold'" font-size="29">DEVELOPER</text>
 </svg>
