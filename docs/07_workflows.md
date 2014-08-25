@@ -12,7 +12,7 @@ Why new workflows are essential for small edition, low budget publishing.
 ## Towards a hybrid workflow   
 <!--executive management advies /keuze van workflow-->
 
-### 1 flowchart of all the three "flows": Traditional, XML, Markdown <!-- Loes & Kimmy -->
+### One flowchart of all the three "flows": Traditional, XML, Markdown <!-- Loes & Kimmy -->
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
 
