@@ -7,7 +7,7 @@ derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
 all : toolkit.epub
 
-toolkit.epub :
+toolkit.epub : $(derivedhtml)
 	pandoc \
 	--self-contained \
 	--epub-metadata=metadata.xml \
@@ -17,7 +17,7 @@ toolkit.epub :
 	-o toolkit.epub \
 	title.txt docs/*.md
 
-toolkit.pdf :
+toolkit.pdf : $(derivedhtml)
 	pandoc \
 	--self-contained \
 	--epub-metadata=metadata.xml \
