@@ -40,7 +40,7 @@ between the text structure as such and the final representation of that
 structure. For example, contrary to languages used in word processors
 such as Tex, Latex, Word, Microsoft Word, Wordperfect or ODF (open office
 document format), where presentation and text structuring are mixed,
-SGML only defines functions or roles. When we type a **Bold** word in the text using a word processor we in fact type “start bold” -\> type the word- \> “end bold”. What is happening here is a mixture of **Layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and it derivatives, the easier
+SGML only defines functions or roles. When we type a **Bold** word in the text using a word processor we in fact type “start bold” -\> type the word -\> “end bold”. What is happening here is a mixture of **Layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and it derivatives, the easier
 HTML (HyperText Markup Language) and the expanded XML (Extensible Markup
 Language) make a strict distinction between structure and
 representation. A markup language knows notions such as “highlighted
