@@ -8,11 +8,24 @@ derivedhtml = $(patsubst %.md,%.html,$(allmd))
 all : toolkit.epub
 
 toolkit.epub : $(derivedhtml)
-	pandoc -S --epub-metadata=metadata.xml --epub-stylesheet=styles.css -o toolkit.epub title.txt docs/*.md
-	# pandoc -o toolkit.epub --cover images/_dpt/cover.png --title "Digital Publishing Toolkit" --pubdate "01 July 2014" --publisher "Institute of Network Cultures" *
+	pandoc \
+	--self-contained \
+	--epub-metadata=metadata.xml \
+	--epub-stylesheet=styles.css \
+	--default-image-extension png \
+	--table-of-contents \
+	-o toolkit.epub \
+	title.txt docs/*.md
 
 toolkit.pdf : $(derivedhtml)
-	pandoc -S --epub-metadata=metadata.xml --epub-stylesheet=styles.css -o toolkit.pdf title.txt -H patch.tex docs/*.md
+	pandoc \
+	--self-contained \
+	--epub-metadata=metadata.xml \
+	--default-image-extension png \
+	--epub-stylesheet=styles.css \
+	--table-of-contents \
+	-o toolkit.pdf \
+	title.txt -H patch.tex docs/*.md
 
 %.html: %.md
 	pandoc --css=styles.css -s $< > $@
