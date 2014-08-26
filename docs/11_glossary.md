@@ -699,6 +699,9 @@ assistants (PDA), wireless telephones and desktop operating systems.
 The screen on which output from a computer is displayed. Also referred
 to as Display Screen.
 
+*Monochrome* 
+Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. So a monochromatic object or image has only colors in shades of limited colors or hues.
+
 *MOV*
 
 The format for storing and playing back audio and video files using the
