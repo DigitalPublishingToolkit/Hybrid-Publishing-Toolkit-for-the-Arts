@@ -80,25 +80,25 @@ Independently of the different genres listed above, we can stratify from simple 
 
 A division into three levels can be made:
 
-A. One-to-one; when a book is considered as a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book as a one-off team.
+1. One-to-one; when a book is considered as a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book as a one-off team.
 
-B. One-to-many; this publication is not a single object, but has various chameleonic appearances, dependent from the context and available presentation media (type & size of screen/paper). 
+2. One-to-many; this publication is not a single object, but has various chameleonic appearances, dependent from the context and available presentation media (type & size of screen/paper). 
 
-C. One-to-database; here the various independent components are defined as modules that can be used and re-used multiple times by whomever has acces to them.
+3. One-to-database; here the various independent components are defined as modules that can be used and re-used multiple times by whomever has acces to them.
 
 Below we expand a little more on this and compare it with the mentioned genres:
 
 
-###A) One-to-one publications
+###1) One-to-one publications
 
 On the first level, we have the unique book. Here we consider each book as a separate product where authors, illustrators/artists/photographers, and designers work together to produce the book as a one-off team. As there are many of such unique books, the production workflow is traditional. Pictures and/or full layout pages are not (yet) considered as reusable digital objects. In many cases no archives of the independent ingredients that together create the end-product are available. N.B. there are many common characteristics between books in one genre. Hence, the question is how we can reveal/define these characteristics to enhance insight in the nature of this type of book. Artist's/experimental books are an obvious example of this kind of book.
 
 The issue at hand is experimenting with an e-representation of the same book. In some cases files of the final pages/book are being conversed into Epub3 (by an external agent). The final pages are checked on readability and clearness (e.g. figures and captions have to be on the same page), changed where needed and voila – the e-book is ready. On this level the e-book is not more than an exact-as-possible picture of the printed book. In such cases the publisher might use a document management system, which can be a mere system of folders. Archiving files is important for possible reprints. Workflows are to a large extent unique though follow traditional publication path ways. <!--I am wondering if this last paragraph is really needed? I feel its content can be said in a single sentence-->
 
-###B) One-to-many publications
+###2) One-to-many publications
 
 On the next level we see a bifurcation between the manifestation of a paper print version and the electronic version. In fact, the electronic version, contrary to the paper version, is not a single object but has various appearances. This is due to the fact that the presentation substrate of an electronic book is not unique. Furthermore, the sizes of reading devices are not standardised and allow for both portrait or oblong viewing. On top of this, the popular semi-standard Epub3 allows for flowable pages and allows the reader to change the font and fontsize (corps) to avoid the need of reading glasses for a more pleasant consumer experience. The best example of the one-to-many publication are the art/design catalogue-like publications and research-like publications. In this category workflow schemes become very important as the same (part of) texts and images are used in various outlets. A workflow and related descriptors (metadata) set is compulsory. Future readers must be able to make choice from the collection of available essays. The most stable approach might be a XML based database model
 
-###C) One-to-database
+###3) One-to-database
 
 The next level is Database Publishing. Database publishing means that all objects or entities can be used independently from each other. This means that they can be used in multiple ways, can be easily reused, are uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. In the case of a collection of essays, the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is important to note that there will never be a one workflow which fits all but if the relevant metadata is available; publications in different forms can be created. 

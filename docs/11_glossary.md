@@ -385,6 +385,9 @@ files, e.g. documents that they have created, but students are only
 allowed to read them. File permissions are usually determined by network
 managers.
 
+*Flat text*
+
+ 
 *Formatting*
 
 The process of preparing a writeable disc for use. Formatting creates a
@@ -462,7 +465,7 @@ hyperlinks. The concept of hypertext predates the Web by many years.
 
 ### **I**
 
-*IBooks*
+*iBooks*
 
 Is een programma voor het lezen en kopen van e-books, ontwikkeld door
 Apple Inc voor besturingssysteem iOS. \#\#\#\# iBookstore Hier is het
@@ -518,7 +521,7 @@ interconnected networks that evolved from the ARPANET of the late 60's
 and early 70's. It has grown from a handful of interconnected networks
 into a huge network of millions of computers.
 
-*Ipad*
+*iPad*
 
 *iPod*
 
@@ -589,7 +592,7 @@ richly formatted e-book content. \#\#\#\# Kobo Maakt fysieke e-readers
 en applicaties voor iPad, Android, e.d. Tevens is er een Kobo winkel
 waar epubs gekocht kunnen worden.
 
-**L**
+### **L**
 
 *LAN*
 
@@ -618,6 +621,9 @@ vaak samen gebruikt worden om dynamische websites te draaien:
 -   P for PHP, Perl, en/of Python, de programmeertaal
     \#\#\#\#Linuxkernel Is de kernel (kern) van besturingssystemen uit
     de Linuxfamilie.
+
+*Latex*
+
 
 *LCD*
 
@@ -720,23 +726,6 @@ voor Android, Objective-C in combinatie met Cocoa voor iOS) van het
 platform waarop de applicatie gelanceerd wordt. De meeste native
 applicaties kunnen worden gedownload uit de app store.
 
-Unicode
-
-Unicode is a computing industry standard for the consistent encoding,
-representation and handling of text expressed in most of the world's
-writing systems. Developed in conjunction with the Universal Character
-Set standard and published in book form as The Unicode Standard, the
-latest version of Unicode contains a repertoire of more than 110,000
-characters covering 100 scripts and various symbols. The standard
-consists of a set of code charts for visual reference, an encoding
-method and set of standard character encodings, a set of reference data
-computer files, and a number of related items, such as character
-properties, rules for normalization, decomposition, collation,
-rendering, and bidirectional display order (for the correct display of
-text containing both right-to-left scripts, such as Arabic and Hebrew,
-and left-to-right scripts). As of September 2013, the most recent
-version is Unicode 6.3. The standard is maintained by the Unicode
-Consortium1.
 
 ### **O**
 
@@ -936,6 +925,9 @@ people find them quickly.
 Abbreviation for Transfer Control Protocol / Internet Protocol. The main
 data transfer protocol used on the Internet.
 
+*Tex*
+
+
 *Text editor*
 
 A computer program that allow the manipulation of text.
@@ -949,6 +941,7 @@ designed to support the interchange, processing, and display of the
 written texts of the diverse languages of the modern world. In addition,
 it supports classical and historical texts of many written languages:
 http://www.unicode.org.
+
 
 *Unix*
 
