@@ -14,7 +14,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-[maybe as an aside? i'm wondering how interesting this is for general readers/publishers? i.e. they don't know the reader] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
+<!-- Margreet deleted the following two alineas[maybe as an aside? i'm wondering how interesting this is for general readers/publishers? i.e. they don't know the reader] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
 Stats for the whole month of April, all publications  
 *Issuu:*  
 2502 reads  
@@ -28,6 +28,7 @@ Stats for the whole month of April, all publications
 2,007 embed views  
 02:49 time spent  
 29 downloads of the Society of the Query Reader
+-->
 
 
 
@@ -38,14 +39,14 @@ Stats for the whole month of April, all publications
 **Characteristics**  
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
-* It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website. 
-* It is used for books, brochures, magazines, etc. 
-* Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications.     
-* Mostly used by independent publishers and individual users. 
-* Supports all devices. 
-* Mobile and desktop.  
-* Full embedding possibilities  
-* Supports most file formats  
+* It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
+* It is used for books, brochures, magazines, etc 
+* Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications    
+* Mostly used by independent publishers and individual users 
+* Supports all devices 
+* Mobile and desktop 
+* Full embedding possibilities
+* Supports most file formats
 
 **Statistics**  
 *For Issuu* (June 2014) 
@@ -84,15 +85,15 @@ Offer downloadable file
 **Characteristics**  
 Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 
-* The world’s largest collection of e-books and written works, according to their own sources  
-* Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser  
-* Allows downloading of books to read offline  
+* The world’s largest collection of e-books and written works, according to their own sources 
+* Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
+* Allows downloading of books to read offline 
 * Supported File Types: pdf, txt, ps, rtf, epub, key, odt, odp, ods, odg, odf, sxw, sxc, sxi, sxd, doc, ppt, pps, xls, docx, pptx, ppsx, xlsx  
-* Downloading possible  
-* Lots of free content  
-* Subscription model  
-* No limits on genre  
-* Both works from established publishers and self-published works  
+* Downloading possible
+* Lots of free content 
+* Subscription model
+* No limits on genre 
+* Both works from established publishers and self-published works
 
 **Statistics**  
 *For Scribd* (June 2014)  
@@ -124,7 +125,7 @@ Offer in-browser reading and downloadable file
 
 ###Third party blogs
 
-For example: **Medium** [https://medium.com](https://medium.com)
+***Medium*** [https://medium.com](https://medium.com)
 
 **Characteristics**  
 External party  
@@ -152,9 +153,7 @@ Medium has an editorial staff, getting paid per click. There is no revenue model
 **How-to-publish**  
 Create an account and upload text for blog  
 
-
-
-For example: **WordPress.com** [https://wordpress.com/] (https://wordpress.com/) 
+***WordPress.com*** [https://wordpress.com/] (https://wordpress.com/) 
 
 **Characteristics**  
 External party  
@@ -190,7 +189,7 @@ Social reading has to do with the experience of reading e-books. It is a field i
 Examples of social reading platforms: 
  
 - *Goodreads* ('Goodreads is the world’s largest site for readers and book recommendations. Our mission is to help people find and share books they love. Goodreads launched in January 2007.')  
-- *Social Book* ('Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows reader to add their own commentary to texts, share these ideas with others, follow others’ comments, and create communities of interactive reader/writers.')    
+- *Social Book* ('Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows reader to add their own commentary to texts, share these ideas with others, follow others’ comments, and create communities of interactive reader/writers.') 
 - *Wattpad* ('Wattpad stories are free. Whether you’re online or off, use the devices you already own to carry an entire library wherever you go.' 'Join the conversation about the stories you read: message the writer and interact with other people who love the story as much as you.')
 - *Hebban* (A Dutch social reading platform that released in beta version in 2014)  
 - *Social media discussions* are also part of the social reading experience. One can think here of Twitter interviews or when a book is being discussed online by a publisher.   
@@ -198,24 +197,25 @@ Examples of social reading platforms:
 
 ## Print-on-demand
 
-There are a lot of options for print-on-demand [gl] publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered.
+There are a lot of options for print-on-demand publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered.
 
 
 ###Lulu.com
 
-Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit.
+Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com)
+
 
 **Characteristics**  
 
-* Available in six languages: English, French, Spanish, German, Italian and Dutch  
-* One of the main independent actors  
-* Used in 225 countries and territories  
-* 1.8 million publications  
-* 20,000 new publications each month  
-* 1.1 million authors  
-* Mostly for self-publishing  
-* Mostly for publishing books  
-* Lulu also offers e-book publishing service  
+* Available in six languages: English, French, Spanish, German, Italian and Dutch
+* One of the main independent actors
+* Used in 225 countries and territories
+* 1.8 million publications
+* 20,000 new publications each month
+* 1.1 million authors
+* Mostly for self-publishing
+* Mostly for publishing books
+* Lulu also offers e-book publishing service
 
 **Strengths and weaknesses**  
 *Strengths*  
@@ -232,7 +232,7 @@ Authors/publishers get 80% of the profit on a publication, Lulu gets 20%
 
 **How-to-print**  
 Create an account  
-You will need two PDFs: a single page PDF for the inside and front, back, and spine in one PDF for the outside.  
+You will need two PDFs: a single page PDF for the inside and front, back, and spine in one PDF for the outside  
 Choose your format, paper, etc. It's very important to have precise formats for the PDFs, otherwise Lulu can't make a printable book 
 You can add your own ISBN or have Lulu assign an ISBN to the publication  
 Upload the PDF's and publish your work    
@@ -273,27 +273,28 @@ Choose your preferred ways of distribution
 
 ###Global options
 
-*[Kobo Writing Life]* (http://www.kobobooks.com/kobowritinglife) lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish eBooks and track sales. 
+*Kobo Writing Life* (http://www.kobobooks.com/kobowritinglife) 
+lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish eBooks and track sales. 
 
-*[PubIt!]* (http://pubit.barnesandnoble.com/) automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers.
+*PubIt!* (http://pubit.barnesandnoble.com/) automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers.
 
-*[Smashwords]* (http://www.smashwords.com/about/how_to_publish_on_smashwords) makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBook Store and more. There are no setup fees and no cost to update or revise your book. 
+*Smashwords* (http://www.smashwords.com/about/how_to_publish_on_smashwords) makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBook Store and more. There are no setup fees and no cost to update or revise your book. 
 
-*[XinXii]* (http://www.xinxii.com/) facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as eBook or audiobook) - in multiple formats including PDF, ePub and mobi. As an aggregator, XinXii distributes to major international eBook retailers.
+*XinXii* (http://www.xinxii.com/) facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as eBook or audiobook) - in multiple formats including PDF, ePub and mobi. As an aggregator, XinXii distributes to major international eBook retailers.
 
 ###Options in the Netherlands
 
 *CB Print on demand* (http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling e-books through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
-*Boekscout* (http://www.boekscout.nl/)is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
+*Boekscout* (http://www.boekscout.nl/) is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
 
 
 
 ##Pirate platforms
 As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. 
 
-Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. Netflix (https://www.netflix.com/
-Vertaal deze pagina), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on The Pirate Bay (thepiratebay.se/). 
+Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. 
+[Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
 
 ### Examples <!--no actual examples are mentioned here-->
 Pirate platforms are, by their nature, even more volatile than online bookstores and e-reading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
