@@ -327,8 +327,7 @@ All these sites run like small specialty bookstores (although they don't sell an
 ## artist-/designer-run e-publishing projects
 
 In the last couple of years, there have been first attempts to create only
-small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html):
-graphic designer James Bridle (who coined the term "new aesthetics") created
+small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term "new aesthetics") created
 the website "artistsebooks.org"  with freely downloadable epub-files by
 experimental writers and artists. American contemporary artist and designer
 Paul Chan initiated the more commercial online press Badlands Unlimited that

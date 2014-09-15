@@ -53,18 +53,18 @@ way you work in the whole process from manuscript to publication. The
 software tools currently in use, from word processors like Microsoft
 Word to desktop publishing suites like InDesign, were created for the
 analog or Desktop-Publishing world. Although it's possible to create
-electronic publications from those Word and InDesign files that are
+electronic publications from those Microsoft Word and InDesign files that are
 likely the standard in your publishing workflow, it will be painful,
 slow, inefficient and expensive in most cases. This Toolkit describes
 technical alternatives because it is primarily aimed at small edition
 publishers who, in most cases, cannot afford to outsource e-book design to external service providers because this would double design costs.
 
 This Toolkit describes easy-to-use tools and work methods for editing
-and designing hybrid print and electronic publications. These tools and methods are for everyone: publishing houses, editors, writers, designers and artists.
+and designing hybrid print and electronic publications. These tools and methods are for everyone: publishing houses, editors, writers, designers, artists and anyone who is curious.
 
 This Toolkit has a particular (but not exclusive) focus on epub3 as an
 electronic publication format and on Markdown as a word processing
-format because of the specific needs of small edition publishers in the art and design field: low cost, ease of use, sustainability and
+format because of the specific needs of small edition publishers in the art and design field: low cost, ease of use, sustainable and
 platform-independence. These recommendations result from our practical
 experience in collaborating with four Dutch art, design and research
 publishers on electronic publication projects.
