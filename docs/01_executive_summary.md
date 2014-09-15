@@ -2,7 +2,7 @@
 
 ## Electronic publishing requires deeper changes in your work than you might have expected
 
-"You must change your life" - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, (b) rethinking of editorial and production workflows and (c) rethinking of distribution.
+"You must change your life" - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats (eg a catalog), (b) rethinking of editorial and production workflows and (c) rethinking of distribution.
 
 ## Change is minor for scientific and mass publishers
 
@@ -11,7 +11,7 @@ publishers who already accomplish all their editorial work in highly
 structured digital document formats (like XML or databases); but
 typically, this is only the case in scientific and technology-oriented
 publishing. Changes can also be minor for larger publishers that can
-afford outsourcing. Making an electronic (digita) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an e-book [gl]. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many e-books will be sold.
+afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an e-book [gl]. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many e-books will be sold.
 
 ## Change is major for small, arts-oriented publishers
 
@@ -29,8 +29,8 @@ visually oriented publications are still more difficult to technically
 realize in the electronic medium when designing for a multitude of
 different reading devices and e-book platforms; - small publishers are
 under even higher pressure to keep projects within low costs - but
-having to publish in one or more mediums will increase costs unless one
-accomplishes as much work as possible in medium independent ways; -
+having to publish in one or more media will increase costs unless one
+accomplishes as much work as possible in medium-independent ways; -
 small editions make it necessary that electronic publications are
 sustainable: they should not need constant investment into technical
 maintenance and version updates.
@@ -60,7 +60,7 @@ technical alternatives because it is primarily aimed at small edition
 publishers who, in most cases, cannot afford to outsource e-book design to external service providers because this would double design costs.
 
 This Toolkit describes easy-to-use tools and work methods for editing
-and designing hybrid print and electronic publications. These tools and methods are for everyone: publishing houses, editors, writers, designers, artists and anyone who is curious.
+and designing hybrid print and electronic publications. These tools and methods do require some effort, but are for everyone: publishing houses, editors, writers, designers, artists and anyone who is curious.
 
 This Toolkit has a particular (but not exclusive) focus on epub3 as an
 electronic publication format and on Markdown as a word processing
