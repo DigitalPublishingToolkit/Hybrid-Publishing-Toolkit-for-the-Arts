@@ -1,6 +1,6 @@
 # Strengths & limitations of e-reading technologies
 
-<!--Visual by Arjen-->
+![Digital Publishing Range](../images/_in_progress/05_1_rich_poor.svg "Digital Publishing Range") <!--Visual by Arjen-->
 
 ##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, often used in combination with the physical book, especially in the case of research publications.
