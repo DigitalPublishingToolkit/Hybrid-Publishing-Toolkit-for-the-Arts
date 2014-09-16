@@ -11,7 +11,7 @@ Flow chart: workflow <!-- Loes & Kimmy-->
 
 ## Direct conversion to ePub
 
-![Simplest possible case](images/_in_progress/08_markdowntoepub_simple.svg "simple")
+![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple.svg "simple")
 
 Making an epub doesn't have to be complicated. As the epub standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an epub from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an epub.
 
@@ -22,7 +22,8 @@ For example, consider Charlotte Bronte's ''Jane Eyre,'' available from Project G
 TODO: Give simple example of using markdown + pandoc? to produce a simple epub.
 
 
-
+![Simplest possible case](../images/_in_progress/08_markdown_to_epub.svg "simple")
+<!--where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 ##EPUB from scratch
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an epub is "self-contained", any pages that are linked to, or images that are displayed must be part of the collection. Creating an epub by hand is useful for creating small personal publications, or for making publications that explore the particularities of the epub format in detail.
@@ -35,7 +36,7 @@ A rudimentary epub is used as an example to explain several of its concepts and 
 
 Decompressing an epub will reveal its directory layout and in that way make clear how an epub is set up. As explained above, the epub can be seen as a compressed Zip archive, looking as follows after unzipping it:
 
-![Figure: EPUB layout](images/chapterabb_img "Figure: EPUB layout")
+![Figure: EPUB layout](../images/chapterabb_img.png "Figure: EPUB layout")
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an epub file and form a large part of what constitutes as an epub. 
 
