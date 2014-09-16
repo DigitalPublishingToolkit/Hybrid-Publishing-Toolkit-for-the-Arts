@@ -108,7 +108,7 @@ A division into three levels can be made:
 Below we expand a little more on this and compare it with the mentioned genres:
 
 <!-- Kimmy and loes: perhas the three levels can also be visualised?-->
-![digital publishing toolkit meeting on the 28th of march 2014](../images/in_porgress/04_1_three_levels.svg "Three Levels of Electronic Publishing")
+![digital publishing toolkit meeting on the 28th of march 2014](../images/in_progress/04_1_three_levels.svg "Three Levels of Electronic Publishing")
 
 
 ###1) One-to-one publications
