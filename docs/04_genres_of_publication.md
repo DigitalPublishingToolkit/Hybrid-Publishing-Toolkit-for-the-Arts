@@ -23,6 +23,19 @@ In the present project we deal with various kinds of products which we combine i
 
 **Issues and advantages of going electronic:**  
 
+<!-- Silvio: I'd begin with the advantages in the mundane activity of quoting a text, made immediate thanks to copy paste.
+
+Another obvious but crucial advantage is search within the text.
+
+Another possible advantage is to embed the datasets employed in the publication itself.
+
+Referencing is still an issue as there is no standard way to specifiy che location of the reference (no fixed page number anymore)
+
+A mention of open access might be worthwhile.
+
+Finally, commenting and annotating and sharing these annotations is a problem as  they don't stick with the book as it happens with physical books. -->
+
+
 One of the issues with going electronic with a research-like publication is setting parameters for the use of and interaction between text and images. Advantages of going electronic with this type of publication have to do with the wider reach and availability of the content. Making the text available digitally could increase its spreading. This is often a goal of research-like publications. Another advantage is that, due to the high level of standardised structure, a 'modularisation' of the content becomes possible thereby allowing to go beyond the traditional way of essay writing. In particular when authors refer to each other, they often share data, quotations, tables, figures, etc. Multiple use and reuse of 'modules' will enormously enhance the communication within a community.[^Kircz]
 
 
