@@ -55,7 +55,7 @@ Most of the elements of an epub can be produced by hand in a text editor - not t
 
 
 ####Creating the required files and directories
-
+![Creating Files and Directories](../images/_in_progress/08_3_creating_files.svg "Creating Files and Directories")
 1. Create a directory to store the files and subdirectories for your epub in, e.g. *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
@@ -67,7 +67,7 @@ Now there are the two directories and one text file, like we saw when we decompr
 ####container.xml
 
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*;
-2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on and will be stored in the *OEBPS* directory.<!--is het the attribute of the file die gestored gaat worden--/>
+2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on and will be stored in the *OEBPS* directory. <!--is het the attribute of the file die gestored gaat worden-->
 
 
 	```

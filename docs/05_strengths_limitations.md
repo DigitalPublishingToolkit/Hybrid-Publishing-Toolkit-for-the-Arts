@@ -13,6 +13,7 @@ Both Amazon and Barnes & Noble also offer more expensive models, Kindle Fire (an
 
 Because of the lack of a colour screen the current generation of e-readers is best suited for text-based publications, i.e. novels, etc. 
 
+![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations.svg "Strengths & Limitations")
 
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilises their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reader applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software]() section.
