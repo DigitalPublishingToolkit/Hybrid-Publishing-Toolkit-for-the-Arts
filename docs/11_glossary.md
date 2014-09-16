@@ -959,6 +959,9 @@ data transfer protocol used on the Internet.
 
 A computer program that allow the manipulation of text.
 
+*Tumblog*
+A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
+
 ### *U*
 
 *Unicode*

@@ -44,6 +44,12 @@ possibilities of electronic publishing. These new possibilities do
 exist, but in most cases cause higher development costs and remain
 specific to one particular technical reading platform.
 
+<!-- I'd add that some of these 'new' possibilities are not that new as Voyager company, among others, was experimenting with them during the '90s. Also, it's not necessarely true that these possibilities are of an actual interest for readers/users.
+
+http://en.m.wikipedia.org/wiki/Voyager_Company
+
+http://www.nytimes.com/2013/12/02/technology/e-books-hold-tight-to-features-of-their-print-predecessors.html?pagewanted=all&_r=0 -->
+
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual e-books.
 
 ## What this Toolkit provides
