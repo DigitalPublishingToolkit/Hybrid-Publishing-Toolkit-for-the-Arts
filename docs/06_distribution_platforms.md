@@ -41,6 +41,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 * It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
 * It is used for books, brochures, magazines, etc 
+* Allows downloading of books to read online
 * Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications    
 * Mostly used by independent publishers and individual users 
 * Supports all devices 
@@ -89,7 +90,6 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
 * Allows downloading of books to read offline 
 * Supported File Types: pdf, txt, ps, rtf, epub, key, odt, odp, ods, odg, odf, sxw, sxc, sxi, sxd, doc, ppt, pps, xls, docx, pptx, ppsx, xlsx  
-* Downloading possible
 * Lots of free content 
 * Subscription model
 * No limits on genre 
@@ -106,13 +106,13 @@ Scribd offers general statistics for users and their publications
 
 **Strengths and weaknesses**  
 *Strengths*  
-International outreach  
 Sharing possibilities  
 Selling possibilities  
 
 *Weaknesses*  
 Few options for metadata  
 In-browser not optimal (like Issuu for example)  
+Embedding not optimal
 
 *Revenue Model*  
 Scribd offers a subscription model for its readers and allows   publishers to set a price for their work  
@@ -130,7 +130,8 @@ Offer in-browser reading and downloadable file
 **Characteristics**  
 External party  
 Text-based  
-Not for publishing whole books, but for example a summary or chapter  
+Not for publishing whole books, but for example a summary or chapter 
+Strong connection with eg Twitter 
 
 **Statistics**  
 Medium offers stats for individual users, including referrers  
@@ -221,6 +222,7 @@ Lulu is the biggest print-on-demand service that offers publishing free of costs
 *Strengths*  
 Ability to set your own price  
 Distribution through Amazon and iBookstore (eBooks only) is possible
+Free ISBN
 
 *Weaknesses*  
 Prices can rise quickly per publication, especially because of postal services  
@@ -234,7 +236,8 @@ Authors/publishers get 80% of the profit on a publication, Lulu gets 20%
 Create an account  
 You will need two PDFs: a single page PDF for the inside and front, back, and spine in one PDF for the outside  
 Choose your format, paper, etc. It's very important to have precise formats for the PDFs, otherwise Lulu can't make a printable book 
-You can add your own ISBN or have Lulu assign an ISBN to the publication  
+You can add your own ISBN or have Lulu assign an ISBN to the publication 
+One can use a browser based editor to design a cover 
 Upload the PDF's and publish your work    
 Choose your preferred ways of distribution  
 
@@ -307,11 +310,11 @@ The content listed on The Pirate Bay and other sites for the bittorrent protocol
 
 #### General e-book sites
 
-The most simple pirate e-book sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little _of_publication.mdore than a simple search engine that spits out downloadable e-books. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org).
+The most simple pirate e-book sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little _of_publication.mdore than a simple search engine that spits out downloadable e-books. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org). Also [libgen.info](http://libgen.info), an online library, is an example to mention here. 
 
 What online booksellers could learn from these sites: 
 * Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether a bestseller or obscure.
-* Simplicity in formats. The sites provide epubs or PDFs depending on whatever file format they have available (and obtained from hacker networks). 
+* Simplicity in formats. The sites provide mostly PDFs as well as epubs, depending on whatever file format they have available (and obtained from hacker networks). 
 
 #### Specialized sites
 
@@ -327,15 +330,9 @@ All these sites run like small specialty bookstores (although they don't sell an
 ## artist-/designer-run e-publishing projects
 
 In the last couple of years, there have been first attempts to create only
-small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term "new aesthetics") created
-the website "artistsebooks.org"  with freely downloadable epub-files by
-experimental writers and artists. American contemporary artist and designer
-Paul Chan initiated the more commercial online press Badlands Unlimited that
-sells artist-made visual electronic books that are proprietary to the iPad and
-Apple's iBooks-platform. The iPhone/iPad app "KYR8" (slang riff on
-"curate") invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections.
+small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term "new aesthetics") created the website "artistsebooks.org"  with freely downloadable epub-files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks-platform. The iPhone/iPad app "KYR8" (slang riff on "curate") invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com] (http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com] (http://trollthread.tumblr.com) <!-- Short description needed here -->
 
 None of these projects compete with classical e-book stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portofolio pieces. 
 
 
-[^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods
+[^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods.
