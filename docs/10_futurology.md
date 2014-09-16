@@ -7,7 +7,8 @@ Where will e-publishing be in 2020?
 
 Both hardware / software
 
-There is an increase in reading on the smartphone. Some speculate that e-readers will be obsolete. (http://nymag.com/daily/intelligencer/2014/06/heres-what-the-future-of-reading-looks-like.html)
+There is an increase in reading on the smartphone. Some speculate that e-readers will be obsolete. <!-- A confirmation of this might be the fact that the sony ereader, one of the most appreciated ones, is not produced anymore -->
+(http://nymag.com/daily/intelligencer/2014/06/heres-what-the-future-of-reading-looks-like.html)
 
 Books as apps - blurred lines between books / websites / apps
 
@@ -29,15 +30,20 @@ Something about the much discussed 'change' in reading - deep versus shallow rea
 
 Other ways of dealing with texts open up, allowing a more interactive relationship between reader and text.Not only in the sense of adding audio and video, but also leaving the reader the choice of entry into the text, setting out an individual reader path per person. See for example http://futureofthebook.org/blog/wp-content/uploads/2014/05/Tether_Mise-en-Page_FINAL.pdf
 
+<!-- Texts will be more and more influenced by reading statistics, see Popular Highlights on Kindle, or quantification of reading habits on Scribd and Oyster -->
+
 ## Publishing culture
 
-Likely: switch from individual product retail to rental/subscription model. Subscription to complete libraries with unlimited access to media within the rental period. (Examples: Netflix, Spotify, Adobe Creative Cloud, JSTOR). 
+Likely: switch from individual product retail to rental/subscription model. Subscription to complete libraries with unlimited access to media within the rental period. (Examples: Netflix, Spotify, Adobe Creative Cloud, JSTOR).  <!-- Is the subscription model working in music? -->
 
 Writers / artists / designers who self-publish will increase
 
 Amazon spreading, also causing chances for idependent publishers?
 
 Blurring lines between media company / publisher / writer. What is the added value of a publisher? What distinguishes the publisher from those other companies or independent one-man-publishers? How will publishers redefine their expertise? (http://www.litragger.com/literature-news/commentary/5-myths-about-the-new-era-of-publishing/)
+
+Publishing becoming a function rather than an industry: http://www.idealog.com/blog/atomization-publishing-as-a-function-rather-than-an-industry/
+
 
 
 ###NOTES / IDEAS

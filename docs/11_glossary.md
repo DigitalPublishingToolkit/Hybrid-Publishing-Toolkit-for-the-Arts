@@ -96,7 +96,7 @@ each other.
 *Applet*
 
 An Applet is a small program that is downloaded from a web page and
-executed by browse3r oftware. Also, an HTML tag that defines an applet
+executed by browser software. Also, an HTML tag that defines an applet
 program.which is written in Java and designed to run on a web page. It
 can be used to display scrolling text such as a marquee across the top
 of a page or other animations
@@ -132,6 +132,18 @@ such as voltage or frequency, per second in a signal. Named for the
 French teleprinter inventor Baudot. In simplest systems, it is
 synonymous with bits per second. In more complex systems, a baud may
 include more than one bit.
+
+*Binary*
+
+A number system using base 2 instead of the usual (human) base 10, which
+is normally referred to as the decimal system. Computers use base 2
+because they can only recognise two values, 1 or 0. This is simulated
+electronically by using a device, such as a switch, which is either on
+(1) or off (0). All numbers are represented by combinations of ones and
+zeroes, thus the number 9 is represented as 1001, the right-most column
+being the units column and the other columns, moving from right to left,
+being 2, 4, 8.
+
 
 *Bit*
 
@@ -257,16 +269,9 @@ apparaat X van fabrikant Y en is niet vrij te transporteren naar andere
 apparaten zonder extra ingrijpen (bijvoorbeeld het kraken van de
 beveiliging).
 
-*Binary*
 
-A number system using base 2 instead of the usual (human) base 10, which
-is normally referred to as the decimal system. Computers use base 2
-because they can only recognise two values, 1 or 0. This is simulated
-electronically by using a device, such as a switch, which is either on
-(1) or off (0). All numbers are represented by combinations of ones and
-zeroes, thus the number 9 is represented as 1001, the right-most column
-being the units column and the other columns, moving from right to left,
-being 2, 4, 8.
+*Desktop Publishing*
+
 
 *Directory*
 
@@ -417,7 +422,7 @@ GIF files are also suitable for storing animated (i.e. moving) images.
 
 *GitHub*
 
-Collaboration programme, code review, and code management for open
+Collaboration platform, code review, and code management for open
 source and private projects.
 
 *Graphical User Interface (GUI)*
@@ -576,6 +581,7 @@ interactive web pages especially with HTML 5 and to that end a very
 popular library called Jquery has come along that offers users a lot of
 interactivity without using Flash. Jquery also supports a host of
 specialist plug-ins to extend the library.
+<!-- It might make sense to dedicate a specific lemma to Jquery itself --> 
 
 *JPEG or JPG*
 
@@ -907,7 +913,7 @@ live within 50 miles of my home town":
 *Setup Program*
 
 A program that enables the user to set up a program or suite of programs
-on the computer's hard disc. Also known as Install Program or
+on the computer's hard disk. Also known as Install Program or
 Installation Program.
 
 *Shockwave Player*
@@ -1010,7 +1016,7 @@ Probably the most widely used computer Application. Modern
 word-processors allow the user to create fine-looking documents
 including images, tables, photographs, and even sound and video
 recordings if they are to be viewed on screen rather than from the
-printed page. In many respects they are similar to Desktop Publishing
+printed page. In many respects they are similar to *Desktop Publishing*
 applications. Word-processors normally include a spellchecker, a grammar
 checker, a style checker and a thesaurus, as well as tools for writing
 in HTML, the coding language used for producing Web

@@ -105,13 +105,15 @@ for editing in Markdown. None of them, however, are Open Source:
 
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php), a word processing program popular among professional writers, for Mac OS X and Windows. Fully supports MultiMarkdown internally.
 
+- [Mou](http://www.mouapp.com), is a Markdown editor that funds on Mac OS X. It consists of features like live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
+
 
 ##### Document conversion programs
-<!-- why is calibre not mentioned here? Question by kimmy-->
-
 - [multimarkdown](http://fletcherpenney.net/multimarkdown/), the original program convert MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows.
 
 - [pandoc](http://johnmacfarlane.net/pandoc/), similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, Epub 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customized. 
+
+- [Calibre](http://http://calibre-ebook.com/), application suite that allows users to manage e-book collections as well as to create, edit, and read e-books. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), e-book syncing with a variety of e-book readers, and conversion (within DRM restrictions) from different e-book and non-e-book formats. Open Source, runs on Linux, Mac OS X and Windows.
 
 Pandoc is the tool we recommend for working with Multimarkdown, and has also been extensively used in creating this publication.
 

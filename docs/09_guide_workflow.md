@@ -20,8 +20,7 @@ See Kimmy's visualized workflow for the INC, which will be generalized for [rese
 *New workflow*  
 This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 
 
-So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an ePub, the storage / archive file has to be in a format that can translate into InDesign for the print edition and ePub / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to ePub, though not so easily to InDesign... (working on this)
-
+So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an ePub, the storage / archive file has to be in a format that can translate into InDesign for the print edition and ePub / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to ePub, though not so easily to InDesign... (working on this) <!-- Also check http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/ -->
 Flow chart: workflow - 
 
 ### Decision making
@@ -38,6 +37,7 @@ What is possible when using a hybrid workflow, focused as much on e-publications
 * Version control can be more transparant   
 * Adding elements other than text (videos, (color) images, links)  
 * Extracting outputs from the material different from the book itself, such as abstract, booktrailers, personalized ePubs  
+* Better archiving as one can keep the structure of the text as well
 ...
 
 ### Instructions
@@ -47,7 +47,7 @@ The decision about the desired output leads to certain steps to get the right in
 
 Specify for example:  
 * file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into ePub) or docx (which can be easily converted into html)  
-* image style and format - while the print book has b/w pictures, the e-book enables colour images; print requires large quality 300 dpi .tiff images, while these may be too hevay for a digital publication, skyrocketing the size of the book, which is bad for download / and or storage space on an e-reader  
+* image style and format - while the print book has b/w pictures, the e-book enables colour images; print requires large quality 300 dpi .tiff images, while these may be too heavy for a digital publication, skyrocketing the size of the book, which is bad for download / and or storage space on an e-reader  
 * formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections  
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * which metadata the author has to provide - e.g. keywords, contact information, abstract, biography     
@@ -143,13 +143,13 @@ The common denominator of these books is that they defy easy categorization and 
 
 #### Transfer from paper to electronic?
 
-The more medium-specific an artist's book is, the less sense it makes to translate it 1:1 into an electronic book. Dieter Roth's sculptural book objects, for example, would change from book art works to mere depictions of book art workds when reproduced electronically. 
+The more medium-specific an artist's book is, the less sense it makes to translate it 1:1 into an electronic book. Dieter Roth's sculptural book objects, for example, would change from book art works to mere depictions of book art works when reproduced electronically. 
 
 On the other hand, many contemporary artists, designers and media activists experimented with electronic publishing as a "poor" (i.e. simple low tech) medium of social sharing rather than a "rich" visual and tactile medium:
-- In the 1980s and early 1990s, many makers of zines (do-it-yourself small press periodicals) became makers of _e-zines_, electronic zines that used dial-up computer bulletin boards and the Internet as noncommercial samizdat media. Their typical publication format were simple plain text files. Many e-zines worked around their technical limitations by using ASCII art, typograms as they had also been produced in 1960s and 70s concrete poetry on typewriters, and with homebrew formatting codes ("_" for underlines, "#" for headlines etc.), the immediate precursors of the Markdown format described here in this toolkit.
+- In the 1980s and early 1990s, many makers of zines (do-it-yourself small press periodicals) became makers of _e-zines_, electronic zines that used dial-up computer bulletin boards and the Internet as noncommercial samizdat media. [Their typical publication] (http://www.textfiles.com/directory.html) format were simple plain text files. Many e-zines worked around their technical limitations by using ASCII art, typograms as they had also been produced in 1960s and 70s concrete poetry on typewriters, and with homebrew formatting codes ("_" for underlines, "#" for headlines etc.), the immediate precursors of the Markdown format described here in this toolkit.
 - In the early 1990s, there also existed a hacker culture of "disk mags" for the Commodore Amiga and Atari ST home computers. These electronic magazines were anonymously published on floppy disks and were based on self-written computer programs (factually, early "apps") that displayed their animated text and visual contents.
 - Since the late 1990s, there have been a number of artist-run sites - textz.com, ubu.com, aaaaarg.org, monoskop.org - that offer free downloads of cultural theory and arts-related books, typically in simple formats such as plain text, PDF and epub.
-In these examples, the focus is not on the book as a visual object, but on concepts and politics of its sharing and dissemination; in other words, artists' publishing as electronic samizdat. In such scenarios, artists' books as simple 1:1 transfers from print originals to electronic reproductions can make sense.
+In these examples, the focus is not on the book as a visual object, but on concepts and politics of its sharing and dissemination; in other words, artists' publishing as electronic samizdat. In such scenarios, artists' publishing as simple 1:1 transfers from print originals to electronic reproductions can make sense.
 
 ##### Technical solutions for samizdat publications
 
@@ -158,7 +158,7 @@ For such activist or minimalist projects, the lowest technical denominator and m
 - single-file HTML. It is possible to directly embed images into an HTML file (without providing them as separate files); technical instructions can be found [here](...).
 - PDF. This format is widely readble and best suited for faithfully reproducing print books, but limited in its readability on different devices and hardly editable (more explanation [here](...)).
 - epub. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to e-readers. Projects can very easily be made and provided both in HTML and epub.
-Since the design of most samizdat books does not differ from that of [research publications](...) or other visually simple publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. 
+Since the design of most samizdat books does not differ from that of [research publications](...) or other visually simple publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. <!-- Silvio suggests also to focus on the technical solution for  sharing texts, like etherpad, textb.org -->
 
 #### How to make visually oriented artists' books
 
@@ -166,7 +166,7 @@ Since the design of most samizdat books does not differ from that of [research p
 
 There is, factually, a rich tradition of artists' audiovisual electronic books: It began in the 1990s with hypertext and interactive multimedia literary experiments on floppy disk, CD-ROMs, later web sites and mobile apps. The [Electronic Literature Organization](http://eliterature.org) and the international research project [ELMCIP](http://elmcip.net/knowledgebase) document it extensively. Much of this documentation has become media archeology since multimedia formats have become obsolete: CD-ROM applications that no longer run on contemporary computers, websites whose links or plug-ins are no longer working or not compatible to today's browsers anymore. 
 
-This problem was greater in the 1990s and early 2000s when working open, cross-platform multimedia standards barely existed. But even today, the rule explained in chapter ... <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. 
+This problem was greater in the 1990s and early 2000s when working open, cross-platform multimedia standards barely existed. But even today, the rule explained in chapter ... <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. <!-- This problem was also exemplified by the massive use of Flash by e-lit artists --> 
 
 ##### Simple solutions
 
@@ -179,7 +179,8 @@ Electronic visual books can be made in very simple ways:
 (- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
 (- self-contained HTML5)
 (- epub 2, epub 3)
-(- plain text: e-zines, BBS era e-books, typograms/typoscripts)
+(- plain text: e-zines, BBS era e-books, typograms/typoscripts) 
+(- Problem with it: distribution, books only available in the Apple ecosystem)
 
 
 [^1]: Ulises Carrión, "The new art of making books", Aegean editions, 2001
