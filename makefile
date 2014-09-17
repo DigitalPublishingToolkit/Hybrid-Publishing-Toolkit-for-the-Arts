@@ -17,7 +17,7 @@ toolkit.epub :
 	--default-image-extension svg \
 	--table-of-contents \
 	-o ../toolkit.epub \
-	../title.txt 05_strengths_limitations.md
+	../title.txt *.md
 
 toolkit.pdf : $(svgpng)
 	cd docs && pandoc \
@@ -27,7 +27,7 @@ toolkit.pdf : $(svgpng)
 	--epub-stylesheet=../styles.css \
 	--table-of-contents \
 	-o ../toolkit.pdf \
-	../title.txt -H ../patch.tex 05_strengths_limitations.md
+	../title.txt -H ../patch.tex *.md
 
 # Use pandoc to convert markdown to HTML
 %.html: %.md
