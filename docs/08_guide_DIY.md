@@ -7,7 +7,7 @@ Focus: epub2/3, HTML5 (app) + PDF
 
 ## A simple e-book 
 Flow chart: workflow <!-- Loes & Kimmy-->
-![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple.svg "simple")
+![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple "simple")
 
 ## Direct conversion to ePub
 
@@ -22,7 +22,7 @@ For example, consider Charlotte Bronte's ''Jane Eyre,'' available from Project G
 TODO: Give simple example of using markdown + pandoc? to produce a simple epub.
 
 
-![Simplest possible case](../images/_in_progress/08_markdown_to_epub.svg "simple")
+![Simplest possible case](../images/_in_progress/08_markdown_to_epub "simple")
 <!--where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 ##EPUB from scratch
@@ -55,7 +55,7 @@ Most of the elements of an epub can be produced by hand in a text editor - not t
 
 
 ####Creating the required files and directories
-![Creating Files and Directories](../images/_in_progress/08_3_creating_files.svg "Creating Files and Directories")
+![Creating Files and Directories](../images/_in_progress/08_3_creating_files "Creating Files and Directories")
 1. Create a directory to store the files and subdirectories for your epub in, e.g. *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;

@@ -1,6 +1,6 @@
 # Strengths & limitations of e-reading technologies
 
-![Digital Publishing Range](../images/_in_progress/05_1_rich_poor.svg "Digital Publishing Range") <!--Visual by Arjen-->
+![Digital Publishing Range](../images/_in_progress/05_1_rich_poor "Digital Publishing Range") <!--Visual by Arjen-->
 
 ##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, often used in combination with the physical book, especially in the case of research publications.
@@ -13,7 +13,7 @@ Both Amazon and Barnes & Noble also offer more expensive models, Kindle Fire (an
 
 Because of the lack of a colour screen the current generation of e-readers is best suited for text-based publications, i.e. novels, etc. 
 
-![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations.svg "Strengths & Limitations")
+![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations "Strengths & Limitations")
 
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilises their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reader applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software]() section.
@@ -25,7 +25,6 @@ The story for tablets also largely applies to the realm of smartphones.[^sales-f
 
 ###PC/Laptop
 Reading e-books on a laptop or personal computer is a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets.
-
 
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on e-readers. Firstly almost all devices offer a full colour display, as opposed to the monochrome e-ink screens of e-readers. Secondly, a lot of applications support a larger subset of the epub standard, which allows for more features - like custom fonts, layout styling, etc.

@@ -22,8 +22,8 @@ This is why the new workflow is directed towards **hybrid input** and **hybrid o
 
 So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an ePub, the storage / archive file has to be in a format that can translate into InDesign for the print edition and ePub / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to ePub, though not so easily to InDesign... (working on this) <!-- Also check http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/ -->
 Flow chart: workflow - 
-![Workflow Hybrid](../images/_in_progress/09_workflowHYBRID.svg "Workflow Hybrid")
-![Workflow Print Oriented](../images/_in_progress/09_workflowPrintOriented.svg "Workflow Print Oriented")
+![Workflow Hybrid](../images/_in_progress/09_workflowHYBRID "Workflow Hybrid")
+![Workflow Print Oriented](../images/_in_progress/09_workflowPrintOriented "Workflow Print Oriented")
 
 ### Decision making
 
