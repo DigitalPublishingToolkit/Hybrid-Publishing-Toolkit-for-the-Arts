@@ -1,7 +1,7 @@
-# Guide: E-publications per genre
+# 09 Guide: E-publications per genre
 
 ## General questions
-<!--Visual by Arjen-->
+<!--Visual by Arjen--> <!-- what visual of Arjen, why, what should it depict? -->
 
 ## Research publication
 
@@ -50,12 +50,12 @@ The decision about the desired output leads to certain steps to get the right in
 Specify for example:  
 * file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into ePub) or docx (which can be easily converted into html)  
 * image style and format - while the print book has b/w pictures, the e-book enables colour images; print requires large quality 300 dpi .tiff images, while these may be too heavy for a digital publication, skyrocketing the size of the book, which is bad for download / and or storage space on an e-reader  
-* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections  
+* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this ^kimmy --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * which metadata the author has to provide - e.g. keywords, contact information, abstract, biography     
 * an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
 
-**What metadata to add?**  
+**What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
 Make a list of metadata to be added to the texts  
 * metadata provided by the author(s)  
 * metadata added by the editor/publisher
@@ -158,7 +158,7 @@ In these examples, the focus is not on the book as a visual object, but on conce
 For such activist or minimalist projects, the lowest technical denominator and most easily readable file formats are advisable:
 - plain text (ASCII) as the most simple, compatible and minimalist solution
 - single-file HTML. It is possible to directly embed images into an HTML file (without providing them as separate files); technical instructions can be found [here](...).
-- PDF. This format is widely readble and best suited for faithfully reproducing print books, but limited in its readability on different devices and hardly editable (more explanation [here](...)).
+- PDF. This format is widely readable and best suited for faithfully reproducing print books, but limited in its readability on different devices and hardly editable (more explanation [here](...)).
 - epub. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to e-readers. Projects can very easily be made and provided both in HTML and epub.
 Since the design of most samizdat books does not differ from that of [research publications](...) or other visually simple publishing formats, no special design advice is necessary here, except the principle of "worse is better": the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. <!-- Silvio suggests also to focus on the technical solution for  sharing texts, like etherpad, textb.org -->
 
@@ -175,7 +175,7 @@ This problem was greater in the 1990s and early 2000s when working open, cross-p
 Electronic visual books can be made in very simple ways:
 * As a sequence of images, embedded into an epub file <!-- add reference-->, a self-contained HTML file <!-- add reference--> or a PDF file.
 * As a PDF file. PDF generally is the most easy-to-use straightforward format for visual publications in a universally working format.[^2] PDF documents can be graphically designed to work on different screen sizes, and resolution of embedded visuals can be decreased to keep the file size friendly for downloading. Still, the format is essentially limited to fixed document sizes and remains an electronic representation of printed matter. 
-* Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, mp4 video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^3] 
+* Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, mp4 video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^3] <!-- should this be mentioned as simple? not all of these formats work on e-readers. mention reference to image of Arjen or overview of strengths and weaknesses -->
 * Self-contained HTML. <!--- explain the use of self-contained HTML with base64--->
 
 (- iBooks author: medium solution between epub and PDF: example Badlands Unlimited)
@@ -186,7 +186,7 @@ Electronic visual books can be made in very simple ways:
 
 
 [^1]: Ulises Carrión, "The new art of making books", Aegean editions, 2001
-[^2]: For long-time durability, the "PDF/A" format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard orginally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
+[^2]: For long-time durability, the "PDF/A" format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard originally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
 [^3]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith.
 
 
