@@ -7,11 +7,11 @@ Focus: epub2/3, HTML5 (app) + PDF
 
 ## A simple e-book 
 Flow chart: workflow <!-- Loes & Kimmy-->
-
+![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple.svg "simple")
 
 ## Direct conversion to ePub
 
-![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple.svg "simple")
+
 
 Making an epub doesn't have to be complicated. As the epub standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an epub from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an epub.
 
