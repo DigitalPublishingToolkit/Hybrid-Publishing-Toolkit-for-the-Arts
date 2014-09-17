@@ -1,4 +1,4 @@
-# Strengths & limitations of e-reading technologies
+# 05 Strengths & limitations of e-reading technologies
 
 ![Digital Publishing Range](../images/_in_progress/05_1_rich_poor "Digital Publishing Range") <!--Visual by Arjen-->
 

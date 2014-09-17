@@ -1,4 +1,4 @@
-# Distribution platforms
+# 06 Distribution platforms
 
 ## e-book stores: Amazon, Apple, Google, Kobo, Sony...
 Strengths

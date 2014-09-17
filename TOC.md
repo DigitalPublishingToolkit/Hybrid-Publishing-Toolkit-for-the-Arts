@@ -46,6 +46,7 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 # [07 Workflows](docs/07_workflows.html) 
 <!--status: needs work and cutting-->
 
+
 ## Why change your life <!-- Florian -->
 ## Towards a hybrid workflow 
 
