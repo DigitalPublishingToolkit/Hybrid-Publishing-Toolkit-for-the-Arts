@@ -18,18 +18,10 @@ Do this both for actual images and for visualisation requests. In the case of a 
 3. Leave an additional description of your ideas about the visualisation as follows: <!— description—>
 and/or add images as inspiration.
 
-4. Put your image in the toolkit/images folder and start your document name with the following abbreviations to refer to the chapter it belongs to. This will make sure the images are structured by chapter.  
+4. Put your image in the toolkit/images folder and start your document name with the numbers to refer to the chapter it belongs to. This will make sure the images are structured by chapter.  
 
 ####chapters and abbreviations 
-- executive summary: exsu_
-- overview: ovv_
-- general introduction: gein_
-- workflows: wf_
-- Guide design your own epub: gd_
-- futurology: fl_
-- appendix: apd_
-- software catalogue: soca_
-- glossary: glos_  
+![chapter screenshot](../images/chapterstructure_screenshot.jpg "chapter numbers")
 
 <b>Don’t put images in the folder which are not linked in the text.</b>
 
