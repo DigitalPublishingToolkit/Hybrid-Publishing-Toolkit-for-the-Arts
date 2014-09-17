@@ -1,6 +1,8 @@
 # 07 Workflows
 
+
 ## Why change your life
+
 From single medium to cross-media/hybrid publishing.
 
 From-scratch development of each publication format vs. single source-multi format publishing: advantages, disadvantages
