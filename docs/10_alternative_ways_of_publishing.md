@@ -12,6 +12,8 @@ A range of publishing suites is available as well, which roughly fall into two c
 ###Editors: calibre, Sigil, iBooks Author
 Both Sigil and iBooks Author follow a paradigm closely related to DTP applications like Adobe InDesign or QuarkXPress. Designing a page layout and templates is primarily done via a WYSIWYG drag-and-drop interface and text is mostly edited inline.
 
+Calibre is both a ebook management application, but in recent versions it also has the tools necessary to edit or create ebooks. [^calibre-edit-ebooks] Calibre's editor is similar to a traditional text editor with a live preview on the side. Using the editor the user interacts directly with the code of the separate pages in an ebook.
+
 ###Enhancers: Adobe Digital Publishing Suite, Mag+
 These applications mostly integrate (as plugins) in an existing Adobe InDesign and allow designers to define interactive content (media, animations, etc.) in a traditional print design. As such these tools are often used to convert print magazines into their digital counterparts suitable for sale in Apple's Newsstand, for example.
 
@@ -19,3 +21,4 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 [^penguin-amplified]: For example: http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php
 [^purple-carrot-publication]: https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4
 [^de-correspondent]: https://decorrespondent.nl
+[^calibre_edit-ebooks]: 'calibre's ebook editor', http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html
