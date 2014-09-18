@@ -1,7 +1,7 @@
 # 09 Guide: E-publications per genre
 
 ## General questions
-<!--Visual by Arjen--> <!-- what visual of Arjen, why, what should it depict? -->
+<!--Visual by Arjen--> <!-- This is already added to chapter 5. What is the purpose of that visual in this chapter? what should it depict? -->
 
 ## Research publication
 
