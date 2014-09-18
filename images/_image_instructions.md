@@ -4,21 +4,16 @@
 
 <pre>![your caption here](../images/chapterabb_img "title")</pre>
 
-![your caption here](../images/chapterabb_img.gif "title")  
+![your caption here](../images/chapterabb_img "title")  
 
 Do not use extensions in the file name.
 
- ![your caption here](../images/_in_progress/03_1_intro_mixture_layout.svg "MIXTURE")
-
-becomes:
-
-   ![your caption here](../images/_in_progress/03_1_intro_mixture_layout "MIXTURE")
 
 example:
 
 <pre>![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture "geeks")</pre>
 
-![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture.jpg "geeks")
+![digital publishing toolkit meeting on the 28th of march 2014](../images/exsu_grouppicture "geeks")
 
 2. Specify the name of the image and the caption, which both will be used in the actual publication, as well as the document name.
 Do this both for actual images and for visualisation requests. In the case of a visualisation request it will generate a placeholder image in the text.
@@ -38,7 +33,7 @@ RGB and 300 dpi
 .svg if not a vector than .tiff  
 
 
-Important Changes
+##Important Changes by Michael
 Actually we need to reconsider using SVG as the image standard.
 (1) The SVGs as committed to the repo don't seem to be "self-contained" as my attempts to view them produce odd results (no embedded fonts perhaps). Perhaps this is fixable in making the SVG; I don't know.
 (2) Formats like PDF (at least as prepared by pandoc using latex) need PNG instead of SVG.
