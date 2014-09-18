@@ -27,7 +27,7 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 ## Forms of publication
 ## Levels of electronic publishing
 
-# [05 Strengths & limitations of e-reading technologies ](docs/05_strengths_limitations.html)
+# [05 Ereading technologies ](docs/05_strengths_limitations.html)
 <!--status: thorough reading by Pia and Margreet-->
 
 ## Reader hardware 
