@@ -11,3 +11,7 @@
 <!-- Does this become a part of the final publication as appendix? -->
 
 ## [Instructions for placing images](images/_image_instructions.html)
+
+
+
+[bp](http://digitalpublishingtoolkit.org/2014/09/inc-project-update-hybrid-publishing-workflow-test/)
