@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="70px" height="40px" viewBox="0 0 70 40" enable-background="new 0 0 70 40" xml:space="preserve">
+<rect x="10" y="12" fill="none" width="49" height="30"/>
+<text transform="matrix(1 0 0 1 19.1255 18.8403)"><tspan x="0" y="0" fill="#5C5C5C" font-family="'OpenSans-Bold'" font-size="9">ORDER </tspan><tspan x="-2.077" y="11" fill="#5C5C5C" font-family="'OpenSans-Bold'" font-size="9">ONLINE</tspan></text>
+<g>
+	<path fill="#5C5C5C" d="M55,7c1.103,0,2,0.897,2,2v24c0,1.103-0.897,2-2,2H14c-1.103,0-2-0.897-2-2V9c0-1.103,0.897-2,2-2H55 M55,5
+		H14c-2.209,0-4,1.791-4,4v24c0,2.209,1.791,4,4,4h41c2.209,0,4-1.791,4-4V9C59,6.791,57.209,5,55,5L55,5z"/>
+</g>
+</svg>

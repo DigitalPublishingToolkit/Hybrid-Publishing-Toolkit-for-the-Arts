@@ -2,19 +2,42 @@
 #
 
 allmd = $(wildcard *.md docs/*.md images/*.md)
+svg = $(wildcard images/_in_progress/*.svg)
+svgpng = $(patsubst %.svg,%.png,$(svg))
 
 derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
 all : toolkit.epub
 
-toolkit.epub : $(derivedhtml)
-	ebook-convert TOC.html toolkit.epub --cover images/_dpt/cover.png --title "Digital Publishing Toolkit" --pubdate "01 July 2014" --publisher "Institute of Network Cultures"
+toolkit.epub : title.txt $(allmd)
+	cd docs && pandoc \
+	--self-contained \
+	--epub-metadata=../metadata.xml \
+	--epub-stylesheet=../styles.css \
+	--default-image-extension svg \
+	--table-of-contents \
+	-o ../toolkit.epub \
+	../title.txt *.md
 
-toolkit.pdf : $(derivedhtml)
-	ebook-convert TOC.html toolkit.pdf --cover images/_dpt/cover.png --title "Digital Publishing Toolkit" --pubdate "01 July 2014" --publisher "Institute of Network Cultures"
+toolkit.pdf : $(svgpng) $(allmd)
+	cd docs && pandoc \
+	--self-contained \
+	--epub-metadata=../metadata.xml \
+	--default-image-extension png \
+	--epub-stylesheet=../styles.css \
+	--table-of-contents \
+	-o ../toolkit.pdf \
+	../title.txt -H ../patch.tex *.md
 
+# Use pandoc to convert markdown to HTML
 %.html: %.md
 	pandoc --css=styles.css -s $< > $@
 
+# Use ImageMagick to convert svg's to png
+%.png : %.svg
+	convert $< $@
+
 clean:
 	rm -f $(derivedhtml)
+	rm toolkit.epub
+	rm toolkit.pdf

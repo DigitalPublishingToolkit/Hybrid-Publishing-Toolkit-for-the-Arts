@@ -1,3 +1,4 @@
+*~
 .*
 *.py[cod]
 
@@ -25,6 +26,7 @@ pip-log.txt
 # EPub
 *.html
 toolkit.epub
+toolkit.pdf
 !images/README.html
 !docs/README.html
 !lib/README.html
