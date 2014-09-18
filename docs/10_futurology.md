@@ -12,7 +12,7 @@ There is an increase in reading on the smartphone. Some speculate that e-readers
 
 Books as apps - blurred lines between books / websites / apps
 
-Advantages and disadvantages will remain the same: affordability and portability of whole libraries vs. independence from electricity and visual-tacticle advantages of paper books.
+Advantages and disadvantages will remain the same: affordability and portability of whole libraries vs. independence from electricity and visual-tactile advantages of paper books.
 
 Improvement of e-paper: color e-paper, flexible e-paper
 
@@ -38,7 +38,7 @@ Likely: switch from individual product retail to rental/subscription model. Subs
 
 Writers / artists / designers who self-publish will increase
 
-Amazon spreading, also causing chances for idependent publishers?
+Amazon spreading, also causing chances for independent publishers?
 
 Blurring lines between media company / publisher / writer. What is the added value of a publisher? What distinguishes the publisher from those other companies or independent one-man-publishers? How will publishers redefine their expertise? (http://www.litragger.com/literature-news/commentary/5-myths-about-the-new-era-of-publishing/)
 
