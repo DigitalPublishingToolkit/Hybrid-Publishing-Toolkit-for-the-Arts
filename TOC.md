@@ -5,34 +5,36 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 # [01 Introduction](docs/01_introduction.html)
 <!--status: Joost adds a few things, then it's ready for copy edit.-->
 
-# [02 Overview](docs/02_overview.html) 
-<!--status: ready for copy-edit-->
-
-## Why this toolkit
-## For whom is this toolkit written
-## What culture shock to expect 
+## Industry promises versus reality
+## What this Toolkit provides
+## Whom is this toolkit written
 ## How to use this toolkit
 ## Who worked on this toolkit
 
 # [02 The Basics](docs/02_the_basics.html)
 <!--status: ready for copy-edit-->
 
-## For the newcomers in the field
+## What is a text?
+## What is an electronic text?
+## What is an electronic? publication
 ## Electronic possibilities 
 
  
 # [03 Genres of publication](docs/03_genres_of_publications.html) 
 <!--status: ready for copy-edit-->
 
-## Forms of publication
-## Levels of electronic publishing
+## 1) Research publication
+## 2) Art/design publication
+## 3) Art/designer book
+## 4) Art/designer periodical
+## 5) New genres of publication
+## 3 levels of electronic publishing
 
 # [04 Ereading technologies ](docs/04_ereading_technologies.html)
 <!--status: thorough reading by Pia and Margreet-->
-
+## File formats 
 ## Reader hardware 
 ## Reader software 
-## File formats 
 
 # [05 Distribution platforms](docs/05_distribution_platforms.html) 
 <!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
