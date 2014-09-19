@@ -2,7 +2,7 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 ===========================
 
 
-# [01 Executive Summary](docs/01_executive_summary.html)
+# [01 Introduction](docs/01_introduction.html)
 <!--status: Joost adds a few things, then it's ready for copy edit.-->
 
 # [02 Overview](docs/02_overview.html) 
@@ -14,27 +14,27 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 ## How to use this toolkit
 ## Who worked on this toolkit
 
-# [03 Introduction](docs/03_introduction.html)
+# [02 The Basics](docs/02_the_basics.html)
 <!--status: ready for copy-edit-->
 
 ## For the newcomers in the field
 ## Electronic possibilities 
 
  
-# [04 Genres of publication](docs/04_genres_of_publications.html) 
+# [03 Genres of publication](docs/03_genres_of_publications.html) 
 <!--status: ready for copy-edit-->
 
 ## Forms of publication
 ## Levels of electronic publishing
 
-# [05 Ereading technologies ](docs/05_strengths_limitations.html)
+# [04 Ereading technologies ](docs/04_ereading_technologies.html)
 <!--status: thorough reading by Pia and Margreet-->
 
 ## Reader hardware 
 ## Reader software 
 ## File formats 
 
-# [06 Distribution platforms](docs/06_distribution_platforms.html) 
+# [05 Distribution platforms](docs/05_distribution_platforms.html) 
 <!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
 
 ## E-book stores: Amazon, Apple, Google, Kobo, Sony... <!--Marc-->
@@ -43,27 +43,33 @@ THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
 ## Artist-/designer-run projects: Badlands, KYUR8, artists e-books <!--Florian-->
 
-# [07 Workflows](docs/07_workflows.html) 
+# [06 Workflows](docs/06_workflows.html) 
 <!--status: needs work and cutting-->
 
 
 ## Why change your life <!-- Florian -->
 ## Towards a hybrid workflow 
 
-# [08 Guide: Do it yourself epub](docs/08_guide_DIY.html) 
+# [07 Guide: Do it yourself epub](docs/07_guide_DIY.html) 
 <!--status: ask input from Florian -->
 
 ## A simple e-book 
 ## Direct conversion to ePub
 ## Epub from scratch 
 
-# [09 Guide: / E-publications per genre](docs/09_guide_workflow.html) 
+# [08 Guide: / E-publications per genre](docs/08_guide_workflow.html) 
 <!--status: work needed-->
 
 ## Research publication <!--INC project, Miriam-->
 ## Art/design catalogue <!--Stedelijk project, Loes & Barbera-->
 ## Artist/designer book <!--Florian shorten/rewrite-->
 ## Art/design periodical <!--Open online, Margreet-->
+
+
+
+# [9 Alternative ways of publishing](docs/09_alternative_ways_of_publishing.html)
+
+
 
 # [10 Futurology](docs/10_futurology.html) 
 <!--status: work needed--><!--Michael, Silvio, Florian, Joost, Arjen, Kimmy-->

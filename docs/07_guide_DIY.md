@@ -1,4 +1,4 @@
-# 08 Guide: How to make a simple ePub
+# 07 Guide: How to make a simple ePub
 
 Focus: epub2/3, HTML5 (app) + PDF
 

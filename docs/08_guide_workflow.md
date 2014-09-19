@@ -1,4 +1,4 @@
-# 09 Guide: E-publications per genre
+# 08 Guide: E-publications per genre
 
 ## General questions
 <!--Visual by Arjen--> <!-- This is already added to chapter 5. What is the purpose of that visual in this chapter? what should it depict? -->
