@@ -103,9 +103,6 @@ A single downloadable package like EPUB might be a great vehicle to monetize, bu
 Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent*.[^de-correspondent] One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an epub or a PDF.
 
 
-
-
-
 [^calibre-file-formats]: http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from
 [^ade-readers]: http://blogs.adobe.com/digitalpublishing/supported-devices
 [^bookish-blog]: http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/
@@ -135,9 +132,6 @@ Lastly, why not just publish essays, articles or even whole books on a website? 
 [^purple-carrot-publication]: https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4
 [^de-correspondent]: https://decorrespondent.nl
 
-[^ade-readers]: http://blogs.adobe.com/digitalpublishing/supported-devices
-[^readium-goals]: http://readium.org/readium-project-goals
-[^readium-extension]: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl
 
 [^sales-figures-tablet]: http://www.gartner.com/newsroom/id/2674215
 [^sales-figures-phone]: http://www.gartner.com/newsroom/id/2665715
