@@ -15,7 +15,7 @@ So how small edition, low budget publishing houses can implement the new workflo
 ## Three workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](../images/_in_progress/07_workflowOldNewTRADITIONAL "Workflow Traditional")
 ![Traditional XML](../images/_in_progress/07_workflowOldNewXML "Workflow XML")
-![Traditional Markdown](../images/_in_progress/07_workflowOldNewMD "Workflow Markdown")
+<!--![Traditional Markdown](../images/_in_progress/07_workflowOldNewMD "Workflow Markdown") -->
 <!-- Loes & Kimmy -->
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
