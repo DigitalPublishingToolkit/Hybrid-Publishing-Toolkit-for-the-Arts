@@ -8,7 +8,7 @@ The aforementioned storefronts typically charge a percentage for each publicatio
 Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author. [^apple-publication-guidelines] Amazon, via their Kindle Direct Publishing programme, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing]
 
 
-## Online reading platforms: Scribd, Issuu, website / blog
+## Online reading platforms: Scribd, Issuu, Internet Archive, website / blog
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
 
@@ -123,6 +123,30 @@ Scribd offers a subscription model for its readers and allows   publishers to se
 Create an account  
 Easy upload of many different file formats  
 Offer in-browser reading and downloadable file  
+
+###Internet Archive
+
+**Characteristics**  
+Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+
+* 
+
+**Statistics**  
+*For Issuu* (June 2014) 
+
+
+*For individual users*  
+
+
+**Strengths and weaknesses**  
+
+
+**Weaknesses*  
+
+**Revenue Model**  
+
+**How-to-publish**  
+  
 
 
 ###Third party blogs
