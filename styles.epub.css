@@ -1,0 +1,40 @@
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+@font-face {
+    font-family: 'Ubuntu Mono Bold';
+    src: url('UbuntuMono-B.ttf');
+}
+body {
+    font-family: sans-serif;
+    margin: 2em;
+    font-size: 12pt;
+}
+h1, h2 {
+    font-family: 'Ubuntu Mono Bold', monospace;
+    font-size: 18pt;
+}
+h1 {
+    text-transform: uppercase;
+    border-top: 5px solid #0F0;
+}
+a {
+    color: #000;
+    text-decoration: underline;
+}
+a:hover {
+    color: #0F0;
+    text-decoration: underline;
+}
