@@ -8,6 +8,7 @@ svgpng = $(patsubst %.svg,%.png,$(svg))
 derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
 all : toolkit.epub
+trailer: toolkit-trailer.gif
 
 # toolkit.epub : title.txt $(allmd)
 # 	cd docs && pandoc \
@@ -75,3 +76,7 @@ toolkit.pdf: toolkit.md $(svgpng)
 	--table-of-contents \
 	-o ../toolkit.pdf \
 	../title.txt -H ../patch.tex ../toolkit.md
+
+# Trailer (this rule works for any epub)
+%-trailer.gif: %.epub
+	python scripts/epubtrailer.py $< --width 320 --height 240 --duration=0.5 -o $@
