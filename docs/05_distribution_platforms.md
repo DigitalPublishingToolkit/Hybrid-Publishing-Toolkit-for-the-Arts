@@ -184,7 +184,7 @@ Create an account and upload text for blog
 
 **Characteristics**  
 External party  
-Text-based  
+Prevalently text
 Not for publishing whole books, but for example personal blogs 
 
 **Statistics**  
