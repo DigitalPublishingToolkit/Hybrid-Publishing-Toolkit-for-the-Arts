@@ -46,7 +46,7 @@ What I've done:
 
 becomes:
 
-   ![your caption here](../images/_in_progress/03_1_intro_mixture_layout "MIXTURE")
+   ![your caption here](../images/_in_progress/03_1_intro_mixture_layout.png "MIXTURE")
 
 Pandoc then uses svg's to make the epub, and png's to make the pdf.
 
