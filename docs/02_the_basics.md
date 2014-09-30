@@ -28,7 +28,7 @@ increasingly popular. On electronic reading devices the text can always be made 
 has to consider how to design the work and under what conditions content and meaning are represented. This will be discussed in the following chapters for various outlets, as one might opt for various versions of the original work. It goes without saying that in the coming years, authors and designers will try and develop digitally conceived works that intrinsically allow for a variety of representations depending on the reading device whether electronic or not. 
 
 ### What is an electronic publication
-<!-- Silvio: I'd maybe add a subchapter titled "what is an electronic publication?" in which i'd express the fact that ebooks are not necessarily in conventional forms such as epub or ibook, mentioning for instance project gutenberg where the majority of ebooks are general-purpose txt files. I would do so in order to explain that a structured text file pave the way for new formats of publication that involve non conventional publishing platforms like email, twitter, etc. --> <<!-- Pia: I think this section then gets too much weight, so I would leave it as is -->
+<!-- Silvio: I'd maybe add a subchapter titled "what is an electronic publication?" in which i'd express the fact that ebooks are not necessarily in conventional forms such as epub or ibook, mentioning for instance project gutenberg where the majority of ebooks are general-purpose txt files. I would do so in order to explain that a structured text file pave the way for new formats of publication that involve non conventional publishing platforms like email, twitter, etc. --> <!-- Pia: I think this section then gets too much weight, so I would leave it as is -->
 
 ## Electronic possibilities
 

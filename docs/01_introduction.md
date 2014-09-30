@@ -1,7 +1,6 @@
 # 01 Introduction 
 
 
-
 "You must change your life" - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats (eg a catalog), (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initally expected! 
 
 <strong>Change is minor for scientific and mass publishers</strong>
@@ -11,7 +10,7 @@ publishers who already accomplish all their editorial work in highly
 structured digital document formats (such as XML or databases); but
 typically, this is only the case in scientific and technology-oriented
 publishing. Changes might also be minor for larger publishers that can
-afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an e-book. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many e-books will be sold.
+afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many ebooks will be sold.
 
 <strong>Change is major for small, arts-oriented publishers</strong>
 
@@ -27,7 +26,7 @@ For art and design publishers, the challenge of going electronic with their publ
 greater compared to other fields of publishing for a number of reasons: -
 visually oriented publications are still more difficult to technically
 realize in the electronic medium when designing for a multitude of
-different reading devices and e-book platforms; - small publishers are
+different reading devices and ebook platforms; - small publishers are
 under high pressure to keep project costs low due to often smaller budgets - but
 having to publish in multiple fors (e.g. print and electronic) will increase costs unless one
 accomplishes as much work as possible in a way that is not the dependent on the medium; -
@@ -43,7 +42,7 @@ designers and artists tend to overestimate the interactive and multimedia
 possibilities of electronic publishing. These extra possibilities do
 exist, but in most cases cause higher development costs and remain
 specific to one particular technical reading platform.
-On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual Ebooks.
+On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
 
 ## What this Toolkit provides
 
@@ -56,7 +55,7 @@ electronic publications from Microsoft Word and InDesign files that are
 likely the standard in the current publishing workflow, it will be painful,
 slow, inefficient and expensive in most cases. This Toolkit describes
 technical DIY alternatives because it is primarily aimed at
-publishers who, in most cases, cannot afford to outsource e-book design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
+publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
 
 This Toolkit has a particular (but not exclusive) focus on EPUB3 as an
 electronic publication format and on Markdown as a word processing
@@ -73,7 +72,7 @@ You may be a publisher, an experienced programmer, a designer or someone
 who is just starting out with making books. You probably identify with or work in the arts. You may hope to gain answers, knowledge, get tips, and
 consult various resources. This Toolkit intends to provide them all. The
 overall focus is on pragmatic solutions for publishers within
-the art and cultural sector. No prior knowledge of creating an Ebook is
+the art and cultural sector. No prior knowledge of creating an ebook is
 required – with that said, a familiarity of various computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this guide for certain answers. This publication is not a tutorial on how to make an electronic publication, it merely intends to
 give the reader guidance on how to make a first attempt at creating an electronic publication.
 
