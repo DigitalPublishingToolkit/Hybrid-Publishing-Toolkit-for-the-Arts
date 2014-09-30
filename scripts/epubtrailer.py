@@ -2,9 +2,9 @@
 #-*- coding:utf-8 -*-
 """
 
-(C) 2014 Contributors to the Digital Publishing Toolkit
+(C) 2014 Silvio Lorusso / contributors to the Digital Publishing Toolkit
 
-License: GPL3
+License: [GPL3](http://www.gnu.org/copyleft/gpl.html)
 
 This code has been developed as part of the [Digital Publishing Toolkit](http://digitalpublishingtoolkit.org).
 with the support of Institute for [Network Cultures](http://networkcultures.org)
