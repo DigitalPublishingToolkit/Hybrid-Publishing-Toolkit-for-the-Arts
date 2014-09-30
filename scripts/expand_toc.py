@@ -2,7 +2,7 @@
 # Process a TOC to a set of links
 
 from __future__ import print_function
-import markdown, sys, html5lib, re, argparse, sys, os
+import sys, re, argparse, sys, os
 from subprocess import Popen, check_output, PIPE
 from itertools import izip
 
