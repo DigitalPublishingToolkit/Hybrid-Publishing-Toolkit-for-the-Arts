@@ -7,7 +7,7 @@ Where will e-publishing be in 2020?
 
 Both hardware / software
 
-There is an increase in reading on the smartphone. Some speculate that e-readers will be obsolete. <!-- A confirmation of this might be the fact that the sony ereader, one of the most appreciated ones, is not produced anymore -->
+There is an increase in reading on the smartphone. Some speculate that ereaders will be obsolete. <!-- A confirmation of this might be the fact that the sony ereader, one of the most appreciated ones, is not produced anymore -->
 (http://nymag.com/daily/intelligencer/2014/06/heres-what-the-future-of-reading-looks-like.html)
 
 Books as apps - blurred lines between books / websites / apps
@@ -26,7 +26,7 @@ Mainstream of publishing will remain in traditional textual formats. Reader tech
 
 Foreseeable: generic forms of publication (such as the paperback) will slowly migrate to electronic, paper publishing will become more visually and tactile oriented. 
 
-Something about the much discussed 'change' in reading - deep versus shallow reading (Nicholas Carr). But is it so? See for example: http://www.ft.com/cms/s/2/53d3096a-f792-11e3-90fa-00144feabdc0.html#axzz374aeWjXN Two things are notable in this. First, paper might simply be a cultural preference, and e-readers something we just have to get used to using in a good way. Second, the 'preference' for deep reading might as well be relative. For an active working with the text (for interpretation and learning for example) skimming, adding notes, looking up background information et cetera might work better than immersive, deep reading. And e-readers, tablets, and phones might be better suited for that purpose.
+Something about the much discussed 'change' in reading - deep versus shallow reading (Nicholas Carr). But is it so? See for example: http://www.ft.com/cms/s/2/53d3096a-f792-11e3-90fa-00144feabdc0.html#axzz374aeWjXN Two things are notable in this. First, paper might simply be a cultural preference, and ereaders something we just have to get used to using in a good way. Second, the 'preference' for deep reading might as well be relative. For an active working with the text (for interpretation and learning for example) skimming, adding notes, looking up background information et cetera might work better than immersive, deep reading. And ereaders, tablets, and phones might be better suited for that purpose.
 
 Other ways of dealing with texts open up, allowing a more interactive relationship between reader and text.Not only in the sense of adding audio and video, but also leaving the reader the choice of entry into the text, setting out an individual reader path per person. See for example http://futureofthebook.org/blog/wp-content/uploads/2014/05/Tether_Mise-en-Page_FINAL.pdf
 
