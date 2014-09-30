@@ -263,30 +263,28 @@ OKdKGwsf4inHmgOhUj3sKRmzZkw9EFHcT20jKkKGFoZuM7i0f9Ev/9k=" transform="matrix(0.02
 	</image>
 </g>
 <g>
+	<rect x="334.441" y="496.148" fill="none" width="31.087" height="9.055"/>
+	<text transform="matrix(1 0 0 1 334.4399 502.9316)" fill="#010101" font-family="'UbuntuMono-Bold'" font-size="9.7765">EDITOR</text>
+	<circle fill="#010101" cx="347.905" cy="483.09" r="1.18"/>
+	<circle fill="#010101" cx="345.602" cy="486.461" r="1.18"/>
+	<circle fill="#010101" cx="350.097" cy="486.461" r="1.18"/>
+	<circle fill="#010101" cx="343.241" cy="489.833" r="1.179"/>
+	<circle fill="#010101" cx="347.736" cy="489.833" r="1.179"/>
+	<circle fill="#010101" cx="352.906" cy="489.833" r="1.179"/>
+	<circle fill="#010101" cx="341.22" cy="493.204" r="1.18"/>
+	<circle fill="#010101" cx="346.051" cy="493.204" r="1.18"/>
+	<circle fill="#010101" cx="350.546" cy="493.204" r="1.18"/>
+	<circle fill="#010101" cx="355.714" cy="493.204" r="1.18"/>
+</g>
+<path fill="#020202" d="M373.918,510.325h-49.872v-64.52h49.872V510.325L373.918,510.325z M326.046,508.325h45.872v-60.52h-45.872
+	V508.325z"/>
+<g>
+	<path fill="#A7A9AC" d="M370.355,456.053c0,2.683-2.024,4.857-4.523,4.857h-14.824c-2.497,0-4.522-2.175-4.522-4.857v-0.539
+		c0-2.682,2.025-4.857,4.522-4.857h14.824c2.499,0,4.523,2.176,4.523,4.857V456.053z"/>
 	<g>
-		<rect x="334.441" y="496.148" fill="none" width="31.087" height="9.055"/>
-		<text transform="matrix(1 0 0 1 334.4399 502.9316)" fill="#010101" font-family="'UbuntuMono-Bold'" font-size="9.7765">EDITOR</text>
-		<circle fill="#010101" cx="347.905" cy="483.09" r="1.18"/>
-		<circle fill="#010101" cx="345.602" cy="486.461" r="1.18"/>
-		<circle fill="#010101" cx="350.097" cy="486.461" r="1.18"/>
-		<circle fill="#010101" cx="343.241" cy="489.833" r="1.179"/>
-		<circle fill="#010101" cx="347.736" cy="489.833" r="1.179"/>
-		<circle fill="#010101" cx="352.906" cy="489.833" r="1.179"/>
-		<circle fill="#010101" cx="341.22" cy="493.204" r="1.18"/>
-		<circle fill="#010101" cx="346.051" cy="493.204" r="1.18"/>
-		<circle fill="#010101" cx="350.546" cy="493.204" r="1.18"/>
-		<circle fill="#010101" cx="355.714" cy="493.204" r="1.18"/>
-	</g>
-	<path fill="#020202" d="M373.918,510.325h-49.872v-64.52h49.872V510.325L373.918,510.325z M326.046,508.325h45.872v-60.52h-45.872
-		V508.325z"/>
-	<g>
-		<path fill="#A7A9AC" d="M370.355,456.053c0,2.683-2.024,4.857-4.523,4.857h-14.824c-2.497,0-4.522-2.175-4.522-4.857v-0.539
-			c0-2.682,2.025-4.857,4.522-4.857h14.824c2.499,0,4.523,2.176,4.523,4.857V456.053z"/>
-		<g>
-			<text transform="matrix(1 0 0 1 348.3564 458.5928)" fill="#58595B" font-family="'OpenSans-Bold'" font-size="8.286">.MD</text>
-			<polygon fill="#58595B" points="366.669,457.766 368.707,455.42 367.24,455.42 367.24,453.354 366.099,453.354 366.099,455.42 
-				364.631,455.42 			"/>
-		</g>
+		<text transform="matrix(1 0 0 1 348.3564 458.5928)" fill="#58595B" font-family="'OpenSans-Bold'" font-size="8.286">.MD</text>
+		<polygon fill="#58595B" points="366.669,457.766 368.707,455.42 367.24,455.42 367.24,453.354 366.099,453.354 366.099,455.42 
+			364.631,455.42 		"/>
 	</g>
 </g>
 <rect x="518.152" y="579.976" fill="#BCBEC0" width="63.952" height="49.986"/>
@@ -332,38 +330,34 @@ OKdKGwsf4inHmgOhUj3sKRmzZkw9EFHcT20jKkKGFoZuM7i0f9Ev/9k=" transform="matrix(0.02
 			c0-1.846,1.496-3.342,3.342-3.342s3.341,1.496,3.341,3.342C759.628,325.514,758.133,327.011,756.287,327.011z"/>
 	</g>
 </g>
+<rect x="253.535" y="368.573" fill="#BCBEC0" width="63.951" height="49.986"/>
+<rect x="256.974" y="375.333" fill="none" width="73.225" height="42.5"/>
+<text transform="matrix(1 0 0 1 256.9741 381.541)"><tspan x="0" y="0" font-family="'Ubuntu'" font-size="8">check DPI for </tspan><tspan x="0" y="9.6" font-family="'Ubuntu'" font-size="8">print quality </tspan><tspan x="0" y="19.2" font-family="'Ubuntu'" font-size="8">and safe digital </tspan><tspan x="0" y="28.8" font-family="'Ubuntu'" font-size="8">quality version</tspan></text>
+<rect x="254.475" y="355.003" fill="none" width="89.725" height="20.33"/>
+<text transform="matrix(1 0 0 1 254.4746 361.2104)" font-family="'Ubuntu'" font-size="8">IMAGES</text>
 <g>
-	<rect x="253.535" y="368.573" fill="#BCBEC0" width="63.951" height="49.986"/>
-	<rect x="256.974" y="375.333" fill="none" width="73.225" height="42.5"/>
-	<text transform="matrix(1 0 0 1 256.9741 381.541)"><tspan x="0" y="0" font-family="'Ubuntu'" font-size="8">check DPI for </tspan><tspan x="0" y="9.6" font-family="'Ubuntu'" font-size="8">print quality </tspan><tspan x="0" y="19.2" font-family="'Ubuntu'" font-size="8">and safe digital </tspan><tspan x="0" y="28.8" font-family="'Ubuntu'" font-size="8">quality version</tspan></text>
-	<rect x="254.475" y="355.003" fill="none" width="89.725" height="20.33"/>
-	<text transform="matrix(1 0 0 1 254.4746 361.2104)" font-family="'Ubuntu'" font-size="8">IMAGES</text>
+	<rect x="334.012" y="403.213" fill="none" width="31.087" height="9.057"/>
+	<text transform="matrix(1 0 0 1 334.0103 409.9971)" fill="#010101" font-family="'UbuntuMono-Bold'" font-size="9.7765">EDITOR</text>
+	<circle fill="#010101" cx="347.475" cy="390.155" r="1.18"/>
+	<circle fill="#010101" cx="345.172" cy="393.526" r="1.179"/>
+	<circle fill="#010101" cx="349.667" cy="393.526" r="1.179"/>
+	<circle fill="#010101" cx="342.812" cy="396.898" r="1.179"/>
+	<circle fill="#010101" cx="347.306" cy="396.898" r="1.179"/>
+	<circle fill="#010101" cx="352.476" cy="396.898" r="1.179"/>
+	<circle fill="#010101" cx="340.79" cy="400.269" r="1.18"/>
+	<circle fill="#010101" cx="345.621" cy="400.269" r="1.18"/>
+	<circle fill="#010101" cx="350.116" cy="400.269" r="1.18"/>
+	<circle fill="#010101" cx="355.285" cy="400.269" r="1.18"/>
+</g>
+<path fill="#020202" d="M373.762,417.923H323.89v-64.52h49.872V417.923L373.762,417.923z M325.89,415.923h45.872v-60.52H325.89
+	V415.923z"/>
+<g>
 	<g>
-		<g>
-			<rect x="334.012" y="403.213" fill="none" width="31.087" height="9.057"/>
-			<text transform="matrix(1 0 0 1 334.0103 409.9971)" fill="#010101" font-family="'UbuntuMono-Bold'" font-size="9.7765">EDITOR</text>
-			<circle fill="#010101" cx="347.475" cy="390.155" r="1.18"/>
-			<circle fill="#010101" cx="345.172" cy="393.526" r="1.179"/>
-			<circle fill="#010101" cx="349.667" cy="393.526" r="1.179"/>
-			<circle fill="#010101" cx="342.812" cy="396.898" r="1.179"/>
-			<circle fill="#010101" cx="347.306" cy="396.898" r="1.179"/>
-			<circle fill="#010101" cx="352.476" cy="396.898" r="1.179"/>
-			<circle fill="#010101" cx="340.79" cy="400.269" r="1.18"/>
-			<circle fill="#010101" cx="345.621" cy="400.269" r="1.18"/>
-			<circle fill="#010101" cx="350.116" cy="400.269" r="1.18"/>
-			<circle fill="#010101" cx="355.285" cy="400.269" r="1.18"/>
-		</g>
-		<path fill="#020202" d="M373.762,417.923H323.89v-64.52h49.872V417.923L373.762,417.923z M325.89,415.923h45.872v-60.52H325.89
-			V415.923z"/>
-	</g>
-	<g>
-		<g>
-			<path fill-rule="evenodd" clip-rule="evenodd" fill="#58595B" d="M368.436,360.714h-3.307c0,0-0.034-0.066-0.034-0.836
-				s-0.623-1.393-1.392-1.393h-4.456c-0.769,0-1.393,0.623-1.393,1.393s0.035,0.836,0.035,0.836h-3.376
-				c-0.615,0-1.114,0.498-1.114,1.113v8.91c0,0.615,0.499,1.114,1.114,1.114h13.922c0.615,0,1.114-0.499,1.114-1.114v-8.91
-				C369.55,361.212,369.051,360.714,368.436,360.714z M361.5,369.609c-1.846,0-3.342-1.497-3.342-3.342
-				c0-1.846,1.496-3.342,3.342-3.342s3.341,1.496,3.341,3.342C364.841,368.112,363.346,369.609,361.5,369.609z"/>
-		</g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#58595B" d="M368.436,360.714h-3.307c0,0-0.034-0.066-0.034-0.836
+			s-0.623-1.393-1.392-1.393h-4.456c-0.769,0-1.393,0.623-1.393,1.393s0.035,0.836,0.035,0.836h-3.376
+			c-0.615,0-1.114,0.498-1.114,1.113v8.91c0,0.615,0.499,1.114,1.114,1.114h13.922c0.615,0,1.114-0.499,1.114-1.114v-8.91
+			C369.55,361.212,369.051,360.714,368.436,360.714z M361.5,369.609c-1.846,0-3.342-1.497-3.342-3.342
+			c0-1.846,1.496-3.342,3.342-3.342s3.341,1.496,3.341,3.342C364.841,368.112,363.346,369.609,361.5,369.609z"/>
 	</g>
 </g>
 <path fill="#A7A9AC" d="M634.811,575.806c0,2.382-1.654,4.312-3.695,4.312h-18.604c-2.041,0-3.695-1.93-3.695-4.312v-1.724
