@@ -1,1 +1,0 @@
-![BlogLink](../images/_in_progress/00_bloglink.png "Link naar Blog")

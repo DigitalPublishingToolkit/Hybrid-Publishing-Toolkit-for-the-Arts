@@ -1308,7 +1308,7 @@ Electronic visual books can be made in very simple ways:
 (- Problem with it: distribution, books only available in the Apple ecosystem)
 
 
-[^1]: Ulises Carrión, 'The new art of making books', Aegean editions, 2001
+<!--[^1]: Ulises Carrión, 'The new art of making books', Aegean editions, 2001 Reference gives error-->
 [^2]: For long-time durability, the 'PDF/A' format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard originally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
 [^3]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith.
 
