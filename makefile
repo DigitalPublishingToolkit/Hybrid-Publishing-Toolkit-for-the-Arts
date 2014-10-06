@@ -2,8 +2,8 @@
 #
 
 allmd = $(wildcard *.md docs/*.md images/*.md)
-svg = $(wildcard images/_in_progress/*.svg)
-svgpng = $(patsubst %.svg,%.png,$(svg))
+# svg = $(wildcard images/_in_progress/*.svg)
+# svgpng = $(patsubst %.svg,%.png,$(svg))
 
 derivedhtml = $(patsubst %.md,%.html,$(allmd))
 
@@ -37,8 +37,11 @@ trailer: toolkit-trailer.gif
 	pandoc --css=styles.css -s $< > $@
 
 # Use ImageMagick to convert svg's to png
-%.png : %.svg
-	convert $< $@
+# MM: Automatic image conversion isn't working
+# on both technical and design grounds (event when it *works* the results are often not right)
+# Images need to be commited in both SVG and (directly exported) PNG.
+# %.png : %.svg
+# 	convert $< $@
 
 clean:
 	rm -f $(derivedhtml)
@@ -67,7 +70,7 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
-toolkit.pdf: toolkit.md $(svgpng)
+toolkit.pdf: toolkit.md
 	cd docs && pandoc \
 	--self-contained \
 	--epub-metadata=../metadata.xml \
