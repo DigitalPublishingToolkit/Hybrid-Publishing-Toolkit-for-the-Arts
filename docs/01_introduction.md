@@ -20,19 +20,12 @@ proposes an alternative route. Neither a complex internal IT
 infrastructure, nor costly outsourcing will be viable solutions for
 them. But, to disappoint a common expectation, there is no magic
 software button that will turn a print book design into an electronic
-publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change both technologically as well as editorial concepts.
+publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change, both technologically as well as editorial concepts are concerned.
 
-For art and design publishers, the challenge of going electronic with their publications is
-greater compared to other fields of publishing for a number of reasons: -
-visually oriented publications are still more difficult to technically
-realize in the electronic medium when designing for a multitude of
-different reading devices and ebook platforms; - small publishers are
-under high pressure to keep project costs low due to often smaller budgets - but
-having to publish in multiple fors (e.g. print and electronic) will increase costs unless one
-accomplishes as much work as possible in a way that is not the dependent on the medium; -
- To make the investment in a digital publication durable it is necessary that electronic publications are
-sustainable: they should not need constant investment into technical
-maintenance and version updates.
+For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
+- visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
+- small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple fors (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
+- To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
 
 ## Industry promises versus reality
 
@@ -42,6 +35,7 @@ designers and artists tend to overestimate the interactive and multimedia
 possibilities of electronic publishing. These extra possibilities do
 exist, but in most cases cause higher development costs and remain
 specific to one particular technical reading platform.
+
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
 
 ## What this Toolkit provides
@@ -68,13 +62,8 @@ publishers on electronic publication projects.
 
 ## Whom is this toolkit written for?
 
-You may be a publisher, an experienced programmer, a designer or someone
-who is just starting out with making books. You probably identify with or work in the arts. You may hope to gain answers, knowledge, get tips, and
-consult various resources. This Toolkit intends to provide them all. The
-overall focus is on pragmatic solutions for publishers within
-the art and cultural sector. No prior knowledge of creating an ebook is
-required – with that said, a familiarity of various computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this guide for certain answers. This publication is not a tutorial on how to make an electronic publication, it merely intends to
-give the reader guidance on how to make a first attempt at creating an electronic publication.
+You may be a publisher, an experienced programmer, a designer or someone who is just starting out with making books. You probably identify with or work in the arts. You may hope to gain answers, knowledge, get tips, and consult various resources. This Toolkit intends to provide them all. The
+overall focus is on pragmatic solutions for publishers within the art and cultural sector. No prior knowledge of creating an ebook is required – with that said, a familiarity of various computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this guide for certain answers. This publication is not a tutorial on how to make an electronic publication, it merely intends to give the reader guidance on how to make a first attempt at creating an electronic publication.
 
 As mentioned before "you must change your life", so there might a little culture shock reading through this document. If electronic
 publishing will merely remain an afterthought in the production chain

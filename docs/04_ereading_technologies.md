@@ -28,7 +28,7 @@ There are several ways to peruse electronic publications. Portable devices like 
 ###Ereaders
 Ereaders became widely known with the introduction of the Amazon Kindle in 2007. Ereaders differ from tablets in the way that they are only suitable for reading books, are relatively cheap and have monochrome displays. An important characteristic of the ereader is the use of *electronic paper* (epaper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as closely as possible and is relatively low in energy consumption. The current generation of epaper is incapable of rendering complex motion, so animations and videos are impossible to use.
 
-Both Amazon and Barnes & Noble also offer more expensive models, Kindle Fire (and Kindle Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really ereaders anymore, but fully-fledged, small sized tablets. These models do not use epaper, but instead work with color LED screens with backlight – a standard component of tablets such as iPad and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic ereaders using their own operating system built on a version of Linux. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets.
+Both Amazon and Barnes & Noble also offer more expensive models, Fire (and Fire HD) <!--- Amazon has just dropped the name "Kindle" for its "Fire" readers, Florian -->and NOOK Tablet (and NOOK HD+) respectively. These models are not really ereaders anymore, but fully-fledged, small sized tablets. These models do not use epaper, but instead work with color LED screens with backlight – a standard component of tablets such as iPad and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic ereaders using their own operating system built on a version of Linux. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets.
 
 Because of the lack of a color screen the current generation of ereaders is best suited for text-based publications, i.e. research publications, etc. 
 
@@ -37,7 +37,7 @@ Because of the lack of a color screen the current generation of ereaders is best
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software]() section.
 
-The most important advantage of tablets over traditional ereaders is the fact that they do not support color. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Though newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
+The most important advantage of tablets over traditional ereaders is the fact that they do not support color. Apple's and Samsung's most recent tablet screens cover nearly the entire sRGB color space<!-- add to glossary -->, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Though newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphones
 The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both ereaders and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
@@ -75,7 +75,7 @@ A plethora of desktop applications exists that allow users to read EPUBS. Of the
 Calibre is an extensible application that uses plugins. It is an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both ebook and other text based formats)[^calibre-file-formats]. Viewing all major ebook file formats, as well as editing EPUBS and AZWs is also part of the software package.
 
 Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (ebooks and other text based formats)[^calibre-file-formats]. Viewing all major ebooks file formats, as well as editing EPUBs and AZWs is also part of the software package.
-<!-- Amy will merge two alines -->
+<!-- Amy will merge two paragraphs -->
 
 
 ####Adobe Digital Editions
@@ -90,7 +90,7 @@ Apart from web applications, several browser extensions exist allowing users to 
 
 
 ####Readium
-Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Browser. After installing the extension offers an EPUB reader inside the browser window.
+Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome Browser. After installing the extension offers an EPUB reader inside the browser window.
 
 ####epubReader
 epubReader is similar to the browser extension offered by Readium, the main difference is the supported browser, as epubReader is only compatible with Mozilla Firefox.

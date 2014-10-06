@@ -331,15 +331,15 @@ Pirate platforms are, by their nature, even more volatile than online bookstores
 #### All-purpose download sites
 Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent ) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
 
-The content listed on The Pirate Bay and other sites for the bittorrent protocol tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and Science Fiction among the ebook downloads. For example, on a particular day and minute in June 2014, the book "Atlast of Ancient Worlds" had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series "Game of Thrones" - had more than 70000 downloads. 
+The content listed on The Pirate Bay and other sites for the bittorrent protocol tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and Science Fiction among the ebook downloads. For example, on a particular day and minute in June 2014, the book "Atlas of Ancient Worlds" had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series "Game of Thrones" - had more than 70000 downloads. 
 
 
 #### General ebook sites
 
-The most simple pirate ebook sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little _of_publication.mdore than a simple search engine that spits out downloadable ebooks. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org). Also [libgen.info](http://libgen.info), an online library, is an example to mention here. 
+The most simple pirate ebook sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little more than a simple search engine that spits out downloadable ebooks. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org). Also [libgen.info](http://libgen.info), an online library, is an example to mention here. 
 
 What online booksellers could learn from these sites: 
-* Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether a bestseller or obscure.
+* Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether bestselling or obscure.
 * Simplicity in formats. The sites provide mostly PDFs as well as EPUBS, depending on whatever file format they have available (and obtained from hacker networks). 
 
 #### Specialized sites

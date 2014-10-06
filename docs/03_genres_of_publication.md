@@ -20,6 +20,7 @@ In the present project we deal with various kinds of products which we combine i
 - Visuals are secondary (images refer to texts)
 - Often longer texts
 - Often with a standardised structure
+- Often with complex referencing (footnotes, endnotes, cross-references, citations, bibliographies, keyword and name indexes, list of illustrations, glossaries, table of contents)
 
 **Going electronic: Advantages and issues**  
 
@@ -48,9 +49,9 @@ Going electronic also opens up new possibilities for creating content. Due to th
 
 **Going electronic: Advantages and issues**  
 
-Art/design catalogues are image-heavy publications, and this is precisely the biggest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high and that there is as little distortion of colours as possible. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
+Most art/design catalogues are image-heavy publications, and this is precisely the biggest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high, with no degradation of colours and the highest possible resolution. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
 
-Possibilities in this direction lie in offering high quality images which can be zoomed in to and complementing the content with other (interactive) materials. An issue of concern is that in a catalogue often a fixed page layout is necessary: image and text must appear in a certain layout as they belong to each other. However, changes in size (of the device or of the settings a reader uses) might influence the flow of content, resulting in a drifting apart of pictures and text. 
+Possibilities in this direction lie in offering high quality images which can be zoomed in to and complementing the content with other (interactive) materials. Also, most tablet computers offer much more better color reproduction (gamut) than the print page. An issue of concern is that in a catalogue often a fixed page layout is necessary: image and text must appear in a certain layout as they belong to each other. However, changes in size (of the device or of the settings a reader uses) might influence the flow of content, resulting in a drifting apart of pictures and text. 
 
 Just as with research publications, modularization offers interesting chances for writing and presenting material. As a catalogue is often built up around parts which are already modular in nature, there is a lot to be gained from using these features in electronic publishing. For example giving readers the opportunity to 'build' their own publication; publishing different editions (small, medium, large) of a catalogue without extra effort; easy updating of a part of the catalogue.
 
@@ -65,10 +66,9 @@ Just as with research publications, modularization offers interesting chances fo
 
 **Going electronic: Advantages and issues**  
 
-As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing a electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books.
+As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing a electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books, except for electronic reproductions of artists' paper books on such websites as Ubu Web and Monoskop.
 
-When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, and reach of new publics.
-<!-- For this kind of publication, the 'advantages-issues' model doesn’t really work. As artists' books represent a reflection around the medium itself, there is no advantage or disadvantage in choosing a digital format, it's just a different choice. That said, choosing a electronic format like epub for an artist's book means to master the specificities of such formats. I think this is one of the reason why there is a few digital artists' books. -->
+When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 "Sentences on Conceptual Art"), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
 
 
 ##4) Art/design periodical
@@ -91,7 +91,7 @@ Advantages are mostly the same as with the other genres listed: increased possib
 
 ##5) New genres of publication
 
-New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like apps, a series of tweets, et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. Examples of such new genres are collected on the blog ??? <!-- For example one can think of platforms used to collect tweets in book form or **tumblogs** in an epub as shown during the Off the Press conference. << This is a meaningless reference for most readers... name the examples by name or leave out Miriam -->
+New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. Examples of such new genres are collected on the blog ??? <!-- For example one can think of platforms used to collect tweets in book form or **tumblogs** in an epub as shown during the Off the Press conference. << This is a meaningless reference for most readers... name the examples by name or leave out Miriam -->
 
 
 ## Three levels of electronic publishing

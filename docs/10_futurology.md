@@ -9,6 +9,7 @@ Both hardware / software
 
 There is an increase in reading on the smartphone. Some speculate that ereaders will be obsolete. <!-- A confirmation of this might be the fact that the sony ereader, one of the most appreciated ones, is not produced anymore -->
 (http://nymag.com/daily/intelligencer/2014/06/heres-what-the-future-of-reading-looks-like.html)
+<-- could also mean that classical textbooks will be less read on electronic devices; Florian -->
 
 Books as apps - blurred lines between books / websites / apps
 
@@ -19,6 +20,8 @@ Improvement of e-paper: color e-paper, flexible e-paper
 4K displays for mobile devices will push display resolution <!--just read this comment elsewhere: '4K is all the buzz today, but clearly 16K is on the horizon' ^Miriam-->
 
 possible anti-cloud/anti-obsolescence backlash - for example in the creation and maintenance of personal 
+
+cost pressure will cause moving from paper to electronic: push in Non-Western countries (BRIC), institutional budget cuts, shrinking number of commercial publishers. Like with the transition from brick-and-mortar travel agencies to online travel booking, or from brick-and-mortar retail to e-commerce, this will not necessarily be driven by customer convenience but by pure economic pressure. (Also consider higher mobility/more commuting/less disposable square meters/lower consumption budgets for book buyers as external pressure factors.)
 
 ## Reading culture 
 

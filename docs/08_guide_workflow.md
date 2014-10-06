@@ -78,7 +78,7 @@ How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
 A step-by-step guide
 
-Converting a Docx directly to EPUB using Calibre (post Silvio)
+<!---Converting a Docx directly to EPUB using Calibre (post Silvio) -- superseded by Florian's respective section on docx conversion with pandoc-->
 
 Pressbooks as an example of available open source tools? (post Silvio)
 
@@ -104,12 +104,20 @@ Should it be a 1:1 transfer from paper book to ebook?, What are alternative poss
 ### Instructions
 How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
 ### Specific issues for this publication type
-### Based on the above, what to choose?
+Above all: file size because of number and resolution of included images.
+Solutions: 
+- Modularize content (by in-app download, see Stedelijk project)
+- Create separate low-res and hi-res versions; can also be used as a business model (gratis or cheap low-res book, pay for hi-res book). Explain how on-the-fly resolution adjustment is easy with epub (using server-side scripting for resizing images and zipping the epub file), not so easy with PDF.
+- Question/issue: Is a catalogue in the traditional definition a desirable publication format for e-publishing, or do we (a) have to think up new forms of small/smart catalogues, or (b) wait for more device storage capacity and network speed to arrive in the future? At the moment, producing a 100+ pages hi-resolution catalogue electronically does not make sense, except as heavy PDF files for desktop computer viewing.
 
+### Based on the above, what to choose?
 
 How to make an art/design catalogue in EPUB2/3, HTML5 (/app), PDF
 
 A step-by-step guide
+- Consolidate text in Markdown, consolidate images in highest resolution
+- For EPUB and HTML5: Use thumbnails for images in order to avoid excessive file sizes, convert with Markdown, employ designer
+- Employ editorial/interaction designer to think up new publication format
 
 Advantages, disadvantages
 
@@ -121,6 +129,17 @@ Flow chart: workflow
 
 ### General
 traditional vs new workflow
+
+Traditional workflow: book as conceptual design object or even sculptural object
+
+New workflows:
+- make a book simply as a series of page-size images, can be easily converted into screen-readable PDF, EPUB and HTML5
+- Look at visual tools like Calibre and The People's Ebook, or authoring/sharing apps such as KYUR8
+- Use Liz Castro's recipe for turning an artists'/designer's tumblr into downloadable artists' e-books
+- media artist approach: experiment with computer/server-generated epub, using collage/cut-up methods, generative or appropriation art recipe (similar to the Yes Men's "Ream Weaver" web site mirroring tool)
+- pirate site approach: quick & dirty conversions of publications into e--book, emphasis on spreading, and alternative ways of networking (such as person-to-person USB stick file exchange, as described in Henry Warwick, Radical Tactics of the Offline Library).
+- since the artists' book is not a defined genre: any methodology / workflow that can be thought of.
+
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
 ### Instructions
