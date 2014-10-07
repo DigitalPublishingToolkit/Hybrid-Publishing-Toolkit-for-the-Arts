@@ -7,7 +7,7 @@ Focus: EPUB 2/3, HTML5 (app) + PDF
 
 ## A simple ebook 
 Flow chart: workflow <!-- Loes & Kimmy-->
-![Simplest possible case](../images/_in_progress/08_markdowntoepub_simple "simple")
+![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
 ## Direct conversion to EPUB
 
@@ -22,7 +22,7 @@ For example, consider Charlotte Bronte's 'Jane Eyre,' available from Project Gut
 TODO: Give simple example of using markdown + pandoc? to produce a simple EPUB.
 
 
-![Simplest possible case](../images/_in_progress/08_markdown_to_epub "simple")
+![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
 <!--where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 ##EPUB from scratch
