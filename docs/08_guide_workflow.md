@@ -98,11 +98,17 @@ traditional workflow vs. new workflow
 <!--4000 words-->
 
 ### General
-traditional vs new workflow
+traditional workflow = InDesign workflow as described before, production of one integral publication
+
+vs. new workflow = highly modularized publication. 
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
+
+In most cases, today, an art catalogue is difficult to translate 1:1 to an electronic publication, simply because of file sizes. It's advisable to split it up into smaller publications, such as monographic micro-ebooks on single art works, or collections of articles that each reader can individually choose and obtain as an automatically customized e-book.
 ### Instructions
-How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
+1:1 translation into electronic publication: target one reading medium (in most cases: tablets). Strongly consider PDF over e-book if the focus is on images, and image composition requires a fixed layout. Target a 10" tablet screen with a resolution between 1024x768 and 1920x1080. Work in InDesign, and make - if necessary - a customized new page layout that fits these dimensions. Consider small additions of interactive and multimedia elements by using Adobe Acrobat Pro as a final authoring tool. (This is part of the Adobe Creative Suite). Consider this project a short- to medium-term project that might have become technically obsolete/outmoded in 3-5 years.
+
+Custom translation into modularized publications: EPUB is the file format of choice because it is internally modular (being nothing more than a zip archive of individual HTML files, images, fonts etc). Have a web developer program a simple custom server application that can customize, zip and upload an EPUB file according to a user's web form input. Also consider generating this EPUB from a database/content management system (see previous chapter xxx).
 ### Specific issues for this publication type
 Above all: file size because of number and resolution of included images.
 Solutions: 
@@ -224,18 +230,28 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-traditional vs new workflow
-### Decision making
-Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
-### Instructions
-How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
-### Specific issues for this publication type
-### Based on the above, what to choose?
+(a) magazine as downloadable PDF file; 
 
+(b) magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or issu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
+
+(c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.
+
+(d) magazine as self-published website. Best solution: CMS like WordPress, with custom design template. Most independent magazines work this way, but revenue model is difficult. Additional technical benefit: structured database of everything ever published on the site, easy to use as a basis for exporting to custom publications (downloadable e-books, InDesign layout for print yearbooks - see Elizabeth Castro's chapter - etc.)
+
+
+### Decision making
+Should it be a 1:1 transfer from paper book to e-journal?  There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
+### Instructions
+See above. 
+### Specific issues for this publication type
+The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be (a) a continuously updated web site (similar to a news website or a blog), (b) focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. In the end, there is no hard difference between a "blog" and a "magazine" online.
+### Based on the above, what to choose?
 
 How to make an arts/design periodical in epub2/3, HTML5 (/app), PDF
 
 A step-by-step guide
 
 Advantages, disadvantages
-
+- epub2/3 is, at the moment, an esoteric choice for a magazine and would be rather an option for scholarly journals. However, if cleverly used, it can combine advantages of PDF (single file distribution) with HTML (responsive design, small file sizes, modularity/reusability, automation).
+- HTML5: theoretically ideal, gets increasingly used for multimedia journalism (following the example of the "Snow Fall" reportage by the New York Times from December 2012. Problem of design complexity when making 'responsive' design pages.
+- PDF: easiest to integrate in existing workflows, disadvantage: clumsy, non-responsive, high file size, meant for print.

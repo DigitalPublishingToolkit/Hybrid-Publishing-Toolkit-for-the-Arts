@@ -6,7 +6,8 @@ Focus: EPUB 2/3, HTML5 (app) + PDF
     
 
 ## A simple ebook 
-Flow chart: workflow <!-- Loes & Kimmy-->
+Flow chart: workflow 
+
 ![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
 ## Direct conversion to EPUB
@@ -36,7 +37,7 @@ A rudimentary EPUB is used as an example to explain several of its concepts and 
 
 Decompressing an EPUB will reveal its directory layout and in that way make clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed Zip archive, looking as follows after unzipping it:
 
-![Figure: EPUB layout](../images/chapterabb_img.png "Figure: EPUB layout")
+![Figure: EPUB layout](../images/_in_progress/08 "Figure: EPUB layout")
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes as an EPUB. 
 
@@ -55,7 +56,7 @@ Most of the elements of an EPUB can be produced by hand in a text editor - not t
 
 
 ####Creating the required files and directories
-![Creating Files and Directories](../images/_in_progress/08_3_creating_files "Creating Files and Directories")
+![Creating Files and Directories](../images/_in_progress/08_EPUB-layout.png "Creating Files and Directories")
 1. Create a directory to store the files and subdirectories for your EPUB in, e.g. *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
