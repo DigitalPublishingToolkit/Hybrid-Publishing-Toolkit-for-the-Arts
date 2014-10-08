@@ -10,9 +10,10 @@ Flow chart: workflow
 
 ![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
+Fig. X Title.
+
+
 ## Direct conversion to EPUB
-
-
 
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an EPUB.
 
@@ -22,6 +23,7 @@ For example, consider Charlotte Bronte's 'Jane Eyre,' available from Project Gut
 
 TODO: Give simple example of using markdown + pandoc? to produce a simple EPUB.
 
+<!-- Margreet: This paragraph uses some editing. For example pandoc is already mentioned in the chapeter before, there should be a connection. -->
 
 ![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
 <!--where should this image go? What is it's purpose? There is also a small portion missing at the top-->
@@ -30,7 +32,6 @@ TODO: Give simple example of using markdown + pandoc? to produce a simple EPUB.
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
 
 An EPUB is a Zip archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an ereader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB file. In some cases, it might simply be necessary to rename the '.epub' with '.zip'. More information about how to automate the EPUB zipping process can be found [here](http://www.mobileread.com/forums/showthread.php?t=55681). 
-
 A rudimentary EPUB is used as an example to explain several of its concepts and may be [downloaded here]().
 
 ###Layout of an EPUB package
@@ -57,6 +58,9 @@ Most of the elements of an EPUB can be produced by hand in a text editor - not t
 
 ####Creating the required files and directories
 ![Creating Files and Directories](../images/_in_progress/08_EPUB-layout.png "Creating Files and Directories")
+<!--Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. -->
+
+<!--Margreet: Underneath steps go to fast to my opinion. Files and directories?! It would help to write a small introduction here maybe?-->
 1. Create a directory to store the files and subdirectories for your EPUB in, e.g. *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
