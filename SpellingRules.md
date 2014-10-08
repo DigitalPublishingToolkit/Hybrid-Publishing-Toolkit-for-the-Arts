@@ -29,7 +29,7 @@ We use the American spelling
 
 ###Document/format names:
 
-* EPUB
+* EPUB / EPUBs
 * EPUB3
 * EPUB2
 * PDF
@@ -38,6 +38,8 @@ We use the American spelling
 * .epub (if file extension)
 
 
+###Footnotes
+* Please always use a dot after the last word in the footnote.
 
 
 ###Bloglink ID

@@ -10,7 +10,8 @@ publishers who already accomplish all their editorial work in highly
 structured digital document formats (such as XML or databases); but
 typically, this is only the case in scientific and technology-oriented
 publishing. Changes might also be minor for larger publishers that can
-afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many ebooks will be sold.
+afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many ebooks will be sold. 
+<!-- margreet: can we mention a rough time indication here? -->
 
 <strong>Change is major for small, arts-oriented publishers</strong>
 
@@ -48,7 +49,7 @@ analog or desktop-publishing world. Although it's possible to create
 electronic publications from Microsoft Word and InDesign files that are
 likely the standard in the current publishing workflow, it will be painful,
 slow, inefficient and expensive in most cases. This Toolkit describes
-technical DIY alternatives because it is primarily aimed at
+technical Do It Yourself (DIY) alternatives because it is primarily aimed at
 publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
 
 This Toolkit has a particular (but not exclusive) focus on EPUB3 as an
@@ -60,7 +61,7 @@ publishers on electronic publication projects.
 
 
 
-## Whom is this toolkit written for?
+## Whom is this Toolkit written for?
 
 You may be a publisher, an experienced programmer, a designer or someone who is just starting out with making books. You probably identify with or work in the arts. You may hope to gain answers, knowledge, get tips, and consult various resources. This Toolkit intends to provide them all. The
 overall focus is on pragmatic solutions for publishers within the art and cultural sector. No prior knowledge of creating an ebook is required – with that said, a familiarity of various computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this guide for certain answers. This publication is not a tutorial on how to make an electronic publication, it merely intends to give the reader guidance on how to make a first attempt at creating an electronic publication.
@@ -78,20 +79,22 @@ alternatives.
 
 ## How to use this toolkit 
 
-The toolkit aims to provide a practical guide on how to develop electronic publications
+The Toolkit aims to provide a practical guide on how to develop electronic publications
 for publishers as well as for anyone else interested in this subject
 matter. It will attempt to give insight into the preconditions of electronic publishing, providing open-source tools where possible, and allow
 publishers of the art and culture sector to navigate the diverse and
 complex landscape of digital publishing in a more informed way.
 Furthermore, the Toolkit will help the reader to develop epubs, specifically art and design
 publications, which generally make more use of different fonts, graphics
-and layout than text-dominant publicaitons. Chapter 3 will give a general introduction of these publications and sketches out various scenarios on how to develop epubs. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular reader hardwares and softwares, file formats and lastly distribution platforms. Chapters 4 offers a practical, how-to guide to workflows (both structured and per scenario) and designing electronic publications for the various scenarios addressed earlier in Chapter 3. Chapter 5 illustrates the concepts with concrete examples from the Digital Publishing Toolkit project.<!-- are the chapter numbers correct?? -->
+and layout than text-dominant publications. 
+<!--Margreet: chapter information needs to be checked in the end, as well as final content. This was written before the rechanging of paragrpahs -->
+Chapter 3 will give a general introduction of these publications and sketches out various scenarios on how to develop epubs. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular reader hardwares and softwares, file formats and lastly distribution platforms. Chapters 4 offers a practical, how-to guide to workflows (both structured and per scenario) and designing electronic publications for the various scenarios addressed earlier in Chapter 3. Chapter 5 illustrates the concepts with concrete examples from the Digital Publishing Toolkit project.<!-- are the chapter numbers correct?? -->
 
-## Who worked on this toolkit
+## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit research
+This publication is part of the [Digital Publishing Toolkit](http://digitalpublishingtoolkit.org) research
 program, based on recommendations from practical experiences throughout
-the collaboration between four Dutch art, design and research publishers, graphic designers and software developers.
+the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
 
 
 

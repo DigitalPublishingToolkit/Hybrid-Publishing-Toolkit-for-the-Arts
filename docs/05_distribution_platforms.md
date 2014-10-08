@@ -36,7 +36,7 @@ Stats for the whole month of April, all publications
 
 
 ###Issuu
-<!--add INC created image voor Id ssuu-->
+<!--Margret: add INC created image voor Issuu-->
 
 **Characteristics**  
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
@@ -44,7 +44,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 * It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
 * It is used for books, brochures, magazines, etc 
 * Allows downloading of books to read online
-* Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications    
+* Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications   
 * Mostly used by independent publishers and individual users 
 * Supports all devices 
 * Mobile and desktop 
@@ -82,7 +82,7 @@ Offer downloadable file
 
 
 ###Scribd
-<!--add INC created image voor Scribd-->
+<!--Margreet: add INC created image voor Scribd-->
 
 
 **Characteristics**  
@@ -116,10 +116,10 @@ Few options for metadata
 In-browser not optimal (like Issuu for example)  
 Embedding not optimal
 
-*Revenue Model*  
+**Revenue Model**  
 Scribd offers a subscription model for its readers and allows   publishers to set a price for their work  
 
-*How-to-publish*  
+**How-to-publish**  
 Create an account  
 Easy upload of many different file formats  
 Offer in-browser reading and downloadable file  
@@ -127,12 +127,15 @@ Offer in-browser reading and downloadable file
 ###Internet Archive
 
 **Characteristics**  
-Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+Internet Archive can be found at [http://archive.org](http://archive.org).  
+<!-- Margreet: Needs to be completed -->
 
-* 
+* Number 1
+* Number 2
+* Number 3
 
 **Statistics**  
-*For Issuu* (June 2014) 
+*For Arhive* (October 2014) 
 
 
 *For individual users*  
@@ -140,8 +143,9 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 **Strengths and weaknesses**  
 
+*Strengths*  
 
-**Weaknesses*  
+*Weaknesses*  
 
 **Revenue Model**  
 
@@ -203,7 +207,6 @@ Third party website
 Suitable for shorter texts only  
 
 **Revenue Model**  
---
 
 **How-to-publish**  
 Create an account and upload text for blog  
@@ -211,7 +214,7 @@ Create an account and upload text for blog
 
 ###Social reading platforms
 
-Social reading has to do with the experience of reading ebooks. It is a field in great development, which lies beyond the scope of this Toolkit. However, it is good for publishers working on e-publications to keep an eye on the future of social reading.
+Social reading has to do with the experience of reading ebooks. It is a field in great development, which lies beyond the scope of this Toolkit. However, it is good for publishers working on epublications to keep an eye on the future of social reading.
 
 Examples of social reading platforms: 
  
@@ -302,20 +305,20 @@ Choose your preferred ways of distribution
 
 ###Global options
 
-*Kobo Writing Life* (http://www.kobobooks.com/kobowritinglife) 
+*[Kobo Writing Life] (http://www.kobobooks.com/kobowritinglife)* 
 lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
 
-*PubIt!* (http://pubit.barnesandnoble.com/) automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers.
+*[PubIt!] (http://pubit.barnesandnoble.com/)* automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers.
 
-*Smashwords* (http://www.smashwords.com/about/how_to_publish_on_smashwords) makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel ebook Store and more. There are no setup fees and no cost to update or revise your book. 
+*[Smashwords] (http://www.smashwords.com/about/how_to_publish_on_smashwords)* makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel ebook Store and more. There are no setup fees and no cost to update or revise your book. 
 
-*XinXii* (http://www.xinxii.com/) facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and mobi. As an aggregator, XinXii distributes to major international ebook retailers.
+*[XinXii] (http://www.xinxii.com/)* facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and mobi. As an aggregator, XinXii distributes to major international ebook retailers.
 
 ###Options in the Netherlands
 
-*CB Print on demand* (http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
+*[CB Print on demand] (http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)* is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
-*Boekscout* (http://www.boekscout.nl/) is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
+*[Boekscout] (http://www.boekscout.nl/)* is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
 
 
 
@@ -325,11 +328,11 @@ As with music and films, 'pirate' platforms haven often been the avant-garde of 
 Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. 
 [Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
 
-### Examples <!--no actual examples are mentioned here-->
-Pirate platforms are, by their nature, even more volatile than online bookstores and e-reading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
+### Examples <!--Margreet: no actual examples are mentioned here-->
+Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
 
 #### All-purpose download sites
-Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent ) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
+Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
 
 The content listed on The Pirate Bay and other sites for the bittorrent protocol tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and Science Fiction among the ebook downloads. For example, on a particular day and minute in June 2014, the book "Atlas of Ancient Worlds" had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series "Game of Thrones" - had more than 70000 downloads. 
 
@@ -340,11 +343,11 @@ The most simple pirate ebook sites offer any kind of book - very much like a lar
 
 What online booksellers could learn from these sites: 
 * Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether bestselling or obscure.
-* Simplicity in formats. The sites provide mostly PDFs as well as EPUBS, depending on whatever file format they have available (and obtained from hacker networks). 
+* Simplicity in formats. The sites provide mostly PDFs as well as EPUBs, depending on whatever file format they have available (and obtained from hacker networks). 
 
 #### Specialized sites
 
-Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, "textz.com" by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name "textz" was a pun on "warez", a slang name for illegally copied software. Later, the web sites aaaaarg.org and Monoskop provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
+Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, "textz.com" by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name "textz" was a pun on "warez", a slang name for illegally copied software. Later, the web sites aaaaarg.org and Monoskop <!--Margreet: add references here--> provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
 
 Best known, and factually legendary, is [Ubuweb](http://www.ubu.com), an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
 
@@ -356,7 +359,7 @@ All these sites run like small specialty bookstores (although they don't sell an
 ## artist-/designer-run e-publishing projects
 
 In the last couple of years, there have been first attempts to create only
-small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term "new aesthetics") created the website "artistsebooks.org"  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app "KYR8" (slang riff on "curate") invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com] (http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com] (http://trollthread.tumblr.com) <!-- Short description needed here -->
+small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term "new aesthetics") created the website "artistsebooks.org"  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app "KYR8" (slang riff on "curate") invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com] (http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com] (http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
 
 None of these projects compete with classical ebook stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portfolio pieces. 
 

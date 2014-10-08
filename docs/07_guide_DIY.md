@@ -53,6 +53,7 @@ These three components form the basic structure of an EPUB and are required in o
 
 ###Creating your own EPUB
 
+<!-- Silvio: look at: http://www.idpf.org/epub/301/spec/epub-publications.html  and maybe add that here?-->
 Most of the elements of an EPUB can be produced by hand in a text editor - not to be confused by a word processor like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
 
 
