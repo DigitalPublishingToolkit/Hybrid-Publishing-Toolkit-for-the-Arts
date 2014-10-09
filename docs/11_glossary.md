@@ -393,6 +393,8 @@ Software developed by Adobe that enables Web pages containing interactive multim
 *Streaming*
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
 
+*Syntax*
+
 ### **T**
 
 *Tablet Computer*
@@ -450,7 +452,7 @@ Dates back to the pre-Windows and pre-Mac period, when what you saw on the scree
 XML is a specification emanating from the World Wide Web Consortium (W3C) that allows Web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating Web pages, HTML, and makes it possible to create websites containing more complex interactivity.
 
 *XHTML (Extensible Hypertext Markup Language)*
-Is een opmaaktaal voor vooral websites, die de functionaliteit heeft van HTML, maar een striktere syntaxis waardoor deze gemakkelijker verwerkt kunnen worden door een XML-parser. 
+A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 ### Y
 
