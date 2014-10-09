@@ -1,8 +1,10 @@
 # 07 Guide: How to make a simple EPUB
 
-Focus: EPUB 2/3, HTML5 (app) + PDF
+<!--Focus: EPUB 2/3, HTML5 (app) + PDF
 
-<!--example Manifesto, El Lissitzky-->
+example Manifesto, El Lissitzky
+
+Miriam: are we still going to use this example?-->
     
 
 ## A simple ebook 

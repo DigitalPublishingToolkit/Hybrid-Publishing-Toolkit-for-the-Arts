@@ -180,7 +180,10 @@ What is gained by a shift to a hybrid publishing workflow? First of all, produci
 
 
 
-<!-- the extra possibilities / what you win by changing your life-->
+<!-- the extra possibilities / what you win by changing your life
+
+
+Joost will write this-->
 
 
 
