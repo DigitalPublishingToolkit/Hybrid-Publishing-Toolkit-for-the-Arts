@@ -181,13 +181,17 @@ At the time of this writing in late 2014, a controversial standardisation effort
 What is gained by a shift to a hybrid publishing workflow? First of all, producing a publication in different output formats will be more efficient. However, when the workflow is put into use without restraint, when you really 'change your life' great possibilities open up. The most important is shortly discussed here, namely database publishing which uses a so-called content management system.
 
 
+The ideal database is a collection of independent, but mutually related, objects. These objects can be everything from structured text to pictures of wildlife. The issue at stake is that we need a clear grammar and a clear categorization that go beyond the immediate use of the database. Take as an example your mailing list. We can take the full address including the name of the person at issue as one object. But if we want to select per postal code or any other sub category in a full address or want to aid to the persons name more information such as age, email address and previous purchases we have to make a strict scheme with so-called fields and sub-fields, including their interdependences (a hous number demands a street name en visa versa), their indispensability (age might be not crucial), and so on.
+All this means that the holy grail of the all compassing database (such as the intelligent services dream of) is not only almost impossible but also extremely time consuming operation the build and maintain. 
 
-<!-- the extra possibilities / what you win by changing your life
+The best option is therefore to explicate the goals of the publication programmme as well as the practical limitations. The four genres we discuss in this booklet all have their own demands in relation to the creation and the dissemination of publications. An art catalog demands clear descriptors about the artist, the materials used, the sizes, the provenance, copy right, keywords according to established list,etc. Other collections of pictures might need only a subset.   
+
+Also in pure text databases we have to be careful. On the one hand we have obviously the data related to the author's name, affiliation, address, etc. But it becomes a different discussion if pictorial illustrations, graphs, etc. are shared between look-alike publications and for that reason we want to identify these objects individually. I such as case we might consider a special sector in our database that pertain to illustrations and their specific descriptive sub-field only. The same holds true for bibliographic references and the collection of hyperlinks used in the text.
+
+Concluding we can only advise that various objects or in other words pictorial or textual entities are endowed with as many as consistent metadata (field descriptors) as possible. 
 
 
-Joost will write this-->
-
-
+=============
 
 
 <!-- Amy: perhaps some definitions or descriptions of what 'mark-up', 'semantic language' and 'restructured text' is after this part? Miriam: added to the Glossary-->
