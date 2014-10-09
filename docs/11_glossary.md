@@ -3,39 +3,16 @@
 ### **A**
 
 *Acronym*
-An acronym is a shortened version of a phrase, often taking the first
-letters. For example, GIGO is the acronym for 'Garbage in Garbage out'
-or WYSIWYG, otherwise known as 'What you see is what you get'.
+An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in Garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
 
 *Adware*
-Any software which serves banner ads or pop-up ads to you while in use.
-It is sometimes installed in freeware or shareware which you download
-from the nets, and provides one more channel for advertisers to reach
-you. Some adware will also track your files, net usage, and software and
-report it back to advertisers to help them channel relevant ads to you.
+Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the nets, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you. 
 
 *Aliasing, anti-aliasing*
-Pictures on your computer monitor are made up of square pixel. When the
-edge of a solid colored object in a GIF image is a diagonal or curved
-line, and it is displayed against a contrasting color, the edges appear
-jagged, like stair steps. This jagged appearance is called aliasing. The
-jagged appearance can be softened by filling in adjacent pixels with
-intermediate colors between the object and the background. This
-softening of the edges is called anti-aliasing. Software like PhotoShop
-can apply anti-aliasing for you automatically. One problem with
-anti-aliasing GIF images is that it increases the number of colors used,
-necessarily increasing the file size. You must decide whether quick
-loading or smoothed edges serves your needs better.
+Pictures on your computer monitor are made up of square pixel. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like PhotoShop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.
 
 *Algorithm*
-This is the name given to a "defined set of steps that can be used to
-complete a task". For example there are 'algorithms' worked out for
-sorting a list efficiently. A computer programmer can buy a book of
-algorithms so they not need to re-invent the wheel when they have to
-code for a job that has already been worked out. Having bought the book,
-they would look up the problem of 'How to sort a list' and a good book
-would tell them a number of ways to do this. Algorithms are not computer
-code,
+This is the name given to a "defined set of steps that can be used to complete a task". For example there are 'algorithms' worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,
 
 *Android*
 An Open Source operating system targeted at mobile phones, tablets. It's based on a Linux kernel and the Java programming language. As a mobile operating system Android is the most widely used.
@@ -47,39 +24,28 @@ Online retailer of various goods, including ebooks, and producer of the Kindle a
 An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play Store, Apple App Store).
 
 *App store*
-An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple),
-Google Play, Amazone Store, Windows Phone Store en BlackBerry App World.
+An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazone Store, Windows Phone Store en BlackBerry App World.
 
 *azw (.azw)*
 Amazon Word, file format used by the Amazon Kindle e-Book reader.
 
 *Anchor*
-An 'anchor' is a specific location within a HTML-web page that can be
-jumped to by clicking on a hyperlink.
+An 'anchor' is a specific location within a HTML-web page that can be jumped to by clicking on a hyperlink.
 
 *Animated GIF*
-A GIF2 graphic file, which consists of two or more images shown in a
-timed sequence to give the effect of motion.
+A GIF2 graphic file, which consists of two or more images shown in a timed sequence to give the effect of motion.
 
 *API (Application Programming Interface)*
-An interface between the operating system
-and application programs that specifies how the two communicate with
-each other.
+An interface between the operating system and application programs that specifies how the two communicate with each other. 
 
 *Applet*
-An Applet is a small program that is downloaded from a web page and
-executed by browser software. Also, an HTML tag that defines an applet
-program which is written in Java and designed to run on a web page. It
-can be used to display scrolling text such as a marquee across the top
-of a page or other animations
+An Applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations
 
 *ASCII (American Standard Code for Information Interchange)*
 A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters.
 
 *AVI*
-Audio Video Interleaved. A Microsoft video format where audio and video
-coding appears in alternate segments. AVI files will end with an .avi
-extension.
+Audio Video Interleaved. A Microsoft video format where audio and video coding appears in alternate segments. AVI files will end with an .avi extension.
 
 ### **B**
 
@@ -131,8 +97,7 @@ A set of instructions that the computer carries out in sequence to perform a giv
 
 *Cookie*
 A cookie is a short file put on your system by a web page when the user visits a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check.
-There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the
-site can tailor what it presents to the user, e.g. tastes in music or shopping habits.
+There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.
 
 ### **D**
 *Data*
@@ -192,8 +157,7 @@ A *file* in computer jargon can be used to describe many different things. It ma
 place where you can easily find it.
 
 *File extension*
-One popular method used by many operating systems, including Windows, Mac OS is to determine the format of a file based on the end of its name—the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents
-are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so, often any given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
+One popular method used by many operating systems, including Windows, Mac OS is to determine the format of a file based on the end of its name—the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so, often any given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
 
 *File format*
 A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read.
@@ -211,8 +175,7 @@ The process of preparing a writeable disc for use. Formatting creates a structur
 ### **G**
 
 *GIF*
-Abbreviation for Graphic Interchange Format. A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons,
-etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
+Abbreviation for Graphic Interchange Format. A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
 
 *GitHub*
 Collaboration platform, code review, and code management for open source and private projects.
@@ -235,8 +198,7 @@ Abbreviation for Hypertext Transfer Protocol. The transfer method (*protocol*) u
 A contraction of hypertext link, the essence of Hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image. By clicking on the area designated as a hyperlink by the person who created the Web page, it is possible to jump quickly to another part of the page, a different page on the same website, or to a completely different website.
 
 *Hypertext*
-A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one Web page to another, or from one website to another, by clicking on highlighted (and usually underlined)
-hyperlinks. The concept of hypertext predates the Web by many years.
+A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one Web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years.
 
 ### **I**
 
@@ -244,111 +206,52 @@ hyperlinks. The concept of hypertext predates the Web by many years.
 Is een programma voor het lezen en kopen van e-books, ontwikkeld door Apple Inc voor besturingssysteem iOS.
 
 *iBookstore*
-Hier is het mogelijk om boeken e-books te kopen en te downloaden. De boeken in de
-winkel zijn in het ePub-formaat opgeslagen.
+Hier is het mogelijk om boeken e-books te kopen en te downloaden. De boeken in de winkel zijn in het ePub-formaat opgeslagen.
 
 *Interface*
-Is een intermediair waarmee twee systemen met elkaar communiceren en zet
-informatie van het ene systeem om in begrijpelijke en herkenbare
-informatie van een ander systeem.
+Is een intermediair waarmee twee systemen met elkaar communiceren en zet informatie van het ene systeem om in begrijpelijke en herkenbare informatie van een ander systeem.
 
 *iOS*
-Het mobiele
-besturingssysteem iOS (vóór juni 2010 iPhone OS) is het
-besturingssysteem van de iPhone, iPad, iPod touch en Apple TV.
+Het mobiele besturingssysteem iOS (vóór juni 2010 iPhone OS) is het besturingssysteem van de iPhone, iPad, iPod touch en Apple TV.
 
 *iPad*
-Is een in 2010 geïntroduceerde tablet-pc van het Amerikaanse
-elektronicabedrijf Apple. Net zoals de iPhone en de iPod touch bevat de
-iPad een multi-touchscherm, waardoor deze met de vingers is te bedienen
+Is een in 2010 geïntroduceerde tablet-pc van het Amerikaanse elektronicabedrijf Apple. Net zoals de iPhone en de iPod touch bevat de iPad een multi-touchscherm, waardoor deze met de vingers is te bedienen
 
 *Icon*
-A small symbol or picture used in a Graphical User Interface (GUI). The
-icons on the computer screen represent programs or files, e.g. a picture
-of a painter's palette might represent a program used for drawing and
-editing pictures, and a picture of a book with a question mark on its
-cover might represent the text of a manual or a help file.
+A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
 
 *Ink Jet Printer*
-A type of Printer that fire little jets of ink at the page in order to
-form the characters and graphics. One of the commonest forms of printers
-currently in use and capable of producing high-quality output in black
-and white and in full colour.
+A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
 
 *Interface*
-An interface in computer jargon is a connection between two systems. It
-can be Hardware or Software. It may take the form of a plug, cable or
-socket, or all three, for example where a Printer or Scanner is
-connected to a computer, and then it's a hardware interface. There are
-also software interfaces that enable one program to link with another,
-passing across data and variables. The term interface, also known as
-user interface, also describes the software that is used to enable human
-beings to communicate with a computer.
+An interface in computer jargon is a connection between two systems. It can be Hardware or Software. It may take the form of a plug, cable or socket, or all three, for example where a Printer or Scanner is connected to a computer, and then it's a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
 
 *Internet*
-The Internet, or simply "the Net", is a computer network connecting
-millions of computers all over the world. It provides communications to
-governments, businesses, universities, schools and homes. Any modern
-computer can be connected to the Internet using existing communications
-systems. Schools and universities normally access the Internet via their
-own educational networks, but private individuals usually have to take
-out a subscription with an Internet Service Provider (ISP). Although the
-Internet is in fact a network of networks, it appears to users as a
-network of individual computers. The Internet dates back to the group of
-interconnected networks that evolved from the ARPANET of the late 60's
-and early 70's. It has grown from a handful of interconnected networks
-into a huge network of millions of computers.
+The Internet, or simply "the Net", is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an Internet Service Provider (ISP). Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60's and early 70's. It has grown from a handful of interconnected networks into a huge network of millions of computers.
 
 *iPod*
-The name of a portable (mobile) Media Player designed and marketed by
-Apple.
+The name of a portable (mobile) Media Player designed and marketed by Apple.
 
 *IT(C)*
-Abbreviation for Information Technology. Essentially, technology
-relating to information processing, i.e. computer technology, The term
-IT is rapidly being replaced by ICT in order to reflect the important
-role that information technology plays in communications by email, the
-Web, satellites and mobile phones.
+Abbreviation for Information Technology. Essentially, technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.
 
 ### **J**
 
 *Java*
-Java is a high level programming language. It is useful for creating
-small web applications and applets for use as part of a web page.
+Java is a high level programming language. It is useful for creating small web applications and applets for use as part of a web page.
 
 *Javascript*
-JavaScript is a scripting language originally developed by Netscape
-mainly for use as code within a web page.
+JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page.
 
-Javascript is very popular for common tasks such as validating data
-entry forms within a web page before they are submitted to the server.
-Javascript can also alter the way a page looks by dynamically changing
-CSS format settings within its page.
+Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page.
 
-Another very popular JavaScript linked technology these days is AJAX
-which stands for Asynchronous Javascript and XML which is used to update
-details on a web page without having to refresh it as you go along.
+Another very popular JavaScript linked technology these days is AJAX which stands for Asynchronous Javascript and XML which is used to update details on a web page without having to refresh it as you go along.
 
-Recently a lot of interest has arisen in using non-Flash technology for
-interactive web pages especially with HTML 5 and to that end a very
-popular library called Jquery has come along that offers users a lot of
-interactivity without using Flash. Jquery also supports a host of
-specialist plug-ins to extend the library.
+Recently a lot of interest has arisen in using non-Flash technology for interactive web pages especially with HTML 5 and to that end a very popular library called Jquery has come along that offers users a lot of interactivity without using Flash. Jquery also supports a host of specialist plug-ins to extend the library.
 <!-- It might make sense to dedicate a specific lemma to Jquery itself --> 
 
 *JPEG or JPG*
-Abbreviation for Joint Photographic Expert Group. Pronounced "Jaypeg". A
-file format used for storing images. The JPEG/JPG format uses a palette
-of millions of colours and is primarily intended for photographic
-images. The internal compression algorithm of the JPEG/JPG format,
-unlike the GIF format, actually throws out superfluous information,
-which is why JPEG/JPG files containing photographic images end up
-smaller than GIF files containing photographic images. If you store an
-image, say, of a flag containing just three colours in JPEG/JPG format
-it may end up bigger than a GIF file containing the same image, but not
-necessarily a lot bigger - it depends on the type and range of colours
-it contains. JPEG/JPG files containing photographic images are normally
-smaller than GIF files containing photographic images.
+Abbreviation for Joint Photographic Expert Group. Pronounced "Jaypeg". A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. If you store an image, say, of a flag containing just three colours in JPEG/JPG format it may end up bigger than a GIF file containing the same image, but not necessarily a lot bigger - it depends on the type and range of colours it contains. JPEG/JPG files containing photographic images are normally smaller than GIF files containing photographic images.
 
 ### **K**
 
@@ -356,163 +259,73 @@ smaller than GIF files containing photographic images.
 Is Amazons new Kindle Format 8 used on the Kindle Fire 
 
 *Kindle*
-Fire Is een tablet van het Amerikaanse bedrijf Amazon. De tablet maakt
-gebruik van het besturingssysteem Android 2.3. Kindle devices do not
-support the EPUB file format used by many other e-book readers. Instead,
-they are designed to use Amazon's own e-book formats: AZW and, in later
-devices, KF8. Like EPUB, these formats are intended for reflowable,
-richly formatted e-book content. 
+Fire Is een tablet van het Amerikaanse bedrijf Amazon. De tablet maakt gebruik van het besturingssysteem Android 2.3. Kindle devices do not support the EPUB file format used by many other e-book readers. Instead, they are designed to use Amazon's own e-book formats: AZW and, in later devices, KF8. Like EPUB, these formats are intended for reflowable, richly formatted e-book content. 
 
 *Kobo*
-Maakt fysieke e-readers
-en applicaties voor iPad, Android, e.d. Tevens is er een Kobo winkel
-waar epubs gekocht kunnen worden.
+Maakt fysieke e-readers en applicaties voor iPad, Android, e.d. Tevens is er een Kobo winkel waar epubs gekocht kunnen worden.
 
 ### **L**
 
 *LAN*
-Abbreviation for Local Area Network. A Network of computers at one site
-that provides services to other computers connected to it. A LAN is
-usually limited to an immediate area, for example the floor of a
-building, a single building or a campus. The most important part of a
-LAN is the Server that delivers software to the computers (also known as
-workstations or clients) that are connected to it. The server is usually
-the most powerful computer in the network Users of computers connected
-to a LAN can access their own files remotely and exchange information
-with the server and other users connected to the network.
-
-*LAMP*
-Is een acroniem voor een set van gratis vrije softwarepakketten, die
-vaak samen gebruikt worden om dynamische websites te draaien:
-
--   Linux, het besturingssysteem;
-
--   Apache HTTP Server, de webserver;
-
--   MariaDB of MySQL, het databasemanagementsysteem (of databaseserver);
-    of in plaats daarvan PostgreSQL (LAPP) of SQLite (LASP)
-
--   P for PHP, Perl, en/of Python, de programmeertaal
-    \#\#\#\#Linuxkernel Is de kernel (kern) van besturingssystemen uit
-    de Linuxfamilie.
+Abbreviation for Local Area Network. A Network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. 
 
 *Latex*
 
 
 *LCD*
-Abbreviation for Liquid Crystal Display. A technology used for producing
-a type of flat panel computer Display Screen1, which is replacing the
-older type of Cathode Ray Tube display screen. A more advanced form of
-technology for producing flat panel display screens is known as TFT
-(Thin Film Transistor). LCD and TFT screens are also used in digital
-cameras and camcorders.
+Abbreviation for Liquid Crystal Display. A technology used for producing a type of flat panel computer Display Screen1, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
 
 *Linux*
-Unix-type Operating System. Linux was originally created by Linus
-Torvalds with the assistance of developers around the world. The Source
-Code for Linux is open source and hence freely available to everyone.
+Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone.
 
 ### **M**
 
 *Macro*
-A sort of mini-program that can be incorporated into other programs,
-comprising a series of keystrokes that you may wish to use over and over
-again. A macro is a series of commands and instructions that you group
-together as a single command to accomplish a task automatically. Instead
-of manually performing a series of time-consuming, repetitive actions,
-you can create and run a single macro - in effect, a custom command that
-carries out the task for you. A macro can be saved and called up
-whenever you need it.
+A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.
 
 *Mark-up Language*
 
 *Mashup*
-A *mashup* is a Web page that brings together data from two or more Web
-services and combines the data into a new application with added
-functionality.
+A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.
 
 *Metadata*
 
 *MIDI*
-Abbreviation for Musical Instrument Digital Interface. A format for
-synthesised music. Music in MIDI format is created and played through
-the use of synthesisers, unlike "real" music which is normally recorded
-in MP31, WMA2 or WAV3 file format.
+Abbreviation for Musical Instrument Digital Interface. A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.
 
 *Mobi*
-(.mobi, ook wel dotMobi genoemd) is een topleveldomein (TLD). Het
-hoofddoel van deze TLD is om websites voor mobiele telefoons beter te
-kunnen onderscheiden. Een TLD is het meest rechtse gedeelte in een
-internetdomeinnaam, zoals .nl, .org, .gov, .brussels etc.
+(.mobi, ook wel dotMobi genoemd) is een topleveldomein (TLD). Het hoofddoel van deze TLD is om websites voor mobiele telefoons beter te kunnen onderscheiden. Een TLD is het meest rechtse gedeelte in een internetdomeinnaam, zoals .nl, .org, .gov, .brussels etc.
 
 *Mobipocket*
-Is a French company incorporated in March 2000 that produces
-Mobipocket Reader software, an e-book reader for some personal digital
-assistants (PDA), wireless telephones and desktop operating systems.
+Is a French company incorporated in March 2000 that produces Mobipocket Reader software, an e-book reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems.
 
 *Monitor*
-The screen on which output from a computer is displayed. Also referred
-to as Display Screen.
+The screen on which output from a computer is displayed. Also referred to as Display Screen. 
 
 *Monochrome* 
 Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. So a monochromatic object or image has only colors in shades of limited colors or hues.
 
 *MOV*
-The format for storing and playing back audio and video files using the
-QuickTime media player on the Apple Macintosh, but also available for
-the multimedia PC. Economical in terms of storage space.
+The format for storing and playing back audio and video files using the QuickTime media player on the Apple Macintosh, but also available for the multimedia PC. Economical in terms of storage space.
 
 *MP4*
-Abbreviation for the MPEG-4 file format. There are two basic types of
-MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video
-Coding). The MP4 AAC file format is used to store audio files in a more
-manageable size without affecting the quality. MP4 AAC's best known use
-is as the default audio format of Apple's iPhone, iPod and iTunes Media
-Player. The MP4 AVC file format is used to store video files in a more
-manageable size wihout affecting the quality. It is also increasingly
-being used for storing video on iPods and similar portable devices.
+Abbreviation for the MPEG-4 file format. There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
 
 *MPEG* or *MPG*
-Abbreviation for Motion Picture Expert Group. Pronounced "Empeg". A
-standard file format for storing movies in digital format and
-high-quality audio files in a variation known as MP3. Video files stored
-MPEG format can be recognised by the Extension.mpg or .mpeg. MP3 audio
-files can be recognised by the Extension .mp3. A newer file format is
-MP4. MP4 files that can be recognised by the Extension .mp4. See ASF,
-AVI7 MOV8 RM, which are alternative video file formats.
+Abbreviation for Motion Picture Expert Group. Pronounced "Empeg". A standard file format for storing movies in digital format and high-quality audio files in a variation known as MP3. Video files stored MPEG format can be recognised by the Extension.mpg or .mpeg. MP3 audio files can be recognised by the Extension .mp3. A newer file format is MP4. MP4 files that can be recognised by the Extension .mp4. See ASF, AVI7 MOV8 RM, which are alternative video file formats.
 
 *Multimedia*
-The integration of two or more types of information (text, images,
-audio, video, animation, etc.) in a single application.
+The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application.
 
 ### **N**
-
-*Native app*
-Een native applicatie is een programma dat specifiek ontwikkeld en
-geïmplementeerd is voor het gegeven model, microprocessor of
-besturingssysteem. Deze app is geschreven in de programmeertaal (Java
-voor Android, Objective-C in combinatie met Cocoa voor iOS) van het
-platform waarop de applicatie gelanceerd wordt. De meeste native
-applicaties kunnen worden gedownload uit de app store.
-
 
 ### **O**
 
 *OCR*
-Abbreviation for Optical Character Recognition. OCR software is used
-conjunction with a *scanner* to convert printed text into digital
-format. For example, a page from a printed book can be placed on the
-scanner and the OCR software will be used by the scanner to detect the
-individual words from which it is made up and then convert them into a
-form that can be stored on a computer,
+Abbreviation for Optical Character Recognition. OCR software is used conjunction with a *scanner* to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer,
 
 *Objective-C*
-De programmeertaal waar veel OS X en iOS applicaties in geschreven
-worden. De taal heeft de programmeertaal C als basis. Objective-C is
-vergelijkbaar met het door Microsoft ontwikkelde C Sharp, ook een
-dialect van C. \#\#\#\# Opensource Beschrijft de praktijk die in
-productie en ontwikkeling vrije toegang geeft tot de bronmaterialen (de
-source) van het eindproduct. De bekendste vorm is opensourcesoftware.
+De programmeertaal waar veel OS X en iOS applicaties in geschreven worden. De taal heeft de programmeertaal C als basis. Objective-C is vergelijkbaar met het door Microsoft ontwikkelde C Sharp, ook een dialect van C. \#\#\#\# Opensource Beschrijft de praktijk die in productie en ontwikkeling vrije toegang geeft tot de bronmaterialen (de source) van het eindproduct. De bekendste vorm is opensourcesoftware.
 
 *Open source*
 
@@ -523,163 +336,76 @@ source) van het eindproduct. De bekendste vorm is opensourcesoftware.
 *PDA*
 
 *PDF*
-An abbreviation for Portable Document Format. This is a file type
-created by Adobe that allows fully formatted, documents to be
-transmitted across the Internet and viewed on any computer that has
-Adobe Acrobat Reader software - a proprietary software viewing program
-available for free at the Adobe website: http://www.adobe.com/uk/.
-Businesses and educational institutions often use PDF-formatted files to
-display the original look of their brochures or for publishing a
-complete magazine in electronic format. Using the full Adobe Acrobat
-software package, it is possible to create a high-quality piece of
-artwork or a brochure which preserves the look of the original, complete
-with fonts, colours, images, and formatting. Documents in PDF format can
-be published on the Web without having to be converted into HTML.
+An abbreviation for Portable Document Format. This is a file type created by Adobe that allows fully formatted, documents to be transmitted across the Internet and viewed on any computer that has Adobe Acrobat Reader software - a proprietary software viewing program available for free at the Adobe website: http://www.adobe.com/uk/. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colours, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML.
 
 *Pixel*
-A contraction of picture element. What you see on a computer Display
-Screen1 is made up of thousands of coloured pixels or small dots, which
-can be set according to the user's choice to produce either
-low-resolution output, medium-resolution output or high-resolution
-output, the usual combinations of pixels across each line of the screen
-(horizontal pixels) and down each line of the screen (vertical pixels)
-being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more
-pixels on the screen the higher the resolution (i.e. producing a finer,
-sharper image) and the greater the variety of colours that can be
-displayed.
+A contraction of picture element. What you see on a computer Display Screen1 is made up of thousands of coloured pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
 
 *Platform*
-Often used as an alternative term for a computer system, including both
-the hardware and the software. Essentially this term describes something
-that is used to build something else. The term *platform-independent* -
-used to describe software - means that the software can be run on any
-computer.
+Often used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
 *Podcast*
-A podcast is a broadcast digital audio recording, made available via the
-Web in a way that allows the recording to be downloaded for listening at
-the user's convenience. Cf. Vodcast, which is often used to describe a
-downloadable broadcast digital video recording.
+A podcast is a broadcast digital audio recording, made available via the Web in a way that allows the recording to be downloaded for listening at the user's convenience. Cf. Vodcast, which is often used to describe a downloadable broadcast digital video recording.
 
 *Pop-up*
-A small Window that appears within a program or over the top of a Web
-page to deliver additional information. Pop-ups on the Web can be
-annoying as they are often used for unwanted advertising material.
+A small Window that appears within a program or over the top of a Web page to deliver additional information. Pop-ups on the Web can be annoying as they are often used for unwanted advertising material.
 
 *Print-on-Demand*
 Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model flies in the face of traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. The sales of online books and e-books facilitate POD and eliminate the need for hard copy book displays. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print on demand is sometimes called publish on demand.
 
 *Program*
-The American spelling is standard in computer jargon, enabling a useful
-distinction to be made in British English between a *computer program*
-and a *programme* in the sense of a *programme of study*. A talk with
-the title "Turning programmes into programs" (or maybe it was the other
-way round) was presented by a British Council officer at the annual
-TESOL conference in the USA in 1987 - which puzzled the American
-audience but made sense to the British participants.
+The American spelling is standard in computer jargon, enabling a useful distinction to be made in British English between a *computer program* and a *programme* in the sense of a *programme of study*. A talk with the title "Turning programmes into programs" (or maybe it was the other way round) was presented by a British Council officer at the annual TESOL conference in the USA in 1987 - which puzzled the American audience but made sense to the British participants.
 
 *Protocol*
-In Internet terminology protocol usually refers to a set of rules that
-define an exact format for communication between systems. For example
-the HTTP protocol defines the format for communication between Web
-browsers and Web server.
+In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between Web browsers and Web server.
 
 ### **Q**
 
 *QR Code*
-Short for Quick Response Code. A QR Code is a two-dimensional barcode
-that can store a variety of different types of information, e.g. text, a
-website URL, a telephone number, an SMS message, an email address, an
-email message, contact details, information about an event, a Google
-Maps1 location, your social media profile (Facebook, Twitter, etc), an
-iTunes link, a YouTube link, etc. QR Codes can be read by barcode
-readers and Smartphone cameras. Instead of writing down the information
-relating to a website URL or map location etc, you just take a photo of
-the QR Code.
+Short for Quick Response Code. A QR Code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps1 location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR Codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR Code.
 
 *QuickTime*
-Software by Apple used for viewing movies and listening to audio
-recordings
+Software by Apple used for viewing movies and listening to audio recordings
 
 ### **R**
 
 *Reflowable*
-A reflowable document is a type of electronic document that can adapt
-its presentation to the output device.
+A reflowable document is a type of electronic document that can adapt its presentation to the output device.
 
 *Resolution*
-A measure of the number of pixels or small dots displayed on a computer
-display screen, printer or scanner. One normally talks in terms of the
-quality of resolution, using the expression low-resolution,
-medium-resolutionand high-resolution. The resolution of a computer
-display screenis normally expressed as two numbers representing the
-horizontal and vertical resolution, i.e. dots across each line of the
-screen and down each line of the screen: e.g. 640 x 480, 1024 x 768,
-etc. The resolution of a Printer is normally referred to by the number
-of dots per inch (dpi)- i.e. square inch.
+A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolutionand high-resolution. The resolution of a computer display screenis normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a Printer is normally referred to by the number of dots per inch (dpi)- i.e. square inch.
 
 *RTF*
-Abbreviation for Rich Text Format, an alternative way of storing a
-document created with a MS-Word-processor. RTF-formatted files can be
-moved relatively easily between different computer systems. RTF format
-is also recommended when transmitting an Attachment by Email as it is
-much safer than the Microsoft Word formats, which can harbour Word Macro
-viruses. RTF files preserve most of the formatting contained in
-DOC-formatted files.
+Abbreviation for Rich Text Format, an alternative way of storing a document created with a MS-Word-processor. RTF-formatted files can be moved relatively easily between different computer systems. RTF format is also recommended when transmitting an Attachment by Email as it is much safer than the Microsoft Word formats, which can harbour Word Macro viruses. RTF files preserve most of the formatting contained in DOC-formatted files.
 
 ### S
 
 *SDK*
 
 *Semantic Web*
-The *Semantic Web* is not a new type of Web, but rather an extension of
-the Web whereby data available in different locations on the Web is
-linked together in a way that allows the user to search the Web in a
-more sophisticated way, e.g. by requesting information in forms such as
-"Tell me where I can find information about 21st-century writers who
-live within 50 miles of my home town":
+The *Semantic Web* is not a new type of Web, but rather an extension of the Web whereby data available in different locations on the Web is linked together in a way that allows the user to search the Web in a more sophisticated way, e.g. by requesting information in forms such as "Tell me where I can find information about 21st-century writers who live within 50 miles of my home town":
 
 *Setup Program*
-A program that enables the user to set up a program or suite of programs
-on the computer's hard disk. Also known as Install Program or
-Installation Program.
+A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as Install Program or Installation Program.
 
 *Shockwave Player*
-Software developed by Adobe that enables Web pages containing
-interactive multimedia materials to be played on the Web. Such materials
-may contain games, product demonstrations and online learning
-applications.
+Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.
 
 *Streaming*
-Playing audio or video in real time from a website. In order to play
-streaming multimedia files you need a specific Plug-in program that
-links in with your Browser and plays the file as it is transmitted
-rather than downloading it to your computer first. Streaming requires a
-Broadband connection to the Internet since multimedia files are not
-stored on your computer but played in a continuous stream direct from
-the computer where they are stored.
+Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
 
 ### **T**
 
 *Tablet Computer*
-A tablet computer is compact portable computer that makes use of a
-Touchscreen instead of a keyboard for typing and running applications.
-Apple's iPad is a typical example of a tablet computer.
+A tablet computer is compact portable computer that makes use of a Touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
 
 *Tag*
-Tags are small alpha-numeric indicators around a word or part of text to
-define the role and/or function of that text. It is an essential tool in
-XML and HTML.
+Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML.
 
-Tagging has become more common in recent years as a result of the
-widespread use of Social Media for sharing images, audio recordings,
-video recordings, website references, etc. Tags are labels that briefly
-describe the what the media or references are all about and help other
-people find them quickly.
+Tagging has become more common in recent years as a result of the widespread use of Social Media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
 
 *TCP/IP*
-Abbreviation for Transfer Control Protocol / Internet Protocol. The main
-data transfer protocol used on the Internet.
+Abbreviation for Transfer Control Protocol / Internet Protocol. The main data transfer protocol used on the Internet.
 
 *Tex*
 
@@ -692,97 +418,44 @@ A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," t
 ### *U*
 
 *Unicode*
-The Unicode Worldwide Character Standard is a character coding system
-designed to support the interchange, processing, and display of the
-written texts of the diverse languages of the modern world. In addition,
-it supports classical and historical texts of many written languages:
-http://www.unicode.org.
+The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages: http://www.unicode.org.
 
 *Unix*
-An Operating System widely used on large computer systems in
-corporations and universities, on which many Web servers are hosted. A
-PC version of Unix, called Linux, is becoming increasingly popular as an
-alternative to Windows.
+An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.
 
 ### *V*
 
 *Vector Graphic*
-A method of creating graphic images on a computer by telling it to draw
-lines in particular positions. An advantage of a *vector graphic* is
-that it can be enlarged or reduced in size without loss of sharpness or
-distortion. Most modern image creation and edtiting packages can save
-images in vector graphic format. Vector graphics can be contrasted with
-*bit-mapped graphics*, which are made of a fixed number of pixels (small
-dots), and therefore sharpness may be lost when the image is resized.
+A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a *vector graphic* is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.
 
 *Vodcast*
-A contraction of Video Podcast. A type of Podcast1 that incoporates
-video as well as audio.
+A contraction of Video Podcast. A type of Podcast1 that incoporates video as well as audio.
 
 ### *W*
 
 *WAV*
-Short for Waveform Audio Format. A format for storing high-quality audio
-files.
+Short for Waveform Audio Format. A format for storing high-quality audio files.
 
 *Word-processor*
-Probably the most widely used computer Application. Modern
-word-processors allow the user to create fine-looking documents
-including images, tables, photographs, and even sound and video
-recordings if they are to be viewed on screen rather than from the
-printed page. In many respects they are similar to *Desktop Publishing*
-applications. Word-processors normally include a spellchecker, a grammar
-checker, a style checker and a thesaurus, as well as tools for writing
-in HTML, the coding language used for producing Web
-pages.Word-processors have been widely used in teaching and learning
-foreign languages ever since they first appeared.
+Probably the most widely used computer Application. Modern word-processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to *Desktop Publishing* applications. Word-processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages.Word-processors have been widely used in teaching and learning foreign languages ever since they first appeared.
 
 *World Wide Web*
-Usually referred to simply as the Web. This is the most powerful and
-fastest growing Internet service. The World Wide Web was the brainchild
-of Tim Berners-Lee, who in 1989 invented the HTML coding language that
-is the basis of the Web. The Web became a public service in 1993. It is
-a huge collection of resources of information, including learning
-materials, which is accessed by means of a computer program known as a
-Browser. The World Wide Web is only part of the Internet, but many
-people treat both terms as synonyms.
+Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms.
 
 *WYSIWYG*
-Acronym for What You See Is What You Get, dating back to the pre-Windows
-and pre-Mac period, when what you saw on the screen, e.g. in a Word
-document, was not necessarily what appeared on your Printer - something
-we now take for granted.
+Acronym for What You See Is What You Get, dating back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.
 
 ### **X**
 
 *XML*
-Abbreviation for eXtensible Markup Language. XML is a specification
-emanating from the World Wide Web Consortium (W3C) that allows Web
-designers to create their own language for displaying documents on the
-Web. XML is an extension to the standard language for creating Web
-pages, HTML, and makes it possible to create websites containing more
-complex interactivity.
+Abbreviation for eXtensible Markup Language. XML is a specification emanating from the World Wide Web Consortium (W3C) that allows Web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating Web pages, HTML, and makes it possible to create websites containing more complex interactivity.
 
 *XHTML*
-(Extensible Hypertext Markup Language) is een opmaaktaal voor vooral
-websites, die de functionaliteit heeft van HTML, maar een striktere
-syntaxis waardoor deze gemakkelijker verwerkt kunnen worden door een
-XML-parser. 
+(Extensible Hypertext Markup Language) is een opmaaktaal voor vooral websites, die de functionaliteit heeft van HTML, maar een striktere syntaxis waardoor deze gemakkelijker verwerkt kunnen worden door een XML-parser. 
 
 *XML*
-XML is a generalized Markup up Language for the
-exchange of information. It is generalized in that it allows users to
-define their own tags and thus there is a data definition table required
-to decode the data.
+XML is a generalized Markup up Language for the exchange of information. It is generalized in that it allows users to define their own tags and thus there is a data definition table required to decode the data.
 
 ### Y
 
 ### Z
-
-*Zebras*
-Zebras are several species of African20 equids united by their
-distinctive black and white stripes. Their stripes come in different
-patterns, unique to each individual. They are generally social animals
-that live in small harems to large herds. Unlike their closest
-relatives, horses and donkeys, zebras have never been truly
-domesticated.
