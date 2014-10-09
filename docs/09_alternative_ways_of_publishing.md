@@ -1,5 +1,8 @@
 # 09 Guide: Alternative ways of publishing
-<!-- This is a draft chapter and should be extended with a guide on how to create an EPUB using Adobe InDesign CC -->
+<!-- This is a draft chapter and should be extended with a guide on how to create an EPUB using Adobe InDesign CC 
+
+
+Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
 
 A single downloadable package like EPUB might be a great vehicle to monetise, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios] [^penguin-amplified] [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an EPUB to another device, however application binaries are not that easily passed around, mostly due to the relatively closed nature of mobile operating systems.
 
@@ -9,36 +12,37 @@ Lastly, why not just publish essays, articles or even whole books on a website? 
 ##Authoring Suites
 A range of publishing suites is available as well, which roughly fall into two categories. One can be described as full-blown editors, the other allows publishers to enhance existing publications with interactive features.
 
-###Editors: calibre
-[Calibre](http://calibre-ebook.com) is a 'swiss army knife' for reading, converting, authoring and cataloging e-books. It is open source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is under very active development with frequent version updates. We recommend it as a standard tool for all e-book publishers next to pandoc and consider it superior to (older) alternatives like [Sigil](http://code.google.com/p/sigil). The inexpensive commercial program [Jutoh](http://www.jutoh.com), which also runs on Windows, Mac OS X and Linux, is superior as an easy-to-use graphical editor for e-books since it gives writers and editors a user interface similar to that of Microsoft Word. Jutoh is less powerful as a document converter and e-book database.
+###Editors: Calibre
+<!-- Miriam: why is Calibre called an editor here?-->
+[Calibre](http://calibre-ebook.com) is a 'swiss army knife' for reading, converting, authoring and cataloging e-books. It is open source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is under very active development with frequent version updates. We recommend it as a standard tool for all ebook publishers next to pandoc and consider it superior to (older) alternatives like [Sigil](http://code.google.com/p/sigil). The inexpensive commercial program [Jutoh](http://www.jutoh.com), which also runs on Windows, Mac OS X and Linux, is superior as an easy-to-use graphical editor for ebooks since it gives writers and editors a user interface similar to that of Microsoft Word. Jutoh is less powerful as a document converter and ebook database.
 
 Calibre can be used to:
 
 * open and read EPUB files on a personal computer;
 
-* import various documents in various e-book and electronic text formats (including Word/.docx, rtf, HTML and plain text) and convert them into EPUB; export to other document formats including Amazon Kindle, PDF and RTF.
+* import various documents in various ebook and electronic text formats (including .docx, rtf, HTML and plain text) and convert them into EPUB; export to other document formats including Amazon Kindle, PDF and RTF.
 
-* manage a local library/database of all imported e-books, with easy editing of the bibliographic meta data of each e-book;
+* manage a local library/database of all imported ebooks, with easy editing of the bibliographic meta data of each ebook;
 
-* synchronize the user's e-book library with e-reading devices;
+* synchronize the user's ebook library with ereading devices;
 
-* edit e-books in HTML source code, with live graphical preview.
+* edit ebooks in HTML source code, with live graphical preview.
 
-Calibre calls itself "the one stop solution to all your e-book needs". And indeed, (small) publishers could use it as their single, one-size-fits-all tool for e-book production. If one wants to create text-oriented, standard-compliant e-books, Calibre is the most accessible and straightforward authoring software currently available.
+Calibre calls itself 'the one stop solution to all your ebook needs'. And indeed, (small) publishers could use it as their single, one-size-fits-all tool for ebook production. If one wants to create text-oriented, standard-compliant ebooks, Calibre is the most accessible and straightforward authoring software currently available.
 
 However, at its current version 2.5, Calibre is not perfect. For some aspects, other programs provide better functionality:
 
 * Calibre's user interface is cluttered and can be confusing. The program has so many features and modules that it can feel like several programs jammed into one.
 
-* The editor only supports EPUB 2.0 and is meant for tweaking the HTML and CSS code of imported documents, not for editing e-books from scratch. That said, it provides good live graphical previews of the formatted document. Still, the editor is not the right tool for visual/multimedia-oriented publications. 
+* The editor only supports EPUB 2.0 and is meant for tweaking the HTML and CSS code of imported documents, not for editing ebooks from scratch. That said, it provides good live graphical previews of the formatted document. Still, the editor is not the right tool for visual/multimedia-oriented publications. 
 
-* The import/document conversion function is inferior to pandoc. In our tests, we obtained clearly better results converting Microsoft Word .docx and Markdown files to epub with pandoc than with Calibre. (Calibre has the advantage of easy graphical operation, as opposed to the non-graphical command line interface of pandoc.)
+* The import/document conversion function is inferior to pandoc. In our tests, we obtained clearly better results converting Microsoft Word .docx and Markdown files to epub with pandoc than with Calibre. Calibre has the advantage of easy graphical operation, as opposed to the non-graphical command line interface of pandoc.
 
-* Calibre's graphical viewer uses a simple HTML engine that is insufficient for testing and evaluating the visual design of an e-book. 
+* Calibre's graphical viewer uses a simple HTML engine that is insufficient for testing and evaluating the visual design of an ebook. 
 
-* Calibre's PDF export provides no real alternative to a PDF document carefully designed in a program like InDesign, or with custom templates using XML or other document formats. (Here, pandoc is superior to Calibre as well.)
+* Calibre's PDF export provides no real alternative to a PDF document carefully designed in a program like InDesign, or with custom templates using XML or other document formats. Here, pandoc is superior to Calibre as well.
 
-Despite these limitations, Calibre is a capable program for importing simple text documents, tweaking them into an e-book  and exporting it to the most common e-book formats.  
+Despite these limitations, Calibre is a capable program for importing simple text documents, tweaking them into an ebook  and exporting it to the most common ebook formats.  
 
 Currently, the technically easiest and least expensive way of hybrid publishing is to transform a book into Markdown, edit the Markdown into a structurally clean document, use pandoc for converting Markdown to EPUB , and import the EPUB into Calibre for final tweaks and conversion into other e-book formats (including Amazon Kindle).
 
