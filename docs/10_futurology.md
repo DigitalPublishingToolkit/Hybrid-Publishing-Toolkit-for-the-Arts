@@ -1,69 +1,20 @@
 # 10 Futurology
 
-Where will e-publishing be in 2020?
-<!--Miriam jotted in notes and links-->
 
-## Reading technology 
-
-Both hardware / software
-
-There is an increase in reading on the smartphone. Some speculate that ereaders will be obsolete. <!-- A confirmation of this might be the fact that the sony ereader, one of the most appreciated ones, is not produced anymore -->
-(http://nymag.com/daily/intelligencer/2014/06/heres-what-the-future-of-reading-looks-like.html)
-<-- could also mean that classical textbooks will be less read on electronic devices; Florian -->
-
-Books as apps - blurred lines between books / websites / apps
-
-Advantages and disadvantages will remain the same: affordability and portability of whole libraries vs. independence from electricity and visual-tactile advantages of paper books.
-
-Improvement of e-paper: color e-paper, flexible e-paper
-
-4K displays for mobile devices will push display resolution <!--just read this comment elsewhere: '4K is all the buzz today, but clearly 16K is on the horizon' ^Miriam-->
-
-possible anti-cloud/anti-obsolescence backlash - for example in the creation and maintenance of personal 
-
-cost pressure will cause moving from paper to electronic: push in Non-Western countries (BRIC), institutional budget cuts, shrinking number of commercial publishers. Like with the transition from brick-and-mortar travel agencies to online travel booking, or from brick-and-mortar retail to e-commerce, this will not necessarily be driven by customer convenience but by pure economic pressure. (Also consider higher mobility/more commuting/less disposable square meters/lower consumption budgets for book buyers as external pressure factors.)
-
-## Reading culture 
-
-Mainstream of publishing will remain in traditional textual formats. Reader technology is now good enough to allow pleasant on-screen reading.
-
-Foreseeable: generic forms of publication (such as the paperback) will slowly migrate to electronic, paper publishing will become more visually and tactile oriented. 
-
-Something about the much discussed 'change' in reading - deep versus shallow reading (Nicholas Carr). But is it so? See for example: http://www.ft.com/cms/s/2/53d3096a-f792-11e3-90fa-00144feabdc0.html#axzz374aeWjXN Two things are notable in this. First, paper might simply be a cultural preference, and ereaders something we just have to get used to using in a good way. Second, the 'preference' for deep reading might as well be relative. For an active working with the text (for interpretation and learning for example) skimming, adding notes, looking up background information et cetera might work better than immersive, deep reading. And ereaders, tablets, and phones might be better suited for that purpose.
-
-Other ways of dealing with texts open up, allowing a more interactive relationship between reader and text.Not only in the sense of adding audio and video, but also leaving the reader the choice of entry into the text, setting out an individual reader path per person. See for example http://futureofthebook.org/blog/wp-content/uploads/2014/05/Tether_Mise-en-Page_FINAL.pdf
-
-<!-- Texts will be more and more influenced by reading statistics, see Popular Highlights on Kindle, or quantification of reading habits on Scribd and Oyster -->
-
-## Publishing culture
-
-Likely: switch from individual product retail to rental/subscription model. Subscription to complete libraries with unlimited access to media within the rental period. (Examples: Netflix, Spotify, Adobe Creative Cloud, JSTOR).  <!-- Is the subscription model working in music? -->
-
-Writers / artists / designers who self-publish will increase
-
-Amazon spreading, also causing chances for independent publishers?
-
-Blurring lines between media company / publisher / writer. What is the added value of a publisher? What distinguishes the publisher from those other companies or independent one-man-publishers? How will publishers redefine their expertise? (http://www.litragger.com/literature-news/commentary/5-myths-about-the-new-era-of-publishing/)
-
-Publishing becoming a function rather than an industry: http://www.idealog.com/blog/atomization-publishing-as-a-function-rather-than-an-industry/
-
-
-
-###NOTES / IDEAS
+### What we can expect
 <!-- By Joost-->
-Que Sera, Sera (Whatever Will Be, Will Be), is the never ending question
-for electronic publishing of art books as well. In art books we try to
+*Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question
+for the electronic publishing of art books.[^10-doris] In art books we try to
 describe, show, analyse and collect works of art. These works can be
 made of everything, but more often than not they deal with tactile
-objects, paintings, drawings, sculptures, etc, etc. In many books these
+objects, paintings, drawings, sculptures, etc., etc. In many books these
 works are reproduced and discussed. But writing itself is also an art
 form and the mutual interaction between texts and tactile objects
-becomes more and more integrated. In the 20s and 30s of the previous
+becomes more and more integrated. In the '20s and '30s of the previous
 century collages became very popular. Here texts, newspaper clippings,
 photographs and any other expressions, mostly on a paper substrate were
 put together to obtain a new artwork. In an electronic environment we
-transcend this collage technique into a new substrate. But now enormous
-range of novel opportunities for creative expression becomes possible.
+transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible.
 As we showed above in this booklet, gluing, dissecting and endless
 reorganising enables us to create new works that can express themselves
 differently in different technological environments as well as tailored
@@ -72,3 +23,67 @@ publishing becomes like a gigantic fruit salad bar, where the end user
 is able to or fill her own plate or to make a choice between prepared
 combinations. This not the same as blending all ingredients into one
 smoothie, which is an end phase from where no way back is possible.
+Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited.
+
+
+## Reading technology 
+
+Both hardware / software
+As said already in our introduction the changes are genre dependent, and so are the hard- and software dependencies.
+
+We also have to take the intrinsic limitations of the hard- and software into account. Reading novels or other linear texts on ereaders is already a big success. The publishers report an ever increasing sales of e-versions, that will surpass the sales of paper publications [^10-Books]
+
+However, the open question is still are those books and articles read from screen or downloaded and print on paper. On the many self-punishing sites and web sites of official publishers we see millions of publications. But again, are all these works read sequentially like a detective of browsed/scrolled? How to handle a anthology with hundred poems? 
+
+On the one hand we see a saturation in the market of ereaders. Early birds like Sony are ending their efforts. This might be a result of the conflation of ereaders and the larger screen sizes of smart-phones. Reading from a large smart-phone becomes quite feasible.
+
+Typically, the big consumer electronics companies, stop developing ereaders in a market that is already mature and leaves further advances to intermediates like Kobo.com . That is to say, that the hardware improvements are more or less on a plateau level and the real challenge will be the usages, which means the reading software, of ebooks. Browsing, annotating, sharing and quoting demands further software developments to mimic the versatility of paper books.
+
+This goes without saying the intrinsic technological developments into colour epaper screens, flexible screens and the continuing improvement of screen resolution Ultra High resolution (aka 4K) will certainly become something like Exa High in due course. 	
+
+Also the big issue of reading from screen versus Print on Demand remains an open question.[^10-vanc]. Again, it very much depends on the genre. Resent research by one of us, shows that, with the actual state of the art, students prefer paper above screens in the process of preparing for tests. [^10-stoop]. So, in the field of educational texts a new mixture will arise where paper textbooks and electronic examples, image, audio, and film collections and tests are written/developed in close collaboration. Also here textbooks loaded with pictures in fields like clinical medicine and art history will deviate from textbooks on theology and literature studies. Experiments will take a long time as evaluating educational courses takes many years. 
+
+Nevertheless, advantages and disadvantages will remain the same on the level of affordability and portability of whole libraries vs. independence from electricity and visual-tactile advantages of paper books.
+
+Related to this is the cloud hype, a fantastic development that remains totally  on the availability of electricity AND a working internet connection as well as the consistency of the host's services and platforms. Not to mention the "anti-terrorist" filters of "citizen friendly" governments.
+
+
+## Reading culture 
+
+Apart from the concerns expressed above, we have to review the culture of reading again. The present culture is that a person gets or buys a book and that is it. Now, more and more we are drifting to subscription models where the content as well as the software needed for consuming that content becomes unstable. 
+Cost pressure that now chases us in the direction of cheaper ebooks might result in a dangerous dependency on a livelong financial contract.[^10-way] 
+People living in poor, closed or financially weak countries might need a stable stock of material next to the unstable internet structure and related censorship.  
+
+A major point in the present day discussion is the question of literacy. Nicolas Carr scared the world with his book *The Shallows: What the Internet Is Doing to Our Brains* and on many internet forums and in many journals and magazines the discussion are vivid. We simple don't know. On the one hand people in many countries are trained by reading long texts and this competency might be influenced. On the other hand millions and millions of people from an illiterate background in  non-western countries get superb reading and writing skills by the use of mobile pones and tablets. On top of that in the Islamic world we know a strong oral tradition which is presently reflected in the avalanche of (often political of religious) video messages. Hence, in our project scope where we deal with arts and design we have to consider a increasing mixture of various medial productions. The accent now is more and more on short texts and the integration of short videos. Nothing and nobody can forecast if in a more mature technological environment the tides will turn and, next to other expressions, long written story telling will as well as well printed picture books will be come fashionable again. 
+
+
+Other ways of dealing with texts allow a more interactive relationship between reader and text.Not only in the sense of adding audio and video, but also leaving the reader the choice of entry into the text, setting out an individual reader path per person. 
+
+On the level of popularity and commerce we have to realise that the increasing -advertising driven- use of statistics, such as Facebook's like will highly influence the choice of our readers who have to many options to fill their spare time.
+
+
+## Publishing culture
+
+As we mentioned earlier, the subscription model now becomes the hegemonic model for the coming period. This will pertain to kind of products including books. However, here again we deal with a great variety. Big scholarly repositories such as JSTOR are different from sale platforms such as Amazon. Listening to relatively short music tracks (mostly less than 10 minutes)  via Spotify is different than reading relatively long texts (mostly longer than one hour). Likely: switch from individual product retail to rental/subscription model. Though the distribution model between music and text might converge. 
+
+Given the great number of increasingly more powerful software writers and artist will try and disseminate their works more by who self-publish. However, at a certain point of overproduction, new intermediates, that is to say, publishers will pay a role again. 
+
+For the publishers themselves it means that they more than ever must target to become the aggregator then the one time off producer. Sale platforms like Amazon become so large that they disable themselves to become coherent sources. 
+
+
+Publishing always had in essence an editorial kernel. Unfortunately over the years it became more and more an industry of too many standardized products, where commercial short term objectives are the rue. With the advent of many self-publishing, vanity press, publishers that also rent out editorial services such as language brushing-up the 'art' and craftsmanship of publishing will re-establish herself in prioritizing the content, in his multimedia clothing, as linchpin between the creative artist and writer and the receptive reader, watcher, consumer.
+Our Toolkit tries to be a helpful step in this direction.
+
+
+
+[^10-doris]: This saying, by written by the Jay Livingston and Ray Evans became world famous when Doris Day sang it the song in the Hitchcock film *The Man Who Knew Too Much *(1956). www.youtube.com/watch?v=azxoVRTwlNg .
+
+[^10-Books]: see eg.: http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us
+
+[^10-vanc]: Take for example the 528 pages (10,8 x 17,48 cm) thick anthology *What will be / Ce qui sera / Lo que será *  Almanac of the international surrealist movement, with more than 170 contributors from 25 countries. Essays, poems, images, manifestoes, a debate on surrealist editions, chronology of 50 years of surrealism 1964-2014. Downloading such a book is problematic because you need a complete structured index and advanced search option. Printing it locally is almost impossible given the small fixed page size. Buying it at lulu.com gives you a POD on standard glossy paper, which is certainly not in line with the surrealist tradition.
+
+[^10-stoop]: Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 1 -reading long information rich texts'. *New Library World*. Vol. 114, Issue 7/8, pp. 284-300, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/Final%5Baccepted-Reading-and-Learning-part1.pdf.
+
+Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 2- comparing different text structures on paper and on screen. *New Library World*. Vol 114, Issue 9/10, pp. 371-383, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/NLW-Redaing-Learning-part2-acceptedversiom.pdf 	
+
+[^10-way]: A related example is the notorious instability of the web as such. The big international science publisher has a contract with the Dutch Royal Library for a complete backup of its electronic collections. But the same library has , with many others, digital preservation as a spearhead in its policy. The private charity that maintains the wayback machine (http://archive.org/web/) that act as a carbon copy of the internet is a gem, but happens in case of major catastrophes?  
