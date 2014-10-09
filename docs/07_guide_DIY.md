@@ -23,11 +23,15 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 
 ![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
-<!--text Florian: explanation of Calibre
-step 1: choose the file format for input and output
-step 2: Calibre converts
-step 3: you EPUB is ready
--->
+[Calibre](http://calibre-ebook.com) is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Claibre allows you to make your own EPUB.
+
+After downloading and installing the program, follow these steps:
+
+Step 1: Open Calibre and import the original file you want to convert.
+Step 2: Select the file and click 'Convert books'.
+Step 3: Choose the file format for input and output.
+step 4: Click OK; Calibre starts converting.
+step 5: you EPUB is ready.
 
 
 ### Direct conversion to EPUB with pandoc
