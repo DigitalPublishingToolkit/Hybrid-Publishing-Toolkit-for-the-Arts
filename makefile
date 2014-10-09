@@ -65,6 +65,12 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		--epub-cover-image=../images/cover.png \
 		--epub-metadata=../metadata.xml \
 		--epub-embed-font=../lib/UbuntuMono-B.ttf \
+		--epub-embed-font=../lib/OpenSans-Bold.ttf \
+		--epub-embed-font=../lib/OpenSans-BoldItalic.ttf \
+		--epub-embed-font=../lib/OpenSans-Italic.ttf \
+		--epub-embed-font=../lib/OpenSans-Light.ttf \
+		--epub-embed-font=../lib/OpenSans-LightItalic.ttf \
+		--epub-embed-font=../lib/OpenSans-Regular.ttf \
 		--default-image-extension png \
 		--toc-depth=2 \
 		-o ../toolkit.epub \
