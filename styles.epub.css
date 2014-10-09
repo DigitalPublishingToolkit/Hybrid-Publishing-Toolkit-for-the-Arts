@@ -64,11 +64,33 @@ body {
     font-weight: 400;
     line-height: 16pt;
 }
-h1, h2 {
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  orphans: 2;
+  widows: 2;
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Ubuntu Mono Bold', monospace;
     font-weight: 300;
     font-size: 18pt;
     line-height: 18pt;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    margin: 0;
 }
 
 h1 {
@@ -77,11 +99,80 @@ h1 {
     border-top: 3px solid #0F0;
     padding-top: 10px;
 }
+
+h3 {
+    font-size: 16pt;
+    line-height: 16pt;  
+}
+
+h4 {
+    font-size: 14pt;
+    line-height: 14pt;
+}
+
+h5 {
+    font-size: 12pt;
+    line-height: 12pt;
+}
+
+h6 {
+    font-size: 10pt;
+    line-height: 10pt;
+}
+
 a {
     color: #000;
     text-decoration: underline;
 }
+
 a:hover {
     color: #0F0;
     text-decoration: underline;
+}
+
+hr {
+  border-width: 0;
+  height: 0;
+  border-top-width: 1px;
+  border-style: solid;
+  border-color: #333;
+  margin: 15px 0;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 0.5em;
+  line-height: 0.5em;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: 0.5em;
+  line-height: 0.5em;
+}
+
+.footnotes {
+  font-size: 0.8em;
+}
+
+.footnotes li p a:last-child {
+  font-size: 0.6em;
+  line-height: 0.6em;
+  margin-left: 5px;
+}
+
+ul, ol, dl {
+  margin: 1em 0 1em 0;
+  text-align: left;
+}
+
+li {
+  orphans: 2;
+  widows: 2;
+  margin: 0;
+}
+
+li p {
+  margin-top: 0;
+  margin-bottom: 5px;
 }
