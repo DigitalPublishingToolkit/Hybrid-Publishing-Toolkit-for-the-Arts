@@ -7,30 +7,51 @@ example Manifesto, El Lissitzky
 Miriam: are we still going to use this example?-->
     
 
-## A simple ebook 
-Flow chart: workflow 
+## Direct conversion
+
+Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
+
+Two popular conversion programs that can convert from a wide variety of input formats and produce EPUB's are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
+
+For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The ['plain text' version](http://www.gutenberg.org/ebooks/16328), is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
+
+### Calibre
 
 ![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
-Fig. X Title.
+<!--text Florian: explanation of Calibre
+step 1: choose the file format for input and output
+step 2: Calibre converts
+step 3: you EPUB is ready
+-->
 
 
-## Direct conversion to EPUB
+### Direct conversion to EPUB with pandoc
 
-Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to an EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to an EPUB.
+To make an EPUB of Charlotte Bronte's *Jane Eyre*, download the ['plain text' version](http://www.gutenberg.org/cache/epub/1260/pg1260.txt) (the complete text of the book in a single file with no styling). In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we’ll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name jane_eyre.txt. Download and install pandoc [pandoc installation page](http://www.johnmacfarlane.net/pandoc/installing.html). Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can’t ‘open’ the program and don’t see an icon. To convert the file into an EPUB follow the steps below.
 
-Two popular conversion programs that can convert from a wide variety of input formats and produce EPUB's are 'pandoc'[] and ''ebook-convert''[^1](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
+* First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
 
-For example, consider Charlotte Bronte's 'Jane Eyre,' available from Project Gutenberg in a variety of formats (including EPUB). The ["plain text" version](http://www.gutenberg.org/cache/epub/1260/pg1260.txt), is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc).
+* Pandoc is a command-line tool. There is no graphic user interface. So, to use it, you’ll need to open a terminal window: 
 
-TODO: Give simple example of using markdown + pandoc? to produce a simple EPUB.
+Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C:\user\yourusername>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
 
-<!-- Margreet: This paragraph uses some editing. For example pandoc is already mentioned in the chapeter before, there should be a connection. -->
+Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
+
+* Go to the terminal and type cd Documents. This means the terminal will ‘change directory’ to the Documents folder.
+* Now type cd pandoc-test. The terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
+* On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The jane_eyre.docx should be listed.
+* To convert the file from docx to EPUB, type the following into the terminal: 
+
+		pandoc jane_eyre.docx -f docx -t epub -s -o jane_eyre.epub
+		
+* The filename jane_eyre.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o jane_eyre.epub says to put the output in a file named jane_eyre.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
+* Check that the file was created by typing ls or dir again. You should see jane_eyre.epub.
 
 ![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
-<!--where should this image go? What is it's purpose? There is also a small portion missing at the top-->
+<!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
-##EPUB from scratch
+##Do it yourself EPUB from scratch
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
 
 An EPUB is a Zip archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an ereader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB file. In some cases, it might simply be necessary to rename the '.epub' with '.zip'. More information about how to automate the EPUB zipping process can be found [here](http://www.mobileread.com/forums/showthread.php?t=55681). 
