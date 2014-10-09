@@ -9,6 +9,10 @@ Miriam: are we still going to use this example?-->
 
 ## Direct conversion
 
+![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
+<!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
+
+
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
 
 Two popular conversion programs that can convert from a wide variety of input formats and produce EPUB's are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
@@ -28,7 +32,7 @@ step 3: you EPUB is ready
 
 ### Direct conversion to EPUB with pandoc
 
-To make an EPUB of Charlotte Bronte's *Jane Eyre*, download the ['plain text' version](http://www.gutenberg.org/cache/epub/1260/pg1260.txt) (the complete text of the book in a single file with no styling). In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we’ll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name jane_eyre.txt. Download and install pandoc [pandoc installation page](http://www.johnmacfarlane.net/pandoc/installing.html). Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can’t ‘open’ the program and don’t see an icon. To convert the file into an EPUB follow the steps below.
+To make an EPUB of *Beowulf*, download the ['plain text' version](http://www.gutenberg.org/ebooks/16328) (the complete text of the book in a single file with no styling). In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we’ll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc [pandoc installation page](http://www.johnmacfarlane.net/pandoc/installing.html). Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can’t ‘open’ the program and don’t see an icon. To convert the file into an EPUB follow the steps below.
 
 * First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
 
@@ -40,16 +44,21 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 
 * Go to the terminal and type cd Documents. This means the terminal will ‘change directory’ to the Documents folder.
 * Now type cd pandoc-test. The terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
-* On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The jane_eyre.docx should be listed.
+* On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
 * To convert the file from docx to EPUB, type the following into the terminal: 
 
-		pandoc jane_eyre.docx -f docx -t epub -s -o jane_eyre.epub
+		pandoc beowulf.docx -f docx -t epub -s -o beowulf.epub
 		
-* The filename jane_eyre.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o jane_eyre.epub says to put the output in a file named jane_eyre.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
-* Check that the file was created by typing ls or dir again. You should see jane_eyre.epub.
+* The filename beowulf.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o beowulf.epub says to put the output in a file named beowulf.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
+* Check that the file was created by typing ls or dir again. You should see beowulf.epub.
+* Open the EPUB from the folder or  in the Terminal type 
 
-![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
-<!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
+ 	 	open beowulf.epub 
+ 	
+* Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB:
+
+
+		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
 
 ##Do it yourself EPUB from scratch
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
