@@ -105,15 +105,20 @@ vs. new workflow = highly modularized publication.
 Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
 
 In most cases, today, an art catalogue is difficult to translate 1:1 to an electronic publication, simply because of file sizes. It's advisable to split it up into smaller publications, such as monographic micro-ebooks on single art works, or collections of articles that each reader can individually choose and obtain as an automatically customized e-book.
+
 ### Instructions
-1:1 translation into electronic publication: target one reading medium (in most cases: tablets). Strongly consider PDF over e-book if the focus is on images, and image composition requires a fixed layout. Target a 10" tablet screen with a resolution between 1024x768 and 1920x1080. Work in InDesign, and make - if necessary - a customized new page layout that fits these dimensions. Consider small additions of interactive and multimedia elements by using Adobe Acrobat Pro as a final authoring tool. (This is part of the Adobe Creative Suite). Consider this project a short- to medium-term project that might have become technically obsolete/outmoded in 3-5 years.
+1:1 translation into electronic publication: target one reading medium (in most cases: tablets). Strongly consider PDF over EPUB if the focus is on images, and image composition requires a fixed layout. Target a 10" tablet screen with a resolution between 1024x768 and 1920x1080. Work in InDesign, and make - if necessary - a customized new page layout that fits these dimensions. Consider small additions of interactive and multimedia elements by using Adobe Acrobat Pro as a final authoring tool. (This is part of the Adobe Creative Suite). Consider this project a short- to medium-term project that might have become technically obsolete/outmoded in 3-5 years.
 
 Custom translation into modularized publications: EPUB is the file format of choice because it is internally modular (being nothing more than a zip archive of individual HTML files, images, fonts etc). Have a web developer program a simple custom server application that can customize, zip and upload an EPUB file according to a user's web form input. Also consider generating this EPUB from a database/content management system (see previous chapter xxx).
+
 ### Specific issues for this publication type
 Above all: file size because of number and resolution of included images.
 Solutions: 
+
 - Modularize content (by in-app download, see Stedelijk project)
+
 - Create separate low-res and hi-res versions; can also be used as a business model (gratis or cheap low-res book, pay for hi-res book). Explain how on-the-fly resolution adjustment is easy with epub (using server-side scripting for resizing images and zipping the epub file), not so easy with PDF.
+
 - Question/issue: Is a catalogue in the traditional definition a desirable publication format for e-publishing, or do we (a) have to think up new forms of small/smart catalogues, or (b) wait for more device storage capacity and network speed to arrive in the future? At the moment, producing a 100+ pages hi-resolution catalogue electronically does not make sense, except as heavy PDF files for desktop computer viewing.
 
 ### Based on the above, what to choose?
@@ -121,8 +126,11 @@ Solutions:
 How to make an art/design catalogue in EPUB2/3, HTML5 (/app), PDF
 
 A step-by-step guide
+
 - Consolidate text in Markdown, consolidate images in highest resolution
+
 - For EPUB and HTML5: Use thumbnails for images in order to avoid excessive file sizes, convert with Markdown, employ designer
+
 - Employ editorial/interaction designer to think up new publication format
 
 Advantages, disadvantages
@@ -139,11 +147,17 @@ traditional vs new workflow
 Traditional workflow: book as conceptual design object or even sculptural object
 
 New workflows:
+
 - make a book simply as a series of page-size images, can be easily converted into screen-readable PDF, EPUB and HTML5
+
 - Look at visual tools like Calibre and The People's Ebook, or authoring/sharing apps such as KYUR8
+
 - Use Liz Castro's recipe for turning an artists'/designer's tumblr into downloadable artists' e-books
+
 - media artist approach: experiment with computer/server-generated epub, using collage/cut-up methods, generative or appropriation art recipe (similar to the Yes Men's "Ream Weaver" web site mirroring tool)
-- pirate site approach: quick & dirty conversions of publications into e--book, emphasis on spreading, and alternative ways of networking (such as person-to-person USB stick file exchange, as described in Henry Warwick, Radical Tactics of the Offline Library).
+
+- pirate site approach: quick & dirty conversions of publications into e-book, emphasis on spreading, and alternative ways of networking (such as person-to-person USB stick file exchange, as described in Henry Warwick, Radical Tactics of the Offline Library).
+
 - since the artists' book is not a defined genre: any methodology / workflow that can be thought of.
 
 ### Decision making
