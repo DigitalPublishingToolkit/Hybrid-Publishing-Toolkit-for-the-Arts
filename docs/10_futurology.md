@@ -1,51 +1,24 @@
 # 10 Futurology
 
 
-### What we can expect
+## What we can expect
 <!-- By Joost-->
-*Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question
-for the electronic publishing of art books.[^10-doris] In art books we try to
-describe, show, analyse and collect works of art. These works can be
-made of everything, but more often than not they deal with tactile
-objects, paintings, drawings, sculptures, etc., etc. In many books these
-works are reproduced and discussed. But writing itself is also an art
-form and the mutual interaction between texts and tactile objects
-becomes more and more integrated. In the '20s and '30s of the previous
-century collages became very popular. Here texts, newspaper clippings,
-photographs and any other expressions, mostly on a paper substrate were
-put together to obtain a new artwork. In an electronic environment we
-transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible.
-As we showed above in this booklet, gluing, dissecting and endless
-reorganising enables us to create new works that can express themselves
-differently in different technological environments as well as tailored
-to the readers’s desire of the moment of consumption. Electronic
-publishing becomes like a gigantic fruit salad bar, where the end user
-is able to or fill her own plate or to make a choice between prepared
-combinations. This not the same as blending all ingredients into one
-smoothie, which is an end phase from where no way back is possible.
-Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited.
+*Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^10-doris] In art books we try to describe, show, analyse and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible.
+
+As we showed above in this booklet, the act of glueing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers’s desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited.
 
 
 ## Reading technology 
 
-Both hardware / software
-As said already in our introduction the changes are genre dependent, and so are the hard- and software dependencies.
+Changes seem dependent on genre, just as hard- and software dependencies. We have to take the intrinsic limitations of the latter two into account. Reading novels or other linear texts on ereaders is already a big success. Publishers report an ever increasing sales of e-versions, that will surpass the sales of paper publications.[^10-Books] The open question is still are those books and articles read from screen or downloaded and print on paper. On the many self-publishing sites and web sites of official publishers we see millions of publications. But again, are all these works read sequentially like a detective or browsed/scrolled? How to handle a anthology with hundred poems? 
 
-We also have to take the intrinsic limitations of the hard- and software into account. Reading novels or other linear texts on ereaders is already a big success. The publishers report an ever increasing sales of e-versions, that will surpass the sales of paper publications [^10-Books]
+Also we see a saturation in the market of ereaders. Early birds like Sony are ending their efforts. This might be a result of the conflation of ereaders and the larger screen sizes of smartphones. Reading from a large smartphone becomes quite feasible. Typically, the big consumer electronics companies, stop developing ereaders in a market that is already mature and leave further advances to intermediates like Kobo.com. That is to say, hardware improvements are more or less on a plateau level and the real challenge will be the usages, which means the reading software, of ebooks. Browsing, annotating, sharing and quoting demands further software developments to mimic the versatility of paper books.
 
-However, the open question is still are those books and articles read from screen or downloaded and print on paper. On the many self-punishing sites and web sites of official publishers we see millions of publications. But again, are all these works read sequentially like a detective of browsed/scrolled? How to handle a anthology with hundred poems? 
+This goes without saying the intrinsic technological developments into color epaper screens, flexible screens and the continuing improvement of screen resolution Ultra High resolution (aka 4K) will certainly become something like Exa High in due course. 	
 
-On the one hand we see a saturation in the market of ereaders. Early birds like Sony are ending their efforts. This might be a result of the conflation of ereaders and the larger screen sizes of smart-phones. Reading from a large smart-phone becomes quite feasible.
+Also the big issue of reading from screen versus print-on-demand remains an open question.[^10-vanc] Again, it very much depends on the genre. Resent research shows that with the actual state of the art, students prefer paper above screens in the process of preparing for tests.[^10-stoop] So in the field of educational texts a new mixture will arise where paper textbooks and electronic examples, image, audio, and film collections and tests are written/developed in close collaboration. Also here textbooks loaded with pictures in fields like clinical medicine and art history will deviate from textbooks on theology and literature studies. Experiments will take a long time as evaluating educational courses takes many years. 
 
-Typically, the big consumer electronics companies, stop developing ereaders in a market that is already mature and leaves further advances to intermediates like Kobo.com . That is to say, that the hardware improvements are more or less on a plateau level and the real challenge will be the usages, which means the reading software, of ebooks. Browsing, annotating, sharing and quoting demands further software developments to mimic the versatility of paper books.
-
-This goes without saying the intrinsic technological developments into colour epaper screens, flexible screens and the continuing improvement of screen resolution Ultra High resolution (aka 4K) will certainly become something like Exa High in due course. 	
-
-Also the big issue of reading from screen versus Print on Demand remains an open question.[^10-vanc]. Again, it very much depends on the genre. Resent research by one of us, shows that, with the actual state of the art, students prefer paper above screens in the process of preparing for tests. [^10-stoop]. So, in the field of educational texts a new mixture will arise where paper textbooks and electronic examples, image, audio, and film collections and tests are written/developed in close collaboration. Also here textbooks loaded with pictures in fields like clinical medicine and art history will deviate from textbooks on theology and literature studies. Experiments will take a long time as evaluating educational courses takes many years. 
-
-Nevertheless, advantages and disadvantages will remain the same on the level of affordability and portability of whole libraries vs. independence from electricity and visual-tactile advantages of paper books.
-
-Related to this is the cloud hype, a fantastic development that remains totally  on the availability of electricity AND a working internet connection as well as the consistency of the host's services and platforms. Not to mention the "anti-terrorist" filters of "citizen friendly" governments.
+Nevertheless, advantages and disadvantages will remain the same on the level of affordability and portability of whole libraries versus independence from electricity and visual-tactile advantages of paper books. Related to this is the cloud hype, a fantastic development that relies totally on the availability of electricity and a working internet connection as well as the consistency of the host's services and platforms. Not to mention the 'anti-terrorist' filters of 'citizen friendly' governments.
 
 
 ## Reading culture 
