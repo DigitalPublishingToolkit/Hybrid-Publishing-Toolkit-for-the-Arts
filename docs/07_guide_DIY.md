@@ -60,53 +60,57 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
 
+
 ##Do it yourself EPUB from scratch
+
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
 
-An EPUB is a Zip archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an ereader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB file. In some cases, it might simply be necessary to rename the '.epub' with '.zip'. More information about how to automate the EPUB zipping process can be found [here](http://www.mobileread.com/forums/showthread.php?t=55681). 
-A rudimentary EPUB is used as an example to explain several of its concepts and may be [downloaded here]().
+An EPUB is a zip archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an ereader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. More information about how to automate the EPUB zipping process can be found [here](http://www.mobileread.com/forums/showthread.php?t=55681). 
+
+A rudimentary EPUB is used as an example to explain several of its concepts and may be [downloaded here](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub).
 
 ###Layout of an EPUB package
 
-Decompressing an EPUB will reveal its directory layout and in that way make clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed Zip archive, looking as follows after unzipping it:
+Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
 ![Figure: EPUB layout](../images/_in_progress/08_EPUB-layout.png "Figure: EPUB layout")
+<!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this.-->
 
-The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes as an EPUB. 
+The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
 
-*META-INF* contains an XML file (*container.xml*) which directs ereaders to an inventory (an .opf file) of all the files present in the publication.
+* *META-INF* contains an XML file (*container.xml*) which directs ereaders to an inventory (an .opf file) of all the files present in the publication.
 
-*OEBPS* is the location where all the content (HTML files, images, audio, video, etc.) of the publication is stored, (nested) subcategories are possible but not mandatory. The .opf file (traditionally named *content.opf*) is important; this contains the metadata for the EPUB and is in turn referenced by the aforementioned *container.xml*. You might see another file with a .ncx extension (traditionally *toc.ncx*), it holds the hierarchical table of contents for the EPUB and is entirely optional as it isn't part of the EPUB specification.
+* *OEBPS* is the location where all the content (HTML files, images, audio, video, etc.) of the publication is stored; (nested) subcategories are possible but not mandatory. The .opf file (traditionally named *content.opf*) is important; this contains the metadata for the EPUB and is in turn referenced by the aforementioned *container.xml*. You might see another file with a .ncx extension (traditionally *toc.ncx*), it holds the hierarchical table of contents for the EPUB and is entirely optional as it isn't part of the EPUB specification.
 
-The file *mimetype* contains a single line describing the EPUB file as `application/epub+zip`, this file allows ereaders to check whether the file is actually an EPUB and thus if they can read it.
+* *Mimetype* is a file that contains a single line describing the EPUB file as `application/epub+zip`, this file allows ereaders to check whether the file is actually an EPUB and thus if they can read it.
 
-These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB.
-
+These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB. For a formal specification of EPUB3, see the overview by [IDPF.org](http://www.idpf.org/epub/301/spec/epub-publications.html) which defines semantics and conformance requirements for EPUB publications.
 
 ###Creating your own EPUB
 
-<!-- Silvio: look at: http://www.idpf.org/epub/301/spec/epub-publications.html  and maybe add that here?-->
-Most of the elements of an EPUB can be produced by hand in a text editor - not to be confused by a word processor like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
+Most of the elements of an EPUB can be produced by hand in a text editor. Text editors is used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
 
 
 ####Creating the required files and directories
-![Creating Files and Directories](../images/_in_progress/08_EPUB-layout.png "Creating Files and Directories")
-<!--Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. -->
 
-<!--Margreet: Underneath steps go to fast to my opinion. Files and directories?! It would help to write a small introduction here maybe?-->
-1. Create a directory to store the files and subdirectories for your EPUB in, e.g. *Example*;
+Now that we've seen the insides of an EPUB after unzipping it, we can work the other way around and make the files and folders ourselves, thus creating a simple EPUB. We will work from our Documents directory where we can add folders like in the image above, and using a text editor to create the necessary files.
+
+<!--Margreet: Underneath steps go to fast to my opinion. Files and directories?! It would help to write a small introduction here maybe?
+Miriam: is it clearer now?-->
+1. Create a directory under Documents to store the files and subdirectories for your EPUB, and name it *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
-4. Save the plain text file, without a file extension, and name it *mimetype* alongside the two directories you created in step 2.
+4. Save the plain text file, without a file extension, and name it *mimetype*. Put it alongside the two directories you created in step 2. In this way ereaders can see that this is an EPUB.
 
 Now there are the two directories and one text file, like we saw when we decompressed the EPUB used as an example.
 
 
 ####container.xml
 
-1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*;
-2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on. The .opf file will be stored in the *OEBPS* directory.
+Next we make the file 'container.xml', the XML file that directs ereaders to an inventory of all the files present in the publication, and that is located in *META-INF*. 
 
+1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*;
+2. The *container.xml* contains a simple structure written in XML. Below is a complete version of the text, followed by an explanation of its separate parts. (You may ignore the explanation without much consequence if its too technical in nature.) 
 
 	```
 	<?xml version="1.0" encoding="UTF-8"?> 
@@ -117,13 +121,16 @@ Now there are the two directories and one text file, like we saw when we decompr
 	</container>
 	```
 	
-	The first line is a `declaration statement` which should always be present in XML files. This is followed by the `container` which denotes that the publication is based on the *Open Container Format* as specified by the EPUB standard[^epub-standard]. The `rootfiles` tag denotes a collection of rootfiles, viz. the possible starting point(s) for ereaders to begin processing and parsing the content. In this case the rootfiles contains only one entry, called `rootfile`, this tag has two attributes - `full-path` and `media-type`. The first attribute holds the path to an inventory file (in this case *Example.opf*) containing metadata regarding the publication and its content. Finally, `media-type` is reaffirmation of the EPUB's mimetype.
-3. Save and close *container.xml*.
+The first line is a `declaration statement` which should always be present in XML files. This is followed by the `container` which denotes that the publication is based on the *Open Container Format* as specified by the EPUB standard[^epub-standard]. The `rootfiles` tag denotes a collection of rootfiles, which is the possible starting point(s) for ereaders to begin processing and parsing the content. In this case the rootfiles contains only one entry, called `rootfile`, this tag has two attributes - `full-path` and `media-type`. The first attribute holds the path to an inventory file (in this case *content.opf*) containing metadata regarding the publication and its content. Finally, `media-type` is a reaffirmation of the EPUB's mimetype.
 	
+The important part of this document is the information in quotes following the attribute `full-path`: 'OEBPS/content.opf'. This attribute should point to an .opf file created in the next step.  
+
+3. Save and close *container.xml*.  
+
 
 ####The OPF file
 
-The OPF file is an important part of the structure of an EPUB. It is located in the *OEBPS* directory and contains the necessary metadata to accurately describe the publication, but also because it can contain the linear reading order which, in combination with the contents of *toc.ncx*, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below.
+The OPF file is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file.
 
 ```
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -150,7 +157,7 @@ The metadata section describes the current publication. It lists information suc
   </manifest>
 ```
 
-A manifest lists all the resources available in the EPUB package, with the exception of directories, the *mimetype* file, the contents of *META-INF* and the .opf file itself. A manifest file can be a pain to produce by hand for large EPUB's, as the list of resources utilised in the publication is bound to be long. Every resource has a unique `id` and should be referenced by a relative path in the `href` tag and described in the `media-type` attribute. The entry with the *cover.png* is of special interest, as the attribute `properties` describes the fact that the image may be used by ereaders as the cover image for the publication - e.g. for use in collection overviews.
+A manifest lists all the resources available in the EPUB package, with the exception of directories, the *mimetype* file, the contents of *META-INF* and the .opf file itself. A manifest file can be a pain to produce by hand for large EPUBs, as the list of resources utilised in the publication is bound to be long. Every resource has a unique `id` and should be referenced by a relative path in the `href` tag and described in the `media-type` attribute. The entry with the *cover.png* is of special interest, as the attribute `properties` describes the fact that the image may be used by ereaders as the cover image for the publication - e.g. for use in collection overviews.
 
 ```
   <spine toc="ncx">
@@ -158,18 +165,21 @@ A manifest lists all the resources available in the EPUB package, with the excep
   	<itemref idref="chapter2" />
   </spine>
 ```
-Lastly, the `spine` lists all the pages present in the publication and it's listing arrangement tells an ereader the linear reading order of the publication. The `spine` may only contain (X)HTML pages, not images or other content. The `toc` attribute refers to the `id`  of the `toc.ncx` in the manifest.
+Lastly, the `spine` lists all the pages present in the publication and it's listing arrangement tells an ereader the linear reading order of the publication. The `spine` can only contain (X)HTML pages, not images or other content. The `toc` attribute refers to the `id`  of the `toc.ncx` in the manifest.
 	
 
-####The Content
+####The content
 
-As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here]().
-Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
+As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here](<!--link missing-->). Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
 
 
 ####Packaging
 
-Creating an .epub file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like *The Unarchiver* (Mac) or WinZip (Windows) or a special purpose utility.[^epub-zip-unzip] Some of these programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB. Most ereaders will safely ignore extraneous files, though parse the document properly. Validation of EPUB's can be done online using the [EPUB Validator](http://validator.idpf.org) or [a desktop application](http://www.pagina-online.de/produkte/epub-checker/). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues (incorrect HTML, for example). Fixing validation errors minimises, but doesn't eliminate, the chance of ereaders refusing to read an EPUB. The .zip extension of the archive may then be renamed to .epub. This file can then be opened in an ereader like Calibre, iBooks or similar applications.
+Creating an EPUB file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like The Unarchiver (Mac) or WinZip (Windows) or a special purpose utility.[^epub-zip-unzip] The .zip extension of the archive may then be renamed to .epub. 
+
+Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most ereaders will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of ereaders refusing to read an EPUB. Validation of the EPUB can be done online using the [EPUB Validator](http://validator.idpf.org) or [a desktop application](http://www.pagina-online.de/produkte/epub-checker/).
+
+Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
 
 
