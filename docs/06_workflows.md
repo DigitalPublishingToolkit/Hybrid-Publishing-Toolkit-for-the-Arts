@@ -1,6 +1,6 @@
 # 06 Towards a Hybrid Workflow Based on Markdown
 
-<!--Margreet: I am still not sure about the order. Maybe switch chapter 5 and 6? -->
+<!--Margreet: I am still not sure about the order. Maybe switch chapter 5 and 6? Kimmy+Miriam: we talked about this, and see the point, but we still think it's best to keep the 'Guide' chapters together. First go into the details of what is the idea and then to the practical part of making stuff.-->
 Creating a workflow that is both structured and flexible enough to cater for the different choices made is a key step towards an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
 
 First describing a more traditional workflow based on desktop publishing via InDesign with a print book as end result, we move to an ideally fitted workflow centred around the structural file format XML, ending with a Markdown-oriented workflow which is both easy to use and open to many possibilities. Following such a workflow will make the transition from a print-centred publication process to a digital and print - in other words hybrid - publication process viable. 
@@ -9,13 +9,11 @@ Instead of ‘adding’ the digital publication at the end of an existing workfl
 
 However, the description below starts at a point which in reality is not the beginning of the publication trajectory, namely when an author hands in the definitive manuscript - so after the editing and rewriting process has been rounded off. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly produced in Microsoft Word and delivered in .doc or .docx.
 
-NB: An important step preceding the publication trajectory lies in the formulation of the in-house style guide, where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow as an absolute start. See the Guide per genres for pointers regarding adjusting the style guide in this sense.
-
-<!--Margreet: Can some examples be given here? -->
+NB: An important step preceding the publication trajectory lies in the formulation of the in-house style guide, where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow as an absolute start. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres<!--Miriam: internal link needed--> for pointers regarding adjusting the style guide in this sense.
 
 So how small edition, low budget publishing houses can implement the new workflow is what we will turn to now.
 
-## Three workflows: desktop publishing, XML, Markdown 
+## Epublishing workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](../images/_in_progress/07_workflowOldNewTRADITIONAL "Workflow Traditional.")
 ![Traditional XML](../images/_in_progress/07_workflowOldNewXML "Workflow XML.")
 <!--![Traditional Markdown](../images/_in_progress/07_workflowOldNewMD "Workflow Markdown") -->
@@ -29,15 +27,15 @@ There are certain advantages to this workflow: it is simple, linear, there are n
 
 The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to digital are cumbersome, and do not make full use of the potential in electronic publishing. A workflow centred around the paper publication tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
 
-Importantly, going from from InDesign to epublication is not ideal, especially when working with older versions of the software. The results can be messy and may require extra steps in finalising the publication. InDesign is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^1] The latest version of the InDesign suite is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see XXXXXXX Elisabeth Castro. <!--Margreet: chapter will be added by Liz Castro--> 
+Importantly, going from InDesign to epublication is not ideal, especially when working with older versions of the software. The results can be messy and may require extra steps in finalising the publication. InDesign is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^1] The latest version of the InDesign suite is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see XXXXXXX Elisabeth Castro. <!--Margreet: chapter will be added by Liz Castro--> 
 
 In the same way Microsoft Word (or any other text editor that uses a similar approach, for instance Open Office) is not well suited for processing structured text. Structured text for example is marking up a title with the tag 'header'. Later on in the design process the structure can be accompanied by a certain formatting, for example headers are 'bold'. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
 
 It is possible to create 'interactive' publications in PDF, working with Microsoft Word and InDesign. In the end however these are also static inDesign documents, upgraded with some interactive layers. This is still a limited vision of what the possibilities are for digital publishing. The second workflow, which centres the file format XML, does precisely that.
 
-###Microsoft Word (.docx)
+###From Microsoft Word (.docx) to EPUB
 
-Since shortly, there is a viable solution for generating EPUB from Microsoft Word files. The latest versions of the command line program pandoc (see below<!---insert cross-reference-->) support document conversion from ".docx"  files generated by Microsoft Office 2007 or later, or by compatible programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce a good structure on a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still good and clean enough to provide a usable basis for a designer to turn it into the final ebook. (We tested other Word-to-EPUB programs such as the built-in document converter of Calibre [see below], but obtained much worse results.)
+Since shortly, there is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (see the [pandoc website](http://www.johnmacfarlane.net/pandoc/ "pandoc website")). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from ".docx" files generated by Microsoft Office 2007 or later, or by compatible programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce a good structure on a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still good and clean enough to provide a usable basis for a designer to turn it into the final ebook. (Other Word-to-EPUB programs such as the built-in document converter of Calibre obtain worse results.)
 
 In order to obtain the best possible EPUB file, the Word document should be formatted as much as possible with Word's standard paragraph styles such as "Normal", "Title", "Subtitle", "Quote" and most importantly "Heading 1", "Heading 2",  "Heading 3"  for the headings according to their logical hierarchy. (For example: "Heading 1" for chapters, "Heading 2" for sections, "Heading 3" for subheadlines.) The resulting EPUB document will contain a well-structured table of contents and document navigation menu based on the "Heading" hierarchy. Word footnotes will be appear as linked endnotes in the EPUB - thus elegantly simplifying an otherwise tedious document redesign task.
 
@@ -48,6 +46,7 @@ Word unfortunately lacks two features that would make it more suitable for hybri
 Often, such glitches in a Word document will only become visible after the EPUB conversion, for example as a missing chapter headline in the table of contents of the electronic book. These are the inherent risks and limitations of sticking to Word in the editorial workflow. Nevertheless, the Word + pandoc solution will likely be the easiest and least painful solution for publishers to adopt. <!-- Florian: We absolutely need to provide a dead-simple GUI or web tool for dropping a Word file to pandoc and obtaining EPUB + Markdown. @Michael and Marc, are you able to create this?-->
 
 We recommend two ways of working with Word + pandoc, and discourage a third one:
+
 1. Direct conversion from Word to EPUB using pandoc. This will require that the Word document is 100% consolidated and no further editorial changes will be applied to it. A graphic designer can take the converted EPUB document and quite painlessly develop it into the final electronic publication (among others, by changing the typographic design to make it suitable for e-readers, by scaling and optimising images for screen reading, by adding bibliographic meta data etc.). 
 2. Conversion from Word to Markdown using pandoc. Since pandoc can also convert files _to_ the Markdown format, this often can be preferable, especially for complex publishing projects. The resulting Markdown file can then be used as the master file for conversions into all kinds of other file formats one wishes to have (such as HTML for websites). Converting to Markdown yields the advantage that any formatting glitch that existed in the Word document becomes clearly visible. For example, a headline erroneously formatted as bold standard text will show up as "\*\*headline\*\*" while a properly formatted headline will show up as "\#". This makes it much easier to clean up the internal formatting of the document and have a "golden master" file for all subsequent document conversions. The EPUB file generated from this Markdown file would in most cases be better structured than the EPUB file directly generated from the Word file, and make the subsequent work of the designer easier. It is also possible to customise pandoc with conversion style templates. This even makes it possible to automatically generate complete and well-formatted EPUB files from the Markdown files without hiring a designer, depending on the type of publication. 
 3. Not advisable: Using pandoc to go forth and back between Word and EPUB. If the Word document is not consolidated, but subject to later editorial changes, conversion to EPUB (like in the first scenario) would have to be done anew, and destroy all work of the designer on the previously exported EPUB file. 
@@ -129,36 +128,36 @@ They are not as universal and thoroughly structured as XML, but still provide th
 
 ##### Word Processing / editing programs
 
-For Apple's Mac OS X and iOS, there are nice and very user friendly programs
-for editing in Markdown. None of them, however, are Open Source:
-<!--Margreet: What about Windows and Linux -->
+For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. <!--Margreet: What about Windows and Linux. Miriam: I added a Windows option, plus the open source Macdown. I think we should not name all these options but make a choice, for example only name the free ones? Otherwise, what is the criterium? -->
 
-- [ByWord](http://bywordapp.com), a very user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Macs, iPhone and iPad.
+Open source:
+- [Macdown](http://macdown.uranusjr.com/), released under the MIT License and influenced in design and setup by Mou.
+
+Freeware for Mac:
+- [Mou](http://www.mouapp.com), with features like live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
+
+<!--Miriam , see abovePaid options:
+- [ByWord](http://bywordapp.com), a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Macs, iPhone and iPad.
 
 - [iA Writer](http://www.iawriter.com/mac/), a program similar to ByWord. The program runs on Macs, iPhone and iPad.
 
-- [Macdown](http://www.xxxxxx), <!-- Look up website -->.
+- [Scrivener](http://www.literatureandlatte.com/scrivener.php), a word processing program popular among professional writers, for Mac OS X and Windows. Fully supports MultiMarkdown internally.-->
 
+For Windows:
+- [MarkdownPad](http://markdownpad.com/), free for personal use, with upgrade to MarkdownPad Pro to unlock additional features.
 
-- [Mou](http://www.mouapp.com), is a Markdown editor that funds on Mac OS X. It consists of features like live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
-
-- [Scrivener](http://www.literatureandlatte.com/scrivener.php), a word processing program popular among professional writers, for Mac OS X and Windows. Fully supports MultiMarkdown internally.
-
-<!-- Florian: add new Open Source MacOS X Markdown editor -->
 
 ##### Document conversion programs
-- [multimarkdown](http://fletcherpenney.net/multimarkdown/), the original program convert MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows.
+- [Multimarkdown](http://fletcherpenney.net/multimarkdown/), the original program convert MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows.
 
-- [pandoc](http://johnmacfarlane.net/pandoc/), similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. 
+- [Pandoc](http://johnmacfarlane.net/pandoc/), similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. 
 
 - [Calibre](http://http://calibre-ebook.com/), application suite that allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
 
-Pandoc is the tool we recommend for working with Multimarkdown, and has also been extensively used in creating this publication.
+Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication.
 
 
-##### Practical tips
-
-Cleaning up Markdown
+##### Cleaning up Markdown
 
 Since Markdown is a document format and not a word processing program, it does not offer functions like automatic renumbering of footnotes and list items during text editing. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
 
@@ -168,22 +167,27 @@ However, to also make the Markdown text source coherent and tidy, pandoc can be 
 
 ##### A note on limitations
 
-A major downside of Markdown is that it exists in several variants, each with their own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant "MultiMarkdown" that includes syntax for footnotes, tables, citations, cross-references, image captions and document meta data. It is also fully supported by pandoc, the software tool we recommend.
+A major downside of Markdown is that it exists in several variants, each with their own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant 'MultiMarkdown' that includes syntax for footnotes, tables, citations, cross-references, image captions and document meta data. It is also fully supported by pandoc, the recommended software tool.
 
-Another downside is that Markdown allows some formatting do be marked up in different alternative ways (for example, underlines or asterisks for italic text) which can introduce inconsistency in a collaboratively edited document. The trick mentioned above, to use pandoc for converting from Markdown to Markdown, can be used to eliminate such (visual) inconsistencies in a master document. 
+Another downside is that Markdown allows some formatting to be marked up in different alternative ways (for example, underlines or asterisks for italic text) which can introduce inconsistency in a collaboratively edited document. The trick mentioned above, to use pandoc for converting from Markdown to Markdown, can be used to eliminate such (visual) inconsistencies in a master document. 
 
 At the time of this writing in late 2014, a standardisation effort of Markdown and its extensions is underway, under the name "CommonMark". We will update this Toolkit as soon as CommonMark has been standardised, released, and is supported by the software we recommend.
 
 
-### Database publishing / Content Management System
+## Database publishing 
+
+What is gained by a shift to a hybrid publishing workflow? First of all, producing a publication in different output formats will be more efficient. However, when the workflow is put into use without restraint, when you really 'change your life' great possibilities open up. The most important is shortly discussed here, namely database publishing which uses a so-called content management system.
+
+
+
 <!-- the extra possibilities / what you win by changing your life-->
 
 
 
 
-<!-- Amy: perhaps some definitions or descriptions of what 'mark-up', 'semantic language' and 'restructured text' is after this part? --><!-- Miriam: are they not in the Glossary yet? -->
+<!-- Amy: perhaps some definitions or descriptions of what 'mark-up', 'semantic language' and 'restructured text' is after this part? Miriam: added to the Glossary-->
 
 
 [^1]: A thorough guide for InDesign-to-EPUB publication is Elizabeth Castro, *EPUB Straight to the Point*. San Francisco: Peachpit Press, 2010. 
 
-^[2]: http://daringfireball.net/projects/markdown/
+[^2]: http://daringfireball.net/projects/markdown/
