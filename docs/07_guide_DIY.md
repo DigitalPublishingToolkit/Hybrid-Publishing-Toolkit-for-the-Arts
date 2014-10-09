@@ -73,7 +73,7 @@ Now there are the two directories and one text file, like we saw when we decompr
 ####container.xml
 
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*;
-2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on and will be stored in the *OEBPS* directory. <!--is het the attribute of the file die gestored gaat worden-->
+2. *container.xml* contains a simple structure written in XML. Below is a complete version of the document followed by an explanation of its separate parts. You may ignore the explanation without much consequence if its too technical in nature. The important part of this document is what's contained in between the quotes of the attribute `full-path` (*OEBPS/content.opf*). This attribute should point to an .opf file we'll create later on. The .opf file will be stored in the *OEBPS* directory.
 
 
 	```
@@ -137,8 +137,7 @@ Pages should be written in XHTML, a variant of HTML which was created to make HT
 
 ####Packaging
 
-Creating an .epub file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like *The Unarchiver* (Mac) or WinZip (Windows) or a special purpose utility.[^epub-zip-unzip] Some of these programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB. Most ereaders will safely ignore extraneous files, though parse the document properly. Validation of EPUB's can be done online using the [EPUB Validator](http://validator.idpf.org) or [a desktop application](http://www.pagina-online.de/produkte/epub-checker/). The .zip extension of the archive may then be renamed to .epub. This file can then be opened in an ereader like Calibre, iBooks or similar applications.
-<!--Maybe explain what valadating is and why it is usefull? Misschien nog even uitleggen wat dat valideren dan is en waarom het er toe doet?-->
+Creating an .epub file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like *The Unarchiver* (Mac) or WinZip (Windows) or a special purpose utility.[^epub-zip-unzip] Some of these programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB. Most ereaders will safely ignore extraneous files, though parse the document properly. Validation of EPUB's can be done online using the [EPUB Validator](http://validator.idpf.org) or [a desktop application](http://www.pagina-online.de/produkte/epub-checker/). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues (incorrect HTML, for example). Fixing validation errors minimises, but doesn't eliminate, the chance of ereaders refusing to read an EPUB. The .zip extension of the archive may then be renamed to .epub. This file can then be opened in an ereader like Calibre, iBooks or similar applications.
 
 
 
