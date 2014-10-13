@@ -41,7 +41,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 | It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
 | It is used for books, brochures, magazines, etc 
 | Allows downloading of books to read online
-| Because it is possible to upload a designed PDF it is a good way to publish styled and colourful publications   
+| Because it is possible to upload a designed PDF it is a good way to publish styled and colorful publications   
 | Mostly used by independent publishers and individual users 
 | Supports all devices 
 | Mobile and desktop 
@@ -134,7 +134,7 @@ Internet Archive can be found at [http://archive.org](http://archive.org).
 * Number 3
 
 **Statistics**  
-*For Arhive* (October 2014) 
+*For Archive* (October 2014) 
 
 
 *For individual users*  
@@ -250,7 +250,7 @@ Lulu is the biggest print-on-demand service that offers publishing free of costs
 *Strengths*  
 Ability to set your own price  
 Distribution through Amazon and iBookstore (ebooks only) is possible
-Free ISBN
+Free ISBN is available
 
 *Weaknesses*  
 Prices can rise quickly per publication, especially because of postal services  
@@ -266,8 +266,8 @@ You will need two PDFs: a single page PDF for the inside and front, back, and sp
 Choose your format, paper, etc. It's very important to have precise formats for the PDFs, otherwise Lulu can't make a printable book 
 You can add your own ISBN or have Lulu assign an ISBN to the publication 
 One can use a browser based editor to design a cover 
-Upload the PDF's and publish your work    
-Choose your preferred ways of distribution  
+Upload the PDF's and publish your work
+Choose your preferred ways of distribution
 
 
 
@@ -338,7 +338,7 @@ The content listed on The Pirate Bay and other sites for the bittorrent protocol
 
 #### General ebook sites
 
-The most simple pirate ebook sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little more than a simple search engine that spits out downloadable ebooks. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, be superseded by [bookfi.org](http://bookfi.org). Also [libgen.info](http://libgen.info), an online library, is an example to mention here. 
+The most simple pirate ebook sites offer any kind of book - very much like a large all-audience book store or Amazon.com's online bookstores. They are little more than a simple search engine that spits out downloadable ebooks. These types of sites have become particularly popular in Russia. At the time of this writing, _library.ru_ has been the model for this kind of site and, after its crackdown, it was superseded by [bookfi.org](http://bookfi.org). Also [libgen.info](http://libgen.info), an online library, is an example to mention here. 
 
 What online booksellers could learn from these sites: 
 * Simplicity combined with encyclopedic scope. With no other site except Amazon's, it is as easy to find and download an electronic book, no matter which genre, language, whether bestselling or obscure.
@@ -350,7 +350,7 @@ Some websites outside or in gray areas of copyright are artistic projects. In th
 
 Best known, and factually legendary, is [Ubuweb](http://www.ubu.com), an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
 
-All these sites run like small specialty bookstores (although they don't sell anything). They show that the opposite of Amazon and bookfi.org can work as well: personal selection and combination of books. If they are as strong as in the case of Ubuweb and Monoskop, they create their own public that will download a work not because of having heard of it or of the author, but because being on such a particular site is recommendation enough. 
+All these sites run like small specialty bookstores (although they don't sell anything). They show that the opposite of Amazon and bookfi.org can work as well, namely the personal selection and combination of books. If they are as strong as in the case of Ubuweb and Monoskop, they create their own public that will download a work not because of having heard of it or of the author, but because being on such a particular site is recommendation enough. 
 
 
 
