@@ -1009,7 +1009,7 @@ To make an EPUB of *Beowulf*, download the ['plain text' version](http://www.gut
 
 * Pandoc is a command-line tool. There is no graphic user interface. So, to use it, you’ll need to open a terminal window: 
 
-Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C:\user\yourusername>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
+Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C\:\\user\\yourusername\>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
 
 Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
 
@@ -1672,7 +1672,8 @@ Is the practice of designing printed matter on a personal computer, often using 
 
 *Directory*
 A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\
+"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\
+
 
 *Dithering*
 The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
