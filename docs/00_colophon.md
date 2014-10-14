@@ -1,30 +1,73 @@
 # Colophon 
+<!--## From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts--> 
+<!-- andre: what is this subtitle for? Couldn't find a reasonf for it, therefore commented-->
+
+**Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
+**Copy editing:** Joe Monk and Amy Wu\
+**Images:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Design EPUB:** André Castro\
+**Cover design:** [Studio Mooijman en Mittelberg](http://www.mooijmanenmittelberg.nl)\
+**Printer:** Drukkerij Printvisie B.V., Rotterdam\
+**Publisher:** Institute of Network Cultures\
+**Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
 
 
-##From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
+**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
-Authors: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol 
-
-Copy editing: Joe Monk and Amy Wu
-
-Images: Loes Sikkes and Kimmy SpreeuwenbergDesign print: Loes Sikkes and Kimmy SpreeuwenbergDesign EPUB: André Castro
-
-Cover design: [Studio Mooijman en Mittelberg] (http://www.mooijmanenmittelberg.nl)
-
-Printer: Drukkerij Printvisie B.V., RotterdamPublisher: Institute of Network Cultures, Amsterdam, 2014 
-ISBN  
-978-90-822345-3-4 (print)  
-XXXXXXXXXX (EPUB)Contact  Institute of Network Cultures   
-+31205951866  info@networkcultures.org   
-www.networkcultures.org  Order a copy of this book by email: books@networkcultures.org
-Both the EPUB and PDF of this publication can also be downloaded freely at: www.networkcultures.org/publications/
-
-Supported by: SIA National Regieorgaan Praktijkgericht Onderzoek
-This publication is licensed under Creative CommonsAttribution ￼ NonCommercial ￼ ShareAlike ￼ 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/.
-
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit:
-http://digitalpublishingtoolkit.org
+**Order a copy of this book by email**: books@networkcultures.org
 
 
-<!-- Colophon doorlopen op credits en alle consortium partijen vernoemen. -->
+**Contact:**\
+Institute of Network Cultures\
+Hogeschool van Amsterdam\
+Rhijnspoorplein 1\
+1091 GC Amsterdam\
+The Netherlands\
+[http://www.networkcultures.org](http://www.networkcultures.org)\
+books@networkcultures.org\
+t: +31 (0)20 59 51 865
+
+
+This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://digitalpublishingtoolkit.org](http://digitalpublishingtoolkit.org)
+
+
+Amsterdam, 2014\
+ISBN 978-90-822345-3-4 (print)\
+ISBN XXXXXXXXXX (EPUB)\
+
+
+<!--partners logos -->
+<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA)</a> <!-- linked img -->
+![](../images/_logos_partners/logo_partner_medamo)
+![](../images/_logos_partners/logo_partner_Creating010)
+![](../images/_logos_partners/logo_partner_valiz)
+![](../images/_logos_partners/logo_partner_Create-it)
+![](../images/_logos_partners/logo_partner_SilvioLorusso)
+![](../images/_logos_partners/logo_partner_Meeusontwerpt)
+
+![](../images/_logos_partners/logo_partner_HRO)
+![](../images/_logos_partners/logo_partner_INC)
+![](../images/_logos_partners/logo_partner_Frame)
+![](../images/_logos_partners/logo_partner_Restruct)
+![](../images/_logos_partners/logo_partner_Bis)
+![](../images/_logos_partners/logo_partner_nai)
+![](../images/_logos_partners/logo_partner_essense)
+![](../images/_logos_partners/logo_partner_puntpixel)
+![](../images/_logos_partners/logo_partner_SIA)
+![](../images/_logos_partners/logo_partner_MrSauli)
+
+<!-- TO DO: 
+* add wrapping <a href="partner URL">
+* add caption ![caption](img)
+
+* ADD EPUB ISBN
+*  shouldn't all contributors have links to their websites? 
+   if so add link to them
+-->
+
+
 

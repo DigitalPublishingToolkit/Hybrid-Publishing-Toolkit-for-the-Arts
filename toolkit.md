@@ -1,3 +1,78 @@
+# Colophon 
+<!--## From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts--> 
+<!-- andre: what is this subtitle for? Couldn't find a reasonf for it, therefore commented-->
+
+**Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
+**Copy editing:** Joe Monk and Amy Wu\
+**Images:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Design EPUB:** André Castro\
+**Cover design:** [Studio Mooijman en Mittelberg](http://www.mooijmanenmittelberg.nl)\
+**Printer:** Drukkerij Printvisie B.V., Rotterdam\
+**Publisher:** Institute of Network Cultures\
+**Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
+
+
+**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+
+**Order a copy of this book by email**: books@networkcultures.org
+
+
+**Contact:**\
+Institute of Network Cultures\
+Hogeschool van Amsterdam\
+Rhijnspoorplein 1\
+1091 GC Amsterdam\
+The Netherlands\
+[http://www.networkcultures.org](http://www.networkcultures.org)\
+books@networkcultures.org\
+t: +31 (0)20 59 51 865
+
+
+This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://digitalpublishingtoolkit.org](http://digitalpublishingtoolkit.org)
+
+
+Amsterdam, 2014\
+ISBN 978-90-822345-3-4 (print)\
+ISBN XXXXXXXXXX (EPUB)\
+
+
+<!--partners logos -->
+<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA)</a> <!-- linked img -->
+![](../images/_logos_partners/logo_partner_medamo)
+![](../images/_logos_partners/logo_partner_Creating010)
+![](../images/_logos_partners/logo_partner_valiz)
+![](../images/_logos_partners/logo_partner_Create-it)
+![](../images/_logos_partners/logo_partner_SilvioLorusso)
+![](../images/_logos_partners/logo_partner_Meeusontwerpt)
+
+![](../images/_logos_partners/logo_partner_HRO)
+![](../images/_logos_partners/logo_partner_INC)
+![](../images/_logos_partners/logo_partner_Frame)
+![](../images/_logos_partners/logo_partner_Restruct)
+![](../images/_logos_partners/logo_partner_Bis)
+![](../images/_logos_partners/logo_partner_nai)
+![](../images/_logos_partners/logo_partner_essense)
+![](../images/_logos_partners/logo_partner_puntpixel)
+![](../images/_logos_partners/logo_partner_SIA)
+![](../images/_logos_partners/logo_partner_MrSauli)
+
+<!-- TO DO: 
+* add wrapping <a href="partner URL">
+* add caption ![caption](img)
+
+* ADD EPUB ISBN
+*  shouldn't all contributors have links to their websites? 
+   if so add link to them
+-->
+
+
+
+
+
 # 01 Introduction 
 
 
@@ -24,6 +99,8 @@ We face a major contrast between computer industry promises and the reality of t
 specific to one particular technical reading platform.
 
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
+<!-- andre: the later aspect could be further developed, so that it gives a more positive and exciting tone to digital publishing. Before jumping to the example one could speculate about the possible transformation of traditional publishing formats brought by digital publication.
+-->
 
 ## What this Toolkit provides
 
@@ -269,7 +346,7 @@ The aforementioned file formats may be categorized as reflowable documents, alth
 
 
 ##Reader hardware
-There are several ways to peruse electronic publications. Portable devices like ereaders or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an ereader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, often used in combination with the physical book, especially in the case of research publications.
+There are several ways to peruse electronic publications. Portable devices like ereaders or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an ereader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications.
 
 
 ###Ereaders
@@ -1009,7 +1086,7 @@ To make an EPUB of *Beowulf*, download the ['plain text' version](http://www.gut
 
 * Pandoc is a command-line tool. There is no graphic user interface. So, to use it, you’ll need to open a terminal window: 
 
-Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C\:\\user\\yourusername\>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
+Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C:\user\yourusername>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
 
 Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
 
@@ -1389,9 +1466,9 @@ Electronic visual books can be made in very simple ways:
 (- Problem with it: distribution, books only available in the Apple ecosystem)
 
 
-<!--[^1]: Ulises Carrión, 'The new art of making books', Aegean editions, 2001 Reference gives error-->
-<!--[^2]: For long-time durability, the 'PDF/A' format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard originally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
-[^3]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith. -->
+[^1]: Ulises Carrión, 'The new art of making books', Aegean editions, 2001 Reference gives error
+[^2]: For long-time durability, the 'PDF/A' format is preferable to run-of-the mill PDF. [PDF/A ](http://en.wikipedia.org/?title=PDF/A) stands for _archival PDF_ and is an ISO standard originally crafted by Adobe in collaboration with non-profit organizations for information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles are fully embedded into a document.
+[^3]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith. 
 
 
 
@@ -1672,8 +1749,7 @@ Is the practice of designing printed matter on a personal computer, often using 
 
 *Directory*
 A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\
-
+"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\
 
 *Dithering*
 The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.

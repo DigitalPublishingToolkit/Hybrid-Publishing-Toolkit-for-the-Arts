@@ -1,3 +1,6 @@
+
+# [Colophon](docs/00_colophon.md)
+
 # [01 Introduction](docs/01_introduction.md)
 <!--status: Joost adds a few things, then it's ready for copy edit.-->
 
@@ -95,3 +98,5 @@
 ## Instructions used in the preparation of this document
 <!-- Does this become a part of the final publication as appendix? -->
 ## Instructions for placing images
+
+

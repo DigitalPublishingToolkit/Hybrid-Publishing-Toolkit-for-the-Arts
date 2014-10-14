@@ -24,6 +24,8 @@ We face a major contrast between computer industry promises and the reality of t
 specific to one particular technical reading platform.
 
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
+<!-- andre: the later aspect could be further developed, so that it gives a more positive and exciting tone to digital publishing. Before jumping to the example one could speculate about the possible transformation of traditional publishing formats brought by digital publication.
+-->
 
 ## What this Toolkit provides
 
