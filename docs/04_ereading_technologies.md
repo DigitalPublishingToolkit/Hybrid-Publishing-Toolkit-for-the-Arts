@@ -39,7 +39,7 @@ Because of the lack of a color screen the current generation of ereaders is best
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software]() section.
 
-Apple's and Samsung's most recent tablet screens cover nearly the entire sRGB color space<!-- add to glossary -->, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Though newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
+Apple's and Samsung's most recent tablet screens cover nearly the entire sRGB color space<!-- add to glossary -->, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphones
 The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both ereaders and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
@@ -63,7 +63,7 @@ Marvin is another application and one of the few paid entries. It does not offer
 Aldiko is both a storefront and an ereader for Android which supports EPUB and PDF. As such it is comparable to Apple's iBooks. There is a paid version which offers some extra features (annotation, removal of advertisements) which the free version does not offer.
 
 ####Kindle####
-Kindle is Amazon's tablet and smartphone counterpart to their physical ereaders (Kindle Paperwhite, etc.). The application is available for both iOS and Android. Books can be bought from inside the application on Android. On iOS it is less straightforward due to the restrictions Apple places on in-app purchasing. Kindle for mobile devices only has support for Amazon's proprietary file formats (AZW, KF8) and PDF. EPUBs have to be converted using software like for example Calibre, in order for Kindle to be able to import the files into its library. The application is able to sync its library so that a collection of ebooks is available on both the Kindle ereader and in the application. It is not possible to copy-paste. 
+Kindle is Amazon's tablet and smartphone counterpart to their physical ereaders (Kindle Paperwhite, etc.). The application is available for both iOS and Android. Books can be bought from inside the application on Android. On iOS it is less straightforward due to the restrictions Apple places on in-app purchasing. Kindle for mobile devices only has support for Amazon's proprietary file formats (AZW, KF8) and PDF. EPUBs have to be converted using software, for example Calibre, in order for Kindle to be able to import the files into its library. The application is able to sync its library so that a collection of ebooks is available on both the Kindle ereader and in the application. It is not possible to copy-paste. 
 
 ####Kobo####
 Kobo, like Amazon, produces ereader hardware and also has a large bookstore. As such the apps they offer for Android and iOS are largely complementary to the ereader companion devices manufactured by Kobo. Libraries are synced across devices, provided all the content is bought in Kobo's bookstore. Kobo supports both EPUB and PDF files.
@@ -81,7 +81,7 @@ Calibre is an application of note here, because it's an ebook management suite w
 
 
 ####Adobe Digital Editions
-Adobe Digital Editions (ADE) is an ebook reader and management tool which is able to read EPUB and PDF. Support for epub3 is incomplete. Although Adobe claims support for all the important features is present, it doesn't elaborate on what those important features are. ADE also integrates with many ereaders offering syncing possibilities. So a library managed with ADE could in theory be synced with a compatible ereader.[^ade-readers]
+Adobe Digital Editions (ADE) is an ebook reader and management tool which is able to read EPUB and PDF. Support for EPUB3 is incomplete. Although Adobe claims support for all the important features is present, it doesn't elaborate on what those important features are. ADE also integrates with many ereaders offering syncing possibilities. So a library managed with ADE could in theory be synced with a compatible ereader.[^ade-readers]
 
 
 ###Web platforms
@@ -95,7 +95,7 @@ Apart from web applications, several browser extensions exist allowing users to 
 Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome Browser. After installing the extension offers an EPUB reader inside the browser window.
 
 ####epubReader
-epubReader is similar to the browser extension offered by Readium, the main difference is the supported browser, as epubReader is only compatible with Mozilla Firefox.
+epubReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as epubReader is only compatible with Mozilla Firefox.
 
 
 

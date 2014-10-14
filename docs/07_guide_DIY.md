@@ -15,7 +15,7 @@ Miriam: are we still going to use this example?-->
 
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
 
-Two popular conversion programs that can convert from a wide variety of input formats and produce EPUB's are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
+Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool [ebook-convert](http://manual.calibre-ebook.com/cli/ebook-convert.html). 
 
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The ['plain text' version](http://www.gutenberg.org/ebooks/16328), is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
 
@@ -23,7 +23,7 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 
 ![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
 
-[Calibre](http://calibre-ebook.com) is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Claibre allows you to make your own EPUB.
+[Calibre](http://calibre-ebook.com) is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
 After downloading and installing the program, follow these steps:
 
@@ -31,7 +31,7 @@ Step 1: Open Calibre and import the original file you want to convert.
 Step 2: Select the file and click 'Convert books'.
 Step 3: Choose the file format for input and output.
 step 4: Click OK; Calibre starts converting.
-step 5: you EPUB is ready.
+step 5: your EPUB is ready.
 
 
 ### Direct conversion to EPUB with pandoc
@@ -40,14 +40,14 @@ To make an EPUB of *Beowulf*, download the ['plain text' version](http://www.gut
 
 * First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
 
-* Pandoc is a command-line tool. There is no graphic user interface. So, to use it, you’ll need to open a terminal window: 
+* Pandoc is a command-line tool. There is no graphic user interface. So to use it, you’ll need to open a terminal window: 
 
-Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You get a white/black window saying C:\user\yourusername>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
+Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You'll get a white/black window saying C:\user\yourusername>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).
 
 Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
 
-* Go to the terminal and type cd Documents. This means the terminal will ‘change directory’ to the Documents folder.
-* Now type cd pandoc-test. The terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
+* Go to the Terminal and type cd Documents. This means the Terminal will ‘change directory’ to the Documents folder.
+* Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
 * On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
 * To convert the file from docx to EPUB, type the following into the terminal: 
 
