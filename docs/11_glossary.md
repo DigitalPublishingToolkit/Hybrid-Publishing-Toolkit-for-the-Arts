@@ -116,8 +116,7 @@ Is the practice of designing printed matter on a personal computer, often using 
 
 *Directory*
 A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\
-
+"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 *Dithering*
 The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
 

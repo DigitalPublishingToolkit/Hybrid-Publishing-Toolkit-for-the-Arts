@@ -59,7 +59,6 @@ ISBN XXXXXXXXXX (EPUB)\
 ![](../images/_logos_partners/logo_partner_puntpixel)
 ![](../images/_logos_partners/logo_partner_SIA)
 ![](../images/_logos_partners/logo_partner_MrSauli)
-
 <!-- TO DO: 
 * add wrapping <a href="partner URL">
 * add caption ![caption](img)
