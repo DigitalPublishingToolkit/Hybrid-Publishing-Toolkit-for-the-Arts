@@ -28,14 +28,14 @@ In the present project we deal with various kinds of products which we combine i
 <!-- Silvio: I'd begin with the advantages in the mundane activity of quoting a text, made immediate thanks to copy paste.
 Another obvious but crucial advantage is search within the text.
 Another possible advantage is to embed the datasets employed in the publication itself.
-Referencing is still an issue as there is no standard way to specifiy che location of the reference (no fixed page number anymore)
+Referencing is still an issue as there is no standard way to specify the location of the reference (no fixed page number anymore)
 A mention of open access might be worthwhile.
 Finally, commenting and annotating and sharing these annotations is a problem as  they don't stick with the book as it happens with physical books. 
 Miriam: Great additions, I wrote them into the text. Also, changed Issues and advantages to Advantages and issues Margreet: So this item can be solved / deleted? Maybe good to do so, so the text stays clean?-->
 
 Advantages of going electronic with publications presenting research are first of all obvious for users: firstly, an ebook allows copying (and pasting) text in an easy and natural way long desired by researchers, students, and other readers. Secondly, an obvious but crucial advantage is the possibility of search within the text. Thirdly, a possible advantage is to embed the **datasets** employed in the publication itself. For publishers a huge advantage has to do with the wider reach and availability of the content. Making the text available digitally will increase its spreading, not in the least regarding international outreach, as the ebook offers no limitations on availability. Open access publishing further changes the question of availability dramatically.
 
-Issues which specifically relate to research publications lie in referencing. With fixed page numbers no longer there, there is no standard way to specifiy the location of the reference. Worth extra thoughts are setting the parameters for the use of and interaction between text and images within a publication. 
+Issues which specifically relate to research publications lie in referencing. With fixed page numbers no longer there, there is no standard way to specify the location of the reference. Worth extra thoughts are setting the parameters for the use of and interaction between text and images within a publication. 
 
 Going electronic also opens up new possibilities for creating content. Due to the high level of standardised structure, a 'modularization' becomes possible, thereby allowing to go beyond the traditional way of essay writing. In particular when authors refer to each other, they often share data, quotations, tables, figures, et cetera. Multiple use and reuse of 'modules' will enormously enhance the communication within a community. However, this remains a future dream for now as comments and annotations don't stick with (a specific place in) the book like in physical books, which makes sharing difficult.[^Kircz]
 
@@ -111,8 +111,7 @@ A division into three levels can be made, which are described in further detail 
 
 3. One-to-database; here the book is not a separate, defined, and limited entity. A publication is put together out of various independent components defined as modules that can be used and re-used multiple times by whomever has access to them. For example: a reader chooses a selection of chapters on offer and gets an epub specially made in this occasion.
 
-<!-- Margreet: @Kimmy & loes: perhaps the three levels can also be visualised?-->
-![Three Levels of Electronic Publishing](../images/_in_progress/04_1_three_levels "Three Levels of Electronic Publishing.")
+![Three Levels of Electronic Publishing](../images/_in_progress/04_1_three_levels.png "Three Levels of Electronic Publishing.")
 
 
 ###1) One-to-one publications

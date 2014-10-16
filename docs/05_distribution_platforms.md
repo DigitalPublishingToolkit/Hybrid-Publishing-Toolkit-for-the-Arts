@@ -32,21 +32,22 @@ Stats for the whole month of April, all publications
 29 downloads of the Society of the Query Reader
 -->
 
-###Issuu
-<!--Margreet: add INC created image voor Issuu-->
+###Issuu 
+![Issuu](../images/_in_progress/07_IssuuIcon.png "Issuu")
+
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
-| **Characteristics** |
-| ------------------- |
-| It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
-| It is used for books, brochures, magazines, etc 
-| Allows downloading of books to read online
-| Because it is possible to upload a designed PDF it is a good way to publish styled and colorful publications   
-| Mostly used by independent publishers and individual users 
-| Supports all devices 
-| Mobile and desktop 
-| Full embedding possibilities
-| Supports most file formats
+**Characteristics**
+  
+* It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
+* It is used for books, brochures, magazines, etc 
+* Allows downloading of books to read online
+* Because it is possible to upload a designed PDF it is a good way to publish styled and colorful publications   
+* Mostly used by independent publishers and individual users 
+* Supports all devices 
+* Mobile and desktop 
+* Full embedding possibilities
+* Supports most file formats
 
 **Statistics**
  
@@ -54,9 +55,6 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 | ----------------------- |:---------------------:|
 | 80 million monthly readers | Issuu offers general statistics for users and their publications  
 | 15 million publications | For deeper statistics a paid account is needed
-
-
-
 
 
 **Strengths and weaknesses**  
@@ -81,7 +79,7 @@ Offer downloadable file
 
 
 ###Scribd
-<!--Margreet: add INC created image voor Scribd-->
+![Scribd](../images/_in_progress/07_Scribdicon.png "Scribd")
 
 
 **Characteristics**  
@@ -230,6 +228,7 @@ There are a lot of options for print-on-demand publishing. A simple Google query
 
 
 ###Lulu.com
+![Lulu](../images/_in_progress/07_LuluIcon.png "Lulu")
 
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com)
 

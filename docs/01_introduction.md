@@ -50,7 +50,7 @@ The Toolkit aims to provide a practical guide on how to develop electronic publi
 for publishers as well as for anyone else interested in this subject matter. It will attempt to give insight into the preconditions of electronic publishing, providing open-source tools where possible, and allow publishers of the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way.
 Furthermore, the Toolkit will help the reader to develop epubs, specifically art and design
 publications, which generally make more use of different fonts, graphics and layout than text-dominant publications. 
-<!--Margreet: chapter information needs to be checked in the end, as well as final content. This was written before the rechanging of paragrpahs -->
+<!--Margreet: chapter information needs to be checked in the end, as well as final content. This was written before the re-changing of paragraphs -->
 Chapter 3 will give a general introduction of these publications and sketches out various scenarios on how to develop epubs. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular reader hardwares and softwares, file formats and lastly distribution platforms. Chapters 4 offers a practical, how-to guide to workflows (both structured and per scenario) and designing electronic publications for the various scenarios addressed earlier in Chapter 3. Chapter 5 illustrates the concepts with concrete examples from the Digital Publishing Toolkit project.<!-- are the chapter numbers correct?? -->
 
 ## Who worked on this Toolkit

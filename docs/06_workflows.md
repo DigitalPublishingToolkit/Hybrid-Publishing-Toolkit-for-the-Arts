@@ -14,10 +14,11 @@ Note: An important step preceding the publication trajectory lies in the formula
 We will now turn to implementing the new workflow for small edition and low budget publishing houses.
 
 ## Epublishing workflows: desktop publishing, XML, Markdown 
-![Traditional Workflow](../images/_in_progress/07_workflowOldNewTRADITIONAL "Workflow Traditional.")
-![Traditional XML](../images/_in_progress/07_workflowOldNewXML "Workflow XML.")
-<!--![Traditional Markdown](../images/_in_progress/07_workflowOldNewMD "Workflow Markdown") -->
-<!-- Loes & Kimmy -->
+![Traditional Workflow](../images/_in_progress/07_workflowTRADITIONAL03.png "Workflow Traditional.")
+
+
+![Traditional XML](../images/_in_progress/07_workflowMarkdown03.png "Workflow XML.")
+
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
 

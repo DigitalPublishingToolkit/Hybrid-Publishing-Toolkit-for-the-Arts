@@ -1,6 +1,6 @@
 # 04 Ereading technologies
 
-![Digital Publishing Range](../images/_in_progress/05_1_rich_poor "Digital Publishing Range") <!--Visual by Arjen-->
+![Digital Publishing Range](../images/_in_progress/05_1_rich_poor.png "Digital Publishing Range") 
 
 ##File formats
 In this chapter the history and characteristics of various important file formats that exist for ereaders will be explained. The development of the modern ebook started with with the _Open eBook_ specification and has culminated in EPUB, currently at version 3.
@@ -34,7 +34,7 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
-![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations "Strengths & Limitations.")
+![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations_04.png "Strengths & Limitations.")
 
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in [the Reader Software]() section.
@@ -47,8 +47,12 @@ The story for tablets also largely applies to the realm of smartphones.[^sales-f
 ###PC/Laptops
 Reading ebooks on a laptop or personal computer is a possibility but may be a less natural fit than handheld devices. A full range of software for ereading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets.
 
+
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
+
+
+![Strengths & Limitations](../images/_in_progress/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi and txt) <!-- add to glossary --> and PDF.
@@ -99,7 +103,7 @@ epubReader is similar to the browser extension offered by Readium. However, the 
 
 
 
-###Alternative ways of publishing <!-- header title might change (app creators). this should be a chapter also covering  layargloss and adobe digital publishing suites, sigil and calibre --> 
+###Alternative ways of publishing <!-- header title might change (app creators). this should be a chapter also covering layargloss and adobe digital publishing suites, sigil and calibre --> 
 A single downloadable package like EPUB might be a great vehicle to monetize, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios] [^penguin-amplified] [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an ebook to another device. An application binary cannot be copied to another device that easily, partly because of incompatible platform architecture (iOS versus Android, or even iOS versus Mac OS X) and other, more artificial obstacles (DRM).
 
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: http://www.adobe.com/it/solutions/ebook/digital-editions.html
