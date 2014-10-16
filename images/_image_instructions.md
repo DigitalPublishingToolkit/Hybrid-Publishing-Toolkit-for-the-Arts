@@ -2,11 +2,9 @@
 
 1. Use the following syntax to place images or to point out an visualisation is needed in the text:
 
-<pre>![your caption here](../images/chapterabb_img "title")</pre>
+<pre>![your caption here](../images/chapterabb_img.png "title")</pre>
 
-![your caption here](../images/chapterabb_img "title")  
-
-Do not use extensions in the file name.
+![your caption here](../images/chapterabb_img.png "title")  
 
 
 example:
@@ -46,7 +44,7 @@ What I've done:
 
 becomes:
 
-   ![your caption here](../images/_in_progress/03_1_intro_mixture_layout.png "MIXTURE")
+   ![your caption here](../images/_in_progress/yourimage.png "your title")
 
 Pandoc then uses svg's to make the epub, and png's to make the pdf.
 
