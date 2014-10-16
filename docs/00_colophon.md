@@ -41,24 +41,24 @@ ISBN XXXXXXXXXX (EPUB)\
 
 
 <!--partners logos -->
-<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA)</a> <!-- linked img -->
-![](../images/_logos_partners/logo_partner_medamo)
-![](../images/_logos_partners/logo_partner_Creating010)
-![](../images/_logos_partners/logo_partner_valiz)
-![](../images/_logos_partners/logo_partner_Create-it)
-![](../images/_logos_partners/logo_partner_SilvioLorusso)
-![](../images/_logos_partners/logo_partner_Meeusontwerpt)
+<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA.png)</a> <!-- linked img -->
+![](../images/_logos_partners/logo_partner_medamo.png)
+![](../images/_logos_partners/logo_partner_Creating010.png)
+![](../images/_logos_partners/logo_partner_valiz.png)
+![](../images/_logos_partners/logo_partner_Create-it.png)
+![](../images/_logos_partners/logo_partner_SilvioLorusso.png)
+![](../images/_logos_partners/logo_partner_Meeusontwerpt.png)
 
-![](../images/_logos_partners/logo_partner_HRO)
-![](../images/_logos_partners/logo_partner_INC)
-![](../images/_logos_partners/logo_partner_Frame)
-![](../images/_logos_partners/logo_partner_Restruct)
-![](../images/_logos_partners/logo_partner_Bis)
-![](../images/_logos_partners/logo_partner_nai)
-![](../images/_logos_partners/logo_partner_essense)
-![](../images/_logos_partners/logo_partner_puntpixel)
-![](../images/_logos_partners/logo_partner_SIA)
-![](../images/_logos_partners/logo_partner_MrSauli)
+![](../images/_logos_partners/logo_partner_HRO.png)
+![](../images/_logos_partners/logo_partner_INC.png)
+![](../images/_logos_partners/logo_partner_Frame.png)
+![](../images/_logos_partners/logo_partner_Restruct.png)
+![](../images/_logos_partners/logo_partner_Bis.png)
+![](../images/_logos_partners/logo_partner_nai.png)
+![](../images/_logos_partners/logo_partner_essense.png)
+![](../images/_logos_partners/logo_partner_puntpixel.png)
+![](../images/_logos_partners/logo_partner_SIA.png)
+![](../images/_logos_partners/logo_partner_MrSauli.png)
 <!-- TO DO: 
 * add wrapping <a href="partner URL">
 * add caption ![caption](img)
