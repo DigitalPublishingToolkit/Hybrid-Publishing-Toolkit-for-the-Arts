@@ -7,7 +7,6 @@ The aforementioned storefronts typically charge a percentage for each publicatio
 
 Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author. [^apple-publication-guidelines] Amazon, via their Kindle Direct Publishing programme, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing]
 
-
 ## Online reading platforms: Scribd, Issuu, Internet Archive, website / blog
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
@@ -121,11 +120,59 @@ Create an account
 Easy upload of many different file formats  
 Offer in-browser reading and downloadable file  
 
-###Internet Archive
+### Internet Archive
+![Internet Archive](../images/_in_progress/07_IAIcon.png)
 
+Internet Archive can be found at [https://archive.org/](https://archive.org/)
+
+
+**Characteristics**
+
+* Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
+* Besides ebooks holds extensive collections of audio-visual media, software and archived web pages.
+* Provides free storage and access to the uploaded material.
+* Ebook collections are run in cooperation with [OpenLibrary.org](https://openlibrary.org/)[^OpenLibrary] and include titles from other online ebook collections such as [Project Gutenberg](http://www.gutenberg.org/), or the [National and University Library of Iceland](https://archive.org/details/landsbokasafn)
+* Operates both as a site for independent publishing and digital preservation books
+* Contributions and use are made both by large institution and individuals.
+* Most text file formats are accepted (PDF, txt, rtf, EPUB, Comic Book, DjVu, Microfilm TIFF, etc)
+* Uploaded texts have to be licensed under a Creative Commons license.
+* After being submitted, uploaded texts are made available for online reading and download, in PDF, EPUB, mobi and DjVu formats.
+
+
+**Statistics**
+*For Internet Archive* (October 2014)  
+
+* 6 million publications.
+* Each month publications are either read or downloaded 10 million times [^IA_blog] 
+
+
+*For individual users*  
+
+* Provides number of downloads of a publication.
+* Allows readers to write reviews
+
+**Strengths and weaknesses**  
+*Strengths*  
+
+* Easy upload process
+* Supports major ebook file formats
+* Automated conversions to other formats
+
+*Weaknesses*  
+
+* No distinction between self-publishing and archival efforts. Ebooks that were produced yesterday can be found next to an 1606 edition of The Bible published.
+* Optical character recognition performed on the image-based uploads (PDF, Microfilm, etc) is prone to error, and typos abound in the converted text based formats.
+* Navigating and searching the website is often confusing and cumbersome.
+
+
+
+
+### Gutenberg Project
 **Characteristics**  
-Internet Archive can be found at [http://archive.org](http://archive.org).  
-<!-- Margreet: Needs to be completed -->
+Gutenberg Project can be found at [http://www.gutenberg.org/](http://www.gutenberg.org/) 
+<!-- Andre: Gutenberg is as or more expressive that IA for self publishing
+even including the child project http://self.gutenberg.org/ dedicated to sefl publishing, therefore deserves  to be mentioned --> 
+<!-- Andre: Needs to be completed -->
 
 * Number 1
 * Number 2
@@ -365,5 +412,8 @@ None of these projects compete with classical ebook stores, online reading platf
 [^apple-press-percentage]: 'Apple Launches Subscriptions on the App Store', https://www.apple.com/pr/library/2011/02/15Apple-Launches-Subscriptions-on-the-App-Store.html
 [^guardian-amazon-hachette]: Garside J., 'Ebook sales: Amazon tells Hachette to give authors more, charge readers less', _The Guardian_, 30 July 2014, http://www.theguardian.com/books/2014/jul/30/amazon-hachette-ebook-sales-too-expensive
 [^apple-publication-guidelines]: 'Authors & Book Publishers: Frequently Asked Questions', https://www.apple.com/itunes/working-itunes/sell-content/books/book-faq.html
-[^kindle-direct-publishing] 'Kindle Direct Publishing: Types of Formats', https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ
-[^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods.
+[^kindle-direct-publishing]: 'Kindle Direct Publishing: Types of Formats', https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ
+[^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods
+[^OpenLibrary]:  Open Library is an online catalog that aims to list every book ever published. It provides *one web page for every book* with extensive bibliographic information, download links (from Internet Archive), and online sellers of that title.
+[^IA_blog]: 3 Million Texts for Free - blog post from September 17, 2011 [http://blog.archive.org/2011/09/17/3-million-texts-for-free/](http://blog.archive.org/2011/09/17/3-million-texts-for-free/) "Archive.org is visited by more than 1 million different users every day.  Books are downloaded or read on archive.org about 10 million times each month, and approximately 2,000 books for the blind and dyslexic (print disabled) are downloaded every day."
+
