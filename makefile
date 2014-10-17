@@ -84,8 +84,16 @@ toolkit.pdf: toolkit.md
 	--default-image-extension png \
 	--epub-stylesheet=../styles.epub.css \
 	--table-of-contents \
+	--latex-engine xelatex \
 	-o ../toolkit.pdf \
 	../title.txt -H ../patch.tex ../toolkit.md
+
+toolkit.docx: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.docx ../toolkit.md
+
+toolkit.odf: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.odf ../toolkit.md
+
 
 # Trailer (this rule works for any epub)
 %-trailer.gif: %.epub

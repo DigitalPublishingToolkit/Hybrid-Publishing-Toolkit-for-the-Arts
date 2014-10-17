@@ -23,15 +23,7 @@ In the present project we deal with various kinds of products which we combine i
 - Often with a standardised structure;
 - Often with complex referencing (footnotes, endnotes, cross-references, citations, bibliographies, keyword and name indexes, list of illustrations, glossaries, table of contents).
 
-**Going electronic: Advantages and issues**  
-
-<!-- Silvio: I'd begin with the advantages in the mundane activity of quoting a text, made immediate thanks to copy paste.
-Another obvious but crucial advantage is search within the text.
-Another possible advantage is to embed the datasets employed in the publication itself.
-Referencing is still an issue as there is no standard way to specify the location of the reference (no fixed page number anymore)
-A mention of open access might be worthwhile.
-Finally, commenting and annotating and sharing these annotations is a problem as  they don't stick with the book as it happens with physical books. 
-Miriam: Great additions, I wrote them into the text. Also, changed Issues and advantages to Advantages and issues Margreet: So this item can be solved / deleted? Maybe good to do so, so the text stays clean?-->
+**Going electronic: Advantages and issues** 
 
 Advantages of going electronic with publications presenting research are first of all obvious for users: firstly, an ebook allows copying (and pasting) text in an easy and natural way long desired by researchers, students, and other readers. Secondly, an obvious but crucial advantage is the possibility of search within the text. Thirdly, a possible advantage is to embed the **datasets** employed in the publication itself. For publishers a huge advantage has to do with the wider reach and availability of the content. Making the text available digitally will increase its spreading, not in the least regarding international outreach, as the ebook offers no limitations on availability. Open access publishing further changes the question of availability dramatically.
 
@@ -69,7 +61,7 @@ Just as with research publications, modularization offers interesting chances fo
 
 As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing a electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books <!--Margreet: Can we mention examples here? Or can this be solved Sol LeWitt as well? -->, except for electronic reproductions of artists' paper books on such websites as Ubu Web and Monoskop.
 
-When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 "Sentences on Conceptual Art"), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
+When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 'Sentences on Conceptual Art'), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
 
 
 ##4) Art/design periodical
@@ -105,7 +97,7 @@ Independently of the different genres listed above we can sketch a basic picture
 
 A division into three levels can be made, which are described in further detail below:
 
-1. One-to-one; the book is considered a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book, which then is published and exists as a single edition. The print book can as such be translated one-on-one into an ebook. <!-- I removed the bit about the team here, I just don't understand what that has to do with things at this point...-->
+1. One-to-one; the book is considered a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book, which then is published and exists as a single edition. The print book can as such be translated one-on-one into an ebook.
 
 2. One-to-many; the publication has various chameleonic appearances, dependent on the context and available presentation media (type & size of screen/paper). In other words, a book is offered in formats such as print, EPUB, PDF, MOBI, web, and looks and works according to the format used.
 
