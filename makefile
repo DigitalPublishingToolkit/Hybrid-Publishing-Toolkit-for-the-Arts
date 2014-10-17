@@ -77,6 +77,18 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
+draft.pdf: toolkit.md
+	pandoc --from markdown \
+	-t html5 \
+	-s \
+	--epub-stylesheet=styles.epub.css \
+	--default-image-extension png \
+	-o draft.html toolkit.md && \
+	wkhtmltopdf --user-style-sheet styles.css draft.html draft.pdf	
+# ERRO: images missing
+# wrong path file:///home/andre/Documents/INC/DTP_epub/images/_logos_partners/logo_partner_HvA.png
+# instead of file:///home/andre/Documents/INC/DTP_epub/Hybrid-Publishing-Toolkit-for-the-Arts/images/_logos_partners/logo_partner_HvA.png
+
 toolkit.pdf: toolkit.md
 	cd docs && pandoc \
 	--self-contained \
