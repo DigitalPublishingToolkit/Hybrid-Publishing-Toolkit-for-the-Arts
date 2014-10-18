@@ -77,6 +77,19 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
+draft.pdf: toolkit.md
+	cd docs && pandoc --from markdown \
+	-t html5 \
+	-s \
+	--css=styles.css \
+	--default-image-extension png \
+	-o draft.html ../toolkit.md && \
+	wkhtmltopdf --user-style-sheet styles.css draft.html ../draft.pdf
+	rm draft.html	
+# ERRO: images missing
+# wrong path file:///home/andre/Documents/INC/DTP_epub/images/_logos_partners/logo_partner_HvA.png
+# instead of file:///home/andre/Documents/INC/DTP_epub/Hybrid-Publishing-Toolkit-for-the-Arts/images/_logos_partners/logo_partner_HvA.png
+
 toolkit.pdf: toolkit.md
 	cd docs && pandoc \
 	--self-contained \
@@ -84,8 +97,16 @@ toolkit.pdf: toolkit.md
 	--default-image-extension png \
 	--epub-stylesheet=../styles.epub.css \
 	--table-of-contents \
+	--latex-engine xelatex \
 	-o ../toolkit.pdf \
 	../title.txt -H ../patch.tex ../toolkit.md
+
+toolkit.docx: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.docx ../toolkit.md
+
+toolkit.odf: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.odf ../toolkit.md
+
 
 # Trailer (this rule works for any epub)
 %-trailer.gif: %.epub
