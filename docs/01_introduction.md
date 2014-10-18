@@ -15,7 +15,7 @@ Since this Toolkit is for publishers who (a) publish visually oriented books in 
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 - visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
-- small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple fors (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
+- small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple forms (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
 - To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
 
 ## Industry promises versus reality
@@ -29,7 +29,7 @@ On the other hand, publishers tend to underestimate how even technically simple 
 
 ## What this Toolkit provides
 
-Going electronic - or going hybrid - means that you need to change the way you work in the publishing process from manuscript to publication. The software tools currently in use, from word processors like Microsoft Word to desktop publishing suites like InDesign, were created for the analog or desktop-publishing world. Although it's possible to create electronic publications from Microsoft Word and InDesign files that are likely the standard in the current publishing workflow, it will be painful, slow, inefficient and expensive in most cases. This Toolkit describes technical Do It Yourself (DIY) alternatives because it is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
+Going electronic - or going hybrid - means that you need to change the way you work in the publishing process from manuscript to publication. The software tools currently in use, from word processors like Microsoft Word to desktop publishing suites like InDesign, were created for the analog or desktop-publishing world. Although it's possible to create electronic publications from [Microsoft Word](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/) and [InDesign](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/) files that are likely the standard in the current publishing workflow, it will be painful, slow, inefficient and expensive in most cases. This Toolkit describes technical Do It Yourself (DIY) alternatives because it is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
 
 This Toolkit has a particular (but not exclusive) focus on EPUB3 as an electronic publication format and on Markdown as a word processing format because of the specific needs of small edition publishers in the art and design field: low cost, ease of use, sustainability and
 platform-independence. The recommendations stem from our practical experience in collaborating with four Dutch art, design and research publishers on electronic publication projects.
@@ -54,4 +54,4 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the [Digital Publishing Toolkit](http://digitalpublishingtoolkit.org) research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
+This publication is part of the [Digital Publishing Toolkit](http://networkcultures.org/digitalpublishing/) research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.

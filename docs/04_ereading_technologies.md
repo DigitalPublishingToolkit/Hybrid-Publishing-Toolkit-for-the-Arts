@@ -56,6 +56,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi and txt) <!-- add to glossary --> and PDF.
+<!-- Silvio: ”Amazon's proprietary file formats (AZW, KF8, mobi ) along with txt and PDF. -->
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB 3.
@@ -78,7 +79,7 @@ Kobo, like Amazon, produces ereader hardware and also has a large bookstore. As 
 A plethora of desktop applications exists that allow users to read EPUBS. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software, Linux support isn't available - although Kobo offered beta software for Debian based systems. [^kobo-debian] The functionality is similar to that of the mobile versions.
 
 ####[Calibre](id:calibre)
-Calibre is an extensible application that uses plugins. It is an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both ebook and other text based formats)[^calibre-file-formats]. Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package.
+Calibre is an extensible application that uses plugins. It is an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both [ebook](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/) and other text based formats)[^calibre-file-formats]. Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package.
 
 Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (ebooks and other text based formats)[^calibre-file-formats]. Viewing all major ebooks file formats, as well as editing EPUBs and AZWs is also part of the software package.
 <!-- Amy will merge two paragraphs -->
