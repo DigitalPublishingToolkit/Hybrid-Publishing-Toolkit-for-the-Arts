@@ -110,6 +110,7 @@ An electronic handheld device like a smartphone, tablet, phablet, personal digit
 
 *DRM (Digital Rights Management)*
 Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with  digital goods (MP3, EPUB, games, etc.) Transferring items with DRM to other devices or using them without an active Internet connection often proves to be dificult.
+<!-- possible link: http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/ -->  
 
 *DTP (Desktop Publishing)*
 Is the practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
@@ -289,6 +290,7 @@ A sort of mini-program that can be incorporated into other programs, comprising 
 A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.
 
 *Metadata*
+<!-- Possible link: http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/ -->
 
 *MIDI (Musical Instrument Digital Interface)*
 A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.

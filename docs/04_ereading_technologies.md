@@ -56,6 +56,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi and txt) <!-- add to glossary --> and PDF.
+<!-- Silvio: ”Amazon's proprietary file formats (AZW, KF8, mobi ) along with txt and PDF. -->
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB 3.
@@ -78,7 +79,7 @@ Kobo, like Amazon, produces ereader hardware and also has a large bookstore. As 
 A plethora of desktop applications exists that allow users to read EPUBS. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software, Linux support isn't available - although Kobo offered beta software for Debian based systems. [^kobo-debian] The functionality is similar to that of the mobile versions.
 
 ####[Calibre](id:calibre)
-Calibre is an extensible application that uses plugins. It is an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both ebook and other text based formats)[^calibre-file-formats]. Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package.
+Calibre is an extensible application that uses plugins. It is an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both [ebook](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/) and other text based formats)[^calibre-file-formats]. Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package.
 
 Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (ebooks and other text based formats)[^calibre-file-formats]. Viewing all major ebooks file formats, as well as editing EPUBs and AZWs is also part of the software package.
 <!-- Amy will merge two paragraphs -->
@@ -89,7 +90,7 @@ Adobe Digital Editions (ADE) is an ebook reader and management tool which is abl
 
 
 ###Web platforms
-There are some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012. [^bookworm-oreilly] The reason given for the closure mentions an "interesting experiment" but also due to the dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which may be view and stored online. [^bookish] It doesn't appear to operate commercially though, and the ability to purchase books was removed in June 2013.[^bookish-blog]
+There are some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012. [^bookworm-oreilly] The reason given for the closure mentions an 'interesting experiment' but also due to the dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which may be view and stored online. [^bookish] It doesn't appear to operate commercially though, and the ability to purchase books was removed in June 2013.[^bookish-blog]
 
 ###Browser applications
 Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are most likely more of a convenience method in order to quickly (pre)view ebooks, instead of being fully-fledged solutions for reading ebooks comparable to the functionality of ereaders.
@@ -103,11 +104,12 @@ epubReader is similar to the browser extension offered by Readium. However, the 
 
 
 
-###Alternative ways of publishing <!-- header title might change (app creators). this should be a chapter also covering layargloss and adobe digital publishing suites, sigil and calibre --> 
+###Alternative ways of publishing 
+<!-- header title might change (app creators). this should be a chapter also covering layargloss and adobe digital publishing suites, sigil and calibre --> 
 A single downloadable package like EPUB might be a great vehicle to monetize, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios] [^penguin-amplified] [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an ebook to another device. An application binary cannot be copied to another device that easily, partly because of incompatible platform architecture (iOS versus Android, or even iOS versus Mac OS X) and other, more artificial obstacles (DRM).
 
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: http://www.adobe.com/it/solutions/ebook/digital-editions.html
-- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce "enhanced" magazines and publications for iPad, etc: http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html -->
+- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html -->
 
 Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent*.[^de-correspondent] One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
 

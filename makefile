@@ -77,15 +77,24 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
+# needs wkhtmltopdf installed http://wkhtmltopdf.org/
 toolkit.pdf: toolkit.md
-	cd docs && pandoc \
-	--self-contained \
-	--epub-metadata=../metadata.xml \
+	cd docs && pandoc --from markdown \
+	-t html5 \
+	-s \
+	--css=styles.pdf.css \
 	--default-image-extension png \
-	--epub-stylesheet=../styles.epub.css \
-	--table-of-contents \
-	-o ../toolkit.pdf \
-	../title.txt -H ../patch.tex ../toolkit.md
+	-o toolkit.html ../toolkit.md && \
+	wkhtmltopdf --user-style-sheet styles.pdf.css toolkit.html ../toolkit.pdf 
+
+
+
+toolkit.docx: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.docx ../toolkit.md
+
+toolkit.odf: toolkit.md
+	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.odf ../toolkit.md
+
 
 # Trailer (this rule works for any epub)
 %-trailer.gif: %.epub
