@@ -77,29 +77,17 @@ toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
-draft.pdf: toolkit.md
+# needs wkhtmltopdf installed http://wkhtmltopdf.org/
+toolkit.pdf: toolkit.md
 	cd docs && pandoc --from markdown \
 	-t html5 \
 	-s \
-	--css=styles.css \
+	--css=styles.pdf.css \
 	--default-image-extension png \
-	-o draft.html ../toolkit.md && \
-	wkhtmltopdf --user-style-sheet styles.css draft.html ../draft.pdf
-	rm draft.html	
-# ERRO: images missing
-# wrong path file:///home/andre/Documents/INC/DTP_epub/images/_logos_partners/logo_partner_HvA.png
-# instead of file:///home/andre/Documents/INC/DTP_epub/Hybrid-Publishing-Toolkit-for-the-Arts/images/_logos_partners/logo_partner_HvA.png
+	-o toolkit.html ../toolkit.md && \
+	wkhtmltopdf --user-style-sheet styles.pdf.css toolkit.html ../toolkit.pdf 
 
-toolkit.pdf: toolkit.md
-	cd docs && pandoc \
-	--self-contained \
-	--epub-metadata=../metadata.xml \
-	--default-image-extension png \
-	--epub-stylesheet=../styles.epub.css \
-	--table-of-contents \
-	--latex-engine xelatex \
-	-o ../toolkit.pdf \
-	../title.txt -H ../patch.tex ../toolkit.md
+
 
 toolkit.docx: toolkit.md
 	cd docs && pandoc --default-image-extension png --table-of-contents -o ../toolkit.docx ../toolkit.md
