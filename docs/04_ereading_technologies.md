@@ -5,6 +5,8 @@
 ##File formats
 In this chapter the history and characteristics of various important file formats that exist for ereaders will be explained. The development of the modern ebook started with with the _Open eBook_ specification and has culminated in EPUB, currently at version 3.
 
+![BlogLink](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "An initial overview of the digital publishing landscape”)
+
 ###Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and XHTML, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2.0 standard has support for basic styling, custom fonts, etc.[^epub2-specification]
 
@@ -15,12 +17,12 @@ EPUB 3.0 forms the basis of most of the ebook file formats available today. Most
 
 Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo] [^epub-google-play] [^epub-seller-barnes] 
 
+![BlogLink](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Preliminary tests using a simple EPUB in order to establish support for various EPUB features.”)
+
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? -->
 
 ###Other formats
 The aforementioned file formats may be categorized as reflowable documents, although there is support for fixed layouts. Of course there are different ways to disseminate electronic publications. One way is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *Comic Book Archive* [^comic-book-archive], however support for these file formats by ereaders varies greatly.
-
-
 
 
 ##Reader hardware
@@ -50,7 +52,6 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
-
 
 ![Strengths & Limitations](../images/_in_progress/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
 
