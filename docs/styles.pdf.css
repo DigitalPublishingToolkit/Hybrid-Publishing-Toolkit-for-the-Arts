@@ -1,0 +1,8 @@
+/* This defines styles and classes used in the book */
+body {
+    font-family: sans-serif;
+    margin: 2em;
+    font-size: 26pt;
+    line-height: 30pt;
+    width:125%;
+}

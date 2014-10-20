@@ -598,6 +598,10 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Most text file formats are accepted (PDF, txt, rtf, EPUB, Comic Book, DjVu, Microfilm TIFF, etc)
 * Uploaded texts have to be licensed under a Creative Commons license.
 * After being submitted, uploaded texts are made available for online reading and download, in PDF, EPUB, mobi and DjVu formats.
+<!-- To be merged -->
+* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
+* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
+* It allows the public to upload and download digital material 
 
 
 **Statistics**
@@ -607,6 +611,12 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * 6 million publications.
 * Each month publications are either read or downloaded 10 million times [^IA_blog] 
 
+<!-- To be merged -->
+
+* Collection topped 10 petabytes
+* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
+* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
+
 
 *For individual users*  
 
@@ -615,8 +625,9 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 **Strengths and weaknesses**  
 *Strengths*  
-
-* Easy upload process
+* Open Source  <!--Andre: Is the source code published? I believe it cannot be considered and Open Source project-->
+* Free of charge
+* Easy-to-use  
 * Supports major ebook file formats
 * Automated conversions to other formats
 
@@ -626,38 +637,45 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Optical character recognition performed on the image-based uploads (PDF, Microfilm, etc) is prone to error, and typos abound in the converted text based formats.
 * Navigating and searching the website is often confusing and cumbersome.
 
+**How-to-publish**  
+* Create an account  
+* Upload publication in any of the many allowed file formats  
+* Fill-in publication's metadata.
+* The publication will be given dedicated page.
 
 
+
+
+<!-- Gutenberg Project Self-Publishing platform only accepts PDF as submitted format. For that reason, seems counter intuitive to include it in this DPT
 
 ### Gutenberg Project
-**Characteristics**  
-Gutenberg Project can be found at [http://www.gutenberg.org/](http://www.gutenberg.org/) 
-<!-- Andre: Gutenberg is as or more expressive that IA for self publishing
-even including the child project http://self.gutenberg.org/ dedicated to sefl publishing, therefore deserves  to be mentioned --> 
-<!-- Andre: Needs to be completed -->
 
-* Non-profit digital library with the stated mission of 'universal access to all knowledge'
-* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
-* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
-* It allows the public to upload and download digital material 
+Gutenberg Project can be found at [http://www.gutenberg.org/](http://www.gutenberg.org/) 
+**Characteristics**  
+
+* Volunteer project started by Michael Hart in 1971 with the intention of 
+making public domain books, available to the general public, in electronic format.
+
+* The majority of Gutenberg Project's collection belong to the public domain and has a focus on classic literature. 
+
+* Currently (October 2014) more than 47 thousand ebooks are available for free download. 
+
+* The Project Gutenberg Self-Publishing is the sister site devoted to independent publishing. Here contemporary authors can use to distribute their work.
+[http://self.gutenberg.org/](http://self.gutenberg.org/)
+
+
 
 **Statistics**  
 *For Archive* (October 2014) 
-
-* Collection topped 10 petabytes
-* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
-* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
 
 
 **Strengths and weaknesses**  
 
 *Strengths*  
-
-* Open Source  
-* Free
-* Easy-to-use  
+* Useful separation between public domain classic works and self-published titles.
 
 *Weaknesses*  
+* (ASCII legacy http://en.wikipedia.org/wiki/Project_Gutenberg#Criticism)
 
 * Third party website  
 
@@ -670,6 +688,7 @@ even including the child project http://self.gutenberg.org/ dedicated to sefl pu
 * Embed on your own website  
 * Offer downloadable file   
 
+-->
 
 ###Third party blogs
 
@@ -924,7 +943,6 @@ Stats for the whole month of April, all publications
 
 # 06 Towards a Hybrid Workflow Based on Markdown
 
-<!--Margreet: I am still not sure about the order. Maybe switch chapter 5 and 6? Kimmy+Miriam: we talked about this, and see the point, but we still think it's best to keep the 'Guide' chapters together. First go into the details of what is the idea and then to the practical part of making stuff.-->
 Creating a workflow that is both structured and flexible enough to cater for the different choices made is a key step towards an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
 
 First describing a more traditional workflow based on desktop publishing via InDesign with a print book as end result, we move to an ideally fitted workflow centered around the structural file format XML, ending with a Markdown-oriented workflow which is both easy to use and open to many possibilities. Following such a workflow will make the transition from a print-centered publication process to a digital and print - in other words: hybrid - publication process viable. 
@@ -933,7 +951,7 @@ Instead of producing a digital publication based on the printed book at the end 
 
 However, the description below starts at a point which in reality is not the beginning of the publishing trajectory, namely when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
 
-Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide, where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres<!--Miriam: internal link needed--> for pointers regarding adjusting the style guide in this sense.
+Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide, where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy)--> for pointers regarding adjusting the style guide in this sense.
 
 We will now turn to implementing the new workflow for small edition and low budget publishing houses.
 

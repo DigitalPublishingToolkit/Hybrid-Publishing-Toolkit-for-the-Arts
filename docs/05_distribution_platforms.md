@@ -133,6 +133,10 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Most text file formats are accepted (PDF, txt, rtf, EPUB, Comic Book, DjVu, Microfilm TIFF, etc)
 * Uploaded texts have to be licensed under a Creative Commons license.
 * After being submitted, uploaded texts are made available for online reading and download, in PDF, EPUB, mobi and DjVu formats.
+<!-- To be merged -->
+* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
+* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
+* It allows the public to upload and download digital material 
 
 
 **Statistics**
@@ -142,6 +146,12 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * 6 million publications.
 * Each month publications are either read or downloaded 10 million times [^IA_blog] 
 
+<!-- To be merged -->
+
+* Collection topped 10 petabytes
+* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
+* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
+
 
 *For individual users*  
 
@@ -150,8 +160,9 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 **Strengths and weaknesses**  
 *Strengths*  
-
-* Easy upload process
+* Open Source  <!--Andre: Is the source code published? I believe it cannot be considered and Open Source project-->
+* Free of charge
+* Easy-to-use  
 * Supports major ebook file formats
 * Automated conversions to other formats
 
@@ -161,38 +172,45 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Optical character recognition performed on the image-based uploads (PDF, Microfilm, etc) is prone to error, and typos abound in the converted text based formats.
 * Navigating and searching the website is often confusing and cumbersome.
 
+**How-to-publish**  
+* Create an account  
+* Upload publication in any of the many allowed file formats  
+* Fill-in publication's metadata.
+* The publication will be given dedicated page.
 
 
+
+
+<!-- Gutenberg Project Self-Publishing platform only accepts PDF as submitted format. For that reason, seems counter intuitive to include it in this DPT
 
 ### Gutenberg Project
-**Characteristics**  
-Gutenberg Project can be found at [http://www.gutenberg.org/](http://www.gutenberg.org/) 
-<!-- Andre: Gutenberg is as or more expressive that IA for self publishing
-even including the child project http://self.gutenberg.org/ dedicated to sefl publishing, therefore deserves  to be mentioned --> 
-<!-- Andre: Needs to be completed -->
 
-* Non-profit digital library with the stated mission of 'universal access to all knowledge'
-* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
-* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
-* It allows the public to upload and download digital material 
+Gutenberg Project can be found at [http://www.gutenberg.org/](http://www.gutenberg.org/) 
+**Characteristics**  
+
+* Volunteer project started by Michael Hart in 1971 with the intention of 
+making public domain books, available to the general public, in electronic format.
+
+* The majority of Gutenberg Project's collection belong to the public domain and has a focus on classic literature. 
+
+* Currently (October 2014) more than 47 thousand ebooks are available for free download. 
+
+* The Project Gutenberg Self-Publishing is the sister site devoted to independent publishing. Here contemporary authors can use to distribute their work.
+[http://self.gutenberg.org/](http://self.gutenberg.org/)
+
+
 
 **Statistics**  
 *For Archive* (October 2014) 
-
-* Collection topped 10 petabytes
-* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
-* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
 
 
 **Strengths and weaknesses**  
 
 *Strengths*  
-
-* Open Source  
-* Free
-* Easy-to-use  
+* Useful separation between public domain classic works and self-published titles.
 
 *Weaknesses*  
+* (ASCII legacy http://en.wikipedia.org/wiki/Project_Gutenberg#Criticism)
 
 * Third party website  
 
@@ -205,6 +223,7 @@ even including the child project http://self.gutenberg.org/ dedicated to sefl pu
 * Embed on your own website  
 * Offer downloadable file   
 
+-->
 
 ###Third party blogs
 
