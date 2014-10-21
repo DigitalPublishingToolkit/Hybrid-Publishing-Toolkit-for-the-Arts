@@ -1,9 +1,11 @@
 # Colophon 
 
+###From Print to Ebooks: a Hybrid Publishing Tookit for the Arts
+
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\
-**Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Design print:** [Medamo] (http://medamo.nl)\ Spreeuwenberg\
 **Design EPUB:** André Castro\
 **Cover design:** [Studio Mooijman en Mittelberg](http://www.mooijmanenmittelberg.nl)\
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
@@ -27,10 +29,10 @@ books@networkcultures.org\
 t: +31 (0)20 59 51 865
 
 
-This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relative to the discussed topic. 
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
