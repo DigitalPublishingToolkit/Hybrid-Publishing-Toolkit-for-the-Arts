@@ -446,10 +446,10 @@ small presses and book download stores for [artists' and designer's books](04_ge
 None of these projects compete with classical ebook stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portfolio pieces. 
 
 
-[^apple-press-percentage]: 'Apple Launches Subscriptions on the App Store', https://www.apple.com/pr/library/2011/02/15Apple-Launches-Subscriptions-on-the-App-Store.html
-[^guardian-amazon-hachette]: Garside J., 'Ebook sales: Amazon tells Hachette to give authors more, charge readers less', _The Guardian_, 30 July 2014, http://www.theguardian.com/books/2014/jul/30/amazon-hachette-ebook-sales-too-expensive
-[^apple-publication-guidelines]: 'Authors & Book Publishers: Frequently Asked Questions', https://www.apple.com/itunes/working-itunes/sell-content/books/book-faq.html
-[^kindle-direct-publishing]: 'Kindle Direct Publishing: Types of Formats', https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ
+[^apple-press-percentage]: 'Apple Launches Subscriptions on the App Store', https://www.apple.com/pr/library/2011/02/15Apple-Launches-Subscriptions-on-the-App-Store.html.
+[^guardian-amazon-hachette]: Garside J., 'Ebook sales: Amazon tells Hachette to give authors more, charge readers less', _The Guardian_, 30 July 2014, http://www.theguardian.com/books/2014/jul/30/amazon-hachette-ebook-sales-too-expensive.
+[^apple-publication-guidelines]: 'Authors & Book Publishers: Frequently Asked Questions', https://www.apple.com/itunes/working-itunes/sell-content/books/book-faq.html.
+[^kindle-direct-publishing]: 'Kindle Direct Publishing: Types of Formats', https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ.
 [^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods.
-[^OpenLibrary]:  Open Library is an online catalog that aims to list every book ever published. It provides *one web page for every book* with extensive bibliographic information, download links (from Internet Archive), and online sellers of that title.
+[^OpenLibrary]: Open Library is an online catalog that aims to list every book ever published. It provides *one web page for every book* with extensive bibliographic information, download links (from Internet Archive), and online sellers of that title.
 [^IA_blog]: 3 Million Texts for Free - blog post from September 17, 2011 [http://blog.archive.org/2011/09/17/3-million-texts-for-free/](http://blog.archive.org/2011/09/17/3-million-texts-for-free/) "Archive.org is visited by more than 1 million different users every day.  Books are downloaded or read on archive.org about 10 million times each month, and approximately 2,000 books for the blind and dyslexic (print disabled) are downloaded every day."
