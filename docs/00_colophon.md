@@ -5,7 +5,7 @@
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\
-**Design print:** [Medamo] (http://medamo.nl)\
+**Design print:** [Medamo](http://medamo.nl)\
 **Design EPUB:** André Castro\
 **Cover design:** [Studio Mooijman en Mittelberg](http://www.mooijmanenmittelberg.nl)\
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
