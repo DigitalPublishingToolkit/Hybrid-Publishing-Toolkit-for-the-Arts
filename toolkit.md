@@ -1,6 +1,4 @@
 # Colophon 
-<!--## From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts--> 
-<!-- andre: what is this subtitle for? Couldn't find a reasonf for it, therefore commented-->
 
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
@@ -32,41 +30,57 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
+<<<<<<< HEAD
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/)
+=======
 For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://digitalpublishingtoolkit.org](http://digitalpublishingtoolkit.org). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relative to the discussed topic. 
 
+>>>>>>> FETCH_HEAD
 
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
-ISBN XXXXXXXXXX (EPUB)\
+ISBN <!-- Margreet requested ISBN--> (EPUB)\
 
 
 <!--partners logos -->
-<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA.png)</a> <!-- linked img -->
-![](../images/_logos_partners/logo_partner_medamo.png)
-![](../images/_logos_partners/logo_partner_Creating010.png)
-![](../images/_logos_partners/logo_partner_valiz.png)
-![](../images/_logos_partners/logo_partner_Create-it.png)
-![](../images/_logos_partners/logo_partner_SilvioLorusso.png)
-![](../images/_logos_partners/logo_partner_Meeusontwerpt.png)
+<!-- linked img -->
 
-![](../images/_logos_partners/logo_partner_HRO.png)
-![](../images/_logos_partners/logo_partner_INC.png)
-![](../images/_logos_partners/logo_partner_Frame.png)
-![](../images/_logos_partners/logo_partner_Restruct.png)
-![](../images/_logos_partners/logo_partner_Bis.png)
-![](../images/_logos_partners/logo_partner_nai.png)
-![](../images/_logos_partners/logo_partner_essense.png)
-![](../images/_logos_partners/logo_partner_puntpixel.png)
-![](../images/_logos_partners/logo_partner_SIA.png)
-![](../images/_logos_partners/logo_partner_MrSauli.png)
+[![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
+
+[![Medamo](../images/_logos_partners/logo_partner_medamo.png)] (http://www.medamo.nl/)
+
+[![creating010](../images/_logos_partners/logo_partner_Creating010.png)] (http://creating010.hr.nl)
+
+[![Valiz](../images/_logos_partners/logo_partner_valiz.png)] (www.valiz.nl/)
+
+[![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)] (www.hva.nl/create-it)
+
+[![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)] (http://silviolorusso.com/)
+
+[![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)] (www.meeusontwerpt.nl/)
+
+[![Hogeschool Rotterdam](../images/_logos_partners/logo_partner_HRO.png)] (www.hogeschoolrotterdam.nl/)
+
+[![Institute of Network Cultures](../images/_logos_partners/logo_partner_INC.png)] (http://networkcultures.org)
+
+[![Restruct](../images/_logos_partners/logo_partner_Restruct.png)] (https://restruct.nl/)
+
+[![BISPublishers](../images/_logos_partners/logo_partner_Bis.png)] (www.bispublishers.nl/)
+
+[![nai010](../images/_logos_partners/logo_partner_nai.png)] (www.nai010.com/)
+
+[![Essense](../images/_logos_partners/logo_partner_essense.png)] (http://essense.eu/)
+
+[![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)] (puntpixel.nl/)
+
+[![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)] (www.regieorgaan-sia.nl/)
+
+![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)] (mrsauli.nl/)
 <!-- TO DO: 
-* add wrapping <a href="partner URL">
 * add caption ![caption](img)
-
 * ADD EPUB ISBN
-*  shouldn't all contributors have links to their websites? 
-   if so add link to them
+
 -->
 
 
@@ -471,8 +485,7 @@ Lastly, why not just publish essays, articles or even whole books on a website? 
 
 # 05 Distribution platforms
 
-## Ebook stores: Amazon, Apple, Google, Kobo, Sony...
-<!--Margreet: what about the dots here behind Sony?-->
+## Ebook stores: Amazon, Apple, Google, Kobo, Sony
 
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of Nook devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo.
 
@@ -487,6 +500,8 @@ Online reading platforms are browser-based platforms where digital publications 
 When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical ebookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
+
+<!-- Marc: The following might be a better fit for a table or something similar. -->
 
 ###Issuu 
 ![Issuu](../images/_in_progress/07_IssuuIcon.png "Issuu")
@@ -631,7 +646,6 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 **Strengths and weaknesses**  
 *Strengths*  
-* Open Source  <!--Andre: Is the source code published? I believe it cannot be considered and Open Source project-->
 * Free of charge
 * Easy-to-use  
 * Supports major ebook file formats
@@ -878,14 +892,9 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 
 
 ##Pirate platforms
-As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. 
+As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistent to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
 
-Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. 
-[Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
-
-### Examples 
-<!--Margreet: no actual examples are mentioned here-->
-Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
+Commercial providers of digital content can learn a lot from the pirates. [Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
 
 #### All-purpose download sites
 Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
@@ -927,25 +936,6 @@ None of these projects compete with classical ebook stores, online reading platf
 [^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods.
 [^OpenLibrary]:  Open Library is an online catalog that aims to list every book ever published. It provides *one web page for every book* with extensive bibliographic information, download links (from Internet Archive), and online sellers of that title.
 [^IA_blog]: 3 Million Texts for Free - blog post from September 17, 2011 [http://blog.archive.org/2011/09/17/3-million-texts-for-free/](http://blog.archive.org/2011/09/17/3-million-texts-for-free/) "Archive.org is visited by more than 1 million different users every day.  Books are downloaded or read on archive.org about 10 million times each month, and approximately 2,000 books for the blind and dyslexic (print disabled) are downloaded every day."
-
-
-<!-- Margreet deleted the following two alineas[maybe as an aside? i'm wondering how interesting this is for general readers/publishers? i.e. they don't know the reader] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
-Stats for the whole month of April, all publications  
-*Issuu:*  
-2502 reads  
-21,191 impressions  
-03:33 time spent  
-101 downloads in total  
-49 downloads of the Society of the Query Reader  
-
-*Scribd:*  
-64,854 reads  
-2,007 embed views  
-02:49 time spent  
-29 downloads of the Society of the Query Reader
--->
-
-
 
 # 06 Towards a Hybrid Workflow Based on Markdown
 
