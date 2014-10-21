@@ -1,6 +1,4 @@
 # Colophon 
-<!--## From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts--> 
-<!-- andre: what is this subtitle for? Couldn't find a reasonf for it, therefore commented-->
 
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
@@ -32,40 +30,52 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://digitalpublishingtoolkit.org](http://digitalpublishingtoolkit.org)
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/)
 
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
-ISBN XXXXXXXXXX (EPUB)\
+ISBN <!-- Margreet requested ISBN--> (EPUB)\
 
 
 <!--partners logos -->
-<a href="http://www.hva.nl/">![Amsterdam University of Applied Sciences](../images/_logos_partners/logo_partner_HvA.png)</a> <!-- linked img -->
-![](../images/_logos_partners/logo_partner_medamo.png)
-![](../images/_logos_partners/logo_partner_Creating010.png)
-![](../images/_logos_partners/logo_partner_valiz.png)
-![](../images/_logos_partners/logo_partner_Create-it.png)
-![](../images/_logos_partners/logo_partner_SilvioLorusso.png)
-![](../images/_logos_partners/logo_partner_Meeusontwerpt.png)
+<!-- linked img -->
 
-![](../images/_logos_partners/logo_partner_HRO.png)
-![](../images/_logos_partners/logo_partner_INC.png)
-![](../images/_logos_partners/logo_partner_Frame.png)
-![](../images/_logos_partners/logo_partner_Restruct.png)
-![](../images/_logos_partners/logo_partner_Bis.png)
-![](../images/_logos_partners/logo_partner_nai.png)
-![](../images/_logos_partners/logo_partner_essense.png)
-![](../images/_logos_partners/logo_partner_puntpixel.png)
-![](../images/_logos_partners/logo_partner_SIA.png)
-![](../images/_logos_partners/logo_partner_MrSauli.png)
+[![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
+
+[![Medamo](../images/_logos_partners/logo_partner_medamo.png)] (http://www.medamo.nl/)
+
+[![creating010](../images/_logos_partners/logo_partner_Creating010.png)] (http://creating010.hr.nl)
+
+[![Valiz](../images/_logos_partners/logo_partner_valiz.png)] (www.valiz.nl/)
+
+[![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)] (www.hva.nl/create-it)
+
+[![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)] (http://silviolorusso.com/)
+
+[![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)] (www.meeusontwerpt.nl/)
+
+[![Hogeschool Rotterdam](../images/_logos_partners/logo_partner_HRO.png)] (www.hogeschoolrotterdam.nl/)
+
+[![Institute of Network Cultures](../images/_logos_partners/logo_partner_INC.png)] (http://networkcultures.org)
+
+[![Restruct](../images/_logos_partners/logo_partner_Restruct.png)] (https://restruct.nl/)
+
+[![BISPublishers](../images/_logos_partners/logo_partner_Bis.png)] (www.bispublishers.nl/)
+
+[![nai010](../images/_logos_partners/logo_partner_nai.png)] (www.nai010.com/)
+
+[![Essense](../images/_logos_partners/logo_partner_essense.png)] (http://essense.eu/)
+
+[![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)] (puntpixel.nl/)
+
+[![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)] (www.regieorgaan-sia.nl/)
+
+![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)] (mrsauli.nl/)
 <!-- TO DO: 
-* add wrapping <a href="partner URL">
 * add caption ![caption](img)
-
 * ADD EPUB ISBN
-*  shouldn't all contributors have links to their websites? 
-   if so add link to them
+
 -->
 
 
