@@ -19,8 +19,8 @@ We will now turn to implementing the new workflow for small edition and low budg
 ![Traditional XML](../images/_in_progress/07_workflowMarkdown03.png "Workflow XML.")
 
 <!-- links on the blog: 
-- http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/
-- http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/
+* http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/
+* http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/
 -->
 
 <!-- Silvio: This might be integrated with ICML import from pandoc to have structured text in InDesign to be used by the designer: http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ -->
@@ -116,7 +116,7 @@ Markdown/MultiMarkdown is however not a magical one-size-fits-all solution. It i
 Markdown and similar formatting/markup language are meant for workflows in which there is a clear separation between editorial work - involving writers, translators and editors - on the one hand and publication design on the other. For publications requiring lots of interaction between writers/editors and visual designers/artists from the very beginning of the authoring process, these document languages are not the right tool. 
 
 
-<!-- here. 12 sept -  who is this _ asks Miriam-->
+<!-- here. 12 sept.  who is this?  asks Miriam-->
 <!-- But which ones should be used then? -->
 
 <!-- Marc: XML again? This section is also highly opinionated and not referenced. Should this be merged with the previous XML section if possible? -->

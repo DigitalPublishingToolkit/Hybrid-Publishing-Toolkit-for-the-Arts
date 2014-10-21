@@ -80,7 +80,7 @@ How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
 A step-by-step guide
 
-<!---Converting a Docx directly to EPUB using Calibre (post Silvio) -- superseded by Florian's respective section on docx conversion with pandoc-->
+<!---Converting a Docx directly to EPUB using Calibre (post Silvio). It was superseded by Florian's respective section on docx conversion with pandoc-->
 
 Pressbooks as an example of available open source tools? (post Silvio)
 
