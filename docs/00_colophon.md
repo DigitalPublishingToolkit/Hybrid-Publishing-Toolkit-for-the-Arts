@@ -40,42 +40,22 @@ ISBN 978-90-822345-4-1 (EPUB)\
 
 
 [![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
-
 [![Medamo](../images/_logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/)
-
 [![creating010](../images/_logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl)
-
-[![Valiz](../images/_logos_partners/logo_partner_valiz.png)](www.valiz.nl/)
-
-[![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)](www.hva.nl/create-it)
-
+[![Valiz](../images/_logos_partners/logo_partner_valiz.png)](http://www.valiz.nl/)
+[![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)](http://www.hva.nl/create-it)
 [![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)](http://silviolorusso.com/)
-
-[![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)](www.meeusontwerpt.nl/)
-
-[![Hogeschool Rotterdam](../images/_logos_partners/logo_partner_HRO.png)](www.hogeschoolrotterdam.nl/)
-
+[![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)](http://www.meeusontwerpt.nl/)
+[![Hogeschool Rotterdam](../images/_logos_partners/logo_partner_HRO.png)](http://www.hogeschoolrotterdam.nl/)
 [![Institute of Network Cultures](../images/_logos_partners/logo_partner_INC.png)](http://networkcultures.org)
-
 [![Restruct](../images/_logos_partners/logo_partner_Restruct.png)](https://restruct.nl/)
-
-[![BISPublishers](../images/_logos_partners/logo_partner_Bis.png)](www.bispublishers.nl/)
-
-[![nai010](../images/_logos_partners/logo_partner_nai.png)](www.nai010.com/)
-
+[![BISPublishers](../images/_logos_partners/logo_partner_Bis.png)](http://www.bispublishers.nl/)
+[![nai010](../images/_logos_partners/logo_partner_nai.png)](http://www.nai010.com/)
 [![Essense](../images/_logos_partners/logo_partner_essense.png)](http://essense.eu/)
-
-[![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)](puntpixel.nl/)
-
-[![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)](www.regieorgaan-sia.nl/)
-
+[![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/)
+[![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/)
 [![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/)
 
-<!-- TO DO: 
-* add caption ![caption](img)
-* ADD EPUB ISBN
-
--->
 
 
 

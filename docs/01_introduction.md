@@ -52,4 +52,4 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png "Link to blog post")](http://networkcultures.org/digitalpublishing/ "Link to blog") research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
+This publication is part of the Digital Publishing Toolkit [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png "Link to blog post")](http://networkcultures.org/digitalpublishing/ "Link to blog") research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
