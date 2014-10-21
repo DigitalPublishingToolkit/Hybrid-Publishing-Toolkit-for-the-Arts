@@ -1,7 +1,6 @@
 # 05 Distribution platforms
 
-## Ebook stores: Amazon, Apple, Google, Kobo, Sony...
-<!--Margreet: what about the dots here behind Sony?-->
+## Ebook stores: Amazon, Apple, Google, Kobo, Sony
 
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of Nook devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo.
 
@@ -16,6 +15,8 @@ Online reading platforms are browser-based platforms where digital publications 
 When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical ebookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
+
+<!-- Marc: The following might be a better fit for a table or something similar. -->
 
 ###Issuu 
 ![Issuu](../images/_in_progress/07_IssuuIcon.png "Issuu")
@@ -160,7 +161,6 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 **Strengths and weaknesses**  
 *Strengths*  
-* Open Source  <!--Andre: Is the source code published? I believe it cannot be considered and Open Source project-->
 * Free of charge
 * Easy-to-use  
 * Supports major ebook file formats
@@ -407,14 +407,9 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 
 
 ##Pirate platforms
-As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. 
+As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistent to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
 
-Commercial providers of digital content can learn a lot from the pirates. The best ones are already doing that. 
-[Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
-
-### Examples 
-<!--Margreet: no actual examples are mentioned here-->
-Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. They get easily cracked down, and they can easily reshape under new names or modified concepts.
+Commercial providers of digital content can learn a lot from the pirates. [Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
 
 #### All-purpose download sites
 Sites like [The Pirate Bay](http://www.thepiratebay.se) offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
@@ -456,21 +451,3 @@ None of these projects compete with classical ebook stores, online reading platf
 [^1]: Freemium is a pricing strategy by which a product or service (typically a digital offering such as software, media, games or web services) is provided free of charge, but money (premium) is charged for proprietary features, functionality, or virtual goods.
 [^OpenLibrary]:  Open Library is an online catalog that aims to list every book ever published. It provides *one web page for every book* with extensive bibliographic information, download links (from Internet Archive), and online sellers of that title.
 [^IA_blog]: 3 Million Texts for Free - blog post from September 17, 2011 [http://blog.archive.org/2011/09/17/3-million-texts-for-free/](http://blog.archive.org/2011/09/17/3-million-texts-for-free/) "Archive.org is visited by more than 1 million different users every day.  Books are downloaded or read on archive.org about 10 million times each month, and approximately 2,000 books for the blind and dyslexic (print disabled) are downloaded every day."
-
-
-<!-- Margreet deleted the following two alineas[maybe as an aside? i'm wondering how interesting this is for general readers/publishers? i.e. they don't know the reader] INC experience regarding stats, taking the example of the publication of the Society of the Query Reader (April 23, 2014)  
-Stats for the whole month of April, all publications  
-*Issuu:*  
-2502 reads  
-21,191 impressions  
-03:33 time spent  
-101 downloads in total  
-49 downloads of the Society of the Query Reader  
-
-*Scribd:*  
-64,854 reads  
-2,007 embed views  
-02:49 time spent  
-29 downloads of the Society of the Query Reader
--->
-
