@@ -37,11 +37,12 @@ With text oriented files this may seem the most straightforward, maybe even the 
 
 **What are alternative possibilities?**  
 What is possible when using a hybrid workflow, focused as much on e-publications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
+
 * Version control can be more transparant   
 * Adding elements other than text (videos, (color) images, links)  
 * Extracting outputs from the material different from the book itself, such as abstract, booktrailers, personalized e-publications  
 * Better archiving as one can keep the structure of the text as well
-...
+* ...
 
 ### Instructions
 
@@ -49,9 +50,9 @@ What is possible when using a hybrid workflow, focused as much on e-publications
 The decision about the desired output leads to certain steps to get the right input. First of all it is therefore necessary to communicate this to the authors and others involved in the publishing process. Adjust your style guide which is leading in the communication with authors/designers/programmers etc.
 
 Specify for example:  
+
 * file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or docx (which can be easily converted into html)  
 * image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
- 
 * formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this ^kimmy --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
@@ -59,12 +60,14 @@ Specify for example:
 
 **What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
 Make a list of metadata to be added to the texts  
+
 * metadata provided by the author(s)  
 * metadata added by the editor/publisher
 * an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
 
 **Do editorial criteria regarding the content change?**  
 Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
+
 * (not discussed in this guide) consider another style of writing, 'writing for the web'   
 * is interactive material needed, more or other images than can be published in print, video, audio, etc.  
 
@@ -104,6 +107,7 @@ Catalogue Digital Approaches
 traditional workflow = InDesign workflow as described before, production of one integral publication
 
 vs. new workflow = highly modularized publication. 
+
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
 
@@ -167,9 +171,12 @@ New workflows:
 
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, what are alternative possibilities?
+
 ### Instructions
 How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
+
 ### Specific issues for this publication type
+
 ### Based on the above, what to choose?
 
 
@@ -269,10 +276,13 @@ Electronic visual books can be made in very simple ways:
 
 ### Decision making
 Should it be a 1:1 transfer from paper book to e-journal?  There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
+
 ### Instructions
 See above. 
+
 ### Specific issues for this publication type
 The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be (a) a continuously updated web site (similar to a news website or a blog), (b) focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. In the end, there is no hard difference between a "blog" and a "magazine" online.
+
 ### Based on the above, what to choose?
 
 How to make an arts/design periodical in epub2/3, HTML5 (/app), PDF

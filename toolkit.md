@@ -115,7 +115,7 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png "Link to blog post")](http://networkcultures.org/digitalpublishing/ "Link to blog") research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
+This publication is part of the Digital Publishing Toolkit [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png "Link to blog post")](http://networkcultures.org/digitalpublishing/ "Link to blog") research program, based on recommendations from practical experiences throughout the collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
 
 
 
@@ -316,7 +316,7 @@ Especially in publications which have a more or less fixed layout database publi
 ##File formats
 A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it.<!--Amy: I copied (and edited) this text from the glossary as I thought it would be helpful to have a brief explanation about what a file format is before going into the history! -->
 
-In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, <!--Amy: I added some text here as I thought it would be helpful to repeat a brief explanation --> will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
+In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, <!--Amy: I added some text here as I thought it would be helpful to repeat a brief explanation --> will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
 
 ###Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press[^businessweek-ebooks]. SoftBook Press developed the format, based on [XML](#XML) and [XHTML](#XHTML) <!--Amy: Tried to link to chapter 11: glossary but not sure if it's working. I feel that this should be further explained, or make a note to refer to chapter 06 where it's described in greater detail -->, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*)[^interoperability-of-ebook-formats]. The EPUB 2.0 standard has support for basic styling, custom fonts, etc.[^epub2-specification].
@@ -326,7 +326,7 @@ At the beginning of Amazon's foray into the world of digital publishing, the onl
 Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011[^reader-specification], brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others [^epub3-changes].
 EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions [^amazon-kf8], [^ibooks-author]. These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM [^ibooks-photo-blocks], [^ibooks-multicolumn], [^amazon-kf8]. An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package [^azw3kf8-breakdown].
 
-Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress [^epub-seller-kobo], [^epub-google-play] [^epub-seller-barnes]. [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
+Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress [^epub-seller-kobo], [^epub-google-play] [^epub-seller-barnes]. [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
 
 <!--Amy: I agree with Margreet, there are a wave of new terms introduced over a very short piece of text. It is hard to get through it all without having previous knowledge or spending time in checking the glossary and references. So in conclusion i propose to link some terms to the glossary + reorder this chapter as mentioned in earlier note-->
@@ -1403,11 +1403,12 @@ With text oriented files this may seem the most straightforward, maybe even the 
 
 **What are alternative possibilities?**  
 What is possible when using a hybrid workflow, focused as much on e-publications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
+
 * Version control can be more transparant   
 * Adding elements other than text (videos, (color) images, links)  
 * Extracting outputs from the material different from the book itself, such as abstract, booktrailers, personalized e-publications  
 * Better archiving as one can keep the structure of the text as well
-...
+* ...
 
 ### Instructions
 
@@ -1415,9 +1416,9 @@ What is possible when using a hybrid workflow, focused as much on e-publications
 The decision about the desired output leads to certain steps to get the right input. First of all it is therefore necessary to communicate this to the authors and others involved in the publishing process. Adjust your style guide which is leading in the communication with authors/designers/programmers etc.
 
 Specify for example:  
+
 * file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or docx (which can be easily converted into html)  
 * image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
- 
 * formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this ^kimmy --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
@@ -1425,12 +1426,14 @@ Specify for example:
 
 **What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
 Make a list of metadata to be added to the texts  
+
 * metadata provided by the author(s)  
 * metadata added by the editor/publisher
 * an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
 
 **Do editorial criteria regarding the content change?**  
 Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
+
 * (not discussed in this guide) consider another style of writing, 'writing for the web'   
 * is interactive material needed, more or other images than can be published in print, video, audio, etc.  
 
@@ -1470,6 +1473,7 @@ Catalogue Digital Approaches
 traditional workflow = InDesign workflow as described before, production of one integral publication
 
 vs. new workflow = highly modularized publication. 
+
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, What are alternative possibilities?
 
@@ -1533,9 +1537,12 @@ New workflows:
 
 ### Decision making
 Should it be a 1:1 transfer from paper book to ebook?, what are alternative possibilities?
+
 ### Instructions
 How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
+
 ### Specific issues for this publication type
+
 ### Based on the above, what to choose?
 
 
@@ -1635,10 +1642,13 @@ Electronic visual books can be made in very simple ways:
 
 ### Decision making
 Should it be a 1:1 transfer from paper book to e-journal?  There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
+
 ### Instructions
 See above. 
+
 ### Specific issues for this publication type
 The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be (a) a continuously updated web site (similar to a news website or a blog), (b) focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. In the end, there is no hard difference between a "blog" and a "magazine" online.
+
 ### Based on the above, what to choose?
 
 How to make an arts/design periodical in epub2/3, HTML5 (/app), PDF
