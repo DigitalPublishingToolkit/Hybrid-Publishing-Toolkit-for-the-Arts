@@ -108,8 +108,8 @@ or sets of figures on which a computer program operates.
 *Device*
 An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda)or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
 
-*DRM (Digital Rights Management)*
-Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with  digital goods (MP3, EPUB, games, etc.) Transferring items with DRM to other devices or using them without an active Internet connection often proves to be dificult.
+*DRM ([Digital Rights Management](id:Digital Rights Management))*
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be dificult.
 <!-- possible link: http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/ -->  
 
 *DTP (Desktop Publishing)*
@@ -296,7 +296,7 @@ A *mashup* is a Web page that brings together data from two or more Web services
 A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.
 
 *Mobipocket*
-Is a French company incorporated in March 2000 that produced Mobipocket Reader software, an e-book reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
+Is a French company incorporated in March 2000 that produced Mobipocket Reader software, an ebook reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
 
 *Monitor*
 The screen on which output from a computer is displayed. Also referred to as Display Screen. 
@@ -449,10 +449,10 @@ Dates back to the pre-Windows and pre-Mac period, when what you saw on the scree
 
 ### **X**
 
-*XML (eXtensible Markup Language)*
+*[XML](id:XML) (eXtensible Markup Language)*
 XML is a specification emanating from the World Wide Web Consortium (W3C) that allows Web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating Web pages, HTML, and makes it possible to create websites containing more complex interactivity.
 
-*XHTML (Extensible Hypertext Markup Language)*
+*[XHTML](id:XHTML)(Extensible Hypertext Markup Language)*
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 ### Y
