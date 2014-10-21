@@ -49,7 +49,7 @@ ISBN 978-90-822345-4-1 (EPUB)\
 
 [![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)](www.hva.nl/create-it)
 
-[![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)] (http://silviolorusso.com/)
+[![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)](http://silviolorusso.com/)
 
 [![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)](www.meeusontwerpt.nl/)
 

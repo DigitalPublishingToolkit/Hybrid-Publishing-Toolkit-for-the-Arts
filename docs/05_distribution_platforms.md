@@ -161,6 +161,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 **Strengths and weaknesses**  
 *Strengths*  
+
 * Free of charge
 * Easy-to-use  
 * Supports major ebook file formats
@@ -173,6 +174,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Navigating and searching the website is often confusing and cumbersome.
 
 **How-to-publish**  
+
 * Create an account  
 * Upload publication in any of the many allowed file formats  
 * Fill-in publication's metadata.
