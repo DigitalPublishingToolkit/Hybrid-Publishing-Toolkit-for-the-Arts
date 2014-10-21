@@ -99,3 +99,8 @@ toolkit.odf: toolkit.md
 # Trailer (this rule works for any epub)
 %-trailer.gif: %.epub
 	python scripts/epubtrailer.py $< --width 320 --height 240 --duration=0.5 -o $@
+
+
+# Epub post production - changes and and enhancements to toolkit.epub
+toolkit_post.epub: toolkit.epub
+	python scripts/epub_post.py toolkit.epub
