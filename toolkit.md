@@ -34,8 +34,7 @@ For background material, blog posts, videos and the software created within this
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
-ISBN <!-- Margreet requested ISBN--> (EPUB)\
-
+ISBN 978-90-822345-4-1 (EPUB)\
 
 
 [![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
