@@ -4,25 +4,9 @@
 <p><strong>Order a copy of this book by email</strong>: books@networkcultures.org</p>
 <p><strong>Contact:</strong><br />Institute of Network Cultures<br />Hogeschool van Amsterdam<br />Rhijnspoorplein 1<br />1091 GC Amsterdam<br />The Netherlands<br /><a href="http://www.networkcultures.org" class="uri">http://www.networkcultures.org</a><br />books@networkcultures.org<br />t: +31 (0)20 59 51 865</p>
 <p>This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" class="uri">http://creativecommons.org/licenses/by-nc-sa/3.0/</a>.</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: <a href="http://networkcultures.org/digitalpublishing/">http://networkcultures.org/digitalpublishing</a> ======= For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: <a href="http://digitalpublishingtoolkit.org" class="uri">http://digitalpublishingtoolkit.org</a>. Throughout the book the following symbol <img src="../images/_in_progress/dpt_blog_verwijzing.png" alt="Bloglink" /> will appear, pointing to blog posts relative to the discussed topic.</p>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<p>FETCH_HEAD</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
+<p>For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: <a href="http://networkcultures.org/digitalpublishing/">http://networkcultures.org/digitalpublishing</a></p>
+<p>For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: <a href="http://digitalpublishingtoolkit.org" class="uri">http://digitalpublishingtoolkit.org</a>. Throughout the book the following symbol <img src="../images/_in_progress/dpt_blog_verwijzing.png" alt="Bloglink" /> will appear, pointing to blog posts relative to the discussed topic.</p>
 <p>Amsterdam, 2014<br />ISBN 978-90-822345-3-4 (print)<br />ISBN <!-- Margreet requested ISBN--> (EPUB)<br /></p>
-<!--partners logos -->
-<!-- linked img -->
 <p><a href="http://hva.nl"><img src="../images/_logos_partners/logo_partner_HvA.png" alt="Hogeschool van Amsterdam" /></a></p>
 <p>[<img src="../images/_logos_partners/logo_partner_medamo.png" alt="Medamo" />] (http://www.medamo.nl/)</p>
 <p>[<img src="../images/_logos_partners/logo_partner_Creating010.png" alt="creating010" />] (http://creating010.hr.nl)</p>
@@ -38,11 +22,12 @@
 <p>[<img src="../images/_logos_partners/logo_partner_essense.png" alt="Essense" />] (http://essense.eu/)</p>
 <p>[<img src="../images/_logos_partners/logo_partner_puntpixel.png" alt="PUNTPIXEL" />] (puntpixel.nl/)</p>
 <p>[<img src="../images/_logos_partners/logo_partner_SIA.png" alt="Regieorgaan Praktijkgericht Onderzoek SIA" />] (www.regieorgaan-sia.nl/)</p>
-<p><img src="../images/_logos_partners/logo_partner_MrSauli.png" alt="Mr. Sauli" />] (mrsauli.nl/) <!-- TO DO: 
+<p>[<img src="../images/_logos_partners/logo_partner_MrSauli.png" alt="Mr. Sauli" />] (http://mrsauli.nl/)</p>
+<!-- TO DO: 
 * add caption ![caption](img)
 * ADD EPUB ISBN
 
---></p>
+-->
 <h1 id="introduction">01 Introduction</h1>
 <p>'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats (eg a catalog), (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected!</p>
 <p><em>Change is minor for scientific and mass publishers</em></p>

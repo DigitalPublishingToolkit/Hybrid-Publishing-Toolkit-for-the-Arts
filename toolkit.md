@@ -30,21 +30,15 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
-<<<<<<< HEAD
 For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/)
-=======
+
 For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project visit: [http://digitalpublishingtoolkit.org](http://digitalpublishingtoolkit.org). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relative to the discussed topic. 
-
->>>>>>> FETCH_HEAD
-
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
 ISBN <!-- Margreet requested ISBN--> (EPUB)\
 
 
-<!--partners logos -->
-<!-- linked img -->
 
 [![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
 
@@ -76,7 +70,8 @@ ISBN <!-- Margreet requested ISBN--> (EPUB)\
 
 [![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)] (www.regieorgaan-sia.nl/)
 
-![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)] (mrsauli.nl/)
+[![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)] (http://mrsauli.nl/)
+
 <!-- TO DO: 
 * add caption ![caption](img)
 * ADD EPUB ISBN
