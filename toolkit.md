@@ -1,6 +1,6 @@
 # Colophon 
 
-###From Print to Ebooks: a Hybrid Publishing Tookit for the Arts
+###From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
 
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
