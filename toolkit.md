@@ -120,225 +120,37 @@ This publication is part of the Digital Publishing Toolkit [![Bloglink](../image
 
 
 # 02 The Basics
-<<<<<<< HEAD
-<!-- Andre: my over impression of the chapter is that it confuses the reader more than it clarifies her about essential concepts for the following chapters, such as
-* plain text files
-* html
-* markdown 
-* css 
-Maybe these concepts could be made more tangible with examples, how the same content and formatting are represented in both html and markdown.
-* mentioning SGML seems besides the point since the reader probably wont ever touch it.
 
-
-Joost: I disagree as comment text is -as said- for the uninitiated. He is typical not a
-publisher or book researcher. We present an introduction to a different kind of
-thinking.Practical examples belong to the following chapters.
-
-Hence mark-up is explained
-
-SGML is crucial though most people simple understand this.
-
-I added some text in order to have a better overflow to the following chapters
-
-
--->
-=======
-
->>>>>>> FETCH_HEAD
-
-Although there are no stupid questions, there may be times when one is hesitant to ask questions in situations when people around seem to be in the know already. In this section we try to explain the fundamentals of electronic
-publishing in order to help the reader formulate questions more precisely.
-Firstly we introduce the fundamental notions and at the end we conclude with a
-short overview.
-
-<<<<<<< HEAD
-Although there are no stupid questions, there may be times when one is hesitant to ask questions in situations where the people around seem to be in the know already. In this section we try to explain the fundamentals of electronic publishing in order to help the reader formulate questions more precisely. Firstly we introduce the fundamental notions and at the end we conclude with a short overview.
-=======
 ## What is a text?
->>>>>>> FETCH_HEAD
+A text is a collection of words and words are compositions of letters. In order to read a text we have all kinds of layout helpers. Keep in mind that in the Roman times (when texts were cut in stone) there was continuing writing: no spaces between the words. This was not considered a problem as reading was a craft only a few people mastered. These people knew the words and hence were able to read aloud, just try: *Icanreadthiseasilyaloud*. In time, the craft of reading became a common good and many design/lay-out helpers were introduced, for example spaces between words, capitals at the beginning of new sentences, commas, semicolons, colons and line breaks.[^hist] Furthermore, the notions of paragraphs, chapters and the like, developed into a standardized system that allowed for a smooth transmission between the structure the authors endowed their text with and the readers who became familiar to these standards. Thus enabling ease of reading and the possibility to read silently. This structure of stratifying words into sentences, sentences into paragraphs and so on, including reading aids such as exclamation marks, bold and underscored text is made possible by the insertion of special codes. This process is called **markup** and the codes are called mark-up elements. It goes without saying that all these **markup** elements demand stable definitions and clear relationships. Everybody is free to invent their own rules (e.g., every first letter of a new chapter is a well-decorated small picture). For example, in the time of handwritten manuscripts many “free style” inventions were made. Some of them remained in our time and became part of the expended alphabet. Think of the ampersand “&”, it originated from the conflation of the letter e and the letter t – we call this
+conflations, *ligatures*. To define what we allow and what not, **Markup languages** emerged.
 
-
-A text is a collection of words and words are compositions of letters. In order
-to read a text we have all kinds of layout helpers. Keep in mind that in the
-Roman times (when texts were cut in stone) there was continuing writing: no
-spaces between the words. This was not considered a problem as reading was a
-craft only a few people mastered. These people knew the words and hence were
-able to read aloud, just try: *Icanreadthiseasilyaloud*. In time, the craft of
-reading became a common good and many design/lay-out helpers were introduced,
-for example spaces between words, capitals at the beginning of new sentences,
-commas, semicolons, colons and line breaks.[^hist] Furthermore, the notions of
-paragraphs, chapters and the like, developed into a standardized system that
-allowed for a smooth transmission between the structure the authors endowed
-their text with and the readers who became familiar to these standards. Thus
-enabling ease of reading and the possibility to read silently. This structure of
-stratifying words into sentences, sentences into paragraphs and so on, including
-reading aids such as exclamation marks, bold and underscored text is made
-possible by the insertion of special codes. This process is called **markup**
-and the codes are called mark-up elements. It goes without saying that all these
-**markup** elements demand stable definitions and clear relationships. Everybody
-is free to invent their own rules (e.g., every first letter of a new chapter is
-a well-decorated small picture). For example, in the time of handwritten
-manuscripts many “free style” inventions were made. Some of them remained in our
-time and became part of the expended alphabet. Think of the ampersand “&”, it
-originated from the conflation of the letter e and the letter t – we call this
-conflations, *ligatures*. To define what we allow and what not, **Markup
-languages** emerged.
-
-Markup languages are grammars that define the markup and the relations between
-markup elements. With the emergence of computer networks and the increasing need
-to standardize texts for multiple usages, an international ISO standard
-established in 1982 is called: Standardised General Markup Language (SGML). This
-logically structured markup language was a big step forward as it made a
-fundamental split between the text structure as such and the final
-representation of that structure. For example, contrary to languages used in
-word processors such as Tex, LaTeX, Word, Microsoft Word, Wordperfect or ODF
-(open office document format), where presentation and text structuring are
-mixed, SGML only defines functions or roles. When we type a **bold** word in the
-text using a word processor we in fact type “start bold” -\> type the word -\>
-“end bold”.
+Markup languages are grammars that define the markup and the relations between markup elements. With the emergence of computer networks and the increasing need to standardize texts for multiple usages, an international ISO standard established in 1982 is called: Standardised General Markup Language (SGML). This logically structured markup language was a big step forward as it made a fundamental split between the text structure as such and the final representation of that structure. For example, contrary to languages used in word processors such as Tex, LaTeX, Word, Microsoft Word, Wordperfect or ODF (open office document format), where presentation and text structuring are mixed, SGML only defines functions or roles. When we type a **bold** word in the text using a word processor we in fact type “start bold” -\> type the word -\> “end bold”.
 
 ![](<../images/_in_progress/03_1_intro_mixture_layout>)
 
 ~   your caption here
 
-What is happening here is a mixture of **layout** and structure. Layout is the
-activity of presenting a text onto a medium, such as a paper page. SGML and its
-derivatives, the easier **HTML** (HyperText Markup Language) and the expanded
-**XML** (Extensible Markup Language) make a strict distinction between structure
-and representation. A markup language knows notions such as “highlighted word or
-phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading
-with type 1 and quotation with type 4. Depending on the output substrate you can
-then define in the layout phase how this will look like. For instance, a chapter
-heading is in a certain type font and font size and centered on the page, whilst
-a quotation is represented in the same font size and font of the running text,
-but now in italics. On a screen we can have things like chapter headings in pink
-and quotations in yellow. This freedom in the layout is explicated in a
-so-called **style sheet** , which is a table that connects a layout schema with
-the markup schema. This way of working is imperative if one wants to allow a
-source text to be represented in many different ways on various media of various
-sizes. Note that in many programs these translations are done fairly invisibly
-to the user. If we translate an .odt file into a .docx file, all coding is
-translated one-to-one. As we will see in the following, translation between one
-file type into another is not always symmetrical. Hence, the golden rule is to
-**always make sure that the source text is as systemically structured as
+What is happening here is a mixture of **layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and its derivatives, the easier **HTML** (HyperText Markup Language) and the expanded **XML** (Extensible Markup Language) make a strict distinction between structure and representation. A markup language knows notions such as “highlighted word or phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading with type 1 and quotation with type 4. Depending on the output substrate you can
+then define in the layout phase how this will look like. For instance, a chapter heading is in a certain type font and font size and centered on the page, whilst a quotation is represented in the same font size and font of the running text, but now in italics. On a screen we can have things like chapter headings in pink and quotations in yellow. This freedom in the layout is explicated in a so-called **style sheet** , which is a table that connects a layout schema with the markup schema. This way of working is imperative if one wants to allow a source text to be represented in many different ways on various media of various sizes. Note that in many programs these translations are done fairly invisibly to the user. If we translate an .odt file into a .docx file, all coding is translated one-to-one. As we will see in the following, translation between one file type into another is not always symmetrical. Hence, the golden rule is to **always make sure that the source text is as systemically structured as
 possible**.
 
-An important notion is that all digital texts and accompanying coding are
-written in simple letters and numerals, this is called **plain text**, or a flat
-file. This is a stripped down text without layout; the most elementary token. It
-goes without saying that the flexibility of this process is limited to the
-character set for plain text we use. In the “old” days this was **ASCII** based
-and limited to the possible number of distinct signs (letters, numerals, commas,
-etc.) of a binary computer text. Slowly but surely, a new elaborted list of
-allowed signs, extending ASCII is making inroads. This collection of signs is
-called: **Unicode**. Unicode aims to include all alphabets and letter systems
-including common signs and ligatures, such as the aforementioned *&* and
-diacritic signs. Again, this is a step forward to guarantee a clean source file
-for all kind of usages, even those we don’t consider or even imaging today.
+An important notion is that all digital texts and accompanying coding are written in simple letters and numerals, this is called **plain text**, or a flat file. This is a stripped down text without layout; the most elementary token. It goes without saying that the flexibility of this process is limited to the character set for plain text we use. In the “old” days this was **ASCII** based and limited to the possible number of distinct signs (letters, numerals, commas, etc.) of a binary computer text. Slowly but surely, a new elaborted list of allowed signs, extending ASCII is making inroads. This collection of signs is called: **Unicode**. Unicode aims to include all alphabets and letter systems including common signs and ligatures, such as the aforementioned *&* and diacritic signs. Again, this is a step forward to guarantee a clean source file for all kind of usages, even those we don’t consider or even imaging today.
 
 ### What is an electronic text?
 
-An electronic text is normally understood as a text which is represented on a
-screen of some sort. Of course this is sloppy language. The key issue is that an
-electronic text became a structured file in which the emotions and intentions of
-the author are translated into notions like highlighted text of a certain type
-through the work of said author. Due to this markup, we become able to make
-different layouts, expressions, onto different media. It is of great importance
-to note that electronic publishing introduces a big shift away from the page
-centered culture of book printing. Book printing allows for various printing
-sizes depending on the wishes of the author, designer and publisher. For
-example, when making an art book based on a collection of paintings or drawings,
-a decision can me made on what the ideal book size is and whether or not it will
-be printed in oblong size or not. In the world of screens these types of
-decisions are different as we have very different screen sizes. No screen can be
-cut to the demanded size like with paper book publishing. In electronic books we
-have to work around things in a completely different way to the paper world.
-This means that the transposition from an existing work to an electronic
-representation is rife with difficulties if the structure of the texts and, in
-particular when the relation between illustrations and running text, is
-important. In the world of text based publications (novels, research
-publications) there generally only is running text. For these publications the
-page size is less important and this is part of the reason why ereaders are
-becoming increasingly popular. On electronic reading devices the text can always
-be made to fit the size of the device, this is called **reflowable** text. In
-all other cases, the creator (publisher, designer, etc.) has to consider how to
-design the work and under what conditions content and meaning are represented.
-This will be discussed in the following chapters for various outlets, as one
-might opt for various versions of the original work. It goes without saying that
-in the coming years, authors and designers will try and develop digitally
-conceived works that intrinsically allow for a variety of representations
-depending on the reading device whether electronic or not.
+An electronic text is normally understood as a text which is represented on a screen of some sort. Of course this is sloppy language. The key issue is that an electronic text became a structured file in which the emotions and intentions of the author are translated into notions like highlighted text of a certain type through the work of said author. Due to this markup, we become able to make different layouts, expressions, onto different media. It is of great importance to note that electronic publishing introduces a big shift away from the page centered culture of book printing. Book printing allows for various printing sizes depending on the wishes of the author, designer and publisher. For example, when making an art book based on a collection of paintings or drawings, a decision can me made on what the ideal book size is and whether or not it will be printed in oblong size or not. In the world of screens these types of decisions are different as we have very different screen sizes. No screen can be cut to the demanded size like with paper book publishing. In electronic books we have to work around things in a completely different way to the paper world. This means that the transposition from an existing work to an electronic representation is rife with difficulties if the structure of the texts and, in particular when the relation between illustrations and running text, is important. In the world of text based publications (novels, research publications) there generally only is running text. For these publications the page size is less important and this is part of the reason why ereaders are becoming increasingly popular. On electronic reading devices the text can always be made to fit the size of the device, this is called **reflowable** text. In all other cases, the creator (publisher, designer, etc.) has to consider how to design the work and under what conditions content and meaning are represented. This will be discussed in the following chapters for various outlets, as one might opt for various versions of the original work. It goes without saying that in the coming years, authors and designers will try and develop digitally conceived works that intrinsically allow for a variety of representations depending on the reading device whether electronic or not.
 
 ## What are some electronic possibilities?
+Novel electronic capabilities enable a great number of possible publication outlets. Before entering into the problematic aspects of such a plurality of presentations of the same message, we investigate the possibilities. As with all technological possibilities; the coin has two sides (leaving aside the unstable rim) which exclude each other. The printing press introduced pagination and indexing, allowing many thousands of identical texts to be read and compared by an expanding group of readers over the years, independently of location. In an electronic world with non-fixed screen sizes this is complicated. On paper text is fixed, this allows for comparisons and interactions between different readers separated in space and time. In an electronic version the fixity of the text remains, as the text file is independent from its final substrate (E-ink, lcd, paper), but its presentation on the final substrate can vary substantially. Think about the introduction of numbering phrases in the Bible, which came along when Bibles became printed books in very different formats and the priest wanted everybody in the audience to read the same text. As the formats of the Bibles were non standardised, page numbers were of no help, hence the numbering of the phrases. In an electronic environment, where page numbers are unstable, we are confronted with the same problem.
 
-Novel electronic capabilities enable a great number of possible publication
-outlets. Before entering into the problematic aspects of such a plurality of
-presentations of the same message, we investigate the possibilities. As with all
-technological possibilities; the coin has two sides (leaving aside the unstable
-rim) which exclude each other. The printing press introduced pagination and
-indexing, allowing many thousands of identical texts to be read and compared by
-an expanding group of readers over the years, independently of location. In an
-electronic world with non-fixed screen sizes this is complicated. On paper text
-is fixed, this allows for comparisons and interactions between different readers
-separated in space and time. In an electronic version the fixity of the text
-remains, as the text file is independent from its final substrate (E-ink, lcd,
-paper), but its presentation on the final substrate can vary substantially.
-Think about the introduction of numbering phrases in the Bible, which came along
-when Bibles became printed books in very different formats and the priest wanted
-everybody in the audience to read the same text. As the formats of the Bibles
-were non standardised, page numbers were of no help, hence the numbering of the
-phrases. In an electronic environment, where page numbers are unstable, we are
-confronted with the same problem.
+The challenge becomes even greater if we widen our ambition to pictures, audio and video, hyperlinks, etc. In the Toolkit project, we deal with the field of books in the arts. This category of books integrates all aspects of text-only publications but expands it with visual information that can be explanatory of the text and, more importantly, to visual information which can be a 'stand alone' statement. In such cases, text, helps the 'reader' (viewer) to have an understanding of and have a deeper appreciation for the object. It is clear that various forms of art books demand and enable different electronic representations. In these books we witness a crossover between the primary importance of text and image.
 
-The challenge becomes even greater if we widen our ambition to pictures, audio
-and video, hyperlinks, etc. In the Toolkit project, we deal with the field of
-books in the arts. This category of books integrates all aspects of text-only
-publications but expands it with visual information that can be explanatory of
-the text and, more importantly, to visual information which can be a 'stand
-alone' statement. In such cases, text, helps the 'reader' (viewer) to have an
-understanding of and have a deeper appreciation for the object. It is clear that
-various forms of art books demand and enable different electronic
-representations. In these books we witness a crossover between the primary
-importance of text and image.
+As cultural standardization over the centuries rendered, for example, a detective, religious or an educational book instantly distinguishable by its typography and layout, - this too will also become a fact for electronic books. Apart from the electronic (or paper) book as a *object d'art*, electronic art book publishing will have many commonalities as a genre despite its differences per book. A major issue is that the electronic sub-structure makes all files just bitstreams (streams of binary code: zeros and ones). The digital files containing the various kinds of information are all equal on this level of digital bitstreams in the computer memory: merely standardized code. The great new thing in the world of electronic art books is that based on standardized, though well tailored structures, the creative message can be published in a great variety of ways. This not only depends on the capabilities of the output (reading/viewing/listening) device, but also on the function of the book for the author in an actual context, such as a dictionary, a study, a reference, a coffee table book, or a leisure book. The same source can and will be represented differently under different circumstances. All these vistas demand a thorough and more labour-intensive editorial and production strategy. Not only because the same source can express itself in various output forms but even more so because once properly edited and stored electronically, information and its constituting parts can be reused and used in different ways, to be decided upon given a specific environment of goal, now and in the future.
 
-As cultural standardization over the centuries rendered, for example, a
-detective, religious or an educational book instantly distinguishable by its
-typography and layout, - this too will also become a fact for electronic books.
-Apart from the electronic (or paper) book as a *object d'art*, electronic art
-book publishing will have many commonalities as a genre despite its differences
-per book. A major issue is that the electronic sub-structure makes all files
-just bitstreams (streams of binary code: zeros and ones). The digital files
-containing the various kinds of information are all equal on this level of
-digital bitstreams in the computer memory: merely standardized code. The great
-new thing in the world of electronic art books is that based on standardized,
-though well tailored structures, the creative message can be published in a
-great variety of ways. This not only depends on the capabilities of the output
-(reading/viewing/listening) device, but also on the function of the book for the
-author in an actual context, such as a dictionary, a study, a reference, a
-coffee table book, or a leisure book. The same source can and will be
-represented differently under different circumstances. All these vistas demand a
-thorough and more labour-intensive editorial and production strategy. Not only
-because the same source can express itself in various output forms but even more
-so because once properly edited and stored electronically, information and its
-constituting parts can be reused and used in different ways, to be decided upon
-given a specific environment of goal, now and in the future.
-
-
- 
 
 ## Summing up
-
-The essential issue is henceforward that the start is a clean flat text file.
-Withing this text markup coding is added. This coding has to adhere to
-standardized rules. In the most advanced case this would be according to the XML
-standard, but this very demanding grammar is too demanding for small publishers.
-Simple HTML coding is frequently used but is mainly useful for webdesign. The
-advanced version HTML5 is a promising, but also not simple option. In this
-booklet we opt for Mark Down as a coding language. It is very simple and
-straight. Though not fit elaborate publications. From Mark Down we can then
-convert to a HTML version, provided that we have a clear table that translate
-lay-out coding to the various outlets, such as paper, e-ink or LCD screens. Such
-a table is named a Style Sheet.
+The essential issue is henceforward that the start is a clean flat text file. Withing this text markup coding is added. This coding has to adhere to standardized rules. In the most advanced case this would be according to the XML standard, but this very demanding grammar is too demanding for small publishers. Simple HTML coding is frequently used but is mainly useful for webdesign. The advanced version HTML5 is a promising, but also not simple option. In this booklet we opt for Mark Down as a coding language. It is very simple and straight. Though not fit elaborate publications. From Mark Down we can then convert to a HTML version, provided that we have a clear table that translate lay-out coding to the various outlets, such as paper, e-ink or LCD screens. Such a table is named a Style Sheet.
 
 
 [^hist]: Guglielmo Cavallo and Roger Chartier (eds.), A history of reading in
@@ -359,10 +171,8 @@ In the present project we deal with various kinds of products which we combine i
 
  5) New genres of publication.
 
-<!--Margreet: Should be make a connection here to our own examples used in the DPT project? -->
 
 ##1) Research publication 
-
 - Heavy in use of text;
 - Texts take a central role;
 - Visuals are secondary (images refer to texts);
@@ -371,15 +181,6 @@ In the present project we deal with various kinds of products which we combine i
 - Often with complex referencing (footnotes, endnotes, cross-references, citations, bibliographies, keyword and name indexes, list of illustrations, glossaries, table of contents).
 
 **Going electronic: Advantages and issues**  
-
-<!-- Silvio: I'd begin with the advantages in the mundane activity of quoting a text, made immediate thanks to copy paste.
-Another obvious but crucial advantage is search within the text.
-Another possible advantage is to embed the datasets employed in the publication itself.
-Referencing is still an issue as there is no standard way to specifiy che location of the reference (no fixed page number anymore)
-A mention of open access might be worthwhile.
-Finally, commenting and annotating and sharing these annotations is a problem as  they don't stick with the book as it happens with physical books. 
-Miriam: Great additions, I wrote them into the text. Also, changed Issues and advantages to Advantages and issues Margreet: So this item can be solved / deleted? Maybe good to do so, so the text stays clean?-->
-
 Advantages of going electronic with publications presenting research are first of all obvious for users: firstly, an ebook allows for copying (and pasting) text in an easy and natural way which has been long desired by researchers, students, and  readers alike. Secondly, an obvious but crucial advantage is the possibility of searching within a text. Thirdly, a possible advantage is the posibility of embedding the **datasets** employed in the publication itself. For publishers a huge advantage has to do with the wider reach and availability of the content. Making the text available digitally will increase its spreading, not in the least regarding international outreach, as the ebook offers no limitations on availability. Open access publishing further changes the question of availability dramatically.
 
 Issues which specifically relate to digital research publications lie in referencing. With fixed page numbers no longer there, there is no standard way to specifiy the location of the reference. Worth extra thoughts are setting the parameters for the use of and interaction between text and images within a publication. 
@@ -389,23 +190,20 @@ Going electronic also opens up new possibilities for creating content. Due to th
 
 
 ##2) Art/design catalogue
-
 - Heavy in use of images;
 - Visuals take central role over texts;
 - Visuals are primary (text refers to visuals);
 - Descriptive texts of changing lengths.
 
 **Going electronic: Advantages and issues**  
-
 Most art/design catalogues are image-heavy publications, and this is precisely the greatest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high, with no degradation of colours and the highest possible resolution. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
-<!--Margreet: Do we have more information about this? Maybe mention two examples, to give the reader an idea? --> <!--Pia: I dont think examples are needed. fine as is IMO -->
+
 Possibilities in this direction lie in offering high quality images which can be zoomed in to and complementing the content with other (interactive) materials. Also, most tablet computers offer much more better color reproduction (gamut) than the print page. An issue of concern is that in a catalogue often a fixed page layout is necessary: image and text must appear in a certain layout as they belong to each other. However, changes in size (of the device or of the settings a reader uses) might influence the flow of content, resulting in a drifting apart of pictures and text. 
 
 Just as with research publications, modularization offers interesting chances for writing and presenting material. As a catalogue is often built up around parts which are already modular in nature, there is a lot to be gained from using these features in electronic publishing. For example giving readers the opportunity to 'build' their own publication; publishing different editions (small, medium, large) of a catalogue without extra effort; easy updating of a part of the catalogue.
 
 
 ##3)  Artist/designer book
-
 - Book *by* an artist, rather than *about* an artist;
 - Complex use of images and typography, often pushing the possibilities of the medium;
 - In print: making use of the book as a material, visual and haptic object;
@@ -413,14 +211,12 @@ Just as with research publications, modularization offers interesting chances fo
 - Text is often used in non-descriptive or non-narrative ways.
 
 **Going electronic: Advantages and issues**  
-
-As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing an electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books <!--Margreet: Can we mention examples here? Or can this be solved Sol LeWitt as well? --> <!--Pia: I dont think soll LeWitt suffices here, maybe a badlands example?-->, except for electronic reproductions of artists' paper books on such websites as Ubu Web and Monoskop.
+As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing an electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books, except for electronic reproductions of artists' paper books on such websites as Ubu Web and Monoskop.
 
 When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 "Sentences on Conceptual Art"), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
 
 
 ##4) Art/design periodical
-
 - Heavy in use of both texts and images; 
 - Both images and texts take central role;
 - Use of images is both primary and secondary;
@@ -429,25 +225,19 @@ When working on an electronic edition of an already existing print artist/design
 - Recurring publication format (e.g. magazines, series etc.).
 
 **Going electronic: Advantages and issues**  
-
 A periodical thrives well by its physical presence. It can be tossed in a bag and just as easily be disposed of. In a digital form, the physical presence becomes limited in this sense. Of course the digital domain offers other forms of 'nudging' and ways to keep a periodical present for the reader, such as push messages on tablets and smart phones, email notifications, and sharing via social media, but this is not quite the same. 
 
 The archival aspect provides other chances and issues for digital art/design periodicals. New articles can refer to older ones and even integrate parts. The periodical as such becomes a repository and therefore a playground for new work. 
 
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
-<!-- Name X: One of the advantages in 3 out of 5 publication formats is that the content can be extended. It is worthwhile to state the fact that a heavy publication (with videos, etc.) is a problem from the point of view of 1. Developing countries, 2. Archive --> <!--Pia: Comment confuses me, lets discuss next week -->
+<!-- Name X: One of the advantages in 3 out of 5 publication formats is that the content can be extended. It is worthwhile to state the fact that a heavy publication (with videos, etc.) is a problem from the point of view of 1. Developing countries, 2. Archive --> 
+<!--Pia: Comment confuses me, lets discuss next week -->
 
 ##5) New genres of publication
-
-New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. <!--Examples of such new genres are collected on the blog ???--> 
-<!-- For example one can think of platforms used to collect tweets in book form or **tumblogs** in an epub as shown during the Off the Press conference. << Miriam: This is a meaningless reference for most readers... name the examples by name or leave out. Margreet: Is someone able to add these? --> <!-- Leave out examples completley, takes away from the ' lots is possible' feeling -->
+New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
 
 
 ## 3 levels of electronic publishing
-
-<!-- The goal of the project is to define a common ground for directions, strategies, and tools that will enhance the transition from paper-only publications to a mixture of paper & electronic publication, given the above listed genres of publications.
-As the mindset of the partners in the projects are very diverse and in most companies the discussion is only in an early stage, it does not make sense to produce a matrix of all questions and all answers. A better approach is to try and sketch the overall picture, based on commonalities and diversions. This attempt is presented below. Miriam: this is non-information to readers of the manual who are not in the project. The general statements are already mentioned elsewhere--> <!-- afgreed let's delete-->
-
 Independently of the different genres listed above we can sketch a basic picture based on commonalities and diversions. The scope of epublishing starts with simple conversions from paper publications to electronic ones, moving towards full-scale electronic publications.  
 
 A division into three levels can be made, which are described in further detail below:
@@ -458,12 +248,10 @@ A division into three levels can be made, which are described in further detail 
 
 3. One-to-database; here the book is not a separate, defined, and limited entity. A publication is put together out of various independent components defined as modules that can be used and re-used multiple times by whomever has access to them. For example: a reader chooses a selection of chapters on offer and gets an epub specially made in this occasion.
 
-<!-- Margreet: @Kimmy & loes: perhaps the three levels can also be visualised?-->
 ![Three Levels of Electronic Publishing](../images/_in_progress/04_1_three_levels.png "Three Levels of Electronic Publishing.")
 
 
 ###1) One-to-one publications
-
 On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. <!-- Miriam: I don't understand this coming sentence and think it might as well go: There are many common characteristics between books in one genre. Hence, the question is how we can reveal and define these characteristics to enhance insight in the nature of this type of book. Artist’s/experimental books are an obvious example of this kind of book.-->
 
 Usually this implies that going electronic means making an erepresentation of the same book. In some cases files of the final pages or book are being converted into EPUB3 by an external agent. The final pages are checked on readability and the digital make-up (for example, that figures and captions are on the same page), and changes are made accordingly to create the ebook. On this level the ebook is not more than an exact-as-possible picture of the printed book. 
@@ -472,24 +260,21 @@ The publisher might use a document management system, which can be a mere collec
 
 
 ###2) One-to-many publications
-
 The next level presents a split between the manifestation of a (one) paper print version and (many) electronic versions. The electronic version, contrary to the paper version, is not a single object but has various appearances, due to different presentation substrates of electronic book formats. Furthermore, the sizes of reading devices are not standardized and generally allow for both portrait or oblong viewing. On top of this, the popular semi-standard EPUB3 allows for flowable pages and a change in font and fontsize.
 
 Workflow schemes become very important when working towards a one-to-many publication, as the same texts and images are used in various outlets. A structured and detailed workflow, accompanied by a related descriptors (metadata) set is necessary. In such a way, the ebook is not a byproduct of the print book anymore, but is produced simultaneously in its different output formats.
 
 ###3) One-to-database
-
 Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
 
 Especially in publications which have a more or less fixed layout database publishing opens new ways of conceiving books. For example, in the case of a collection of essays readers are then be able to make a personal choice from the available texts. The same can be thought of in the case of catalogues and journals. Based on metadata a structured presentation of all material is made possible, allowing the reader to navigate and put together a collection based on personal interests. Of course this means that tagging, describing, and storing of all components should happen in the early stages of publication with utmost care. 
-<!-- Miriam: I think this can be deleted here, I find it confusing even though I should know what this is about. The end of the paragraph is repetitive: the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is important to note that there will never be a one workflow which fits all but if the relevant metadata is available; publications in different forms can be created. --> 
+<!-- Miriam: I think this can be deleted here, I find it confusing even though I should know what this is about. The end of the paragraph is repetitive: the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is important to note that there will never be a one workflow which fits all but if the relevant metadata is available; publications in different forms can be created. 
+@Miriam, is the text already deleted? Or do you mean the alinea above? Otherwise please delete.--> 
 
 
 [^Kircz]: Anita de Waard and Joost Kircz, Modeling scientific discourse - shifting perspectives and persistent issues, Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008, http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008.
 
 
-<!--Amy summarised below to the above 
-[^Kircz]:lit ref: see for scientific article: de Waard, Anita; Kircz, Joost (2008) Modeling scientific discourse - shifting perspectives and persistent issues, ELPUB2008. Open Scholarship: Authority, Community, and Sustainability in the Age of Web 2.0 - Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008 / Edited by: Leslie Chan and Susanna Mornati. ISBN 978-0-7727-6315-0, 2008, pp. 234-245. http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008) -->
 
 
 # 04 Ereading technologies
@@ -500,22 +285,22 @@ Especially in publications which have a more or less fixed layout database publi
 <!--Amy's suggestion about re-structuring: As I was reading this, it made more sense to me to change the ordering to: reader hardware, software, file formats – as talking about hardware is much more tangible and gives a bit more bridge to then understand software and then the most abstract, file formats -->
 
 ##File formats
-A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it.<!--Amy: I copied (and edited) this text from the glossary as I thought it would be helpful to have a brief explanation about what a file format is before going into the history! -->
+A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it.
 
-In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, <!--Amy: I added some text here as I thought it would be helpful to repeat a brief explanation --> will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
+In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
 
 ###Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press. [^businessweek-ebooks](http://www.businessweek.com/1998/46/b3604010.htm) SoftBook Press developed the format, based on [XML](#XML) and [XHTML](#XHTML) <!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained, or make a note to refer to chapter 06 where it's described in greater detail -->, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*). [^interoperability-of-ebook-formats](http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf)  The EPUB 2.0 standard has support for basic styling, custom fonts, etc. [^epub2-specification](http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm)
 
 
 
-At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported [Digital Rights Management](#Digital Rights Management) (DRM)<!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained: what this is or what the consequences are. e.g 'The practice is controversial as it often hampers paying customers in freely interacting with digital goods' --> engineered by *Mobipocket*. [^amazon-aquires-mobipocket](https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386) Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard. [^mobileread-palmdoc](http://wiki.mobileread.com/wiki/PalmDOC) Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an acronym for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company. [^amazon-azw](http://wiki.mobileread.com/wiki/AZW#Internal_Formats)
+At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported [Digital Rights Management](#Digital Rights Management) (DRM) engineered by *Mobipocket*.
+<!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained: what this is or what the consequences are. e.g 'The practice is controversial as it often hampers paying customers in freely interacting with digital goods' -->  
+[^amazon-aquires-mobipocket](https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386) Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard. [^mobileread-palmdoc](http://wiki.mobileread.com/wiki/PalmDOC) Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an acronym for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company. [^amazon-azw](http://wiki.mobileread.com/wiki/AZW#Internal_Formats)
 
-Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011[^reader-specification], brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others. [^epub3-changes](http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5) EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions. [^amazon-kf8](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511), [^ibooks-author](http://www.apple.com/ibooks-author/) These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM. [^ibooks-photo-blocks](http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html), [^ibooks-multicolumn](http://padilicious.com/multicolumn/index.html), [^amazon-kf8](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511) An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package. [^azw3kf8-breakdown](http://wiki.mobileread.com/wiki/KF8#Overview)
+Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011[^reader-specification], brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using [**CSS3**](id:css), scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others. [^epub3-changes](http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5) EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions. [^amazon-kf8](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511), [^ibooks-author](http://www.apple.com/ibooks-author/) These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM. [^ibooks-photo-blocks](http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html), [^ibooks-multicolumn](http://padilicious.com/multicolumn/index.html), [^amazon-kf8](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511) An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package. [^azw3kf8-breakdown](http://wiki.mobileread.com/wiki/KF8#Overview)
 
 Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple](http://www.apple.com/itunes/working-itunes/sell-content/books/) Other major players include Kobo, Google Play and Barnes & Nobles' NookPress. [^epub-seller-kobo](http://nl.kobo.com/writinglife), [^epub-google-play](https://play.google.com/books/publish/signup#settings), [^epub-seller-barnes](https://www.nookpress.com/support/faq) [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
-
-
 
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
@@ -524,9 +309,6 @@ Of course EPUB 3.0 files without proprietary extensions exist as well and are so
 
 ###Other formats
 The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colours, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *Comic Book Archive*, [^comic-book-archive](https://launchpad.net/acbf) however support for these file formats by ereaders varies greatly.
-
-<!--Amy: here I elaborated on what a reflowable document is vs. what a fixed layout is. -->
-
 
 ##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like ereaders or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an ereader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications.
@@ -540,12 +322,13 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
 ![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations_04.png "Strengths & Limitations.")
-<!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  -->
+<!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  
+Margreet: I agree with Amy. Margreet asked Kimmy and Loes to have a look (22.10.2014).-->
 
 ###Tablets
 The tablet-market is dominated by two main players, [^sales-figures-tablet](http://www.gartner.com/newsroom/id/2674215) Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#Reader software) section.
 
-Apple's and Samsung's most recent tablet screens cover nearly the entire sRGB color space<!-- add to glossary -->, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
+Apple's and Samsung's most recent tablet screens cover nearly the entire **sRGB color space**, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphones
 The story for tablets also largely applies to the realm of smartphones. [^sales-figures-phone](http://www.gartner.com/newsroom/id/2665715) Of course most smartphones have smaller screens than both ereaders and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
@@ -560,8 +343,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 ![Strengths & Limitations](../images/_in_progress/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
 
 ###Mobile applications
-There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi and txt) <!-- add to glossary --> and PDF.
-<!-- Silvio: ”Amazon's proprietary file formats (AZW, KF8, mobi ) along with txt and PDF. -->
+There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB3.
@@ -605,22 +387,7 @@ Readium is a project by several publishers and technology companies aiming to pr
 ####epubReader
 epubReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as epubReader is only compatible with Mozilla Firefox.
 
-
-<!-- Amy: I noticed that 'Alternative ways of publishing' is repeated in chapter 09. I suggest to delete this, or at least to make a condensed summary. -->
-
-###Alternative ways of publishing 
-
-<!-- header title might change (app creators). this should be a chapter also covering layargloss and adobe digital publishing suites, sigil and calibre --> 
  
-A single downloadable package like EPUB might be a great vehicle to monetize, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios](http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android), [^penguin-amplified], [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an ebook to another device. An application binary cannot be copied to another device that easily, partly because of incompatible platform architecture (iOS versus Android, or even iOS versus Mac OS X) and other, more artificial obstacles (DRM). 
-
-<!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
-- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
-
-Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent*.[^de-correspondent](https://decorrespondent.nl) One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
-
-
-
 
 [^businessweek-ebooks]: E-BOOKS: A LIBRARY ON YOUR LAP, http://www.businessweek.com/1998/46/b3604010.htm.
 [^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., On the Interoperability of eBook Formats,  Johannes Gutenberg-Universität Mainz, 2013, p. 12, http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf.
@@ -1884,9 +1651,14 @@ Advantages, disadvantages:
 
 Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
 
-A single downloadable package like EPUB might be a great vehicle to monetise, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios] [^penguin-amplified] [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an EPUB to another device, however application binaries are not that easily passed around, mostly due to the relatively closed nature of mobile operating systems.
+<!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
+- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
 
-Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent*. One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
+
+A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS [^guardian-ios] version of their newspaper, the amplified ebooks by Penguin [^penguin-amplified] or the children's book by Purple Carrot [^purple-carrot-publication].
+These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an EPUB to another device, however application binaries are not that easily passed around, mostly due to the relatively closed nature of mobile operating systems.
+
+Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent* [^de-correspondent]. One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
 
 
 ##Authoring Suites
@@ -1932,6 +1704,11 @@ In a perfect future, Calibre would use pandoc as its import and document convers
 ###Enhancers: Adobe Digital Publishing Suite, Mag+
 These applications mostly integrate (as plugins) in an existing Adobe InDesign and allow designers to define interactive content (media, animations, etc.) in a traditional print design. As such these tools are often used to convert print magazines into their digital counterparts suitable for sale in Apple's Newsstand, for example.
 
+
+[^guardian-ios]: Guardian app for iOS and Android, http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android.
+[^penguin-amplified]: For example: Jack Kerouac's On the Road (A Penguin Books Amplified Edition), July 2, 2011, http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and Ayn Rand's Atlas Shrugged (An NAL Amplified Edition), October 12, 2013, Ayn Rand's Atlas Shrugged (An NAL Amplified Edition)http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php.
+[^purple-carrot-publication]: The Prisoner of Carrot Castle, November 19, 2013, https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4.
+[^de-correspondent]: https://decorrespondent.nl.
 [^calibre_edit-ebooks]: 'calibre's ebook editor', <a href="http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html">http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html</a>
 
 # 10 Futurology
@@ -2077,7 +1854,7 @@ A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 *CAD/CAM*
 Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.
 
-*CSS (Cascading Style Sheets)*
+*[CSS (Cascading Style Sheets)]*(#CSS)
 Cascading Style Sheets are a feature of HTML4 that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents. This makes it possible to set up CSS file containing a library of styles that are used throughout a website, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
 
 *CMS (Content Management System)*
@@ -2375,7 +2152,7 @@ A measure of the number of pixels or small dots displayed on a computer display 
 *RTF (Rich Text Format)*
 An alternative way of storing a document created with a MS-Word-processor. RTF-formatted files can be moved relatively easily between different computer systems. RTF format is also recommended when transmitting an Attachment by Email as it is much safer than the Microsoft Word formats, which can harbour Word Macro viruses. RTF files preserve most of the formatting contained in DOC-formatted files.
 
-### S
+### **S**
 
 *SDK (Software Development Kit)*
 
@@ -2387,6 +2164,10 @@ A program that enables the user to set up a program or suite of programs on the 
 
 *Shockwave Player*
 Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.
+
+*sRGB color space*
+sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the Internet.
+
 
 *Streaming*
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
@@ -2460,9 +2241,17 @@ A markup language mainly used to produce websites. It generally has the same cha
 # 12 Software Catalogue 
 A catalogue of open source software written in the context of the project with links to the relevant GitHub repositories.
 
+
+In the present project we deal with various kinds of products which we combine into five genres: 
+
+
+
 ## BIS Publishers
 
 ## INC
+An example of a *research publication* is the Society of Quert reader, issued by INC.
+<!-- Can be worked out more -->
+
 
 <a href="https://github.com/DigitalPublishingToolkit/epubtrailer.py">https://github.com/DigitalPublishingToolkit/epubtrailer.py</a>
 <a href="https://github.com/DigitalPublishingToolkit/mmd-meta-validation">https://github.com/DigitalPublishingToolkit/mmd-meta-validation</a>
