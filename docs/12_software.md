@@ -5,8 +5,8 @@ A catalogue of open source software written in the context of the project with l
 
 ## INC
 
-https://github.com/DigitalPublishingToolkit/epubtrailer.py
-https://github.com/DigitalPublishingToolkit/mmd-meta-validation
+<a href="https://github.com/DigitalPublishingToolkit/epubtrailer.py">https://github.com/DigitalPublishingToolkit/epubtrailer.py</a>
+<a href="https://github.com/DigitalPublishingToolkit/mmd-meta-validation">https://github.com/DigitalPublishingToolkit/mmd-meta-validation</a>
 
 ## NAI/010 Publishers
 The project for NAI/010 Publishers has two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of objects from this collection. The other is a set of WordPress plugins, extending the functionality of the WordPress JSON REST API ([WP-API](https://github.com/WP-API/WP-API)) and facilitate the generation of EPUBs using the content from a WordPress database. The latter is basically a packaged version of the CakePHP EPUB component that builds on Asbjørn Grandt's PHPePub.
