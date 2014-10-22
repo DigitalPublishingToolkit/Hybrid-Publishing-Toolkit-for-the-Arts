@@ -38,11 +38,11 @@
 # [05 Distribution platforms](docs/05_distribution_platforms.md) 
 <!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
 
-## E-book stores: Amazon, Apple, Google, Kobo, Sony <!--Marc-->
+## Ebook stores: Amazon, Apple, Google, Kobo, Sony <!--Marc-->
 ## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog <!--Miriam-->
 ## Print-on-demand <!--Miriam-->
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
-## Artist-/designer-run projects: Badlands, KYUR8, artists e-books <!--Florian-->
+## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks <!--Florian-->
 
 
 # [06 Towards a Hybrid Workflow Based on Markdown](docs/06_workflows.md) 
