@@ -66,17 +66,17 @@ body {
 }
 
 p {
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  hyphens: auto;
-  hyphenate-after: 3;
-  hyphenate-before: 3;
-  hyphenate-lines: 2;
-  -webkit-hyphenate-after: 3;
-  -webkit-hyphenate-before: 3;
-  -webkit-hyphenate-lines: 2;
-  orphans: 2;
-  widows: 2;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    hyphenate-after: 3;
+    hyphenate-before: 3;
+    hyphenate-lines: 2;
+    -webkit-hyphenate-after: 3;
+    -webkit-hyphenate-before: 3;
+    -webkit-hyphenate-lines: 2;
+    orphans: 2;
+    widows: 2;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -131,53 +131,59 @@ a:hover {
 }
 
 hr {
-  border-width: 0;
-  height: 0;
-  border-top-width: 1px;
-  border-style: solid;
-  border-color: #333;
-  margin: 15px 0;
+    border-width: 0;
+    height: 0;
+    border-top-width: 1px;
+    border-style: solid;
+    border-color: #333;
+    margin: 15px 0;
 }
 
 sup {
-  vertical-align: super;
-  font-size: 0.5em;
-  line-height: 0.5em;
+    vertical-align: super;
+    font-size: 0.5em;
+    line-height: 0.5em;
 }
 
 sub {
-  vertical-align: sub;
-  font-size: 0.5em;
-  line-height: 0.5em;
+    vertical-align: sub;
+    font-size: 0.5em;
+    line-height: 0.5em;
 }
 
 .footnotes {
-  font-size: 0.8em;
+    font-size: 0.8em;
 }
 
 .footnotes li p a:last-child {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  margin-left: 5px;
+    font-size: 0.6em;
+    line-height: 0.6em;
+    margin-left: 5px;
 }
 
 ul, ol, dl {
-  margin: 1em 0 1em 0;
-  text-align: left;
+    margin: 1em 0 1em 0;
+    text-align: left;
 }
 
 li {
-  orphans: 2;
-  widows: 2;
-  margin: 0;
+    orphans: 2;
+    widows: 2;
+    margin: 0;
 }
 
 li p {
-  margin-top: 0;
-  margin-bottom: 5px;
+    margin-top: 0;
+    margin-bottom: 5px;
 }
 
 
 img.bloglink{
-    width:1em;
+    width:0.7em;
+    margin-top:5px;
+    border: 1px solid transparent;
+}
+
+img.bloglink:hover {
+    border: solid #0F0 1px;
 }
