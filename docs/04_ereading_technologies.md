@@ -11,9 +11,7 @@ A file format is a standard way that information is encoded for storage in a com
 In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
 
 ###Reflowable documents (EPUB and AZW)
-The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press. [^businessweek-ebooks](http://www.businessweek.com/1998/46/b3604010.htm) SoftBook Press developed the format, based on [XML](#XML) and [XHTML](#XHTML) <!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained, or make a note to refer to chapter 06 where it's described in greater detail -->, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*). [^interoperability-of-ebook-formats](http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf)  The EPUB 2.0 standard has support for basic styling, custom fonts, etc. [^epub2-specification](http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm)
-
-
+The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press. [^businessweek-ebooks](http://www.businessweek.com/1998/46/b3604010.htm) SoftBook Press developed the format, based on [XML](#XML) and [XHTML](#XHTML), as a companion to their ereader. <!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained, or make a note to refer to chapter 06 where it's described in greater detail --> The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*). [^interoperability-of-ebook-formats](http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf)  The EPUB 2.0 standard has support for basic styling, custom fonts, etc. [^epub2-specification](http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm)
 
 At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported [Digital Rights Management](#Digital Rights Management) (DRM) engineered by *Mobipocket*.
 <!--Amy: Tried to link to chapter 11 glossary but not sure if it's working. I feel that this should be further explained: what this is or what the consequences are. e.g 'The practice is controversial as it often hampers paying customers in freely interacting with digital goods' -->  
@@ -149,12 +147,4 @@ epubReader is similar to the browser extension offered by Readium. However, the 
 
 
 
-
-
-
-
-
-<!-- Amy: removed this footnote as it was not in body text
-[^epub3-specification]: idpf, 'epub 3 Overview, Recommended Specification 11 October 2011', 2011, http://www.idpf.org/epub/30/spec/epub30-overview.html
--->
 
