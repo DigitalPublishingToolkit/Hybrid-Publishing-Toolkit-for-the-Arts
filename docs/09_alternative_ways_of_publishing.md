@@ -52,4 +52,4 @@ In a perfect future, Calibre would use pandoc as its import and document convers
 ###Enhancers: Adobe Digital Publishing Suite, Mag+
 These applications mostly integrate (as plugins) in an existing Adobe InDesign and allow designers to define interactive content (media, animations, etc.) in a traditional print design. As such these tools are often used to convert print magazines into their digital counterparts suitable for sale in Apple's Newsstand, for example.
 
-[^calibre_edit-ebooks]: 'calibre's ebook editor', http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html
+[^calibre_edit-ebooks]: 'calibre's ebook editor', <a href="http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html">http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html</a>

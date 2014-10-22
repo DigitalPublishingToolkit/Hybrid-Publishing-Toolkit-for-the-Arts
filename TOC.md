@@ -15,8 +15,8 @@
 <!--status: ready for copy-edit-->
 
 ## What is a text?
-## What is an electronic text?
 ## What are some electronic possibilities 
+## Summing up
 
  
 # [03 Genres of publication](docs/03_genres_of_publication.md) 

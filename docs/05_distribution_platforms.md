@@ -212,7 +212,7 @@ making public domain books, available to the general public, in electronic forma
 * Useful separation between public domain classic works and self-published titles.
 
 *Weaknesses*  
-* (ASCII legacy http://en.wikipedia.org/wiki/Project_Gutenberg#Criticism)
+* (ASCII legacy <a href="http://en.wikipedia.org/wiki/Project_Gutenberg#Criticism">http://en.wikipedia.org/wiki/Project_Gutenberg#Criticism</a>)
 
 * Third party website  
 
@@ -391,6 +391,7 @@ Choose your preferred ways of distribution
 
 ###Global options
 
+<<<<<<< HEAD
 *[Kobo Writing Life](http://www.kobobooks.com/kobowritinglife) [^Kobo-Writing-Life]* 
 lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
 
@@ -405,6 +406,22 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 *[CB Print on demand](http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)[^CB-Print-on-demand]* is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
 *[Boekscout](http://www.boekscout.nl/)[^Boekscout]* is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
+=======
+*[Kobo Writing Life](http://www.kobobooks.com/kobowritinglife)*
+lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
+
+*[PubIt!](http://pubit.barnesandnoble.com/)* automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers.
+
+*[Smashwords](http://www.smashwords.com/about/how_to_publish_on_smashwords) makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel ebook Store and more. There are no setup fees and no cost to update or revise your book. 
+
+*[XinXii](http://www.xinxii.com/)* facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and mobi. As an aggregator, XinXii distributes to major international ebook retailers.
+
+###Options in the Netherlands
+
+*[CB Print on demand](http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)* is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
+
+*[Boekscout](http://www.boekscout.nl/)* is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
+>>>>>>> 0c1a1e466158d85cc6d9e7dcdcb80a2c591c03f9
 
 
 
@@ -429,7 +446,11 @@ What online booksellers could learn from these sites:
 
 #### Specialized sites
 
+<<<<<<< HEAD
 Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the web sites [aaaaarg.org](http://aaaaarg.org/)[^aaaaarg.org] and [Monoskop](http://monoskop.org/log/) [^Monoskop]provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
+=======
+Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the web sites [aaaaarg.org](http://aaaaarg.org/) and [Monoskop](http://monoskop.org/Monoskop) provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
+>>>>>>> 0c1a1e466158d85cc6d9e7dcdcb80a2c591c03f9
 
 Best known, and factually legendary, is [Ubuweb](http://www.ubu.com)[^Ubuweb], an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
 
@@ -440,8 +461,7 @@ All these sites run like small specialty bookstores (although they don't sell an
 
 ## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks
 
-In the last couple of years, there have been first attempts to create only
-small presses and book download stores for [artists' and designer's books](#03_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term 'new aesthetics') created the website 'artistsebooks.org'  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app 'KYUR8' (slang riff on 'curate') invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com](http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com](http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
+In the last couple of years, there have been first attempts to create only small presses and book download stores for [artists' and designer's books](#03_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term 'new aesthetics') created the website 'artistsebooks.org'  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app 'KYUR8' (slang riff on 'curate') invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com](http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com](http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
 
 None of these projects compete with classical ebook stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portfolio pieces. 
 
@@ -470,3 +490,5 @@ None of these projects compete with classical ebook stores, online reading platf
 [^aaaaarg.org]: AAAAARG, http://aaaaarg.org/.
 [^Monoskop]: Monoskop Log, http://monoskop.org/log.
 [^Ubuweb]: Ubuweb, http://www.ubu.com.
+
+
