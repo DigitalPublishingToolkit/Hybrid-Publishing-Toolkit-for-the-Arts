@@ -6,12 +6,24 @@
 * markdown 
 * css 
 Maybe these concepts could be made more tangible with examples, how the same content and formatting are represented in both html and markdown.
-
 * mentioning SGML seems besides the point since the reader probably wont ever touch it.
+
+
+Joost: I disagree as comment text is -as said- for the uninitiated. He is typical not a
+publisher or book researcher. We present an introduction to a different kind of
+thinking.Practical examples belong to the following chapters.
+
+Hence mark-up is explained
+
+SGML is crucial though most people simple understand this.
+
+I added some text in order to have a better overflow to the following chapters
+
+
 -->
 
 
-Although there are no stupid questions, there may be times when one is hesitant to ask questions in situations where the people around seem to be in the know already. In this section we try to explain the fundamentals of electronic publishing in order to help the reader formulate questions more precisely.
+Although there are no stupid questions, there may be times when one is hesitant to ask questions in situations where the people around seem to be in the know already. In this section we try to explain the fundamentals of electronic publishing in order to help the reader formulate questions more precisely. Firstly we introduce the fundamental notions and at the end we conclude with a short overview.
 
 
 ## What is a text?
