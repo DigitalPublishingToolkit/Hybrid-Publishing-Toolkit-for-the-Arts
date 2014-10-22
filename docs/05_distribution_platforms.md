@@ -4,11 +4,11 @@
 
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of Nook devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo.
 
-The aforementioned storefronts typically charge a percentage for each publication sold, this percentage generally is no less than 30% of the retail price. [^apple-press-percentage] [^guardian-amazon-hachette] Apart from Google, most of the larger retailers offer tight integration with their own branded ereader hardware (Kindle, iPad, Nook, etc.) For example, publications bought on a Kindle via the Amazon Store are immediately downloaded to the device for further use, without hooking the device up to a computer and transferring the purchases manually.
+The aforementioned storefronts typically charge a percentage for each publication sold, this percentage generally is no less than 30% of the retail price [^apple-press-percentage], [^guardian-amazon-hachette]. Apart from Google, most of the larger retailers offer tight integration with their own branded ereader hardware (Kindle, iPad, Nook, etc.) For example, publications bought on a Kindle via the Amazon Store are immediately downloaded to the device for further use, without hooking the device up to a computer and transferring the purchases manually.
 
-Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author. [^apple-publication-guidelines] Amazon, via their Kindle Direct Publishing programme, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing]
+Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author [^apple-publication-guidelines]. Amazon, via their Kindle Direct Publishing programme, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents [^kindle-direct-publishing].
 
-## Online reading platforms: Scribd, Issuu, Internet Archive, website / blog
+## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
 
@@ -408,7 +408,7 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 
 
 
-##Pirate platforms
+## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
 As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistent to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
 
 Commercial providers of digital content can learn a lot from the pirates. [Netflix](http://www.netflix.com), the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on [The Pirate Bay](http://thepiratebay.se). 
@@ -438,10 +438,10 @@ All these sites run like small specialty bookstores (although they don't sell an
 
 
 
-## artist-/designer-run e-publishing projects
+## Artist-/designer-run projects: Badlands, KYUR8, artists e-books
 
 In the last couple of years, there have been first attempts to create only
-small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term 'new aesthetics') created the website 'artistsebooks.org'  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app 'KYR8' (slang riff on 'curate') invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com] (http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com] (http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
+small presses and book download stores for [artists' and designer's books](04_genres_of_publication.html): writer, artist and publisher, James Bridle (who coined the term 'new aesthetics') created the website 'artistsebooks.org'  with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app 'KYUR8' (slang riff on 'curate') invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com] (http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com] (http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
 
 None of these projects compete with classical ebook stores, online reading platforms or even specialist pirate sites. They are, after all, experimental projects and artists' portfolio pieces. 
 

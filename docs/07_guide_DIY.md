@@ -65,7 +65,7 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
 
 
-##Do it yourself EPUB from scratch
+## Do it yourself EPUB from scratch
 
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail.
 

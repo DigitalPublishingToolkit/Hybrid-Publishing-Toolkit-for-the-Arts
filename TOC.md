@@ -6,24 +6,24 @@
 
 ## Industry promises versus reality
 ## What this Toolkit provides
-## Whom is this toolkit written
-## How to use this toolkit
-## Who worked on this toolkit
+## Whom is this Toolkit written for
+## How to use this Toolkit
+## Who worked on this Toolkit
+
 
 # [02 The Basics](docs/02_the_basics.md)
 <!--status: ready for copy-edit-->
 
 ## What is a text?
 ## What is an electronic text?
-## What is an electronic? publication
-## Electronic possibilities 
+## What are some electronic possibilities 
 
  
 # [03 Genres of publication](docs/03_genres_of_publication.md) 
 <!--status: ready for copy-edit-->
 
 ## 1) Research publication
-## 2) Art/design publication
+## 2) Art/design catalogue
 ## 3) Art/designer book
 ## 4) Art/designer periodical
 ## 5) New genres of publication
@@ -38,25 +38,27 @@
 # [05 Distribution platforms](docs/05_distribution_platforms.md) 
 <!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
 
-## E-book stores: Amazon, Apple, Google, Kobo, Sony... <!--Marc-->
-## Online reading platforms: Scribd, Issuu, website, etc. <!--Miriam-->
+## E-book stores: Amazon, Apple, Google, Kobo, Sony <!--Marc-->
+## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog <!--Miriam-->
 ## Print-on-demand <!--Miriam-->
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
 ## Artist-/designer-run projects: Badlands, KYUR8, artists e-books <!--Florian-->
 
-# [06 Workflows](docs/06_workflows.md) 
+
+# [06 Towards a Hybrid Workflow Based on Markdown](docs/06_workflows.md) 
 <!--status: needs work and cutting-->
 
+## E-publishing workflows: desktop publishing, XML, Markdown 
+## Database publishing 
 
-## Why change your life <!-- Florian -->
-## Towards a hybrid workflow 
 
-# [07 Guide: Do it yourself epub](docs/07_guide_DIY.md) 
+
+# [07 Guide: How to make a simple EPUB](docs/07_guide_DIY.md) 
 <!--status: ask input from Florian -->
 
-## A simple e-book 
-## Direct conversion to ePub
-## Epub from scratch 
+## Direct conversion
+## Do it yourself EPUB from scratch
+
 
 # [08 Guide: / E-publications per genre](docs/08_guide_workflow.md) 
 <!--status: work needed-->
@@ -68,27 +70,33 @@
 
 
 
-# [9 Alternative ways of publishing](docs/09_alternative_ways_of_publishing.md)
+# [09 Guide: Alternative ways of publishing](docs/09_alternative_ways_of_publishing.md)
 
 
 
 # [10 Futurology](docs/10_futurology.md) 
 <!--status: work needed--><!--Michael, Silvio, Florian, Joost, Arjen, Kimmy-->
-
+## What we can expect
 ## Reading technology 
 ## Reading culture 
 ## Publishing culture
-## New genres 
 
 
 # [11 Glossary of technical terms](docs/11_glossary.md)
 <!--status: pending, add unknown words when you see them-->
 
-# [12 Software catalogue](docs/12_software.md) 
+# [12 Software Catalogue](docs/12_software.md) 
 <!--status: -->
 
+## BIS Publishers
+## INC
+## NAI/010 Publishers
+## Valiz
+
+<!-- Amy: removed old titles.
 ## Pre-existing software
 ## Self-written software
+-->
 
 # [13 Appendix](docs/13_appendix.md)
 

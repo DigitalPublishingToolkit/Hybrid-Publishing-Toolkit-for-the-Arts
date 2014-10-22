@@ -41,7 +41,7 @@ As mentioned before 'you must change your life', so there might a little culture
 
 
 
-## How to use this toolkit 
+## How to use this Toolkit 
 
 The Toolkit aims to provide a practical guide on how to develop electronic publications
 for publishers as well as for anyone else interested in this subject matter. It will attempt to give insight into the preconditions of electronic publishing, providing open-source tools where possible, and allow publishers of the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way.

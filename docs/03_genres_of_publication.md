@@ -96,7 +96,7 @@ New genres of publication are likely to emerge out of the ongoing digitization o
 <!-- For example one can think of platforms used to collect tweets in book form or **tumblogs** in an epub as shown during the Off the Press conference. << Miriam: This is a meaningless reference for most readers... name the examples by name or leave out. Margreet: Is someone able to add these? --> <!-- Leave out examples completley, takes away from the ' lots is possible' feeling -->
 
 
-## Three levels of electronic publishing
+## 3 levels of electronic publishing
 
 <!-- The goal of the project is to define a common ground for directions, strategies, and tools that will enhance the transition from paper-only publications to a mixture of paper & electronic publication, given the above listed genres of publications.
 As the mindset of the partners in the projects are very diverse and in most companies the discussion is only in an early stage, it does not make sense to produce a matrix of all questions and all answers. A better approach is to try and sketch the overall picture, based on commonalities and diversions. This attempt is presented below. Miriam: this is non-information to readers of the manual who are not in the project. The general statements are already mentioned elsewhere--> <!-- afgreed let's delete-->

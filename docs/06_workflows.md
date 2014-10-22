@@ -12,7 +12,7 @@ Note: An important step preceding the publication trajectory lies in the formula
 
 We will now turn to implementing the new workflow for small edition and low budget publishing houses.
 
-## Epublishing workflows: desktop publishing, XML, Markdown 
+## E-publishing workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](../images/_in_progress/07_workflowTRADITIONAL03.png "Workflow Traditional.")
 
 
