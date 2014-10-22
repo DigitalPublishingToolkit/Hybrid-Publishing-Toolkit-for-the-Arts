@@ -19,11 +19,11 @@ We will now turn to implementing the new workflow for small edition and low budg
 ![Traditional XML](../images/_in_progress/07_workflowMarkdown03.png "Workflow XML.")
 
 <!-- links on the blog: 
-* http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/
-* http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/
+* <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
+* <a href="http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/">http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/</a>
 -->
 
-<!-- Silvio: This might be integrated with ICML import from pandoc to have structured text in InDesign to be used by the designer: http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ -->
+<!-- Silvio: This might be integrated with ICML import from pandoc to have structured text in InDesign to be used by the designer: <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a> -->
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
 
@@ -206,5 +206,5 @@ In conclusion, we can only advise that various objects or in other words pictori
 
 [^1]: A thorough guide for InDesign-to-EPUB publication is Elizabeth Castro, *EPUB Straight to the Point*. San Francisco: Peachpit Press, 2010. 
 
-[^2]: http://daringfireball.net/projects/markdown/
-[^commonmark-controversy]: http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/
+[^2]: <a href="http://daringfireball.net/projects/markdown/">http://daringfireball.net/projects/markdown/</a>
+[^commonmark-controversy]: <a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/">http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/</a>

@@ -19,7 +19,7 @@ Nowadays, roughly two generations of widely used ebook formats exist. One genera
 EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions [^amazon-kf8], [^ibooks-author]. These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM [^ibooks-photo-blocks], [^ibooks-multicolumn], [^amazon-kf8]. An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package [^azw3kf8-breakdown].
 
 
-Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress [^epub-seller-kobo], [^epub-google-play] [^epub-seller-barnes]. [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
+Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store. [^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress [^epub-seller-kobo], [^epub-google-play] [^epub-seller-barnes]. [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
@@ -118,8 +118,8 @@ epubReader is similar to the browser extension offered by Readium. However, the 
  
 A single downloadable package like EPUB might be a great vehicle to monetize, but there could be other factors to consider when publishing. A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS version of their newspaper, the amplified ebooks by Penguin or the children's book by Purple Carrot. [^guardian-ios] [^penguin-amplified] [^purple-carrot-publication] These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an ebook to another device. An application binary cannot be copied to another device that easily, partly because of incompatible platform architecture (iOS versus Android, or even iOS versus Mac OS X) and other, more artificial obstacles (DRM). 
 
-<!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: http://www.adobe.com/it/solutions/ebook/digital-editions.html
-- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html -->
+<!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
+- the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
 
 
 Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent*.[^de-correspondent] One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
@@ -128,66 +128,66 @@ Lastly, why not just publish essays, articles or even whole books on a website? 
 
 <!-- Amy: Work in progress. will fix it on this wed-->
 
-[^calibre-file-formats]: http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from.
+[^calibre-file-formats]: <a href="http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from">http://manual.calibre-e-book.com/faq.html#what-formats-does-app-support-conversion-to-from</a>.
 
-[^ade-readers]: http://blogs.adobe.com/digitalpublishing/supported-devices.
+[^ade-readers]: <a href="http://blogs.adobe.com/digitalpublishing/supported-devices">http://blogs.adobe.com/digitalpublishing/supported-devices</a>.
 
-[^bookworm-oreilly]: http://oreilly.com/bookworm.
+[^bookworm-oreilly]: <a href="http://oreilly.com/bookworm">http://oreilly.com/bookworm</a>.
 
-[^bookish]: https://booki.sh.
+[^bookish]: <a href="https://booki.sh">https://booki.sh</a>.
 
-[^bookish-blog]: http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/.
+[^bookish-blog]: <a href="http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/">http://blog.booki.sh/blog/post/e-book-sales-via-booki-sh-to-end-on-june-30/</a>.
 
-[^readium-goals]: http://readium.org/readium-project-goals.
+[^readium-goals]: <a href="http://readium.org/readium-project-goals">http://readium.org/readium-project-goals</a>.
 
-[^readium-extension]: https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl.
+[^readium-extension]: <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl">https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl</a>.
 
-[^businessweek-ebooks]: http://www.businessweek.com/1998/46/b3604010.htm.
+[^businessweek-ebooks]: <a href="http://www.businessweek.com/1998/46/b3604010.htm">http://www.businessweek.com/1998/46/b3604010.htm</a>.
 
-[^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., 'On the Interoperability of eBook Formats',  Johannes Gutenberg-Universität Mainz, 2013, p. 12, http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf.
+[^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., 'On the Interoperability of eBook Formats',  Johannes Gutenberg-Universität Mainz, 2013, p. 12, <a href="http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf">http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf</a>.
 
-[^epub2-specification]: idpf, 'Open Publication Structure (OPS) 2.0.1 v1.0.1, Recommended Specification September 4, 2010', 2010, http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm.
+[^epub2-specification]: idpf, 'Open Publication Structure (OPS) 2.0.1 v1.0.1, Recommended Specification September 4, 2010', 2010, <a href="http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm">http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm</a>.
 
-[^amazon-aquires-mobipocket]: Rosenblatt, B., 'Amazon.com Acquires Mobipocket', DRMWatch.com, 2005, https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386.
+[^amazon-aquires-mobipocket]: Rosenblatt, B., 'Amazon.com Acquires Mobipocket', <a href="http://DRMWatch.com">DRMWatch.com</a>, 2005, <a href="https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386">https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386</a>.
 
-[^mobileread-palmdoc]: http://wiki.mobileread.com/wiki/PalmDOC.
+[^mobileread-palmdoc]: <a href="http://wiki.mobileread.com/wiki/PalmDOC">http://wiki.mobileread.com/wiki/PalmDOC</a>.
 
-[^amazon-azw]: http://wiki.mobileread.com/wiki/AZW#Internal_Formats.
+[^amazon-azw]: <a href="http://wiki.mobileread.com/wiki/AZW#Internal_Formats">http://wiki.mobileread.com/wiki/AZW#Internal_Formats</a>.
 
-[^amazon-kf8]: http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511.
+[^amazon-kf8]: <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511</a>.
 
-[^epub3-specification]: idpf, 'epub 3 Overview, Recommended Specification 11 October 2011', 2011, http://www.idpf.org/epub/30/spec/epub30-overview.html
+[^epub3-specification]: idpf, 'epub 3 Overview, Recommended Specification 11 October 2011', 2011, <a href="http://www.idpf.org/epub/30/spec/epub30-overview.html">http://www.idpf.org/epub/30/spec/epub30-overview.html</a>
 
-[^epub3-changes]: ipdf, 'epub 3 Changes from epub 2.0.1', 2011, http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5.
+[^epub3-changes]: ipdf, 'epub 3 Changes from epub 2.0.1', 2011, <a href="http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5">http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5</a>.
 
-[^ibooks-author]: http://www.apple.com/ibooks-author/.
+[^ibooks-author]: <a href="http://www.apple.com/ibooks-author/">http://www.apple.com/ibooks-author/</a>.
 
-[^ibooks-photo-blocks]: Castro, L., 'Expandable Photo Blocks in iBooks on iPad',  Pigs, Gourds and Wikis, http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html.
+[^ibooks-photo-blocks]: Castro, L., 'Expandable Photo Blocks in iBooks on iPad',  Pigs, Gourds and Wikis, <a href="http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html">http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html</a>.
 
-[^ibooks-multicolumn]: 'Create Multi-Column Article for the iPad', http://padilicious.com/multicolumn/index.html.
+[^ibooks-multicolumn]: 'Create Multi-Column Article for the iPad', <a href="http://padilicious.com/multicolumn/index.html">http://padilicious.com/multicolumn/index.html</a>.
 
-[^azw3kf8-breakdown]: http://wiki.mobileread.com/wiki/KF8#Overview.
+[^azw3kf8-breakdown]: <a href="http://wiki.mobileread.com/wiki/KF8#Overview">http://wiki.mobileread.com/wiki/KF8#Overview</a>.
 
-[^epub-seller-kobo]: http://nl.kobo.com/writinglife.
+[^epub-seller-kobo]: <a href="http://nl.kobo.com/writinglife">http://nl.kobo.com/writinglife</a>.
 
-[^epub-google-play]: https://play.google.com/books/publish/signup#settings.
+[^epub-google-play]: <a href="https://play.google.com/books/publish/signup#settings">https://play.google.com/books/publish/signup#settings</a>.
 
-[^epub-seller-barnes]: https://www.nookpress.com/support/faq.
+[^epub-seller-barnes]: <a href="https://www.nookpress.com/support/faq">https://www.nookpress.com/support/faq</a>.
 
-[^comic-book-archive]: https://launchpad.net/acbf.
+[^comic-book-archive]: <a href="https://launchpad.net/acbf">https://launchpad.net/acbf</a>.
 
-[^kobo-debian]: http://www.mobileread.com/forums/showthread.php?t=82378
+[^kobo-debian]: <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>
 
-[^epub-seller-apple]: http://www.apple.com/itunes/working-itunes/sell-content/books/.
+[^epub-seller-apple]: <a href="http://www.apple.com/itunes/working-itunes/sell-content/books/">http://www.apple.com/itunes/working-itunes/sell-content/books/</a>.
 
-[^guardian-ios]: 'The New Free Guardian app for iOS and Android', *The Guardian* 29 May 2014, http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android.
+[^guardian-ios]: 'The New Free Guardian app for iOS and Android', *The Guardian* 29 May 2014, <a href="http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android">http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android</a>.
 
-[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), 2 July 2011, http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), 12 October 2013, http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php.
+[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), 2 July 2011, <a href="http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php">http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php</a> and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), 12 October 2013, <a href="http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php">http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php</a>.
 
-[^purple-carrot-publication]: Purple Carrot Books, *The Prisoner of Carrot Castle*, 19 November, 2013, https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4.
+[^purple-carrot-publication]: Purple Carrot Books, *The Prisoner of Carrot Castle*, 19 November, 2013, <a href="https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo=4">https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4</a>.
 
-[^de-correspondent]: https://decorrespondent.nl.
+[^de-correspondent]: <a href="https://decorrespondent.nl">https://decorrespondent.nl</a>.
 
-[^sales-figures-tablet]: http://www.gartner.com/newsroom/id/2674215.
+[^sales-figures-tablet]: <a href="http://www.gartner.com/newsroom/id/2674215">http://www.gartner.com/newsroom/id/2674215</a>.
 
-[^sales-figures-phone]: http://www.gartner.com/newsroom/id/2665715.
+[^sales-figures-phone]: <a href="http://www.gartner.com/newsroom/id/2665715">http://www.gartner.com/newsroom/id/2665715</a>.
