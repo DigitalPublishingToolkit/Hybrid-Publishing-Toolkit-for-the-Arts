@@ -1,4 +1,5 @@
 # 01 Introduction 
+
 'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats (eg a catalog), (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
 
 
@@ -18,8 +19,7 @@ For art and design publishers, the challenge of going electronic with their publ
 
 ## Industry promises versus reality
 
-We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain
-specific to one particular technical reading platform.
+We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
 
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
 <!-- andre: the later aspect could be further developed, so that it gives a more positive and exciting tone to digital publishing. Before jumping to the example one could speculate about the possible transformation of traditional publishing formats brought by digital publication.
@@ -35,19 +35,20 @@ platform-independence. The recommendations stem from our practical experience in
 
 
 ## Whom is this Toolkit written for
+
 You may be a publisher, a designer or someone who is just starting out with making books. You probably identify with or work in the arts. You may hope to gain answers, knowledge, get tips, and consult various resources. This Toolkit intends to provide them all. The overall focus is on pragmatic solutions for publishers within the art and cultural sector. No prior knowledge of creating an ebook is required – with that said, a familiarity of various computer software is helpful, as is the willingness to learn and the inquisitive curiosity to look beyond this guide for certain answers. This publication is not a tutorial on how to make an electronic publication, it merely intends to give the reader guidance on how to make a first attempt at creating an electronic publication.
 
 As mentioned before 'you must change your life', so there might a little culture shock reading through this document. If electronic publishing will merely remain an afterthought in the production chain and product portfolio, the change might be light. If electronic publishing will become just as important as print, the change may be radical. What this means is that if you want to make visual electronic publications, you should be willing to change your current way of working and gradually get used to the offered but less common alternatives.
 
 
 
-## How to use this toolkit 
+## How to use this Toolkit 
 
 The Toolkit aims to provide a practical guide on how to develop electronic publications
 for publishers as well as for anyone else interested in this subject matter. It will attempt to give insight into the preconditions of electronic publishing, providing open-source tools where possible, and allow publishers of the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way.
-Furthermore, the Toolkit will help the reader to develop epubs, specifically art and design
+Furthermore, the Toolkit will help the reader to develop e-publications, specifically art and design
 publications, which generally make more use of different fonts, graphics and layout than text-dominant publications. 
-Chapter 3 will give a general introduction of these publications and sketches out various scenarios on how to develop epubs. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular reader hardwares and softwares, file formats and lastly distribution platforms. Chapters 4 offers a practical, how-to guide to workflows (both structured and per scenario) and designing electronic publications for the various scenarios addressed earlier in Chapter 3. Chapter 5 illustrates the concepts with concrete examples from the Digital Publishing Toolkit project.
+Chapter 3 will give a general introduction of these publications and sketches out various scenarios on how to develop e-publications. Issues and opportunities of going electronic will be discussed, as well as strengths and limitations of particular reader hardwares and softwares, file formats and lastly distribution platforms. Chapters 4 offers a practical, how-to guide to workflows (both structured and per scenario) and designing electronic publications for the various scenarios addressed earlier in Chapter 3. Chapter 5 illustrates the concepts with concrete examples from the The Hybrid Publishing Toolkit For The Arts, A Guide From Print To Ebooks project.
 
 
 ## Who worked on this Toolkit

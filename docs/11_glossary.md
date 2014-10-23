@@ -80,7 +80,7 @@ A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 *CAD/CAM*
 Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.
 
-*CSS (Cascading Style Sheets)*
+[CSS (*Cascading Style Sheets*)](#css)
 Cascading Style Sheets are a feature of HTML4 that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents. This makes it possible to set up CSS file containing a library of styles that are used throughout a website, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
 
 *CMS (Content Management System)*
@@ -378,7 +378,7 @@ A measure of the number of pixels or small dots displayed on a computer display 
 *RTF (Rich Text Format)*
 An alternative way of storing a document created with a MS-Word-processor. RTF-formatted files can be moved relatively easily between different computer systems. RTF format is also recommended when transmitting an Attachment by Email as it is much safer than the Microsoft Word formats, which can harbour Word Macro viruses. RTF files preserve most of the formatting contained in DOC-formatted files.
 
-### S
+### **S**
 
 *SDK (Software Development Kit)*
 
@@ -390,6 +390,10 @@ A program that enables the user to set up a program or suite of programs on the 
 
 *Shockwave Player*
 Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.
+
+*sRGB color space*
+sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the Internet.
+
 
 *Streaming*
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.

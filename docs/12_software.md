@@ -1,9 +1,17 @@
 # 12 Software Catalogue 
 A catalogue of open source software written in the context of the project with links to the relevant GitHub repositories.
 
+
+In the present project we deal with various kinds of products which we combine into five genres: 
+
+
+
 ## BIS Publishers
 
 ## INC
+An example of a *research publication* is the Society of Quert reader, issued by INC.
+<!-- Can be worked out more -->
+
 
 <a href="https://github.com/DigitalPublishingToolkit/epubtrailer.py">https://github.com/DigitalPublishingToolkit/epubtrailer.py</a>
 <a href="https://github.com/DigitalPublishingToolkit/mmd-meta-validation">https://github.com/DigitalPublishingToolkit/mmd-meta-validation</a>
