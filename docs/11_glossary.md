@@ -109,7 +109,7 @@ or sets of figures on which a computer program operates.
 An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda)or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
 
 *DRM ([Digital Rights Management](id:Digital Rights Management))*
-Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be dificult.
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult.
 <!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> -->  
 
 *DTP (Desktop Publishing)*
