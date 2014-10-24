@@ -71,8 +71,6 @@ A periodical thrives well by its physical presence. It can be tossed in a bag an
 The archival aspect provides other chances and issues for digital art/design periodicals. New articles can refer to older ones and even integrate parts. The periodical as such becomes a repository and therefore a playground for new work. 
 
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
-<!-- Name X: One of the advantages in 3 out of 5 publication formats is that the content can be extended. It is worthwhile to state the fact that a heavy publication (with videos, etc.) is a problem from the point of view of 1. Developing countries, 2. Archive --> 
-<!--Pia: Comment confuses me, lets discuss next week -->
 
 ##5) New genres of publication
 New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
@@ -93,11 +91,13 @@ A division into three levels can be made, which are described in further detail 
 
 
 ###1) One-to-one publications
-On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. <!-- Miriam: I don't understand this coming sentence and think it might as well go: There are many common characteristics between books in one genre. Hence, the question is how we can reveal and define these characteristics to enhance insight in the nature of this type of book. Artist’s/experimental books are an obvious example of this kind of book.-->
+On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. 
 
 Usually this implies that going electronic means making an erepresentation of the same book. In some cases files of the final pages or book are being converted into EPUB3 by an external agent. The final pages are checked on readability and the digital make-up (for example, that figures and captions are on the same page), and changes are made accordingly to create the ebook. On this level the ebook is not more than an exact-as-possible picture of the printed book. 
 
 The publisher might use a document management system, which can be a mere collection of folders/directories on a hard drive. Archiving files is important for possible reprints. Sometimes publishers are forced to scan their own books in order to reprint them because they don't have an archived version of it. Herein lie great possibilities, because having an archive of semantically structured content allows reissuing the publication in efficient ways and in new formats not envisioned before.
+
+There are many common characteristics between books in one genre. The question is how we can reveal and define these characteristics to enhance insight in the nature of the genre at hand and thus enhance the realisation of these new options. 
 
 
 ###2) One-to-many publications
@@ -109,8 +109,9 @@ Workflow schemes become very important when working towards a one-to-many public
 Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
 
 Especially in publications which have a more or less fixed layout database publishing opens new ways of conceiving books. For example, in the case of a collection of essays readers are then be able to make a personal choice from the available texts. The same can be thought of in the case of catalogues and journals. Based on metadata a structured presentation of all material is made possible, allowing the reader to navigate and put together a collection based on personal interests. Of course this means that tagging, describing, and storing of all components should happen in the early stages of publication with utmost care. 
-<!-- Miriam: I think this can be deleted here, I find it confusing even though I should know what this is about. The end of the paragraph is repetitive: the page-layout is of less importance compared to full colour art books; the accidental picture or graph can be easily accommodated. A series of essays (and blogposts) mimics a journal publication with more-or-less fixed lay out. After all, a new volume in a yearly series is only special the year of publication. Later on the essays of that volume are just one item of the collection (though with metadata indicating the year of publication and related details). However, in all instances the workflow demands for this type of projects might serve as an example for others towards a full database approach. This means that the workflow scheme must have such a coherent structure that choices are explicated. It is important to note that there will never be a one workflow which fits all but if the relevant metadata is available; publications in different forms can be created. 
-@Miriam, is the text already deleted? Or do you mean the alinea above? Otherwise please delete.--> 
+
+It is important to note that there will not be one workflow which fits all but if the relevant metadata is available publications in different forms can be created.
+
 
 
 [^Kircz]: Anita de Waard and Joost Kircz, Modeling scientific discourse - shifting perspectives and persistent issues, Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada 25-27 June 2008, http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008.
