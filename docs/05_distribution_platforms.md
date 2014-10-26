@@ -390,8 +390,6 @@ Choose your preferred ways of distribution
 
 
 ###Global options
-
-<<<<<<< HEAD
 *[Kobo Writing Life](http://www.kobobooks.com/kobowritinglife) [^Kobo-Writing-Life]* 
 lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
 
@@ -406,7 +404,7 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 *[CB Print on demand](http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)[^CB-Print-on-demand]* is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
 *[Boekscout](http://www.boekscout.nl/)[^Boekscout]* is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
-=======
+
 *[Kobo Writing Life](http://www.kobobooks.com/kobowritinglife)*
 lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
 
@@ -421,8 +419,6 @@ lets authors and publishers self-publish digital content in 160+ countries. One 
 *[CB Print on demand](http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/)* is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
 *[Boekscout](http://www.boekscout.nl/)* is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
->>>>>>> 0c1a1e466158d85cc6d9e7dcdcb80a2c591c03f9
-
 
 
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
@@ -446,11 +442,8 @@ What online booksellers could learn from these sites:
 
 #### Specialized sites
 
-<<<<<<< HEAD
 Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the web sites [aaaaarg.org](http://aaaaarg.org/)[^aaaaarg.org] and [Monoskop](http://monoskop.org/log/) [^Monoskop]provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
-=======
 Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the web sites [aaaaarg.org](http://aaaaarg.org/) and [Monoskop](http://monoskop.org/Monoskop) provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
->>>>>>> 0c1a1e466158d85cc6d9e7dcdcb80a2c591c03f9
 
 Best known, and factually legendary, is [Ubuweb](http://www.ubu.com)[^Ubuweb], an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
 
