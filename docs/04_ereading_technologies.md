@@ -104,6 +104,8 @@ Of course EPUB 3.0 files without proprietary extensions exist as well and are so
 
 <!--Amy: I agree with Margreet, there are a wave of new terms introduced over a very short piece of text. It is hard to get through it all without having previous knowledge or spending time in checking the glossary and references. So in conclusion i propose to link some terms to the glossary + reorder this chapter as mentioned in earlier note-->
 
+<!-- Pia: the use of 2.0 and 3.0 feels inconsistent. i understand why its used here but is it really neccisary?--> 
+
 ###Other formats
 The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colours, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *Comic Book Archive*,[^comic-book-archive] however support for these file formats by ereaders varies greatly.
  
