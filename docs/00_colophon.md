@@ -2,12 +2,12 @@
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
 
-**Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
+**Authors:** DPT Collective, existing off: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\
-**Design print:** [Medamo](http://medamo.nl)\
+**Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
 **Design EPUB:** André Castro\
-**Cover design:** [Studio Mooijman en Mittelberg](http://www.mooijmanenmittelberg.nl)\
+**Cover design:** Loes Sikkes and Kimmy Spreeuwenberg\
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
 **Publisher:** Institute of Network Cultures\
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
