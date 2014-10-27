@@ -110,23 +110,7 @@ Of course EPUB 3.0 files without proprietary extensions exist as well and are so
 The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colours, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *Comic Book Archive*,[^comic-book-archive] however support for these file formats by ereaders varies greatly.
  
 
-[^businessweek-ebooks]: E-BOOKS: A LIBRARY ON YOUR LAP, <a href="http://www.businessweek.com/1998/46/b3604010.htm">http://www.businessweek.com/1998/46/b3604010.htm</a>.
-[^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., On the Interoperability of eBook Formats,  Johannes Gutenberg-Universität Mainz, 2013, p. 12, <a href="http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf">http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf</a>.
-[^epub2-specification]: idpf, 'Open Publication Structure (OPS) 2.0.1 v1.0.1, Recommended Specification September 4, 2010', 2010, <a href="http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm">http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm</a>.
-[^amazon-aquires-mobipocket]: Rosenblatt, B., 'Amazon.com Acquires Mobipocket', <a href="http://DRMWatch.com">DRMWatch.com</a>, 2005, <a href="https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386">https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386</a>.
-[^mobileread-palmdoc]: PalmDOC, <a href="http://wiki.mobileread.com/wiki/PalmDOC">http://wiki.mobileread.com/wiki/PalmDOC</a>.
-[^amazon-azw]: Internal Formats, <a href="http://wiki.mobileread.com/wiki/AZW#Internal_Formats">http://wiki.mobileread.com/wiki/AZW#Internal_Formats</a>.
-[^epub3-changes]: EPUB 3 Changes from EPUB 2.0.1, <a href="http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5">http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5</a>.
-[^amazon-kf8]: Kindle Format 8, <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511</a>.
-[^ibooks-author]: iBook Author, <a href="http://www.apple.com/ibooks-author/">http://www.apple.com/ibooks-author/</a>.
-[^ibooks-photo-blocks]: Liz Castro, 'Expandable Photo Blocks in iBooks on iPad',  Pigs, Gourds and Wikis, 22 October 2014, <a href="http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html">http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html</a>.
-[^ibooks-multicolumn]: Create Multi-Column Article for the iPad, <a href="http://padilicious.com/multicolumn/index.html">http://padilicious.com/multicolumn/index.html</a>.
-[^azw3kf8-breakdown]: KF8, <a href="http://wiki.mobileread.com/wiki/KF8#Overview">http://wiki.mobileread.com/wiki/KF8#Overview</a>.
-[^epub-seller-apple]: Your Books on iBooks, <a href="http://www.apple.com/itunes/working-itunes/sell-content/books/">http://www.apple.com/itunes/working-itunes/sell-content/books/</a>.
-[^epub-seller-kobo]: Het begint met Kobo Writing Life, <a href="http://nl.kobo.com/writinglife">http://nl.kobo.com/writinglife</a>.
-[^epub-google-play]: Google play, Books Partner Cente, <a href="https://play.google.com/books/publish/signup#settings">https://play.google.com/books/publish/signup#settings</a>.
-[^epub-seller-barnes]: Frequently Asked Questions About NOOK Press, <a href="https://www.nookpress.com/support/faq">https://www.nookpress.com/support/faq</a>.
-[^comic-book-archive]: Advanced Comic Book Format, <a href="https://launchpad.net/acbf">https://launchpad.net/acbf</a>.
+
 [^sales-figures-tablet]: Gartner Says Worldwide Tablet Sales Grew 68 Percent in 2013, With Android Capturing 62 Percent of the Market, <a href="http://www.gartner.com/newsroom/id/2674215">http://www.gartner.com/newsroom/id/2674215</a>.
 [^sales-figures-phone]: Gartner Says Annual Smartphone Sales Surpassed Sales of Feature Phones for the First Time in 2013, <a href="http://www.gartner.com/newsroom/id/2665715">http://www.gartner.com/newsroom/id/2665715</a>.
 [^kobo-debian]: Any interest in Kobo Desktop for Linux?, <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>.
@@ -139,13 +123,24 @@ The aforementioned file formats may be categorized as *reflowable* documents as 
 [^bookish-blog]: <a href="http://blog.booki.sh/blog/post/ebook-sales-via-booki-sh-to-end-on-june-30">http://blog.booki.sh/blog/post/ebook-sales-via-booki-sh-to-end-on-june-30</a>.
 [^readium-goals]: Readium Project Goals, <a href="http://readium.org/readium-project-goals">http://readium.org/readium-project-goals</a>.
 [^readium-extension]: EPUB reader for Chrome, <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl">https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl</a>.
-[^guardian-ios]: The New Free Guardian app for iOS and Android, <a href="http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android">http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android</a>.
-[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), 2 July 2011, <a href="http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php">http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php</a> and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), 12 October 2013, <a href="http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php">http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php</a>.
-<!--Amy: [^penguin-amplified] unsure about how to deal with the above as there are two URL's in here. -->
-[^purple-carrot-publication]: The Prisoner of Carrot Castle By Purple Carrot Books, <a href="https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo=4">https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4</a>.
-[^de-correspondent]: De Correspondent, <a href="https://decorrespondent.nl">https://decorrespondent.nl</a>.
+[^businessweek-ebooks]: E-BOOKS: A LIBRARY ON YOUR LAP, <a href="http://www.businessweek.com/1998/46/b3604010.htm">http://www.businessweek.com/1998/46/b3604010.htm</a>.
+[^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., On the Interoperability of eBook Formats,  Johannes Gutenberg-Universität Mainz, 2013, p. 12, <a href="http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf">http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf</a>.
+[^epub2-specification]: idpf, 'Open Publication Structure (OPS) 2.0.1 v1.0.1, Recommended Specification September 4, 2010', 2010, <a href="http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm">http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm</a>.
+[^amazon-aquires-mobipocket]: Rosenblatt, B., 'Amazon.com Acquires Mobipocket', <a href="http://DRMWatch.com">DRMWatch.com</a>, 2005, <a href="https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386">https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386</a>.
+[^mobileread-palmdoc]: PalmDOC, <a href="http://wiki.mobileread.com/wiki/PalmDOC">http://wiki.mobileread.com/wiki/PalmDOC</a>.
+[^amazon-azw]: Internal Formats, <a href="http://wiki.mobileread.com/wiki/AZW#Internal_Formats">http://wiki.mobileread.com/wiki/AZW#Internal_Formats</a>.
 [^reader-specification]: MISSING.  
 <!-- Andre: Missing Footnote -->
-
+[^epub3-changes]: EPUB 3 Changes from EPUB 2.0.1, <a href="http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5">http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5</a>.
+[^amazon-kf8]: Kindle Format 8, <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511</a>.
+[^ibooks-author]: iBook Author, <a href="http://www.apple.com/ibooks-author/">http://www.apple.com/ibooks-author/</a>.
+[^ibooks-photo-blocks]: Liz Castro, 'Expandable Photo Blocks in iBooks on iPad',  Pigs, Gourds and Wikis, 22 October 2014, <a href="http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html">http://www.pigsgourdsandwikis.com/2011/01/expandible-photo-blocks-in-ibooks-on.html</a>.
+[^ibooks-multicolumn]: Create Multi-Column Article for the iPad, <a href="http://padilicious.com/multicolumn/index.html">http://padilicious.com/multicolumn/index.html</a>.
+[^azw3kf8-breakdown]: KF8, <a href="http://wiki.mobileread.com/wiki/KF8#Overview">http://wiki.mobileread.com/wiki/KF8#Overview</a>.
+[^epub-seller-apple]: Your Books on iBooks, <a href="http://www.apple.com/itunes/working-itunes/sell-content/books/">http://www.apple.com/itunes/working-itunes/sell-content/books/</a>.
+[^epub-seller-kobo]: Het begint met Kobo Writing Life, <a href="http://nl.kobo.com/writinglife">http://nl.kobo.com/writinglife</a>.
+[^epub-google-play]: Google play, Books Partner Cente, <a href="https://play.google.com/books/publish/signup#settings">https://play.google.com/books/publish/signup#settings</a>.
+[^epub-seller-barnes]: Frequently Asked Questions About NOOK Press, <a href="https://www.nookpress.com/support/faq">https://www.nookpress.com/support/faq</a>.
+[^comic-book-archive]: Advanced Comic Book Format, <a href="https://launchpad.net/acbf">https://launchpad.net/acbf</a>.
 
 

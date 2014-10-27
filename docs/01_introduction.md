@@ -1,6 +1,6 @@
 # 01 Introduction 
 
-'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats (eg a catalog), (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
+'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, for example, a catalog, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
 
 
 *Change is minor for scientific and mass publishers*
@@ -9,9 +9,10 @@ With that said, there are exceptions. Workflow changes can be minor for publishe
 
 *Change is major for small, arts-oriented publishers*
 
-Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change, both technologically as well as editorial concepts are concerned.
+Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change, both technologically as well as where editorial concepts<!--Amy: what is meant by 'concepts' in this context?--> are concerned.
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
+
 - visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
 - small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple forms (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
 - To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
