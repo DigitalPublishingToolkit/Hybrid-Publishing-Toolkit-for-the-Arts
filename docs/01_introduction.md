@@ -75,10 +75,7 @@ The consortium exists of a collaboration between two applied universities, four 
 
 
 [^DPT blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
-
 [^RAAK MKB]: http://www.innovatie-alliantie.nl/stimuleringsregeling/regeling/item/54-raak-mkb.html.
-
-
 [^DPT GitHub]: http://networkcultures.org/digitalpublishing/github/
 
 
