@@ -89,7 +89,7 @@ The *META-INF* and *OEBPS* directories and *mimetype* should always be present i
 
 * *Mimetype* is a file that contains a single line describing the EPUB file as `application/epub+zip`, this file allows ereaders to check whether the file is actually an EPUB and thus if they can read it.
 
-These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB. For a formal specification of EPUB3, see the overview by [IDPF.org](http://www.idpf.org/epub/301/spec/epub-publications.html) which defines semantics and conformance requirements for EPUB publications.
+These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB. For a formal specification of EPUB3, see the overview by [^IDPF.org](http://www.idpf.org/epub/301/spec/epub-publications.html) which defines semantics and conformance requirements for EPUB publications.
 
 ###Creating your own EPUB
 
