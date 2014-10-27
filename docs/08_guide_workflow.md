@@ -264,7 +264,7 @@ Electronic visual books can be made in very simple ways:
 
 (a) magazine as downloadable PDF file; 
 
-(b) magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or issu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
+(b) magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or Issuu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
 
 (c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.
 
@@ -272,7 +272,7 @@ Electronic visual books can be made in very simple ways:
 
 
 ### Decision making
-Should it be a 1:1 transfer from paper book to e-journal?  There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
+Should it be a 1:1 transfer from paper book to e-journal? There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
 
 ### Instructions
 See above. 
