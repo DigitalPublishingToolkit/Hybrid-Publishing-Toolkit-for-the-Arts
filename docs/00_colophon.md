@@ -1,6 +1,6 @@
 # Colophon 
 
-###From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
+### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
 
 **Authors:** Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
@@ -29,7 +29,7 @@ books@networkcultures.org\
 t: +31 (0)20 59 51 865
 
 
-This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
@@ -55,7 +55,6 @@ ISBN 978-90-822345-4-1 (EPUB)\
 [![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/)
 [![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/)
 [![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/)
-
 
 
 
