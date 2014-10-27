@@ -19,7 +19,7 @@ A range of publishing suites is available as well, which roughly fall into two c
 
 ###Editors: Calibre
 <!-- Miriam: why is Calibre called an editor here?-->
-[Calibre](http://calibre-ebook.com) is a 'swiss army knife' for reading, converting, authoring and cataloging e-books. It is open source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is under very active development with frequent version updates. We recommend it as a standard tool for all ebook publishers next to pandoc and consider it superior to (older) alternatives like [Sigil](http://code.google.com/p/sigil). The inexpensive commercial program [Jutoh](http://www.jutoh.com), which also runs on Windows, Mac OS X and Linux, is superior as an easy-to-use graphical editor for ebooks since it gives writers and editors a user interface similar to that of Microsoft Word. Jutoh is less powerful as a document converter and ebook database.
+Calibre [^calibre] is a 'swiss army knife' for reading, converting, authoring and cataloging e-books. It is open source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is under very active development with frequent version updates. We recommend it as a standard tool for all ebook publishers next to pandoc and consider it superior to (older) alternatives like Sigil.[^Sigil] The inexpensive commercial program Jutoh[^Jutoh], which also runs on Windows, Mac OS X and Linux, is superior as an easy-to-use graphical editor for ebooks since it gives writers and editors a user interface similar to that of Microsoft Word. Jutoh is less powerful as a document converter and ebook database.
 
 Calibre can be used to:
 
@@ -61,5 +61,11 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 [^guardian-ios]: Guardian app for iOS and Android, http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android.
 [^penguin-amplified]: For example: Jack Kerouac's On the Road (A Penguin Books Amplified Edition), July 2, 2011, http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and Ayn Rand's Atlas Shrugged (An NAL Amplified Edition), October 12, 2013, Ayn Rand's Atlas Shrugged (An NAL Amplified Edition)http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php.
 [^purple-carrot-publication]: The Prisoner of Carrot Castle, November 19, 2013, https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4.
-[^de-correspondent]: https://decorrespondent.nl.
-[^calibre_edit-ebooks]: 'calibre's ebook editor', <a href="http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html">http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html</a>
+[^de-correspondent]: De Correspondent, https://decorrespondent.nl.
+[^calibre]: Calibre ebook management: http://calibre-ebook.com/.
+[^Sigil]: Sigil, The EPUB Editor, http://code.google.com/p/sigil.
+[^Jutoh]: Jutoh, epublishing made easy, http://www.jutoh.com.
+
+<!--Amy removed the below reference as not in body text[^calibre_edit-ebooks]: calibre's ebook editor', http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html
+-->
+
