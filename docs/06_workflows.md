@@ -69,6 +69,7 @@ An XML document works like an archive: from this single document it is possible 
 While XML theoretically presents the ideal way of working with single format files which deliver multiple output formats, we do not present it as the most advisable solution for small, independent publishing houses. Because XML is so detailed, with a very complex syntax and hard-to-use software tools, it is difficult to work with.
 
 A good example how to practically use XML for electronic publishing in daily life is demonstrated in our chapter on using InDesign for hybrid paper and electronic publishing. <!--Miriam: this needs adding. Use example -->
+<!-- Pia: maybe for the laymen show what xml looks like?-->
 
 ### Markdown 
 
@@ -100,6 +101,7 @@ John Gruber, developer of Markdown, describes Markdown on his website as follows
 <!-- Margreet: Would it be possible to also present the result in a visual, like if one is using Mou or Macdown? -->
 
 A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. <!-- Margreet: Should be take about 'keyboard commands'? Is this clear for a publisher? -->
+<!-- pia: clear enough for publishers-->
 
 Markdown is a child of Internet culture. It standardises ad-hoc formatting signs used in e-mail and chats, and became popular in blogging software. There are similar plain text formatting languages to Markdown: the Wiki syntax used in Wikipedia, the language _Textile_ that is used for a number of web content management systems and the language _reStructuredText_ used for writing technical manuals, and many others. 
 
@@ -175,6 +177,8 @@ Since Markdown is a document format and not a word processing program, it does n
 However, to also make the Markdown text source coherent and tidy, pandoc can be used to clean it up. The trick is to tell pandoc to convert a document from Markdown to Markdown:
 
     pandoc -f markdown -t markdown --output markdown-document-clean.txt markdown-document.txt
+    
+   <!--Pia: why? what happens?--> 
 
 ##### A note on limitations
 
@@ -188,10 +192,10 @@ At the time of this writing in late 2014, a controversial standardisation effort
 ## Database publishing 
 What is gained by a shift to a hybrid publishing workflow? First of all, producing a publication with the possibility to have multiple output formats will be more efficient. However, when the workflow is put into use without restraint and when you really 'change your life', great possibilities will open up. The most important option is shortly discussed here, namely database publishing which uses a so-called content management system.
 
-The ideal database is a collection of independent, but mutually related, objects. These objects can be everything from structured text to pictures of wildlife. The issue at stake is that we need clear grammatical and categorization systems that go beyond the immediate use of the database. Take as an example your mailing list. We can take the full address including the name of the person as one object. But if we want to select per postal code or any other sub category in a full address or want to add more information to the persons name, such as age, email address and previous purchases, we have to make a strict scheme with so-called fields and sub-fields, including their interdependences (a house number demands a street name en visa versa), their indispensability (age might be not crucial), and so on.
+The ideal database is a collection of independent, but mutually related, objects. These objects can be everything from structured text to pictures of wildlife. The issue at stake is that we need clear grammatical and categorization systems that go beyond the immediate use of the database. Take as an example your mailing list. We can take the full address including the name of the person as one object. But if we want to select per postal code or any other sub category in a full address or want to add more information to the persons name, such as age, email address and previous purchases, we have to make a strict scheme with so-called fields and sub-fields, including their interdependences (a house number demands a street name and vice versa), their indispensability (age might be not crucial), and so on.
 What this means is that the holy grail of the all encompassing database is not only almost impossible but also an extremely time consuming operation to build and maintain. 
 
-The best option is therefore to explicate the goals of the publication programmme as well as the practical limitations. The four genres we discuss in this booklet all have their own demands in relation to the creation and the dissemination of publications. An art catalog demands clear descriptors about the artist, the materials used, the sizes, the provenance, copyright, keywords according to established list, etc. Other collections of pictures might need only a subset.   
+The best option is therefore to explicate the goals of the publication programmme as well as the practical limitations. The four genres we discuss in this publication all have their own demands in relation to the creation and the dissemination of publications. An art catalog demands clear descriptors about the artist, the materials used, the sizes, the provenance, copyright, keywords according to established list, etc. Other collections of pictures might only need a subset.   
 
 Also in pure text databases we have to be careful. On the one hand we have obviously the data related to the author's name, affiliation, address, etc. But it becomes a different discussion if pictorial illustrations, graphs, etc. are shared between look-alike publications and for that reason we want to identify these objects individually. If such is the case, we might consider a special sector in our database that pertains to illustrations and their specific descriptive sub-field only. The same holds true for bibliographic references and the collection of hyperlinks used in the text.
 
