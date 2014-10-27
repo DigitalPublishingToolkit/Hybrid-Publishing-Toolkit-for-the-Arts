@@ -30,5 +30,4 @@ As cultural standardization over the centuries rendered, for example, a detectiv
 The essential issue is henceforward that the start is a clean flat text file. Withing this text markup coding is added. This coding has to adhere to standardized rules. In the most advanced case this would be according to the XML standard, but this very demanding grammar is too demanding for small publishers. Simple HTML coding is frequently used but is mainly useful for webdesign. The advanced version HTML5 is a promising, but also not simple option. In this booklet we opt for Markdown as a coding language. It is very simple and straight. Though not fit elaborate publications. From Markdown we can then convert to a HTML version, provided that we have a clear table that translate lay-out coding to the various outlets, such as paper, e-ink or LCD screens. Such a table is named a Style Sheet.
 
 
-[^hist]: Guglielmo Cavallo and Roger Chartier (eds.), A history of reading in
-the west, Polity Press 1999.
+[^hist]: Guglielmo Cavallo and Roger Chartier (eds.), A history of reading in the west, Polity Press 1999.
