@@ -5,7 +5,8 @@
 
 ## [Research publication](id:Research publication)
 ### General
-Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing  
+Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
+  
 See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html) 
 
 * Editor works with author(s) on manuscript  
