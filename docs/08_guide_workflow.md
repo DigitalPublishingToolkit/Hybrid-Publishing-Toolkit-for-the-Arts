@@ -24,7 +24,7 @@ This is why the new workflow is directed towards **hybrid input** and **hybrid o
 So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
-![Hybrid Workflow Research Publication](../images/_in_progress/08_WorkflowResearchPub.png "Workflow Hybrid") <!-- very rough sketch -->
+![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") <!-- very rough sketch -->
 
 
 ### Decision making
@@ -99,7 +99,7 @@ Advantages, disadvantages
 
 ## Art/design catalogue
 Catalogue Digital Approaches
-![Catalogue Approach](../images/_in_progress/08_WorkflowCatalogus.png "Catalogue Digital Approaches") <!-- very rough sketch -->
+![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") <!-- very rough sketch -->
 
 
 <!--4000 words-->
@@ -147,7 +147,7 @@ Advantages, disadvantages
 
 ## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
-<!-- ![Periodical Approach](../images/_in_progress/08_artistbook.png "Periodical Digital Approaches") -->
+<!-- ![Periodical Approach](images/08_artistbook.png "Periodical Digital Approaches") -->
 
 Flow chart: workflow
 
@@ -260,7 +260,7 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-![Periodical Approach](../images/_in_progress/08_WorkflowPeriodical.png "Periodical Digital Approaches") <!-- very rough sketch -->
+![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") <!-- very rough sketch -->
 
 (a) magazine as downloadable PDF file; 
 

@@ -79,7 +79,7 @@ New genres of publication are likely to emerge out of the ongoing digitization o
 ## 3 levels of electronic publishing
 Independently of the different genres listed above we can sketch a basic picture based on commonalities and diversions. The scope of epublishing starts with simple conversions from paper publications to electronic ones, moving towards full-scale electronic publications.  
 
-A division into three levels can be made, which are described in further detail below [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):
+A division into three levels can be made, which are described in further detail below [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):
 
 1. One-to-one; the book is considered a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book, which then is published and exists as a single edition. The print book can as such be translated one-on-one into an ebook. 
 
@@ -87,7 +87,7 @@ A division into three levels can be made, which are described in further detail 
 
 3. One-to-database; here the book is not a separate, defined, and limited entity. A publication is put together out of various independent components defined as modules that can be used and re-used multiple times by whomever has access to them. For example: a reader chooses a selection of chapters on offer and gets an epub specially made in this occasion.
 
-![Three Levels of Electronic Publishing](../images/_in_progress/04_1_three_levels.png "Three Levels of Electronic Publishing.")
+![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.")
 
 
 ###1) One-to-one publications

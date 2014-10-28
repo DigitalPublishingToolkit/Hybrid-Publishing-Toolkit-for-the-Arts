@@ -9,7 +9,7 @@ Miriam: are we still going to use this example?-->
 
 ## Direct conversion
 
-![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
+![Simplest possible case](images/08_markdown_to_epub.png "simple")
 <!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 
@@ -21,7 +21,7 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 
 ### Calibre
 
-![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
+![Simplest possible case](images/07_1stepepub.png "simple")
 
 Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
@@ -78,7 +78,7 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![Figure: EPUB layout](../images/_in_progress/08_EPUB-layout.png "Figure: EPUB layout")
+![Figure: EPUB layout](images/08_EPUB-layout.png "Figure: EPUB layout")
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
