@@ -32,13 +32,13 @@ The images' path is now only `images/`
 #### Bloglink Images
 In oder to create links to blog, using the blog icon, use the following syntax (in upper-case is what must be filled in by you: URL to blog and the name of the post):
 <pre>
-[![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( URL TO BLOG POST  "Link to blog post: POST NAME") 
+[![Bloglink](images/dpt_blog_verwijzing.png)]( URL TO BLOG POST  "Link to blog post: POST NAME") 
 </pre>
 
 Example:
 
 <pre>
-Although it's possible to create electronic publications from Microsoft Word [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a docx directly to epub using Calibre") ... and text continues...
+Although it's possible to create electronic publications from Microsoft Word [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a docx directly to epub using Calibre") ... and text continues...
 </pre>
 
 
