@@ -4,6 +4,15 @@
 
 Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
 
+<!-- Kimmy: there indeed seems to be a strange division between chapter 07 and 09. Maybe this chapter should come after 07 as a more advanced version? Or we should first explain the workflows and than the guides?. so you get:
+
+Chapter 06_workflows.md
+Chapter 07_guide workflow.md
+chapter 08_guide_DIY.md
+Chapter 09_guide_advanced.md
+-->
+
+
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
 - the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
 
