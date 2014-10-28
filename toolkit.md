@@ -7,7 +7,8 @@
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\
 **Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
 **Design EPUB:** André Castro\
-**Cover design:** Loes Sikkes and Kimmy Spreeuwenberg\
+**Cover design:** [Studio Mooijman en Mittelberg](www.mooijmanenmittelberg.nl/)
+
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
 **Publisher:** Institute of Network Cultures\
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
