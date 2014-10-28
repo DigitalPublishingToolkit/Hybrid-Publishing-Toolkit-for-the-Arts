@@ -13,15 +13,34 @@
 - open the '.docx file', not open the 'docx file’
 
 
-### Bloglink
+
+### Images
+If images are figures ALWAYS leave 1 empty line before and another after the image syntax,even if it is a comment. 
+Example:
+
+<pre>
+...text... .. blahh blahh.
+
+![myfigure](images/myfigure.png)
+
+The text goes on...
+</pre>
+
+#### Image path
+The images' path is now only `images/`
+
+#### Bloglink Images
 In oder to create links to blog, using the blog icon, use the following syntax (in upper-case is what must be filled in by you: URL to blog and the name of the post):
-
+<pre>
 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( URL TO BLOG POST  "Link to blog post: POST NAME") 
-
+</pre>
 
 Example:
 
+<pre>
 Although it's possible to create electronic publications from Microsoft Word [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a docx directly to epub using Calibre") ... and text continues...
+</pre>
+
 
 ###Forum
 In literature overview:
