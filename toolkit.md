@@ -325,6 +325,7 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.")
+
 <!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  
 Margreet: I agree with Amy. Margreet asked Kimmy and Loes to have a look (22.10.2014).-->
 
@@ -342,7 +343,9 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
-![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
+![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") 
+
+<!-- kimmy: Image is a very rough sketch -->
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
@@ -1123,6 +1126,7 @@ Miriam: are we still going to use this example?-->
 ## Direct conversion
 
 ![Simplest possible case](images/08_markdown_to_epub.png "simple")
+
 <!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 
@@ -1191,7 +1195,8 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![Figure: EPUB layout](images/08_EPUB-layout.png "Figure: EPUB layout")
+![EPUB layout](images/08_EPUB-layout.png "EPUB layout")
+
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
@@ -1342,7 +1347,10 @@ This is why the new workflow is directed towards **hybrid input** and **hybrid o
 So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
-![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") <!-- very rough sketch -->
+
+![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
+
+<!-- Image: very rough sketch -->
 
 
 ### Decision making
@@ -1417,7 +1425,10 @@ Advantages, disadvantages
 
 ## Art/design catalogue
 Catalogue Digital Approaches
-![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") <!-- very rough sketch -->
+
+![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") 
+
+<!--Image: very rough sketch -->
 
 
 <!--4000 words-->
@@ -1578,7 +1589,9 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") <!-- very rough sketch -->
+![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") 
+
+<!-- Image: very rough sketch -->
 
 (a) magazine as downloadable PDF file; 
 
