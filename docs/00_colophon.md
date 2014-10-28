@@ -34,7 +34,7 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
 
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
 
 
 Amsterdam, 2014\

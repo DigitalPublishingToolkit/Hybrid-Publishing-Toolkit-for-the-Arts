@@ -34,7 +34,11 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
 
 
 
+<<<<<<< HEAD
 For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+=======
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+>>>>>>> FETCH_HEAD
 
 
 Amsterdam, 2014\
@@ -86,22 +90,20 @@ For art and design publishers, the challenge of going electronic with their publ
 
 We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
 
+On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
+
+<!-- Andre Proposal:
+
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can lead us to rethink established publishing practices and formats. When traditional publishing formats go electronic or hybrid, the possibility for transformation is real. Once the book becomes electronic or hybrid, the permanence, immutability and stability typical of physical books, is likely to mutate into dynamic, modular, and participative forms, that can benefit from the networked environment where ebooks exist. 
 
-Seemingly banal types of electronic publications can be subject to significant change. An exhibition catalogue, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  Or an anthology of essays might allow annotations from all its readers to grow around its contents.
+Seemingly banal types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  Or an anthology of essays might allow annotations from all its readers to grow around its contents.
 
-The possibility for change can also go beyond rethinking publishing formats and expand to redefine what the book is. As in the case of this publication, the adopted workflow brings into question aspects often seen as inherit and essential to books. For instances, instead of a single author, its authorship is shared by a number of collaborating authors. Several writers, designers, developers and editors, sometimes under more than one hat, actively contribute to this publication. They write, edit, design, create illustrations, comment, and develop scripts, that collectively lead the publication into its final from, which you are likely to be reading at this very moment. Each single contribution is entrusted to eyes and hands of the other co-authors by being uploaded to publication's [code repository](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) — an online pool, where all the files essential to the publication are stored and tracked over time. The public availability such files, not only provide a window on to the book's development, since it began, but in tandem with the book's free-culture license — [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) —, they give carte blanche for anyone to alter its content, or even publish it ahead of its *original* publisher. All one has to do is type into a command-line interpreter:
+The possibility for change can also go beyond rethinking publishing formats and expand to redefine what the book is. As in the case of this publication, the adopted workflow brings into question aspects often seen as inherit and essential to books. For instances, instead of a single author, its authorship is shared by a number of collaborating authors. Several writers, designers, developers and editors, sometimes under more than one hat, actively contribute to this publication. They write, edit, design, create illustrations, comment, and develop scripts, that collectively lead the publication into its final from, which you are likely to be reading at this very moment. Each single contribution is entrusted to eyes and hands of the other co-authors by being uploaded to publication's [code repository](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) — an online pool, where all the files essential to the publication are stored and tracked over time. 
 
-`git clone https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts` 
-
-By doing so all source files and scripts that constitute the publication will be downloaded. Following that first step one can invoke the command:
-
-`make toolkit.epub` 
-
-Consequently this publication will be compiled into its digital publishable form, ready to be read, sent around, or uploaded to somewhere on the Web.
+With a single command one can get hold of code repository, downloading not only the current state of 'source' files for the book, but also the full history of changes and comments were made by each collaborator up to that point. With another command, the various 'sources' are pulled together into an EPUB produced at that moment. In this way both the 'content' and the 'machine' to make the book are bundled and shared.
 
 We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
-
+-->
 
 ## What this Toolkit provides
 
@@ -326,6 +328,7 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.")
+
 <!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  
 Margreet: I agree with Amy. Margreet asked Kimmy and Loes to have a look (22.10.2014).-->
 
@@ -343,7 +346,9 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
-![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
+![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") 
+
+<!-- kimmy: Image is a very rough sketch -->
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
@@ -893,9 +898,9 @@ Instead of producing a digital publication based on the printed book at the end 
 
 However, the description below starts at a point which in reality is not the beginning of the publishing trajectory, namely when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
 
-Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide, where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy)--> for pointers regarding adjusting the style guide in this sense.
+Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide (see also [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy)--> for pointers regarding adjusting the style guide in this sense.
 
-We will now turn to implementing the new workflow for small edition and low budget publishing houses.
+We will now turn to implementing the new workflow for small edition and low budget publishing houses. (See also for a step-to-step guide: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](images/07_workflowTRADITIONAL03.png "Workflow Traditional.")
@@ -1124,6 +1129,7 @@ Miriam: are we still going to use this example?-->
 ## Direct conversion
 
 ![Simplest possible case](images/08_markdown_to_epub.png "simple")
+
 <!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 
@@ -1192,7 +1198,8 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![Figure: EPUB layout](images/08_EPUB-layout.png "Figure: EPUB layout")
+![EPUB layout](images/08_EPUB-layout.png "EPUB layout")
+
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
@@ -1324,7 +1331,8 @@ Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre,
 
 ## [Research publication](id:Research publication)
 ### General
-Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing  
+Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
+  
 See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html) 
 
 * Editor works with author(s) on manuscript  
@@ -1343,7 +1351,10 @@ This is why the new workflow is directed towards **hybrid input** and **hybrid o
 So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
-![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") <!-- very rough sketch -->
+
+![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
+
+<!-- Image: very rough sketch -->
 
 
 ### Decision making
@@ -1418,7 +1429,10 @@ Advantages, disadvantages
 
 ## Art/design catalogue
 Catalogue Digital Approaches
-![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") <!-- very rough sketch -->
+
+![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") 
+
+<!--Image: very rough sketch -->
 
 
 <!--4000 words-->
@@ -1579,7 +1593,9 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") <!-- very rough sketch -->
+![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") 
+
+<!-- Image: very rough sketch -->
 
 (a) magazine as downloadable PDF file; 
 
@@ -1630,6 +1646,15 @@ Advantages, disadvantages:
 
 
 Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
+
+<!-- Kimmy: there indeed seems to be a strange division between chapter 07 and 09. Maybe this chapter should come after 07 as a more advanced version? Or we should first explain the workflows and than the guides?. so you get:
+
+Chapter 06_workflows.md
+Chapter 07_guide workflow.md
+chapter 08_guide_DIY.md
+Chapter 09_guide_advanced.md
+-->
+
 
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
 - the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
