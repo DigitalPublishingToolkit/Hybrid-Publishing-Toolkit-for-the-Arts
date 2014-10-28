@@ -13,7 +13,7 @@
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
 
 
-**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+**An EPUB and PDF edition of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
 **Order a copy of this book by email**: books@networkcultures.org
 
@@ -32,7 +32,7 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
