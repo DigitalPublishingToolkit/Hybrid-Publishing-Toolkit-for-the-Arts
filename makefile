@@ -104,3 +104,11 @@ toolkit.odf: toolkit.md
 # Epub post production - changes and and enhancements to toolkit.epub
 toolkit_post.epub: toolkit.epub
 	python scripts/epub_post.py toolkit.epub
+
+toolkit.icml: toolkit.icml
+	cd docs && pandoc \
+		--from markdown \
+		--to epub3 \
+		--self-contained \
+		-o ../toolkit.icml \
+		../toolkit.md
