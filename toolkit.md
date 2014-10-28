@@ -13,7 +13,7 @@
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
 
 
-**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+**An EPUB and PDF edition of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
 **Order a copy of this book by email**: books@networkcultures.org
 
@@ -32,7 +32,11 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
@@ -128,19 +132,17 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. We have set ourselved the following research questions: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
+This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. The following research questions was stated: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
 
-To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
+To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium [^DPT consortium] of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
 
 The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT GitHub]. As a result everyone can freely copy, adjust and distribute the tools. Five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose. 
-
-The consortium exists of a collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
 
 
 [^DPT blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
 [^RAAK MKB]: http://www.innovatie-alliantie.nl/stimuleringsregeling/regeling/item/54-raak-mkb.html.
 [^DPT GitHub]: http://networkcultures.org/digitalpublishing/github/
-
+[^DPT Consortium]: http://networkcultures.org/digitalpublishing/consortium/
 
 
 

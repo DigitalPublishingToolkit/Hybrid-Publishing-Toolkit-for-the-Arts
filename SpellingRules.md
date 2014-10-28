@@ -39,6 +39,7 @@ We use the American spelling
 
 
 
+<<<<<<< HEAD
 ###Footnotes and referencing- All references should be auto-inserted footnotes (in other words, no in text references that use parentheses/brackets). For example, not: Off the Press discusses the question of digital publishing (Lorusso, 2013). But: Off the Press discusses the question of digital publishing.  - Always put a period at the end of a footnote, even if it just a URL (make sure the URL still works).- Footnote numbers comes after comma/period; this is also the case if the comma/period follows a quotation mark. I.e.: ‘an alternative network’. - In the footnotes and in the reference list full URLs should be clickable - Dates in footnotes should be 19 November 2010 (not November 19, 2010). - For specific formatting of footnotes and reference list, see further on in this style guide.
 
 
@@ -67,8 +68,7 @@ The text goes on...
 The images' path is now only `images/`
 
 
-
-### Bloglink
+#### Bloglink Images
 In oder to create links to blog, using the blog icon, use the following syntax (in upper-case is what must be filled in by you: URL to blog and the name of the post):
 
 [![Bloglink](images/dpt_blog_verwijzing.png)]( URL TO BLOG POST  "Link to blog post: POST NAME") 
@@ -81,4 +81,5 @@ Although it's possible to create electronic publications from Microsoft Word [![
 
 ###Others
 We shouldn’t feel obliged to name every operating system option available, but instead give an informed choice. For example in the case of Markdown editors en distribution platforms.
+
 
