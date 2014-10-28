@@ -13,7 +13,7 @@
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
 
 
-**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+**An EPUB and PDF edition of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
 **Order a copy of this book by email**: books@networkcultures.org
 
@@ -32,7 +32,11 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
@@ -55,6 +59,7 @@ ISBN 978-90-822345-4-1 (EPUB)\
 [![PUNTPIXEL](images/logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/)
 [![Regieorgaan Praktijkgericht Onderzoek SIA](images/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/)
 [![Mr. Sauli](images/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/)
+
 
 
 
@@ -127,19 +132,17 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. We have set ourselved the following research questions: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
+This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. The following research questions was stated: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
 
-To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
+To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium [^DPT consortium] of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
 
 The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT GitHub]. As a result everyone can freely copy, adjust and distribute the tools. Five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose. 
-
-The consortium exists of a collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
 
 
 [^DPT blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
 [^RAAK MKB]: http://www.innovatie-alliantie.nl/stimuleringsregeling/regeling/item/54-raak-mkb.html.
 [^DPT GitHub]: http://networkcultures.org/digitalpublishing/github/
-
+[^DPT Consortium]: http://networkcultures.org/digitalpublishing/consortium/
 
 
 
@@ -158,11 +161,6 @@ Markup languages are grammars that define the markup and the relations between m
 
 What is happening here is a mixture of **layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and its derivatives, the easier **HTML** (HyperText Markup Language) and the expanded **XML** (Extensible Markup Language) make a strict distinction between structure and representation. A markup language knows notions such as “highlighted word or phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading with type 1 and quotation with type 4. Depending on the output substrate you can then define in the layout phase how this will look like. For instance, a chapter heading is in a certain type font and font size and centered on the page, whilst a quotation is represented in the same font size and font of the running text, but now in italics. On a screen we can have things like chapter headings in pink and quotations in yellow. 
 
-<<<<<<< HEAD
-What is happening here is a mixture of **layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and its derivatives, the easier **HTML** (HyperText Markup Language) and the expanded **XML** (Extensible Markup Language) make a strict distinction between structure and representation. A markup language knows notions such as “highlighted word or phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading with type 1 and quotation with type 4. Depending on the output substrate you can then define in the layout phase how this will look like. For instance, a chapter heading is in a certain type font and font size and centered on the page, whilst a quotation is represented in the same font size and font of the running text, but now in italics. On a screen we can have things like chapter headings in pink and quotations in yellow. 
-
-=======
->>>>>>> FETCH_HEAD
 This freedom in the layout is explicated in a so-called **style sheet** , which is a table that connects a layout schema with the markup schema. This way of working is imperative if one wants to allow a source text to be represented in many different ways on various media of various sizes. Note that in many programs these translations are done fairly invisibly to the user. If we translate an .odt file into a .docx file, all coding is translated one-to-one. As we will see in the following, translation between one file type into another is not always symmetrical. Hence, the golden rule is to **always make sure that the source text is as systemically structured as possible**.
 
 An important notion is that all digital texts and accompanying coding are written in simple letters and numerals, this is called **plain text**, or a flat file. This is a stripped down text without layout; the most elementary token. It goes without saying that the flexibility of this process is limited to the character set for plain text we use. In the “old” days this was **ASCII** based and limited to the possible number of distinct signs (letters, numerals, commas, etc.) of a binary computer text. Slowly but surely, a new elaborted list of allowed signs, extending ASCII is making inroads. This collection of signs is called: **Unicode**. Unicode aims to include all alphabets and letter systems including common signs and ligatures, such as the aforementioned *&* and diacritic signs. Again, this is a step forward to guarantee a clean source file for all kind of usages, even those we don’t consider or even imaging today.
@@ -315,11 +313,7 @@ It is important to note that there will not be one workflow which fits all but i
 
 -->
 
-<<<<<<< HEAD
-![Digital Publishing Range](../images/_in_progress/05_1_rich_poor.png "Digital Publishing Range") 
-=======
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
->>>>>>> FETCH_HEAD
 
 ##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like ereaders or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an ereader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications.
@@ -412,11 +406,7 @@ At the beginning of Amazon's foray into the world of digital publishing, the onl
 
 Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011,[^reader-specification] brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
 
-<<<<<<< HEAD
-Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
-=======
 Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
->>>>>>> FETCH_HEAD
 
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
@@ -937,11 +927,7 @@ It is possible to create 'interactive' publications in PDF, working with Microso
 
 ###From Microsoft Word (.docx) to EPUB
 
-<<<<<<< HEAD
-There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. <!-- Marc: Needs a reference, I believe. -->
-=======
 There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. <!-- Marc: Needs a reference, I believe. -->
->>>>>>> FETCH_HEAD
 
 In order to obtain the best possible EPUB file, the Word document should be formatted, solely if possible, with Word's standard paragraph styles such as 'Normal', 'Title', 'Subtitle', 'Quote' and most importantly 'Heading 1', 'Heading 2',  'Heading 3'  for the headings according to their logical hierarchy. For example: 'Heading 1' for chapters, 'Heading 2' for sections, 'Heading 3' for subheadlines. The resulting EPUB document will contain a well-structured table of contents and document navigation menu based on the 'Heading' hierarchy, so well structured headings are of paramount importance. Word footnotes will be appear as linked endnotes in the EPUB, elegantly simplifying an otherwise tedious document redesign task.
 
@@ -1765,16 +1751,6 @@ Our Toolkit tries to be a helpful step in this direction.
 
 
 [^doris]: This saying, by written by the Jay Livingston and Ray Evans became world famous when Doris Day sang it the song in the Hitchcock film *The Man Who Knew Too Much *(1956), https://www.youtube.com/watch?v=azxoVRTwlNg.
-<<<<<<< HEAD
-
-[^books]: Digital sales outstrip bricks and mortar in US, http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us.
-
-[^vanc]: Take for example the 528 pages (10,8 x 17,48 cm) thick anthology *What will be / Ce qui sera / Lo que será *  Almanac of the international surrealist movement, with more than 170 contributors from 25 countries. Essays, poems, images, manifestoes, a debate on surrealist editions, chronology of 50 years of surrealism 1964-2014. Downloading such a book is problematic because you need a complete structured index and advanced search option. Printing it locally is almost impossible given the small fixed page size. Buying it at lulu.com gives you a POD on standard glossy paper, which is certainly not in line with the surrealist tradition.
-
-[^stoop]: Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 1 - reading long information rich texts'. *New Library World*. Vol. 114, Issue 7/8, pp. 284-300, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf. Part 2 - comparing different text structures on paper and on screen. *New Library World*. Vol 114, Issue 9/10, pp. 371-383, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf.
-
-[^way]: A related example is the notorious instability of the web as such. The big international science publisher has a contract with the Dutch Royal Library for a complete backup of its electronic collections. But the same library has, with many others, digital preservation as a spearhead in its policy. The private charity that maintains the wayback machine: http://archive.org/web/ that act as a carbon copy of the internet is a gem, but what happens in case of major catastrophes?  
-=======
 
 [^books]: Digital sales outstrip bricks and mortar in US, http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us.
 
@@ -1784,7 +1760,6 @@ Our Toolkit tries to be a helpful step in this direction.
 
 [^way]: A related example is the notorious instability of the web as such. The big international science publisher has a contract with the Dutch Royal Library for a complete backup of its electronic collections. But the same library has, with many others, digital preservation as a spearhead in its policy. The private charity that maintains the wayback machine: http://archive.org/web/ that act as a carbon copy of the internet is a gem, but what happens in case of major catastrophes?  
 
->>>>>>> FETCH_HEAD
 
 # 11 Glossary of technical terms
 
