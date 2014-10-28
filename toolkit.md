@@ -1698,6 +1698,8 @@ Despite these limitations, Calibre is a capable program for importing simple tex
 
 Currently, the technically easiest and least expensive way of hybrid publishing is to transform a book into Markdown, edit the Markdown into a structurally clean document, use pandoc for converting Markdown to EPUB , and import the EPUB into Calibre for final tweaks and conversion into other e-book formats (including Amazon Kindle).
 
+![Calibre Workflow](images/09_calibre.png)
+
 In a perfect future, Calibre would use pandoc as its import and document conversion engine, Readium for displaying e-books, and its document editor would be on par with iBooks Author for multimedia design while maintaining full compliance to the EPUB3 standard.  
 
 

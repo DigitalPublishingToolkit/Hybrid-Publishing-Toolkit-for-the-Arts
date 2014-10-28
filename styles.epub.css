@@ -188,17 +188,27 @@ img.bloglink:hover {
     border: solid #0F0 1px;
 }
 
+figure{
+    margin-left:0px;
+}
+
 figcaption{
     display:none;
 }
 
 div.fig{
-    width:75%;
+    width:100%;
 }
 
 
 img.fig {
-    width:100%;
+/*    width:100%;
     max-width:900px;
+
+*/
+    max-width: 98%;
+    max-height: 98%;
+    width: auto;
+    height: auto;
 }
 
