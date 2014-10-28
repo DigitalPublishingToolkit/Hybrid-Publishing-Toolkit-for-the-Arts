@@ -19,7 +19,7 @@ Below several platforms are discussed, including characteristics, statistics, st
 <!-- Marc: The following might be a better fit for a table or something similar. -->
 
 ###Issuu 
-![Issuu](../images/_in_progress/07_IssuuIcon.png "Issuu")
+![Issuu](images/07_IssuuIcon.png "Issuu")
 
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
@@ -69,7 +69,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 
 ###Scribd
-![Scribd](../images/_in_progress/07_Scribdicon.png "Scribd")
+![Scribd](images/07_Scribdicon.png "Scribd")
 
 
 **Characteristics**  
@@ -118,7 +118,7 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Offer in-browser reading and downloadable file  
 
 ### Internet Archive
-![Internet Archive](../images/_in_progress/07_IAIcon.png)
+![Internet Archive](images/07_IAIcon.png)
 
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
@@ -271,7 +271,7 @@ There are a lot of options for print-on-demand publishing. A simple Google query
 
 
 ###Lulu.com
-![Lulu](../images/_in_progress/07_LuluIcon.png "Lulu")
+![Lulu](images/07_LuluIcon.png "Lulu")
 
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com)
 

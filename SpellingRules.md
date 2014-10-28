@@ -54,17 +54,7 @@ We use the American spelling
 - open the '.docx file', not open the 'docx file’
 
 
-### Bloglink
-In oder to create links to blog, using the blog icon, use the following syntax (in upper-case is what must be filled in by you: URL to blog and the name of the post):
-
-[![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( URL TO BLOG POST  "Link to blog post: POST NAME") 
-
-
-Example:
-
-Although it's possible to create electronic publications from Microsoft Word [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a docx directly to epub using Calibre") ... and text continues...
-
-
 ###Others
 We shouldn’t feel obliged to name every operating system option available, but instead give an informed choice. For example in the case of Markdown editors en distribution platforms.
+
 

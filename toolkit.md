@@ -13,7 +13,7 @@
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
 
 
-**EPUB and PDF editions of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+**An EPUB and PDF edition of this publication are freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
 **Order a copy of this book by email**: books@networkcultures.org
 
@@ -32,29 +32,33 @@ t: +31 (0)20 59 51 865
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relavant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+
 
 Amsterdam, 2014\
 ISBN 978-90-822345-3-4 (print)\
 ISBN 978-90-822345-4-1 (EPUB)\
 
 
-[![Hogeschool van Amsterdam](../images/_logos_partners/logo_partner_HvA.png)](http://hva.nl)
-[![Medamo](../images/_logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/)
-[![creating010](../images/_logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl)
-[![Valiz](../images/_logos_partners/logo_partner_valiz.png)](http://www.valiz.nl/)
-[![Create-IT Applied Research](../images/_logos_partners/logo_partner_Create-it.png)](http://www.hva.nl/create-it)
-[![Silvio Lorusso](../images/_logos_partners/logo_partner_SilvioLorusso.png)](http://silviolorusso.com/)
-[![Meeusontwerpt](../images/_logos_partners/logo_partner_Meeusontwerpt.png)](http://www.meeusontwerpt.nl/)
-[![Hogeschool Rotterdam](../images/_logos_partners/logo_partner_HRO.png)](http://www.hogeschoolrotterdam.nl/)
-[![Institute of Network Cultures](../images/_logos_partners/logo_partner_INC.png)](http://networkcultures.org)
-[![Restruct](../images/_logos_partners/logo_partner_Restruct.png)](https://restruct.nl/)
-[![BISPublishers](../images/_logos_partners/logo_partner_Bis.png)](http://www.bispublishers.nl/)
-[![nai010](../images/_logos_partners/logo_partner_nai.png)](http://www.nai010.com/)
-[![Essense](../images/_logos_partners/logo_partner_essense.png)](http://essense.eu/)
-[![PUNTPIXEL](../images/_logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/)
-[![Regieorgaan Praktijkgericht Onderzoek SIA](../images/_logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/)
-[![Mr. Sauli](../images/_logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/)
+[![Hogeschool van Amsterdam](images/logos_partners/logo_partner_HvA.png)](http://hva.nl)
+[![Medamo](images/logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/)
+[![creating010](images/logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl)
+[![Valiz](images/logos_partners/logo_partner_valiz.png)](http://www.valiz.nl/)
+[![Create-IT Applied Research](images/logos_partners/logo_partner_Create-it.png)](http://www.hva.nl/create-it)
+[![Silvio Lorusso](images/logos_partners/logo_partner_SilvioLorusso.png)](http://silviolorusso.com/)
+[![Meeusontwerpt](images/logos_partners/logo_partner_Meeusontwerpt.png)](http://www.meeusontwerpt.nl/)
+[![Hogeschool Rotterdam](images/logos_partners/logo_partner_HRO.png)](http://www.hogeschoolrotterdam.nl/)
+[![Institute of Network Cultures](images/logos_partners/logo_partner_INC.png)](http://networkcultures.org)
+[![Restruct](images/logos_partners/logo_partner_Restruct.png)](https://restruct.nl/)
+[![BISPublishers](images/logos_partners/logo_partner_Bis.png)](http://www.bispublishers.nl/)
+[![nai010](images/logos_partners/logo_partner_nai.png)](http://www.nai010.com/)
+[![Essense](images/logos_partners/logo_partner_essense.png)](http://essense.eu/)
+[![PUNTPIXEL](images/logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/)
+[![Regieorgaan Praktijkgericht Onderzoek SIA](images/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/)
+[![Mr. Sauli](images/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/)
 
 
 
@@ -102,7 +106,7 @@ We are not claiming that all ebooks will follow, or must follow this path. We ar
 
 ## What this Toolkit provides
 
-Going electronic - or going hybrid - means that you need to change the way you work in the publishing process from manuscript to publication. The software tools currently in use, from word processors like Microsoft Word to desktop publishing suites like InDesign, were created for the analog or desktop-publishing world. Although it's possible to create electronic publications from Microsoft Word [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre") and InDesign [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6") files that are likely the standard in the current publishing workflow, it will be painful, slow, inefficient and expensive in most cases. This Toolkit describes technical Do It Yourself (DIY) alternatives because it is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
+Going electronic - or going hybrid - means that you need to change the way you work in the publishing process from manuscript to publication. The software tools currently in use, from word processors like Microsoft Word to desktop publishing suites like InDesign, were created for the analog or desktop-publishing world. Although it's possible to create electronic publications from Microsoft Word [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre") and InDesign [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6") files that are likely the standard in the current publishing workflow, it will be painful, slow, inefficient and expensive in most cases. This Toolkit describes technical Do It Yourself (DIY) alternatives because it is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers and furthermore it is aimed at those who want to keep the process in their own hands. 
 
 This Toolkit has a particular (but not exclusive) focus on EPUB3 as an electronic publication format and on Markdown as a word processing format because of the specific needs of small edition publishers in the art and design field: low cost, ease of use, sustainability and
 platform-independence. The recommendations stem from our practical experience in collaborating with four Dutch art, design and research publishers on electronic publication projects.
@@ -128,19 +132,17 @@ Chapter 3 will give a general introduction of these publications and sketches ou
 
 ## Who worked on this Toolkit
 
-This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. We have set ourselved the following research questions: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
+This publication is part of the Digital Publishing Toolkit [^DPT blog] RAAK-MKB [^RAAK MKB] research project. The following research questions was stated: *'In what way can a platform be created with new tools for open source-publishing, by which publishers in the art- and cultural sector can produce interactive e-publications by themselves?'*
 
-To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
+To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium [^DPT consortium] of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
 
 The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT GitHub]. As a result everyone can freely copy, adjust and distribute the tools. Five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose. 
-
-The consortium exists of a collaboration between two applied universities, four Dutch art, design and research publishers, graphic designers and software developers.
 
 
 [^DPT blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
 [^RAAK MKB]: http://www.innovatie-alliantie.nl/stimuleringsregeling/regeling/item/54-raak-mkb.html.
 [^DPT GitHub]: http://networkcultures.org/digitalpublishing/github/
-
+[^DPT Consortium]: http://networkcultures.org/digitalpublishing/consortium/
 
 
 
@@ -155,9 +157,7 @@ This structure of stratifying words into sentences, sentences into paragraphs an
 
 Markup languages are grammars that define the markup and the relations between markup elements. With the emergence of computer networks and the increasing need to standardize texts for multiple usages, an international ISO standard established in 1982 is called: Standardised General Markup Language (SGML). This logically structured markup language was a big step forward as it made a fundamental split between the text structure as such and the final representation of that structure. For example, contrary to languages used in word processors such as Tex, LaTeX, Word, Microsoft Word, Wordperfect or ODF (open office document format), where presentation and text structuring are mixed, SGML only defines functions or roles. When we type a **bold** word in the text using a word processor we in fact type “start bold” -\> type the word -\> “end bold”.
 
-![](<../images/_in_progress/03_1_intro_mixture_layout>)
-
-~   your caption here
+![](images/03_4_boldstrong.png)
 
 What is happening here is a mixture of **layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and its derivatives, the easier **HTML** (HyperText Markup Language) and the expanded **XML** (Extensible Markup Language) make a strict distinction between structure and representation. A markup language knows notions such as “highlighted word or phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading with type 1 and quotation with type 4. Depending on the output substrate you can then define in the layout phase how this will look like. For instance, a chapter heading is in a certain type font and font size and centered on the page, whilst a quotation is represented in the same font size and font of the running text, but now in italics. On a screen we can have things like chapter headings in pink and quotations in yellow. 
 
@@ -267,7 +267,7 @@ New genres of publication are likely to emerge out of the ongoing digitization o
 ## 3 levels of electronic publishing
 Independently of the different genres listed above we can sketch a basic picture based on commonalities and diversions. The scope of epublishing starts with simple conversions from paper publications to electronic ones, moving towards full-scale electronic publications.  
 
-A division into three levels can be made, which are described in further detail below [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):
+A division into three levels can be made, which are described in further detail below [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):
 
 1. One-to-one; the book is considered a separate product where text-authors, illustrators, artist photographers, and designers work together to produce the book, which then is published and exists as a single edition. The print book can as such be translated one-on-one into an ebook. 
 
@@ -275,7 +275,7 @@ A division into three levels can be made, which are described in further detail 
 
 3. One-to-database; here the book is not a separate, defined, and limited entity. A publication is put together out of various independent components defined as modules that can be used and re-used multiple times by whomever has access to them. For example: a reader chooses a selection of chapters on offer and gets an epub specially made in this occasion.
 
-![Three Levels of Electronic Publishing](../images/_in_progress/04_1_three_levels.png "Three Levels of Electronic Publishing.")
+![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.")
 
 
 ###1) One-to-one publications
@@ -313,7 +313,7 @@ It is important to note that there will not be one workflow which fits all but i
 
 -->
 
-![Digital Publishing Range](../images/_in_progress/05_1_rich_poor.png "Digital Publishing Range") 
+![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 
 ##Reader hardware
 There are several ways to peruse electronic publications. Portable devices like ereaders or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an ereader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications.
@@ -326,7 +326,8 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
-![Strengths & Limitations](../images/_in_progress/05_2_strengths_limitations_04.png "Strengths & Limitations.")
+![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.")
+
 <!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  
 Margreet: I agree with Amy. Margreet asked Kimmy and Loes to have a look (22.10.2014).-->
 
@@ -344,7 +345,9 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
-![Strengths & Limitations](../images/_in_progress/05_readersoftware.png "Strengths & Limitations.") <!-- kimmy: very rough sketch -->
+![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") 
+
+<!-- kimmy: Image is a very rough sketch -->
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
@@ -395,7 +398,7 @@ epubReader is similar to the browser extension offered by Readium. However, the 
 ##File formats
 A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it.
 
-In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
+In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
 
 ###Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and XHTML, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2.0 standard has support for basic styling, custom fonts, etc.[^epub2-specification]
@@ -406,7 +409,7 @@ At the beginning of Amazon's foray into the world of digital publishing, the onl
 
 Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011,[^reader-specification] brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
 
-Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](../images/_in_progress/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
+Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
@@ -476,7 +479,7 @@ Below several platforms are discussed, including characteristics, statistics, st
 <!-- Marc: The following might be a better fit for a table or something similar. -->
 
 ###Issuu 
-![Issuu](../images/_in_progress/07_IssuuIcon.png "Issuu")
+![Issuu](images/07_IssuuIcon.png "Issuu")
 
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
@@ -526,7 +529,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 
 ###Scribd
-![Scribd](../images/_in_progress/07_Scribdicon.png "Scribd")
+![Scribd](images/07_Scribdicon.png "Scribd")
 
 
 **Characteristics**  
@@ -575,7 +578,7 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Offer in-browser reading and downloadable file  
 
 ### Internet Archive
-![Internet Archive](../images/_in_progress/07_IAIcon.png)
+![Internet Archive](images/07_IAIcon.png)
 
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
@@ -728,7 +731,7 @@ There are a lot of options for print-on-demand publishing. A simple Google query
 
 
 ###Lulu.com
-![Lulu](../images/_in_progress/07_LuluIcon.png "Lulu")
+![Lulu](images/07_LuluIcon.png "Lulu")
 
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com)
 
@@ -899,10 +902,10 @@ Note: An important step preceding the publication trajectory lies in the formula
 We will now turn to implementing the new workflow for small edition and low budget publishing houses.
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
-![Traditional Workflow](../images/_in_progress/07_workflowTRADITIONAL03.png "Workflow Traditional.")
+![Traditional Workflow](images/07_workflowTRADITIONAL03.png "Workflow Traditional.")
 
 
-![Traditional XML](../images/_in_progress/07_workflowMarkdown03.png "Workflow XML.")
+![Traditional XML](images/07_workflowMarkdown03.png "Workflow XML.")
 
 <!-- links on the blog: 
 * <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
@@ -919,7 +922,7 @@ There are certain advantages to this workflow: it is simple, linear, there are n
 
 The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to digital are cumbersome, and do not make full use of the potential in electronic publishing. A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
 
-Importantly, going from InDesign to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see XXXXXXX Elisabeth Castro. <!--Margreet: chapter will be added by Liz Castro--> 
+Importantly, going from InDesign to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see XXXXXXX Elisabeth Castro. <!--Margreet: chapter will be added by Liz Castro--> 
 
 In the same way Microsoft Word (or any other text editor that uses a similar approach, for instance Open Office) is not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasise words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
 
@@ -927,7 +930,7 @@ It is possible to create 'interactive' publications in PDF, working with Microso
 
 ###From Microsoft Word (.docx) to EPUB
 
-There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. <!-- Marc: Needs a reference, I believe. -->
+There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. <!-- Marc: Needs a reference, I believe. -->
 
 In order to obtain the best possible EPUB file, the Word document should be formatted, solely if possible, with Word's standard paragraph styles such as 'Normal', 'Title', 'Subtitle', 'Quote' and most importantly 'Heading 1', 'Heading 2',  'Heading 3'  for the headings according to their logical hierarchy. For example: 'Heading 1' for chapters, 'Heading 2' for sections, 'Heading 3' for subheadlines. The resulting EPUB document will contain a well-structured table of contents and document navigation menu based on the 'Heading' hierarchy, so well structured headings are of paramount importance. Word footnotes will be appear as linked endnotes in the EPUB, elegantly simplifying an otherwise tedious document redesign task.
 
@@ -1124,7 +1127,8 @@ Miriam: are we still going to use this example?-->
 
 ## Direct conversion
 
-![Simplest possible case](../images/_in_progress/08_markdown_to_epub.png "simple")
+![Simplest possible case](images/08_markdown_to_epub.png "simple")
+
 <!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
 
 
@@ -1136,7 +1140,7 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 
 ### Calibre
 
-![Simplest possible case](../images/_in_progress/07_1stepepub.png "simple")
+![Simplest possible case](images/07_1stepepub.png "simple")
 
 Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
@@ -1193,7 +1197,8 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![Figure: EPUB layout](../images/_in_progress/08_EPUB-layout.png "Figure: EPUB layout")
+![EPUB layout](images/08_EPUB-layout.png "EPUB layout")
+
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
@@ -1344,7 +1349,10 @@ This is why the new workflow is directed towards **hybrid input** and **hybrid o
 So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
-![Hybrid Workflow Research Publication](../images/_in_progress/08_WorkflowResearchPub.png "Workflow Hybrid") <!-- very rough sketch -->
+
+![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
+
+<!-- Image: very rough sketch -->
 
 
 ### Decision making
@@ -1419,7 +1427,10 @@ Advantages, disadvantages
 
 ## Art/design catalogue
 Catalogue Digital Approaches
-![Catalogue Approach](../images/_in_progress/08_WorkflowCatalogus.png "Catalogue Digital Approaches") <!-- very rough sketch -->
+
+![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") 
+
+<!--Image: very rough sketch -->
 
 
 <!--4000 words-->
@@ -1467,7 +1478,7 @@ Advantages, disadvantages
 
 ## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
-<!-- ![Periodical Approach](../images/_in_progress/08_artistbook.png "Periodical Digital Approaches") -->
+<!-- ![Periodical Approach](images/08_artistbook.png "Periodical Digital Approaches") -->
 
 Flow chart: workflow
 
@@ -1580,7 +1591,9 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-![Periodical Approach](../images/_in_progress/08_WorkflowPeriodical.png "Periodical Digital Approaches") <!-- very rough sketch -->
+![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") 
+
+<!-- Image: very rough sketch -->
 
 (a) magazine as downloadable PDF file; 
 
@@ -1706,7 +1719,7 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 <!-- By Joost-->
 *Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^doris] In art books we try to describe, show, analyse and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible.
 
-As we showed above in this guide, the act of glueing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers’s desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](../images/_in_progress/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=921  "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ")
+As we showed above in this guide, the act of glueing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers’s desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=921  "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ")
 
 
 ## Reading technology 
@@ -1759,6 +1772,7 @@ Our Toolkit tries to be a helpful step in this direction.
 [^stoop]: Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 1 - reading long information rich texts'. *New Library World*. Vol. 114, Issue 7/8, pp. 284-300, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf. Part 2 - comparing different text structures on paper and on screen. *New Library World*. Vol 114, Issue 9/10, pp. 371-383, 2013. Copy of final accepted draft: http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf.
 
 [^way]: A related example is the notorious instability of the web as such. The big international science publisher has a contract with the Dutch Royal Library for a complete backup of its electronic collections. But the same library has, with many others, digital preservation as a spearhead in its policy. The private charity that maintains the wayback machine: http://archive.org/web/ that act as a carbon copy of the internet is a gem, but what happens in case of major catastrophes?  
+
 
 # 11 Glossary of technical terms
 
