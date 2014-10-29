@@ -16,7 +16,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-<!-- Marc: The following might be a better fit for a table or something similar. Margreet asked Kimmy & Loes for their opinion (29.10.2014) -->
+<!-- Marc: The following might be a better fit for a table or something similar. Kimmy & Loes are looking into this (29.10.2014) -->
 
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")

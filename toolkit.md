@@ -2,7 +2,7 @@
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
 
-**Authors:** DPT Collective, existing off: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
+**Authors:** DPT Collective, consisting off: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\
 **Copy editing:** Joe Monk and Amy Wu\
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\
 **Design print:** Loes Sikkes and Kimmy Spreeuwenberg\
@@ -209,7 +209,7 @@ In the present project we deal with various kinds of products which we combine i
 **Going electronic: Advantages and issues**  
 Advantages of going electronic with publications presenting research are first of all obvious for users: firstly, an ebook allows for copying (and pasting) text in an easy and natural way which has been long desired by researchers, students, and  readers alike. Secondly, an obvious but crucial advantage is the possibility of searching within a text. Thirdly, a possible advantage is the posibility of embedding the **datasets** employed in the publication itself. For publishers a huge advantage has to do with the wider reach and availability of the content. Making the text available digitally will increase its spreading, not in the least regarding international outreach, as the ebook offers no limitations on availability. Open access publishing further changes the question of availability dramatically.
 
-Issues which specifically relate to digital research publications lie in referencing. With fixed page numbers no longer there, there is no standard way to specifiy the location of the reference. Worth extra thoughts are setting the parameters for the use of and interaction between text and images within a publication. 
+Issues which specifically relate to digital research publications lie in referencing. With fixed page numbers no longer there, there is no standard way to specify the location of the reference. Worth extra thoughts are setting the parameters for the use of and interaction between text and images within a publication. 
 
 Going electronic also opens up new possibilities for creating content. Due to the high level of standardised structure, a 'modularization' becomes possible, thereby allowing to go beyond the traditional way of essay writing. In particular when authors refer to each other, they often share data, quotations, tables, figures, et cetera. Multiple use and reuse of 'modules' will enormously enhance the communication within a community. However, this remains a future dream for now as comments and annotations don't stick with (a specific place in) the book like in physical books, which makes sharing difficult.[^Kircz](http://elpub.scix.net/cgi-bin/works/Show?234_elpub2008)
 
@@ -306,10 +306,6 @@ It is important to note that there will not be one workflow which fits all but i
 
 # 04 Ereading technologies
 
-<!-- Andre: Missing Footnote [^reader-specification]: ? Needs to be added or reference deleted
-
--->
-
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 
 ##Reader hardware
@@ -324,9 +320,6 @@ Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (an
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.")
-
-<!-- Amy: note about image; i think the eye fatigue icons should be switched as it now looks like you'll get tired eyes from ereader as opposed to the other way around.  
-Margreet: I agree with Amy. Margreet asked Kimmy and Loes to have a look (22.10.2014).-->
 
 ###Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section.
@@ -345,7 +338,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
 ###Mobile applications
-There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
+There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB3.
@@ -398,11 +391,11 @@ In this chapter the history and characteristics of various important file format
 ###Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and XHTML, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2.0 standard has support for basic styling, custom fonts, etc.[^epub2-specification]
 
-At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported Digital Rights Management (DRM) engineered by *Mobipocket*.
-<!--Amy: I feel that this should be further explained: what this is or what the consequences are. e.g 'The practice is controversial as it often hampers paying customers in freely interacting with digital goods' -->  
+At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported Digital Rights Management (DRM) engineered by *Mobipocket*. The practice is controversial as it often hampers paying customers in freely interacting with digital goods'. 
+<!--Margreet: @Amy, I added this sentence.-->  
 [^amazon-aquires-mobipocket] Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard.[^mobileread-palmdoc] Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an acronym for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company.[^amazon-azw]
 
-Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011,[^reader-specification] brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
+Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011, brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
 
 Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 
@@ -420,8 +413,7 @@ The aforementioned file formats may be categorized as *reflowable* documents as 
 
 [^sales-figures-tablet]: Gartner Says Worldwide Tablet Sales Grew 68 Percent in 2013, With Android Capturing 62 Percent of the Market, <a href="http://www.gartner.com/newsroom/id/2674215">http://www.gartner.com/newsroom/id/2674215</a>.
 [^sales-figures-phone]: Gartner Says Annual Smartphone Sales Surpassed Sales of Feature Phones for the First Time in 2013, <a href="http://www.gartner.com/newsroom/id/2665715">http://www.gartner.com/newsroom/id/2665715</a>.
-[^kobo-debian]: Any interest in Kobo Desktop for Linux?, <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>.
-<!--Amy: how to style a reference from a forum site [kobo-debian]? -->
+[^kobo-debian]: MobileRead, *'Any interest in Kobo Desktop for Linux?'*, 5 March 2010, <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>.
 [^ebook]: Converting a Docx directly to EPUB using Calibre, <a href="http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/">http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/</a>.
 [^calibre-file-formats]: <a href="http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from">http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from</a>.
 [^ade-readers]: Digital Editions Supported Devices, <a href="http://blogs.adobe.com/digitalpublishing/supported-devices">http://blogs.adobe.com/digitalpublishing/supported-devices</a>.
@@ -436,8 +428,6 @@ The aforementioned file formats may be categorized as *reflowable* documents as 
 [^amazon-aquires-mobipocket]: Rosenblatt, B., 'Amazon.com Acquires Mobipocket', <a href="http://DRMWatch.com">DRMWatch.com</a>, 2005, <a href="https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386">https://web.archive.org/web/20050426003307/http://www.drmwatch.com/drmtech/article.php/3499386</a>.
 [^mobileread-palmdoc]: PalmDOC, <a href="http://wiki.mobileread.com/wiki/PalmDOC">http://wiki.mobileread.com/wiki/PalmDOC</a>.
 [^amazon-azw]: Internal Formats, <a href="http://wiki.mobileread.com/wiki/AZW#Internal_Formats">http://wiki.mobileread.com/wiki/AZW#Internal_Formats</a>.
-[^reader-specification]: MISSING.  
-<!-- Andre: Missing Footnote -->
 [^epub3-changes]: EPUB 3 Changes from EPUB 2.0.1, <a href="http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5">http://www.idpf.org/epub/30/spec/epub30-changes.html#sec-new-changed-xhtml5</a>.
 [^amazon-kf8]: Kindle Format 8, <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729511</a>.
 [^ibooks-author]: iBook Author, <a href="http://www.apple.com/ibooks-author/">http://www.apple.com/ibooks-author/</a>.
@@ -471,7 +461,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-<!-- Marc: The following might be a better fit for a table or something similar. -->
+<!-- Marc: The following might be a better fit for a table or something similar. Margreet asked Kimmy & Loes for their opinion (29.10.2014) -->
 
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
@@ -816,7 +806,7 @@ Choose your preferred ways of distribution
 
 
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
-As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistent to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
+As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistant to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
 
 Commercial providers of digital content can learn a lot from the pirates.Netflix,[^Netflix] the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on The Pirate Bay.[^The-Pirate-Bay] 
 
@@ -892,7 +882,7 @@ Instead of producing a digital publication based on the printed book at the end 
 
 However, the description below starts at a point which in reality is not the beginning of the publishing trajectory, namely when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
 
-Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide (see also [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy)--> for pointers regarding adjusting the style guide in this sense.
+Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide (see also [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy or Andre)--> for pointers regarding adjusting the style guide in this sense.
 
 We will now turn to implementing the new workflow for small edition and low budget publishing houses. (See also for a step-to-step guide: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
 
@@ -913,7 +903,7 @@ We will now turn to implementing the new workflow for small edition and low budg
 
 Desktop publishing for a lot of publishers presents the current situation: a Microsoft Word file is imported into InDesign and, after designing and editing, exported to PDF, ready to be printed. The traditional, print-oriented workflow can be seen as standard for one-to-one publications: the print book is translated to an electronic version, following the 'original' as close as possible. 
 
-There are certain advantages to this workflow: it is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. For example, in the case of a print design where the page is fixed, changing hyphenation is a laborious process as hyphen indications need to be inserted manually in the InDesign document. <!-- Miram: maybe this is not formulated very clearly, but there needs to be some explanation here --> However, in digital publishing, hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. However, this of course also means a limitation in electronic design possibilities. <!-- Marc: Where does 'this' refer to? Is automatic hyphenation in itself a limitation of design possibilities? -->
+There are certain advantages to this workflow: it is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. For example, in the case of a print design where the page is fixed, changing hyphenation is a laborious process as hyphen indications need to be inserted manually in the InDesign document. <!-- Miram: maybe this is not formulated very clearly, but there needs to be some explanation here --> However, in digital publishing, hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. However, this workflow of course also means a limitation in electronic design possibilities. 
 
 The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to digital are cumbersome, and do not make full use of the potential in electronic publishing. A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
 
@@ -941,6 +931,175 @@ We recommend two ways of working with Word + pandoc, and discourage a third one:
 2. Conversion from Word to Markdown using pandoc. Since pandoc can also convert files _to_ the Markdown format, this often preferable, especially for complex publishing projects. The resulting Markdown file can then be used as the master file for conversions into all kinds of other file formats (such as HTML for websites). Converting to Markdown yields the advantage that any formatting glitch that existed in the Word document becomes clearly visible. For example, a headline erroneously formatted as bold standard text will show up as '\*\*headline\*\*' while a properly formatted headline will show up as '\#'. This makes it much easier to clean up the internal formatting of the document and have a clean master file for all subsequent document conversions. The EPUB file generated from this Markdown file would in most cases be better structured than the EPUB file directly generated from the Word file, and make the subsequent work of the designer easier. It is also possible to customise pandoc with conversion style templates. This even makes it possible to automatically generate complete and well-formatted EPUB files from the Markdown files without hiring a designer, depending on the type of publication. 
 3. Not advisable: Using pandoc to go back and forth between Word and EPUB. If the Word document is not consolidated, but subject to further editorial changes, conversion to EPUB (like in the first scenario) would have to be done again, and destroy all work of the designer on the previously exported EPUB file. 
  
+
+###From InDesign to EPUB
+
+
+####Intro
+InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
+
+InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
+
+InDesigns print features—including master pages and the control of headers and footers, and precise positioning of elements and text—are ignored in flowable EPUB documents. Flowable EPUB does permit choosing (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completelly override these settings in individual ereaders. 
+
+You can use InDesign just for EPUB production and not print. In this case, you can simply ignore how the book looks in print and focus on generating flexible EPUB documents that look good across a range of ereaders.
+
+Underneath is a very short guide and InDesign is a very complex and complete software package. There are many more options than those described here.
+
+####Styles 
+One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style'—in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
+You must first create styles, then apply them, then make sure they are properly mapped for export to EPUB.
+
+**Creating styles**
+
+1. Open the Paragraph Styles panel and click the New Style button to create a new style. Any formatting in the active paragraph is incorporated automatically into the new style. 
+2. Give the style a name.
+3. Choose any additional options from the boxes at left, and save.
+
+Tips: You can also create Character Styles for applying formatting to just a selection of text rather than an entire paragraph. 
+Applying all formatting with styles instead of local formatting improves reliability across ereaders and facilitates later editing. 
+
+
+**Apply styles**
+
+1. Click in a paragraph that you want to style.
+Choose the desired style from the Paragraph Styles panel that you wish to apply.
+2. Repeat for every paragraph in the document.
+
+Tips: You can style all of the text at once by selecting all and then choosing the Body style. Then apply the less frequent headers and captions and other paragraphs individually.
+If you have imported a document with large quantities of existing bold or italic text, you can search and replace to automate applying the character style.
+
+
+**Map styles to tags**
+
+1. Though InDesign can do this step automatically, you can precisely specify which Paragraph Styles should be mapped to which tags in the resulting CSS to get more control.
+2. Choose Edit All Export Tags from the Paragraph Styles Panel menu. 
+3. In the dialog box that appears, verify that each style is mapped as desired to the appropriate tag. It's a good idea, for example, for header paragraphs in your book to be output as h1, h2, etc. and for each style to have its own class. 
+Tips: If you import XML documents, you can have InDesign automatically map specific XML tags to the desired Paragraph Styles (which later will be mapped to the proper EPUB CSS tags as above).
+Earlier versions of InDesign were not as good at exporting all of its styles to CSS. CC is substantially better.
+You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box.
+
+####Images
+InDesign has three kinds of images: inline, anchored and independent.
+ 
+Inline images are placed or pasted directly within the text. When exported, they are rasterized (and thus if any inline objects contain text, this text is also rasterized), and exported in the flow of the text in which they are placed. Inline images cannot be wrapped with text.
+
+Anchored images are tied to a particular part of the text, and when exported to EPUB will appear just before that text in the code. Anchored images can have text wrapped around them and are properly exported as floating objects in EPUB. Text within anchored groups of objects is not rasterized, but sometimes resizes incorrectly in ereaders.
+
+Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects   on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel.  
+
+**Anchoring images**
+
+Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
+
+1. Place an image on the pasteboard. If desired, you can create a caption, style the caption, and then group the caption with the image
+2. Select the image to make its controls visible.
+3. Drag the blue box in the upper right corner of the image to the desired location in the text.
+4. If the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
+5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options.
+5.1. Display the EPUB and HTML options panel.
+5.2. Check the Custom Layout option and then choose Float Left from the menu. 
+5.3. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. You might also want to do this to adjust how the image appears in the print edition.
+
+
+**Links and cross references**
+
+One of the main advantages of ebooks over print is that they can contain to additional information, whether it be in the same book, or on a web site somewhere out on the internet. InDesign makes it easy to incorporate links into your ebook.
+
+There are two principal kinds of links: links in which you specify both the destination and the link text, and links that get the link text automatically from the destination. This second kind of links are called cross-references. It's a good idea to apply a character style to all kinds of links.
+
+**Creating links within a book**
+
+1. Create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. It's usually the first few words of the destination text.
+2. Select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu.  
+3. Choose Text Anchor next to Link To:, choose the Document that the destination is in and then choose the name of the Text Anchor. It's a good idea to apply a style so that you can format all links later.
+4. Click OK to create the link.
+
+
+**Creating cross references**
+
+1. Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example for cross references is when you want to link to a different chapter or header name. You can tell InDesign to always use the most up to date text in the Header.
+2. To create a cross reference, place the cursor in the text where the link will go.
+3. Choose Window > Type & Tables > Cross-References to view the Cross-References panel. 
+4. Choose Insert Cross-Reference.
+5. Choose the desired document and then the kind of paragraph that you want to link to in the left half of the box. The specific paragraphs tagged with that style will show up on the right so you can choose the one you want for the cross-reference.
+6. Select a Format for the Cross-Reference, and click OK.
+7. The text from the destination appears in the body of your document. It will be exported as a link in the EPUB document. 
+
+
+**Table of Contents**
+
+Ebooks have two different kinds of tables of contents, the conventional one that is part of the text, just like any other chapter in your book, but with links to the remaining chapters and sections, and one that is accessed through the menus of the user's ebook reader regardless of which page they're looking at at the moment. InDesign facilitates the creation of both types. 
+
+InDesign generates tables of contents from styled paragraphs. For example, you might want to create a table of contents with all of paragraphs marked with the Heading 1 and Heading 2 styles, or as in this example, with just all of the ChapName elements.
+
+
+**Creating a Table of Contents Style**
+
+1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears.
+2. Give the table of contents a name, like "Contents" and choose the paragraph style that should be applied to that header in the book. 
+3. Choose the kind of paragraphs that should be used to populate the table of contents, like headings or chapter names.
+4. Click More Options if it's not already chosen.
+5. In the center area, choose the style that should be applied to each kind of element in the table of contents. It's a good idea to create special styles to be applied to these elements.
+6. Choose No page number in the Page Number box since these are not necessary in an ebook.
+7. Click OK to save the TOC Style. This is the first step to creating both a navigational and in-document table of contents.
+
+
+**Generate the in-document table of contents**
+
+1. Once you've created a TOC Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs marked with the styles you selected.
+2. With the "loaded" pointer, place the table of contents in the desired location of the document. You don't have to put the table of contents at the front of the book, or indeed include it all. 
+
+You'll learn how to generate the navigational table of contents in the Export Options section of this guide.
+
+Tips: If you export a multi-document book to EPUB and don't create a Table of contents style, InDesign automatically creates a TOC based on the file names of the individual documents in the book. If you export a single document book to EPUB, InDesign will not automatically generate a table of contents.
+You can create a navigational table of contents or an in-document table of contents or both. Most ereaders will throw an error if the navigational TOC is not present. Some ebook stores will complain if you don't include an in-document TOC. 
+
+
+**Metadata**
+Metadata is information about your book, including the names of the author and other creators, the publisher, date of publication, subject matter, and more. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book.  
+
+InDesign gives you two opportunities to add metadata, in the File Info dialog box and when you export your file to EPUB. The two sets of information overlap but are not identical. Further, only empty fields are overwritten by data in the other system. 
+
+1. Go to File > Info to add metadata to your file about the name of your publication, the author, a description, keywords, and copyright status. 
+
+You can add additional metadata as you export the document to EPUB as discussed further ahead. 
+
+
+**Cover**
+The final step before you export to EPUB is to create and add a cover for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to preview the cover at icon size. Most ebook stores ask for images that are at least 1000 pixels on the shortest side. 
+
+1. Save the cover image as a JPEG.
+
+You specify the cover image when you actually export to EPUB in the next section.
+
+
+**Export options**
+Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the links needed, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
+
+1. Start by choosing File > Export and then choose a filename and destination, and EPUB (Reflowable) in the Format menu. Click OK. The EPUB - Reflowable Layout Export Options box appears with eight separate panels of options.
+2. In the General panel, choose EPUB 3.0 next to Version to ensure your document is up to the latest standards.
+3. Select Choose image next to Cover, and then click the folder to select the desired cover image that you created earlier. If you choose Rasterize Front Page, InDesign creates a screenshot of the first page of your book and uses that for the cover. 
+4. Next to Navigation TOC choose Multi Level (TOC Style) and then choose the Table of Contents Style that you created earlier in the TOC Style menu.
+5. Click the Metadata panel
+6. Insert the book's ISBN in the Identifier field, if it has one.
+7. All the other fields besides the Date field should be automatically populated with data entered in the File Info box earlier. You can add any missing information now. InDesign uses the information in the Date field for the EPUB 2.0 dc:date element but will always automatically set the EPUB 3.0 compatible date format with the export date and time. In other words, you don't have to put anything in the Date field.
+
+There are many other export options, for controlling the way images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Explore these at your leisure. The CSS is possibly Liz Castro her favorite option since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
+
+8. Finally, click OK to generate the EPUB file. 
+
+
+**Testing**
+Be sure to test the EPUB file in as many ereaders as possible. You can use Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to Kindle format so that you can test it on actual Kindle devices.
+
+
+**Validating**
+It's always a good idea to validate your EPUB documents with ePubCheck [^EpubCheck] before you release them.
+
+
+
+
 
 ### XML 
 <!-- Marc: This first paragraph is unclear. XML is not a 'document format' but it's a 'general document format'? Also the whole section appears to be a bit opinionated and lacking references, without providing references (messy XHTML?). -->
@@ -1054,6 +1213,7 @@ For Apple's Mac OS X and iOS, there are nice and very user friendly programs for
 Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication.
 
 <!-- Marc: This is a very practical section all of a sudden. Maybe relocate it to another part of the toolkit? -->
+
 ##### Cleaning up Markdown
 
 Since Markdown is a document format and not a word processing program, it does not offer functions like automatic renumbering of footnotes and list items during text editing. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
@@ -1086,7 +1246,6 @@ Also in pure text databases we have to be careful. On the one hand we have obvio
 In conclusion, we can only advise that various objects or in other words pictorial or textual entities are provided with as many consistent metadata (field descriptors) as possible. 
 
 
-=============
 
 
 
@@ -1104,6 +1263,7 @@ In conclusion, we can only advise that various objects or in other words pictori
 [^MultiMarkdown]: MultiMarkdown, http://fletcherpenney.net/multimarkdown/.
 [^Calibre]: Calibre ebook management, http://calibre-ebook.com/.
 [^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', Coding Horror, 05 Sep 2014, http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/.
+[^EpubCheck]: EpubCheck is a tool to validate IDPF EPUB files, version 2.0 and later. https://github.com/IDPF/epubcheck
 
 <!--Amy removed it as it didn't appear in text
 [^2]: http://daringfireball.net/projects/markdown/
