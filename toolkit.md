@@ -341,9 +341,7 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
-![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") 
-
-<!-- kimmy: Image is a very rough sketch -->
+![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
@@ -898,10 +896,10 @@ Note: An important step preceding the publication trajectory lies in the formula
 We will now turn to implementing the new workflow for small edition and low budget publishing houses. (See also for a step-to-step guide: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
-![Traditional Workflow](images/07_workflowTRADITIONAL03.png "Workflow Traditional.")
+![Traditional Workflow](images/07_workflow_traditional.png "Workflow Traditional.")
 
 
-![Traditional XML](images/07_workflowMarkdown03.png "Workflow XML.")
+![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.")
 
 <!-- links on the blog: 
 * <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
@@ -1123,11 +1121,6 @@ Miriam: are we still going to use this example?-->
 
 ## Direct conversion
 
-![Simplest possible case](images/08_markdown_to_epub.png "simple")
-
-<!-- @Michael could you take this up with Loes and Kimmy? Margreet: where should this image go? What is it's purpose? There is also a small portion missing at the top-->
-
-
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
 
 Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool.[^ebook-convert]
@@ -1135,19 +1128,18 @@ Two popular conversion programs that can convert from a wide variety of input fo
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plaintext], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
 
 ### Calibre
-
-![Simplest possible case](images/07_1stepepub.png "simple")
-
 Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
 After downloading and installing the program, follow these steps:
 
-Step 1: Open Calibre and import the original file you want to convert.
-Step 2: Select the file and click 'Convert books'.
-Step 3: Choose the file format for input and output.
-step 4: Click OK; Calibre starts converting.
-step 5: your EPUB is ready.
+<!-- Step 1: Open Calibre and import the original file you want to convert.
+Step 2: Select the file 
+Step 3: Click 'Convert books'.
+Step 4: Choose the file format for input and output.
+step 5: Click OK; Calibre starts converting.
+Your EPUB is ready. -->
 
+![Simplest possible case](images/07_02_2stepepub.png "simple")
 
 ### Direct conversion to EPUB with pandoc
 
@@ -1193,7 +1185,7 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![EPUB layout](images/08_EPUB-layout.png "EPUB layout")
+![EPUB layout](images/08_1_epublayout.png "EPUB layout")
 
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
