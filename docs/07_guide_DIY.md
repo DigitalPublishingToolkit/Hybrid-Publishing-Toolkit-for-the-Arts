@@ -1,10 +1,8 @@
 # 07 Guide: How to make a simple EPUB
 
-<!--Focus: EPUB 2/3, HTML5 (app) + PDF
+<!--Focus: EPUB 2/3, HTML5 (app) + PDF -->
 
-example Manifesto, El Lissitzky
 
-Miriam: are we still going to use this example?-->
     
 
 ## Direct conversion
@@ -19,42 +17,34 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
 After downloading and installing the program, follow these steps:
-
-<!-- Step 1: Open Calibre and import the original file you want to convert.
-Step 2: Select the file 
-Step 3: Click 'Convert books'.
-Step 4: Choose the file format for input and output.
-step 5: Click OK; Calibre starts converting.
-Your EPUB is ready. -->
-
 ![Simplest possible case](images/07_02_2stepepub.png "simple")
 
 ### Direct conversion to EPUB with pandoc
 
 To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling). [^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we’ll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc. [^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can’t ‘open’ the program and don’t see an icon. To convert the file into an EPUB follow the steps below.
 
-* First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
+1. First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
 
-* Pandoc is a command-line tool. There is no graphic user interface. So to use it, you’ll need to open a terminal window: 
+2. Pandoc is a command-line tool. There is no graphic user interface. So to use it, you’ll need to open a terminal window: 
 
 Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You'll get a white/black window saying C:\\user\\yourusername\>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
 Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
 
-* Go to the Terminal and type cd Documents. This means the Terminal will ‘change directory’ to the Documents folder.
-* Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
-* On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
-* To convert the file from docx to EPUB, type the following into the terminal: 
+1. Go to the Terminal and type cd Documents. This means the Terminal will ‘change directory’ to the Documents folder.
+2. Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
+3. On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
+4. To convert the file from docx to EPUB, type the following into the terminal: 
 
 		pandoc beowulf.docx -f docx -t epub -s -o beowulf.epub
 		
-* The filename beowulf.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o beowulf.epub says to put the output in a file named beowulf.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
-* Check that the file was created by typing ls or dir again. You should see beowulf.epub.
-* Open the EPUB from the folder or  in the Terminal type 
+5. The filename beowulf.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o beowulf.epub says to put the output in a file named beowulf.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
+6. Check that the file was created by typing ls or dir again. You should see beowulf.epub.
+7. Open the EPUB from the folder or  in the Terminal type 
 
  	 	open beowulf.epub 
  	
-* Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB:
+8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB:
 
 
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
@@ -74,8 +64,7 @@ You can download an example of a rudimentary EPUB that explains several of these
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
 ![EPUB layout](images/08_1_epublayout.png "EPUB layout")
-
-<!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
+<!--Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
 
@@ -89,15 +78,13 @@ These three components form the basic structure of an EPUB and are required in o
 
 ###Creating your own EPUB
 
-Most of the elements of an EPUB can be produced by hand in a text editor. Text editors is used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
+Most of the elements of an EPUB can be produced by hand in a text editor. Text editors are used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
 
 
 ####Creating the required files and directories
 
 Now that we've seen the insides of an EPUB after unzipping it, we can work the other way around and make the files and folders ourselves, thus creating a simple EPUB. We will work from our Documents directory where we can add folders like in the image above, and using a text editor to create the necessary files.
 
-<!--Margreet: Underneath steps go to fast to my opinion. Files and directories?! It would help to write a small introduction here maybe?
-Miriam: is it clearer now?-->
 1. Create a directory under Documents to store the files and subdirectories for your EPUB, and name it *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
@@ -131,7 +118,7 @@ The important part of this document is the information in quotes following the a
 
 ####The OPF file
 
-The OPF file is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file.
+The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file.
 
 ```
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -171,7 +158,7 @@ Lastly, the `spine` lists all the pages present in the publication and it's list
 
 ####The content
 
-As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here](<!--Amy: link missing, Marc do you know what this is?-->). Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
+As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here] <!-- internal link to limitations -->. Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
 
 
 ####Packaging
