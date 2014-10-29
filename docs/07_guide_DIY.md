@@ -73,7 +73,7 @@ You can download an example of a rudimentary EPUB that explains several of these
 
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
-![EPUB layout](images/08_EPUB-layout.png "EPUB layout")
+![EPUB layout](images/08_1_epublayout.png "EPUB layout")
 
 <!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
 
