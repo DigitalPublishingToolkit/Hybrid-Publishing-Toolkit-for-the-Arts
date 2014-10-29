@@ -342,9 +342,7 @@ Reading ebooks on a laptop or personal computer is a possibility but may be a le
 ##Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on ereaders. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of ereaders. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc.
 
-![Strengths & Limitations](images/05_readersoftware.png "Strengths & Limitations.") 
-
-<!-- kimmy: Image is a very rough sketch -->
+![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
 ###Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  <!-- add to glossary --> 
