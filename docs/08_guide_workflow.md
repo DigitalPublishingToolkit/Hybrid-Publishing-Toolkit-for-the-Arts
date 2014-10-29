@@ -1,13 +1,12 @@
 # 08 Guide: E-publications per genre
 
 ## General questions
-<!--Visual by Arjen--> <!-- This is already added to chapter 5. What is the purpose of that visual in this chapter? what should it depict? (kimmy asked this question)-->
 
 ## [Research publication](id:Research publication)
 ### General
 Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
   
-See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html) 
+See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html)  <!--Margreet: is this a comment? -->
 
 * Editor works with author(s) on manuscript  
 * Several versions going back and forth between different people in different roles (editor, author, copyeditor, designer)  
@@ -21,8 +20,10 @@ See Kimmy's visualized workflow for the INC, which will be generalized for [rese
 This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 
 
 <!-- pia: this is why? unclear-->
+<!-- we only use bold words in the text if it is referring to the glossary ?! -->
 
-So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
+
+So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not very good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the epublication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though less easily in InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
 
@@ -34,14 +35,12 @@ Flow chart: workflow -
 ### Decision making
 
 **Should it be a 1:1 transfer from paper book to ebook?**  
-This is the traditional view.  
-The book is a unique, one off publication.  
-A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
+This is the traditional view. The book is a unique, one off publication. A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
 
 With text oriented files this may seem the most straightforward, maybe even the only useful way. There is not more than text, perhaps accompanied by a couple of images. Most important is e.g. to get references right, and a nice advantage is that making an index will be much easier digitally.
 
 **What are alternative possibilities?**  
-What is possible when using a hybrid workflow, focused as much on e-publications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
+What is possible when using a hybrid workflow, focused as much on epublications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
 
 * Version control can be more transparant   
 * Adding elements other than text (videos, (color) images, links)  
@@ -56,19 +55,19 @@ The decision about the desired output leads to certain steps to get the right in
 
 Specify for example:  
 
-* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or docx (which can be easily converted into html)  
+* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or .docx (which can be easily converted into html)  
 * image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
-* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this ^kimmy --> 
+* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- Kimmy: The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
-* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
+* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable? -->
 
 **What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
 Make a list of metadata to be added to the texts  
 
 * metadata provided by the author(s)  
 * metadata added by the editor/publisher
-* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
+* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable?  -->
 
 **Do editorial criteria regarding the content change?**  
 Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
@@ -77,12 +76,12 @@ Editorial criteria for the content can also differ in a hybrid workflow and depe
 * is interactive material needed, more or other images than can be published in print, video, audio, etc.  
 
 ### Specific issues for this publication type
-Important issues in the hybrid workflow for research publications ar
+Important issues in the hybrid workflow for research publications are
 1. the editorial process, with comments and copyediting
 2. footnotes and referencing
 
-### Based on the above, what to choose?
 
+### Based on the above, what to choose?
  
 How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
@@ -152,7 +151,8 @@ Advantages, disadvantages
 
 
 
-## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+## Artist/designer book 
+<!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
 <!-- ![Periodical Approach](images/08_artistbook.png "Periodical Digital Approaches") -->
 
