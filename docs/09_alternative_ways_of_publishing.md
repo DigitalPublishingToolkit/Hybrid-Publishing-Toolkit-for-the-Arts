@@ -1,8 +1,5 @@
 # 09 Guide: Alternative ways of publishing
-<!-- This is a draft chapter and should be extended with a guide on how to create an EPUB using Adobe InDesign CC 
-
-
-Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
+<!-- Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
 
 <!-- Kimmy: there indeed seems to be a strange division between chapter 07 and 09. Maybe this chapter should come after 07 as a more advanced version? Or we should first explain the workflows and than the guides?. so you get:
 
@@ -12,6 +9,7 @@ chapter 08_guide_DIY.md
 Chapter 09_guide_advanced.md
 -->
 
+<!--Margreet:Chapter 09 should talk about existing authoring suites and enahancers, i.e. ADE, Mag+ -->
 
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
 - the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
@@ -76,7 +74,4 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 [^calibre]: Calibre ebook management: http://calibre-ebook.com/.
 [^Sigil]: Sigil, The EPUB Editor, http://code.google.com/p/sigil.
 [^Jutoh]: Jutoh, epublishing made easy, http://www.jutoh.com.
-
-<!--Amy removed the below reference as not in body text[^calibre_edit-ebooks]: calibre's ebook editor', http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html
--->
 
