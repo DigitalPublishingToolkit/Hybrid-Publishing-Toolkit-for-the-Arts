@@ -13,10 +13,10 @@ Note: An important step preceding the publication trajectory lies in the formula
 We will now turn to implementing the new workflow for small edition and low budget publishing houses. (See also for a step-to-step guide: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
-![Traditional Workflow](images/07_workflowTRADITIONAL03.png "Workflow Traditional.")
+![Traditional Workflow](images/07_workflow_traditional.png "Workflow Traditional.")
 
 
-![Traditional XML](images/07_workflowMarkdown03.png "Workflow XML.")
+![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.")
 
 <!-- links on the blog: 
 * <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
