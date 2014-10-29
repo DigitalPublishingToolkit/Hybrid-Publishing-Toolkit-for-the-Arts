@@ -9,7 +9,7 @@ With that said, there are exceptions. Workflow changes can be minor for publishe
 
 *Change is major for small, arts-oriented publishers*
 
-Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change, both technologically as well as where editorial concepts<!--Amy: what is meant by 'concepts' in this context?--> are concerned.
+Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change.
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 
@@ -35,6 +35,8 @@ With a single command one can get hold of code repository, downloading not only 
 
 We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
 -->
+
+<!--Pia: I agree with the more positive approach in the start of the paragraph and would propose to keep this part albeit edited slightly. However, I feel like the introduction of the commandline should be put towards the end of this introduction as a sort of end saying; this is what you are reading right now and this what you can do with it. I feel it ties in with who worked on this toolkit, as that then becomes who worked on this toolit and how did they do it -->
 
 ## What this Toolkit provides
 
