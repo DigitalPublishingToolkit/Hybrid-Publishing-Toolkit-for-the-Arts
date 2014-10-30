@@ -69,7 +69,11 @@ Central in a hybrid publishing workflow, we recommend to use the mark-up languag
 ####Introduction: advantages and limitations
 John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as `<b>` for bold or `<author>` to mark-up the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown:
 
-    # Alice's Adventures in Wonderland
+![Markdown](images/Markdown.png "Markdown.")
+
+<!-- kimmy:possibly convert to style of other visualizations ]
+
+<!--    # Alice's Adventures in Wonderland
     
     ## Chapter I. Down the Rabbit-Hole
 
@@ -87,9 +91,9 @@ John Gruber, developer of Markdown, describes Markdown on his website as follows
     never before seen a rabbit with either a waistcoat-pocket, or a
     watch to take out of it, and burning with curiosity, she ran across
     the field after it, and fortunately was just in time to see it pop
-    down a large rabbit-hole under the hedge.
+    down a large rabbit-hole under the hedge. -->
 
-<!-- Margreet: Would it be possible to also present the result in a visual, like if one is using Mou or Macdown? -->
+
 
 A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. 
 
