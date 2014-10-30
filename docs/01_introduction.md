@@ -13,7 +13,7 @@ Since this Toolkit is for publishers who (a) publish visually oriented books in 
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 
-- visually oriented publications are still more difficult to realize technically in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
+- visually oriented publications are still more difficult to realize technically in the electronic medium when designing for a multitude of different reading devices and ebook **platforms**; 
 - small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple forms (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
 - To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
 
