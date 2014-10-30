@@ -140,8 +140,6 @@ However, the declaration of these extensions in the document syntax and conversi
 
 They are not as universal and thoroughly structured as XML, but still provide the advantage of separating content structure from visual layout, along with the advantage of painless translation into multiple output formats. And lastly, XML has very complex markup that is hard to read and write for humans. Easy authoring tools for XML and any kind of XML-based document formats do not really exist yet. -->
 
-#### Practical tips and tricks for working with Markdown 
-
 ##### Word Processing / editing programs
 
 For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. 
