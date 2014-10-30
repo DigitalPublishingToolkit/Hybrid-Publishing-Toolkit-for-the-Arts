@@ -38,96 +38,96 @@ A graphic file that consists of two or more images shown in a timed sequence to 
 #####API (Application Programming Interface)
 An interface between the operating system and application programs that specifies how the two communicate with each other. 
 
-#####Applet
-An Applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations
+<!-- not in text (Miriam)#####Applet
+An applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations.-->
 
 #####ASCII (American Standard Code for Information Interchange)
 A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters.
 
-#####AVI (Audio Video Interleaved)
-A Microsoft video format where audio and video coding appears in alternate segments. AVI files will end with an .avi extension.
+<!-- not in text (Miriam)#####AVI (Audio Video Interleaved)
+A Microsoft video format where audio and video coding appears in alternate segments. -->
 
-### **B**
+### B
 
-*Bandwidth*
-Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.
+<!-- not in text (Miriam)#####Bandwidth
+Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.-->
 
-*Baud*
-Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may
-include more than one bit.
+<!-- not in text (Miriam)#####Baud
+Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may include more than one bit.-->
 
-*Binary*
-A number system using base 2 instead of the usual (human) base 10, which is normally referred to as the decimal system. Computers use base 2 because they can only recognise two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001, the right-most column being the units column and the other columns, moving from right to left, being 2, 4, 8.
+#####Binary
+A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001.
 
-*Bit*
+#####Bit
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed.
 
-*Bitmap*
-A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.
+<!-- not in text (Miriam)#####Bitmap (BMT)
+A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.-->
 
-*Blog*
+#####Blog
 Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the web.
 
-*Browser*
-Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics (except text-only browsers), plays music and video, and provides links to related pages. Browsers are based on standards
-developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved. These differences in browsers create a challenge for web page developers.
+#####Browser
+Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
-*Byte*
+#####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 
-### **C**
+### C
 
-*CAD/CAM*
-Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.
+<!-- not in text (Miriam)#####CAD/CAM
+Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.-->
 
-[CSS (*Cascading Style Sheets*)](#css)
-Cascading Style Sheets are a feature of HTML4 that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents. This makes it possible to set up CSS file containing a library of styles that are used throughout a website, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
+#####Cascading Style Sheets (CSS)
+Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
 
-*CMS (Content Management System)*
-A software package that makes it possible for non-technical users to publish content (text, images, etc) on a website.
-
-*Compatiblity*
+#####Compatiblity
 Pieces of hardware and/or software which are capable of being used together are described as *compatible*.
 
-*Compression*
-Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. There a number of programs that will compress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo.
+#####Compressed files
+Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo. 
 
-*Computer Program*
+#####Computer program
 A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, JAVA, C++) , and are then converted into binary machine instructions via a compiler or an interpreter.
 
-*Cookie*
-A cookie is a short file put on your system by a web page when the user visits a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check.
-There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.
+#####Content management system (CMS)
+A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website.
 
-### **D**
+<!-- not in text (Miriam)#####Cookie
+A cookie is a short file put on your system by a web page when you visit a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check. There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.-->
 
-*Data*
-Strictly speaking the plural of "datum",but now usually considered as a collective noun in the singular, with the plural form "data items" or "items of data". Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text
-or sets of figures on which a computer program operates.
+### D
 
-*Device*
-An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda)or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+#####Data
+Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
 
-*DRM ([Digital Rights Management](id:Digital Rights Management))*
-Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult.
+#####Decompress
+See **Compressed files**
+
+#####Desktop Publishing (DTP)
+The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
+
+#####Device
+An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+
+#####Digital Rights Management (DRM)
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
 <!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> -->  
 
-*DTP (Desktop Publishing)*
-Is the practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
-
-*Directory*
+#####Directory
 A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
 "child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
-*Dithering*
+
+#####Dithering
 The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
 
-*DOS (Disk Operating System)*
+#####DOS (Disk Operating System)
 An operating system for desktop PCs developed by Microsoft from 1981 to 1995.
 
-*Dot Matrix Printer*
+#####Dot Matrix Printer
 An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks "ragged". Laser printers and ink-jet printers are now much more common.
 
-*Dpi (Dots Per Inch)*
+#####Dpi (Dots Per Inch)
 A measure of the of the quality of output, i.e. the number of dots per square inchproduced by a *printer* or *scanner*, also referred to as its *resolution*. A resolution of at least 300 dpi is considered reasonable for the production of
 high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots
 
@@ -219,6 +219,9 @@ Tablet introduced by Apple, controlled by touch gestures.
 
 *Icon*
 A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+
+#####Incompatiblity
+See **Compatibility**
 
 *Ink Jet Printer*
 A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
