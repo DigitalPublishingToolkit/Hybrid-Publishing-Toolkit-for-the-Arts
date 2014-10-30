@@ -1,19 +1,19 @@
 # 01 Introduction 
 
-'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, for example, a catalog, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
+'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
 
 
 *Change is minor for scientific and mass publishers*
 
-With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many ebooks will be sold. 
+With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - like a novel or a textbook with little illustrations - and economical if many ebooks will be sold. 
 
 *Change is major for small, arts-oriented publishers*
 
-Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change.
+Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route than the one mentioned before. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for these types of publishers. But, to disappoint a common expectation, unfortunately there is no magic software button that will turn a print book design into an electronic publication just like that. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change. The good news is that it can. this toolkit will provide a guide on how to deal with the several issues which arise when making the transition for traditional to hybrid or electronic publishing. 
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 
-- visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
+- visually oriented publications are still more difficult to realize technically in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
 - small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple forms (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
 - To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
 
@@ -21,22 +21,12 @@ For art and design publishers, the challenge of going electronic with their publ
 
 We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
 
-On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
-
-<!-- Andre Proposal:
-
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can lead us to rethink established publishing practices and formats. When traditional publishing formats go electronic or hybrid, the possibility for transformation is real. Once the book becomes electronic or hybrid, the permanence, immutability and stability typical of physical books, is likely to mutate into dynamic, modular, and participative forms, that can benefit from the networked environment where ebooks exist. 
 
-Seemingly banal types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  Or an anthology of essays might allow annotations from all its readers to grow around its contents.
+Different types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  
 
-The possibility for change can also go beyond rethinking publishing formats and expand to redefine what the book is. As in the case of this publication, the adopted workflow brings into question aspects often seen as inherit and essential to books. For instances, instead of a single author, its authorship is shared by a number of collaborating authors. Several writers, designers, developers and editors, sometimes under more than one hat, actively contribute to this publication. They write, edit, design, create illustrations, comment, and develop scripts, that collectively lead the publication into its final from, which you are likely to be reading at this very moment. Each single contribution is entrusted to eyes and hands of the other co-authors by being uploaded to publication's [code repository](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) — an online pool, where all the files essential to the publication are stored and tracked over time. 
+The possibilities for change can go beyond rethinking publishing formats and expand to redefine what the book is. 
 
-With a single command one can get hold of code repository, downloading not only the current state of 'source' files for the book, but also the full history of changes and comments were made by each collaborator up to that point. With another command, the various 'sources' are pulled together into an EPUB produced at that moment. In this way both the 'content' and the 'machine' to make the book are bundled and shared.
-
-We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
--->
-
-<!--Pia: I agree with the more positive approach in the start of the paragraph and would propose to keep this part albeit edited slightly. However, I feel like the introduction of the commandline should be put towards the end of this introduction as a sort of end saying; this is what you are reading right now and this what you can do with it. I feel it ties in with who worked on this toolkit, as that then becomes who worked on this toolit and how did they do it -->
 
 ## What this Toolkit provides
 
@@ -70,7 +60,15 @@ This publication is part of the Digital Publishing Toolkit [^DPT-blog] RAAK-MKB 
 
 To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium [^DPT-consortium] of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
 
-The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT-GitHub]. As a result everyone can freely copy, adjust and distribute the tools. Five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose. 
+The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT-GitHub]. With a single command one can get hold of code repository, downloading not only the current state of 'source' files for the book, but also the full history of changes and comments were made by each collaborator to the toolkit up to that point. With another command, the various 'sources' are pulled together into an EPUB produced at that moment. In this way both the 'content' and the 'machine' to make the book are bundled and shared.
+
+We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
+
+Next to this publication and the toolkit, five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose.
+ 
+
+
+
 
 
 [^DPT-blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
