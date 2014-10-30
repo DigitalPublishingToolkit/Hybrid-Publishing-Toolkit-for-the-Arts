@@ -103,6 +103,8 @@ A cookie is a short file put on your system by a web page when you visit a websi
 #####Data
 Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
 
+#####Database
+
 #####Decompress
 See **Compressed files**
 
@@ -405,65 +407,63 @@ Playing audio or video in real time from a website. In order to play streaming m
 
 #####Syntax
 
-### **T**
+### T
 
-*Tablet Computer*
-A tablet computer is compact portable computer that makes use of a Touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
+#####Tablet
+A tablet is compact portable computer that makes use of a touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
 
-*Tag*
-Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML.
+#####Tagging
+Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML. Tagging has become more common in recent years as a result of the widespread use of social media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
 
-Tagging has become more common in recent years as a result of the widespread use of Social Media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
+<!-- #####TCP/IP (Transfer Control Protocol/Internet Protocol)
+The main data transfer protocol used on the internet.-->
 
-*TCP/IP (Transfer Control Protocol/Internet Protocol)*
-The main data transfer protocol used on the Internet.
+#####Tex
 
-*Tex*
-
-*Text editor*
+#####Text editor
 A computer program that allow the manipulation of text.
 
 #####Tiff
 
-*Tumblog*
-A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
+<!-- #####Tumblog
+A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.-->
 
-### *U*
+### U
 
-*Unicode*
-The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages: <a href="http://www.unicode.org">http://www.unicode.org</a>.
+#####Unicode
+The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages.
 
-*Unix*
-An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.
+<!-- #####Unix
+An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.-->
 
-### *V*
+### V
 
-*Vector Graphic*
-A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a *vector graphic* is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.
+<!-- #####Vector graphic
+A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a vector graphic is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.-->
 
-*Vodcast*
-A contraction of Video Podcast. A type of Podcast1 that incoporates video as well as audio.
+<!-- #####Vodcast
+A contraction of video podcast. A type of podcast that incoporates video as well as audio.-->
 
-### *W*
+### W
 
-*WAV (Waveform Audio Format)*
-A format for storing high-quality audio files.
+<!-- #####WAV (Waveform Audio Format)
+A format for storing high-quality audio files.-->
 
-*Word-processor*
-Probably the most widely used computer Application. Modern word-processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to *Desktop Publishing* applications. Word-processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages.Word-processors have been widely used in teaching and learning foreign languages ever since they first appeared.
+#####Word processor
+Probably the most widely used computer application, succes as Microsoft Word, Apples' Pages, and open source software Libre Office. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages. 
 
-*WWW (World Wide Web)*
-Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms.
+#####WWW (World Wide Web)
+Usually referred to simply as the Web. This is the most powerful and fastest growing internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the internet, but many people treat both terms as synonyms.
 
-*WYSIWYG (What You See Is What You Get)*
-Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.
+#####WYSIWYG (What You See Is What You Get)
+<!-- Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.-->
 
-### **X**
+### X
 
-*[XML](id:XML) (eXtensible Markup Language)*
+#####XML (Extensible Markup Language)
 XML is a specification emanating from the World Wide Web Consortium (W3C) that allows Web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating Web pages, HTML, and makes it possible to create websites containing more complex interactivity.
 
-*[XHTML](id:XHTML)(Extensible Hypertext Markup Language)*
+#####XHTML (Extensible Hypertext Markup Language)
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 ### Y
