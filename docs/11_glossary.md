@@ -127,25 +127,24 @@ An operating system for desktop PCs developed by Microsoft from 1981 to 1995.-->
 An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks 'ragged'. Laser printers and ink-jet printers are now much more common.-->
 
 #####Dots per inch (DPI)
-A measure of the of the quality of output, i.e. the number of dots per square inchproduced by a *printer* or *scanner*, also referred to as its *resolution*. A resolution of at least 300 dpi is considered reasonable for the production of
-high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots.
 
-### **E**
+### E
 
-*ebook*
-A range of digital publications which can be read by ereaders, desktop computers and handheld devices.
+#####Ebook
+Digital publications of different kinds and formats, which can be read by ereaders, desktop computers and handheld devices.
 
-*EPUB (Electronic Publication)*
-An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content.
+#####EPUB (Electronic Publication)
+An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content.
 
-*ereader*
+#####Ereader
 A device capable of reading digital texts in various formats, notably EPUB and AZW.
 
-*E-ink*
+#####E-ink
 Electrophoretic ink, a sytem in whch small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces considerably the power consumption and makes it an ideal technology for long reading. The resolution of the stable screen is very high. A disadvantage is that, like paper, the presentation does not allow motion pictures or animations.
 
-*Encryption*
-A system of coding that helps prevent access to private information on computer networks or on the Web.
+<!-- not in text (Miriam)#####Encryption
+A system of coding that helps prevent access to private information on computer networks or on the Web.-->
 
 ### **F**
 

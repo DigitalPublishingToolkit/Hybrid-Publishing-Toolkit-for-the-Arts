@@ -5,7 +5,7 @@
 
 *Change is minor for scientific and mass publishers*
 
-With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - like a novel or a textbook with little illustrations - and economical if many ebooks will be sold. 
+With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an **ebook**. This process can be quick if the book is visually simple - like a novel or a textbook with little illustrations - and economical if many ebooks will be sold. 
 
 *Change is major for small, arts-oriented publishers*
 
@@ -23,7 +23,7 @@ We face a major contrast between computer industry promises and the reality of t
 
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can lead us to rethink established publishing practices and formats. When traditional publishing formats go electronic or hybrid, the possibility for transformation is real. Once the book becomes electronic or hybrid, the permanence, immutability and stability typical of physical books, is likely to mutate into dynamic, modular, and participative forms, that can benefit from the networked environment where ebooks exist. 
 
-Different types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  
+Different types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an **EPUB** or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  
 
 The possibilities for change can go beyond rethinking publishing formats and expand to redefine what the book is. 
 
