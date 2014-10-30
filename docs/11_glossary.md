@@ -105,6 +105,7 @@ A cookie is a short file put on your system by a web page when you visit a websi
 Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
 
 #####Database
+A structured datasource from which one can select specific records or a collection of records.
 
 #####Decompress
 See **Compressed files**
@@ -304,6 +305,9 @@ Standardised descriptors of data in a particular document (author, creation date
 <!--#####MIDI (Musical Instrument Digital Interface)
 A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.-->
 
+#####Mobi
+An ebook file format developed by Mobipocket and the basis of Amazon's first AZW ebooks.
+
 #####Mobipocket
 A French company incorporated in March 2000 that produced Mobipocket Reader software, an ereader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
 
@@ -342,10 +346,12 @@ A programming language often used to create applications for OS X and iOS. The l
 The practice of allowing access to the source of product and the process through which the product has been developed. Open source software is the most well-known exponent of this practice.
 
 #####Operating system (OS)
+Software which manages the computer's hardware and provides a collection of tools and services used by computer programs within the operating system. Well known operating systems include Windows, Linux, Mac OS X and mobile operating systems like Android and iOS.
 
 ### P
 
 #####PDA
+A handheld device providing services like an agenda, contacts and webbrowsing. Since the introduction of smartphones, the manufacturing of PDAs has been largely discounted.
 
 #####PDF (Portable Document Format)
 A file type created by Adobe that allows fully formatted documents to be transmitted across the internet and viewed on any computer that has Adobe Acrobat Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable.
@@ -357,7 +363,7 @@ A contraction of picture element. What you see on a computer display screen is m
 Text without any visual characteristics, so without bolding, italics, clickable links etc.
  
 #####Platform
-Often used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
+Generic term used in various contexts to denote technology which acts as a foundation for other technology to build upon - an operating system can be considered a platform. Also used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
 <!-- #####Podcast
 A podcast is a broadcast digital audio recording, made available via the web in a way that allows the recording to be downloaded for listening at the user's convenience. Cf. Vodcast, which is often used to describe a downloadable broadcast digital video recording.-->
@@ -369,6 +375,7 @@ A small window that appears within a program or over the top of a web page to de
 Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print-on-demand is sometimes called publish-on-demand.
 
 #####Program
+A computer program is a set of instructions for a computer, allowing it to performing certain tasks.
 <!-- The American spelling is standard in computer jargon, enabling a useful distinction to be made in British English between a *computer program* and a *programme* in the sense of a *programme of study*. A talk with the title "Turning programmes into programs" (or maybe it was the other way round) was presented by a British Council officer at the annual TESOL conference in the USA in 1987 - which puzzled the American audience but made sense to the British participants.-->
 
 #####Protocol
@@ -396,6 +403,7 @@ An alternative way of storing a document created with a Microsoft Word-processor
 ### S
 
 #####Software Development Kit (SDK)
+A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms.
 
 <!-- #####Semantic web
 The semantic web is not a new type of Web, but rather an extension of the Web whereby data available in different locations is linked together in a way that allows the user to search in a more sophisticated way, e.g. by requesting information in forms such as 'tell me where I can find information about 21st-century writers who live within 50 miles of my home town'.-->
@@ -413,6 +421,7 @@ sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
 
 #####Syntax
+The correct 'grammar' and 'spelling' of a programming language.
 
 ### T
 
@@ -426,11 +435,13 @@ Tags are small alpha-numeric indicators around a word or part of text to define 
 The main data transfer protocol used on the internet.-->
 
 #####Tex
+A document markup language used in scientific documents, often used to render mathematical notations, for example.
 
 #####Text editor
 A computer program that allow the manipulation of text.
 
 #####Tiff
+A file format for storing raster graphics, commonly used in print design.
 
 <!-- #####Tumblog
 A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.-->
@@ -463,6 +474,7 @@ Probably the most widely used computer application, succes as Microsoft Word, Ap
 Usually referred to simply as the Web. This is the most powerful and fastest growing internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the internet, but many people treat both terms as synonyms.
 
 #####WYSIWYG (What You See Is What You Get)
+A concept used to describe the notion that the appearance of text and images onscreen, corresponds more or less directly with the way the finished product (web page, printed document, etc.) will appear.
 <!-- Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.-->
 
 ### X
