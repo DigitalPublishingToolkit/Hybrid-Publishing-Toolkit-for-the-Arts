@@ -71,6 +71,7 @@ Short for web log; usually a chronological record of thoughts, links, events, or
 Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
 #####Browser extension
+Plugins to extend or enhance the inner-workings of a web browser.
 
 #####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
@@ -102,6 +103,8 @@ A cookie is a short file put on your system by a web page when you visit a websi
 
 #####Data
 Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
+
+#####Database
 
 #####Decompress
 See **Compressed files**
@@ -166,7 +169,7 @@ A file format is a standard way that information is encoded for storage in a com
 Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
 #####Formatting
-<!-- Change the meanging into: applying format aka style values, this is the only way it is used in the text. Miriam.  The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.-->
+The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
 
 #####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
@@ -217,6 +220,7 @@ See **Compatibility**
 A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
 #####Interactivity
+Used to describe the ways in which software accepts and responds to user input.
 
 #####Interface
 An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
@@ -270,7 +274,7 @@ Kobo produces a range of handheld devices and software for ereading. It also has
 A network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. -->
 
 #####LaTex
-
+A document markup language used in scientific documents, often used to render mathematical notations, for example.
 
 #####LCD (Liquid Crystal Display)
 A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
@@ -284,13 +288,17 @@ Unix-type Operating System. Linux was originally created by Linus Torvalds with 
 A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.-->
 
 #####Mark-up Language
+A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in `<strong></strong>` tags, an interpreter (e.g. a webbrowser) will render that particular word as bold.
 
 #####Markdown
+A **markup language** using common symbols like #, * and _ to denote various style attributes.
 
 <!-- #####Mashup
 A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.-->
 
 #####Metadata
+Standardised descriptors of data in a particular document (author, creation date, etc.)
+
 <!--I added this link in the text Possible link: <a href="http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/">http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/</a> -->
 
 <!--#####MIDI (Musical Instrument Digital Interface)
@@ -315,6 +323,7 @@ Abbreviation for Motion Picture Expert Group. A standard file format for storing
 Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
 
 #####MultiMarkdown
+An extension of **Markdown's** syntax adding tables, footnotes, citations, etc.
 
 #####Multimedia
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application.
@@ -405,65 +414,63 @@ Playing audio or video in real time from a website. In order to play streaming m
 
 #####Syntax
 
-### **T**
+### T
 
-*Tablet Computer*
-A tablet computer is compact portable computer that makes use of a Touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
+#####Tablet
+A tablet is compact portable computer that makes use of a touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
 
-*Tag*
-Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML.
+#####Tagging
+Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML. Tagging has become more common in recent years as a result of the widespread use of social media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
 
-Tagging has become more common in recent years as a result of the widespread use of Social Media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
+<!-- #####TCP/IP (Transfer Control Protocol/Internet Protocol)
+The main data transfer protocol used on the internet.-->
 
-*TCP/IP (Transfer Control Protocol/Internet Protocol)*
-The main data transfer protocol used on the Internet.
+#####Tex
 
-*Tex*
-
-*Text editor*
+#####Text editor
 A computer program that allow the manipulation of text.
 
 #####Tiff
 
-*Tumblog*
-A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
+<!-- #####Tumblog
+A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.-->
 
-### *U*
+### U
 
-*Unicode*
-The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages: <a href="http://www.unicode.org">http://www.unicode.org</a>.
+#####Unicode
+The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages.
 
-*Unix*
-An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.
+<!-- #####Unix
+An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.-->
 
-### *V*
+### V
 
-*Vector Graphic*
-A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a *vector graphic* is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.
+<!-- #####Vector graphic
+A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a vector graphic is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.-->
 
-*Vodcast*
-A contraction of Video Podcast. A type of Podcast1 that incoporates video as well as audio.
+<!-- #####Vodcast
+A contraction of video podcast. A type of podcast that incoporates video as well as audio.-->
 
-### *W*
+### W
 
-*WAV (Waveform Audio Format)*
-A format for storing high-quality audio files.
+<!-- #####WAV (Waveform Audio Format)
+A format for storing high-quality audio files.-->
 
-*Word-processor*
-Probably the most widely used computer Application. Modern word-processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to *Desktop Publishing* applications. Word-processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages.Word-processors have been widely used in teaching and learning foreign languages ever since they first appeared.
+#####Word processor
+Probably the most widely used computer application, succes as Microsoft Word, Apples' Pages, and open source software Libre Office. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages. 
 
-*WWW (World Wide Web)*
-Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms.
+#####WWW (World Wide Web)
+Usually referred to simply as the Web. This is the most powerful and fastest growing internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a Browser. The World Wide Web is only part of the internet, but many people treat both terms as synonyms.
 
-*WYSIWYG (What You See Is What You Get)*
-Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.
+#####WYSIWYG (What You See Is What You Get)
+<!-- Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.-->
 
-### **X**
+### X
 
-*[XML](id:XML) (eXtensible Markup Language)*
+#####XML (Extensible Markup Language)
 XML is a specification emanating from the World Wide Web Consortium (W3C) that allows Web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating Web pages, HTML, and makes it possible to create websites containing more complex interactivity.
 
-*[XHTML](id:XHTML)(Extensible Hypertext Markup Language)*
+#####XHTML (Extensible Hypertext Markup Language)
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 ### Y
