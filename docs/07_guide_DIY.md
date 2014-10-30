@@ -1,16 +1,12 @@
 # 07 Guide: How to make a simple EPUB
 
 <!--Focus: EPUB 2/3, HTML5 (app) + PDF -->
+  
+Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB. The following options are being explained 
 
-
-    
-Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
-
-
-Met de hand
-Via InDesign
-Via Pandoc
-
+1) Do it yourself EPUB from scratch
+2) Do it yourself EPUB using InDesign
+3) Do it yourself EPUB using pandoc
 
 
 ## Do it yourself EPUB from scratch
@@ -133,7 +129,7 @@ Because some archive programs create unnecessary (hidden) files inside the archi
 Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
 
-## Do it yourself EPUB with InDesign
+## Do it yourself EPUB using InDesign
 InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
 
 InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
@@ -298,7 +294,7 @@ It's always a good idea to validate your EPUB documents with ePubCheck [^EpubChe
 
 
 
-## Do it yourself EPUB with pandoc
+## Do it yourself EPUB using pandoc
 Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool.[^ebook-convert]
 
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plaintext], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
