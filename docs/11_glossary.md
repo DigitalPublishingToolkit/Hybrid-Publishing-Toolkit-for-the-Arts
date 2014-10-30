@@ -70,6 +70,8 @@ Short for web log; usually a chronological record of thoughts, links, events, or
 #####Browser
 Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
+#####Browser extension
+
 #####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 
@@ -141,36 +143,32 @@ An ebook format developed by the International Digital Publishing Forum (IDPF). 
 A device capable of reading digital texts in various formats, notably EPUB and AZW.
 
 #####E-ink
-Electrophoretic ink, a sytem in whch small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces considerably the power consumption and makes it an ideal technology for long reading. The resolution of the stable screen is very high. A disadvantage is that, like paper, the presentation does not allow motion pictures or animations.
+Electrophoretic ink, a sytem in which small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations.
 
 <!-- not in text (Miriam)#####Encryption
 A system of coding that helps prevent access to private information on computer networks or on the Web.-->
 
-### **F**
+### F
 
-*FAQ*
-Abbreviation for Frequently Asked Question(s).
+<!-- not in text (Miriam)#####FAQ
+Abbreviation for Frequently Asked Question(s).-->
 
-*File*
-A *file* in computer jargon can be used to describe many different things. It may be a Computer Program, a document file created with a Word-processor, an image file, an audio file, a video file, etc. Think of it in the same way as you would think of a file in a filing cabinet. A file has a name that describes what it is, and the file is stored in a
-place where you can easily find it.
+#####File
+'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place.
 
-*File extension*
-One popular method used by many operating systems, including Windows, Mac OS is to determine the format of a file based on the end of its name—the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so, often any given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
+#####File extension
+A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions.
 
-*File format*
+#####File format
 A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read.
 
-*File Permissions*
-Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.
+<!-- not in text (Miriam)#####File permissions
+Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
-*Flat text*
- Text without any visual characteristics, so without bolding, italics, etc.
- 
-*Formatting*
+#####Formatting
 The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.
 
-*Freemium*
+#####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
 
 ### **G**
@@ -342,6 +340,9 @@ This is a file type created by Adobe that allows fully formatted, documents to b
 *Pixel*
 A contraction of picture element. What you see on a computer Display Screen1 is made up of thousands of coloured pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
 
+#####Plain text
+Text without any visual characteristics, so without bolding, italics, etc.
+ 
 *Platform*
 Often used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
