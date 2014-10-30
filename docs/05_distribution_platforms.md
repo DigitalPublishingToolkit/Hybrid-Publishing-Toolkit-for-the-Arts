@@ -18,10 +18,11 @@ Below several platforms are discussed, including characteristics, statistics, st
 
 <!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
+
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
 
-Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+<!--Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
 **Characteristics**
   
@@ -68,12 +69,14 @@ For deeper statistics a paid account is needed
 * Easy upload of many different file formats  
 * Embed on your own website  
 * Offer downloadable file  
+-->
+
 
 
 ###Scribd
 ![Scribd](images/07_Scribdicon.png "Scribd")
 
-
+<!-- 
 **Characteristics**  
 Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 
@@ -119,9 +122,11 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Easy upload of many different file formats  
 * Offer in-browser reading and downloadable file  
 
+-->
+
 ### Internet Archive
 ![Internet Archive](images/07_IAIcon.png)
-
+<!--
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 
@@ -147,9 +152,6 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 * 6 million publications.
 * Each month publications are either read or downloaded 10 million times [^IA_blog] 
-
-<!-- To be merged -->
-
 * Collection topped 10 petabytes
 * 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
 * Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
@@ -181,6 +183,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Fill-in publication's metadata.
 * The publication will be given dedicated page.
 
+-->
 
 
 

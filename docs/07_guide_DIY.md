@@ -1,7 +1,6 @@
 # 07 Guide: How to make a simple EPUB
 
-<!--Focus: EPUB 2/3, HTML5 (app) + PDF -->
-  
+
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB. The following options are being explained 
 
 1) Do it yourself EPUB from scratch
@@ -126,7 +125,7 @@ Creating an EPUB file is as simple as selecting both the *META-INF* and *OEBPS* 
 
 Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most ereaders will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of ereaders refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-Validator] or a desktop application.
 
-Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
+And again your EPUB is ready! 
 
 
 ## Do it yourself EPUB using InDesign
@@ -292,6 +291,7 @@ Be sure to test the EPUB file in as many ereaders as possible. You can use Kindl
 It's always a good idea to validate your EPUB documents with ePubCheck [^EpubCheck] before you release them.
 
 
+Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
 
 ## Do it yourself EPUB using pandoc
