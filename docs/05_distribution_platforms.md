@@ -20,11 +20,21 @@ Below several platforms are discussed, including characteristics, statistics, st
 
 
 ###Issuu 
+<<<<<<< HEAD
 ![Issuu](images/07_IssuuIcon.png "Issuu")
 
 <!--Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+=======
+Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+###Scribd
+Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
+### Internet Archive
+Internet Archive can be found at [https://archive.org/](https://archive.org/)
+>>>>>>> FETCH_HEAD
 
-**Characteristics**
+![Issuu](images/05_01_issuu.png "Issuu")
+
+<!-- **Characteristics**
   
 * It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
 * It is used for books, brochures, magazines, etc 
@@ -70,6 +80,7 @@ For deeper statistics a paid account is needed
 * Embed on your own website  
 * Offer downloadable file  
 -->
+<<<<<<< HEAD
 
 
 
@@ -77,8 +88,14 @@ For deeper statistics a paid account is needed
 ![Scribd](images/07_Scribdicon.png "Scribd")
 
 <!-- 
+=======
+
+
+![Scribd](images/05_01_scribd.png "Scribd")
+
+<!--
+>>>>>>> FETCH_HEAD
 **Characteristics**  
-Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 
 * The world’s largest collection of ebooks and written works, according to their own sources 
 * Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
@@ -123,13 +140,18 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Offer in-browser reading and downloadable file  
 
 -->
+<<<<<<< HEAD
 
 ### Internet Archive
 ![Internet Archive](images/07_IAIcon.png)
 <!--
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
+=======
+>>>>>>> FETCH_HEAD
 
+![Internet Archive](images/05_01_internetarchive.png)
 
+<!--
 **Characteristics**
 
 * Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
@@ -181,10 +203,14 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Create an account  
 * Upload publication in any of the many allowed file formats  
 * Fill-in publication's metadata.
+<<<<<<< HEAD
 * The publication will be given dedicated page.
 
 -->
 
+=======
+* The publication will be given dedicated page. -->
+>>>>>>> FETCH_HEAD
 
 
 ###Third party blogs

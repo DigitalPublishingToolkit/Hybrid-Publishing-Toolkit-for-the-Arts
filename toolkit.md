@@ -155,7 +155,7 @@ Markup languages are grammars that define the markup and the relations between m
 
 What is happening here is a mixture of **layout** and structure. Layout is the activity of presenting a text onto a medium, such as a paper page. SGML and its derivatives, the easier **HTML** (HyperText Markup Language) and the expanded **XML** (Extensible Markup Language) make a strict distinction between structure and representation. A markup language knows notions such as “highlighted word or phrase” and then type 1,2,3... This allows you to equate e.g.: chapter heading with type 1 and quotation with type 4. Depending on the output substrate you can then define in the layout phase how this will look like. For instance, a chapter heading is in a certain type font and font size and centered on the page, whilst a quotation is represented in the same font size and font of the running text, but now in italics. On a screen we can have things like chapter headings in pink and quotations in yellow. 
 
-This freedom in the layout is explicated in a so-called **style sheet** , which is a table that connects a layout schema with the markup schema. This way of working is imperative if one wants to allow a source text to be represented in many different ways on various media of various sizes. Note that in many programs these translations are done fairly invisibly to the user. If we translate an .odt file into a .docx file, all coding is translated one-to-one. As we will see in the following, translation between one file type into another is not always symmetrical. Hence, the golden rule is to **always make sure that the source text is as systemically structured as possible**.
+This freedom in the layout is explicated in a so-called **style sheet** , which is a table that connects a layout schema with the markup schema. This way of working is imperative if one wants to allow a source text to be represented in many different ways on various media of various sizes. Note that in many programs these translations are done fairly invisibly to the user. If we translate an .odt file into a .docx file, all coding is translated one-to-one. As we will see in the following, translation between one file type into another is not always symmetrical. Hence, the golden rule is to *always make sure that the source text is as systemically structured as possible*. 
 
 An important notion is that all digital texts and accompanying coding are written in simple letters and numerals, this is called **plain text**, or a flat file. This is a stripped down text without layout; the most elementary token. It goes without saying that the flexibility of this process is limited to the character set for plain text we use. In the “old” days this was **ASCII** based and limited to the possible number of distinct signs (letters, numerals, commas, etc.) of a binary computer text. Slowly but surely, a new elaborted list of allowed signs, extending ASCII is making inroads. This collection of signs is called: **Unicode**. Unicode aims to include all alphabets and letter systems including common signs and ligatures, such as the aforementioned *&* and diacritic signs. Again, this is a step forward to guarantee a clean source file for all kind of usages, even those we don’t consider or even imaging today.
 
@@ -221,7 +221,7 @@ Going electronic also opens up new possibilities for creating content. Due to th
 - Descriptive texts of changing lengths.
 
 **Going electronic: Advantages and issues**  
-Most art/design catalogues are image-heavy publications, and this is precisely the greatest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high, with no degradation of colours and the highest possible resolution. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
+Most art/design catalogues are image-heavy publications, and this is precisely the greatest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high, with no degradation of colours and the highest possible **resolution**. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
 
 Possibilities in this direction lie in offering high quality images which can be zoomed in to and complementing the content with other (interactive) materials. Also, most tablet computers offer much more better color reproduction (gamut) than the print page. An issue of concern is that in a catalogue often a fixed page layout is necessary: image and text must appear in a certain layout as they belong to each other. However, changes in size (of the device or of the settings a reader uses) might influence the flow of content, resulting in a drifting apart of pictures and text. 
 
@@ -470,10 +470,11 @@ Below several platforms are discussed, including characteristics, statistics, st
 
 <!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
+
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
 
-Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+<!--Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 
 **Characteristics**
   
@@ -520,12 +521,14 @@ For deeper statistics a paid account is needed
 * Easy upload of many different file formats  
 * Embed on your own website  
 * Offer downloadable file  
+-->
+
 
 
 ###Scribd
 ![Scribd](images/07_Scribdicon.png "Scribd")
 
-
+<!-- 
 **Characteristics**  
 Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 
@@ -571,9 +574,11 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Easy upload of many different file formats  
 * Offer in-browser reading and downloadable file  
 
+-->
+
 ### Internet Archive
 ![Internet Archive](images/07_IAIcon.png)
-
+<!--
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 
@@ -599,9 +604,6 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 * 6 million publications.
 * Each month publications are either read or downloaded 10 million times [^IA_blog] 
-
-<!-- To be merged -->
-
 * Collection topped 10 petabytes
 * 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
 * Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
@@ -633,6 +635,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Fill-in publication's metadata.
 * The publication will be given dedicated page.
 
+-->
 
 
 
@@ -819,7 +822,7 @@ Choose your preferred ways of distribution
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru
 As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and ereading platforms. Worldwide, many organisations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistant to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure.
 
-Commercial providers of digital content can learn a lot from the pirates.Netflix,[^Netflix] the most successful web service for streaming films and growing competitor for pay tv, is known for buying films based on their popularity on The Pirate Bay.[^The-Pirate-Bay] 
+Commercial providers of digital content can learn a lot from the pirates.Netflix,[^Netflix] the most successful web service for **streaming** films and growing competitor for pay tv, is known for buying films based on their popularity on The Pirate Bay.[^The-Pirate-Bay] 
 
 #### All-purpose download sites
 Sites like The Pirate Bay offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers.
@@ -978,7 +981,7 @@ John Gruber, developer of Markdown, describes Markdown on his website as follows
 
 A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. 
 
-Markdown is a child of Internet culture. It standardises ad-hoc formatting signs used in e-mail and chats, and became popular in blogging software. There are similar plain text formatting languages to Markdown: the Wiki syntax used in Wikipedia, the language _Textile_ that is used for a number of web content management systems and the language _reStructuredText_ used for writing technical manuals, and many others. 
+Markdown is a child of Internet culture. It standardises ad-hoc formatting signs used in e-mail and chats, and became popular in blogging software. There are similar plain text formatting languages to Markdown: the Wiki **syntax** used in Wikipedia, the language _Textile_ that is used for a number of web content management systems and the language _reStructuredText_ used for writing technical manuals, and many others. 
 
 Markdown and its siblings are human-readable, human-friendly well-structured document formats, excellent for long-term storage and as the basis (or source code) for conversions into present and future document formats. While they are simple, they are also both strict and unambiguous enough in their formatting syntax that multiple writers and editors can work on a single document without introducing strangeness into its formatting. Another advantage of Markdown can be written and edited in any computer program capable of processing basic text. Unlike the file formats of Microsoft Word or other classical word processing programs, the file containing the Markdown flavoured text is not bound to specific software, it can be opened using the simplest applications able to parse text.
 
@@ -1075,17 +1078,12 @@ In conclusion, we can only advise that various objects or in other words pictori
 
 # 07 Guide: How to make a simple EPUB
 
-<!--Focus: EPUB 2/3, HTML5 (app) + PDF -->
 
+Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB. The following options are being explained 
 
-    
-Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
-
-
-Met de hand
-Via InDesign
-Via Pandoc
-
+1) Do it yourself EPUB from scratch
+2) Do it yourself EPUB using InDesign
+3) Do it yourself EPUB using pandoc
 
 
 ## Do it yourself EPUB from scratch
@@ -1205,10 +1203,10 @@ Creating an EPUB file is as simple as selecting both the *META-INF* and *OEBPS* 
 
 Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most ereaders will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of ereaders refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-Validator] or a desktop application.
 
-Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
+And again your EPUB is ready! 
 
 
-## Do it yourself EPUB with InDesign
+## Do it yourself EPUB using InDesign
 InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
 
 InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
@@ -1371,9 +1369,10 @@ Be sure to test the EPUB file in as many ereaders as possible. You can use Kindl
 It's always a good idea to validate your EPUB documents with ePubCheck [^EpubCheck] before you release them.
 
 
+Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
 
-## Do it yourself EPUB with pandoc
+## Do it yourself EPUB using pandoc
 Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed-->) and Calibre's conversion tool.[^ebook-convert]
 
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plaintext], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
@@ -1731,7 +1730,7 @@ Chapter 09_guide_advanced.md
 
 
 A consistent design and uniform interactivity across devices could be a requirement, in which case a reflowable document might not be the ideal solution. Some publishers opt to develop their own (mobile) applications, like The Guardian's iOS [^guardian-ios] version of their newspaper, the amplified ebooks by Penguin [^penguin-amplified] or the children's book by Purple Carrot [^purple-carrot-publication].
-These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS SDK (Software Development Kit) in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an EPUB to another device, however application binaries are not that easily passed around, mostly due to the relatively closed nature of mobile operating systems.
+These solutions offer fine-grained control over user interaction and consistency of design, but come with the extra cost of hiring a development team to engineer the application. Also, publishing for different platforms is not that straightforward. Code written specifically with the iOS **SDK (Software Development Kit)** in mind will likely require a lot of editing before it's ready to run on the Android platform. Portability is another issue, it's fairly easy to transfer an EPUB to another device, however application binaries are not that easily passed around, mostly due to the relatively closed nature of mobile operating systems.
 
 Lastly, why not just publish essays, articles or even whole books on a website? The wealth of weblogs and other publishing platforms shows that this is a viable form of publishing. Monetising is less straightforward, most websites generate income by showing advertisements or sponsored articles. Paid membership is also used as a business model by some websites, like *De Correspondent* [^de-correspondent]. One of the major downsides is that content will only be available online and cannot be easily passed around as a single unit of information like an EPUB or a PDF.
 
@@ -2199,7 +2198,7 @@ The practice of allowing access to the source of product and the process through
 A file type created by Adobe that allows fully formatted documents to be transmitted across the internet and viewed on any computer that has Adobe Acrobat Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable.
 
 #####Pixel
-A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. The more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
+A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots. See also **resolution**.
 
 #####Plain text
 Text without any visual characteristics, so without bolding, italics, clickable links etc.
@@ -2222,46 +2221,45 @@ Print on demand (POD) is a digital printing technology in which a book or other 
 #####Protocol
 In internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and Web server.
 
-### **Q**
+### Q
 
-*QR Code (Quick Response Code)*
-A QR Code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps1 location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR Codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR Code.
+<!-- #####QR code (Quick Response Code)
+A QR code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR code.-->
 
-*QuickTime*
-Software by Apple used for viewing movies and listening to audio recordings
+<!-- #####QuickTime
+Software by Apple used for viewing movies and listening to audio recordings-->
 
-### **R**
+### R
 
-*Reflowable*
+#####Reflowable
 A reflowable document is a type of electronic document that can adapt its presentation to the output device.
 
-*Resolution*
-A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolutionand high-resolution. The resolution of a computer display screenis normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a Printer is normally referred to by the number of dots per inch (dpi)- i.e. square inch.
+#####Resolution
+A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolution and high-resolution. The resolution of a computer display screen is normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a printer is normally referred to by the number of dots per inch (dpi) - i.e. square inch.
 
-*RTF (Rich Text Format)*
-An alternative way of storing a document created with a MS-Word-processor. RTF-formatted files can be moved relatively easily between different computer systems. RTF format is also recommended when transmitting an Attachment by Email as it is much safer than the Microsoft Word formats, which can harbour Word Macro viruses. RTF files preserve most of the formatting contained in DOC-formatted files.
+#####Rich Text Format (RTF)
+An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files.
 
-### **S**
+### S
 
-*SDK (Software Development Kit)*
+#####Software Development Kit (SDK)
 
-*Semantic Web*
-The *Semantic Web* is not a new type of Web, but rather an extension of the Web whereby data available in different locations on the Web is linked together in a way that allows the user to search the Web in a more sophisticated way, e.g. by requesting information in forms such as "Tell me where I can find information about 21st-century writers who live within 50 miles of my home town":
+<!-- #####Semantic web
+The semantic web is not a new type of Web, but rather an extension of the Web whereby data available in different locations is linked together in a way that allows the user to search in a more sophisticated way, e.g. by requesting information in forms such as 'tell me where I can find information about 21st-century writers who live within 50 miles of my home town'.-->
 
-*Setup Program*
-A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as Install Program or Installation Program.
+<!-- #####Setup program
+A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as install program or installation program.-->
 
-*Shockwave Player*
-Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.
+<!-- #####Shockwave player
+Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.-->
 
-*sRGB color space*
-sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the Internet.
+<!-- #####sRGB color space
+sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the internet.-->
 
+#####Streaming
+Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
 
-*Streaming*
-Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
-
-*Syntax*
+#####Syntax
 
 ### **T**
 

@@ -8,9 +8,9 @@ Instead of developing a digital publication based on the printed book at the end
 
 However, the description of the workflow which follows below starts at a point which in reality is not the beginning of the publishing trajectory, which starts in reality when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
 
-Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide (see also [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy or Andre)--> for pointers regarding adjusting the style guide in this sense.
+Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide ([![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy or Andre)--> for pointers regarding adjusting the style guide in this sense.
 
-We will now turn to implementing the new workflow for small edition and low budget publishing houses. (See also for a step-to-step guide: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
+We will now turn to implementing the new workflow for small edition and low budget publishing houses. ([![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](images/07_workflow_traditional.png "Workflow Traditional.")
@@ -19,29 +19,19 @@ We will now turn to implementing the new workflow for small edition and low budg
 ![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.")
 
 
-<!-- links on the blog: 
-* <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
-* <a href="http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/">http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/</a>
--->
-
-<!-- Silvio: This might be integrated with ICML import from pandoc to have structured text in InDesign to be used by the designer: <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a> -->
-
-
 ### Desktop publishing workflow (from Word to InDesign to digital)
 
 Desktop publishing represents the following for a lot of publishers: a Microsoft Word file is imported into InDesign and, after designing and editing, exported to PDF, ready to be printed. After work on the printed edition has been completed, the book is translated into an electronic version, following the design of the 'original' as close as possible. The aforementioned traditional, print-oriented workflow can be seen as a standard for one-to-one publications.
 
-There are certain advantages to this workflow: it is simple, linear and there are no version branches. You end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. 
+There are certain advantages to this workflow: it is simple, linear and there are no version branches. You end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. To give an example: in the case of a print design where the page is fixed, changing hyphenation need to be done manually in the InDesign document. In digital publishing hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. This saves some work, but also means a limitation in electronic design possibilities.
 
-<!-- Marc: I do not get the follow paragraph. Does it discuss the merits of the DPT workflow, or the difficulty of transferring a print design to a digital format?
+The main disadvantage of the DTP workflow in going electronic is that you only target one medium and the steps to go from here to a digital edition are quite laborious, and do not make full use of the potential in electronic publishing. It is possible to go from the InDesign file to an EPUB<!-- internal link -->, but to make use of the full possibilities hybrid publishing offers, such as modular publishing, immediate updating, optimal uses of audio and visual formats, this should be aimed for from the beginning. A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
 
-For example, in the case of a print design where the page is fixed, changing hyphenation is a laborious process as hyphen indications need to be inserted manually in the InDesign document. However, in digital publishing, hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. However, this workflow of course also means a limitation in electronic design possibilities.  -->
-
-The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to a digital edition are quite laborious, and do not make full use of the potential in electronic publishing. <!-- Marc: Maybe give an example of difficulties and limitations of this scenario? --> A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional.
-
-Importantly, transferring an InDesign document to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. <!-- Marc: The main question is: is cleanliness important. We developers might hate unclean code, but for most users this aspect is invisible. Does the unclean code actually hamper the rendering of EPUBs generated by InDesign  in various ereaders? Or is the code unclean to support as many ereaders as possible? --> InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is geared more towards electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see also paragraph from InDesign to EPUB. <!-- Margreet: internal link needed--> 
+Importantly, transferring an InDesign document to an electronic publication is not ideal, especially when working with older versions of the software. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: Notes on EPUB Development in Adobe InDesign CS6") The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication, because unclean code can hamper the rendering of EPUBs generated by InDesign in various ereaders? InDesign, in its current state, is not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is geared more towards electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see also paragraph from InDesign to EPUB. <!-- Margreet: internal link needed--> 
 
 It is possible to create 'interactive' publications in PDF, working with Microsoft Word and InDesign. In the end however these are also static InDesign documents, upgraded with some interactive layers. This is still a limited vision of what the possibilities are for digital publishing. The second workflow, which centers on the file format XML, does precisely that.
+
+Another option is ICML import from pandoc to have structured text in InDesign which can be used by the designer. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ "Link to blog post: Markdown to Indesign with Pandoc (via ICML)")
 
 ###From Microsoft Word (.docx) to EPUB
 Like InDesign, Microsoft Word and any other word processor or **text editor** that uses a similar approach (for instance Open Office) are not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasise words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
@@ -69,7 +59,11 @@ Central in a hybrid publishing workflow, we recommend to use the mark-up languag
 ####Introduction: advantages and limitations
 John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as `<b>` for bold or `<author>` to mark-up the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown:
 
-    # Alice's Adventures in Wonderland
+![Markdown](images/Markdown.png "Markdown.")
+
+<!-- kimmy:possibly convert to style of other visualizations ]
+
+<!--    # Alice's Adventures in Wonderland
     
     ## Chapter I. Down the Rabbit-Hole
 
@@ -87,9 +81,8 @@ John Gruber, developer of Markdown, describes Markdown on his website as follows
     never before seen a rabbit with either a waistcoat-pocket, or a
     watch to take out of it, and burning with curiosity, she ran across
     the field after it, and fortunately was just in time to see it pop
-    down a large rabbit-hole under the hedge.
+    down a large rabbit-hole under the hedge. -->
 
-<!-- Margreet: Would it be possible to also present the result in a visual, like if one is using Mou or Macdown? -->
 
 A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. 
 
@@ -140,7 +133,7 @@ For Apple's Mac OS X and iOS, there are nice and very user friendly programs for
 ##### Document conversion programs
 - [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) [^MultiMarkdown], the original program converts MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows.
 
-- [Pandoc](http://johnmacfarlane.net/pandoc/) [^Pandoc], similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. 
+- [Pandoc](http://johnmacfarlane.net/pandoc/) [^Pandoc], similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. ([![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/ "Link to blog post: Docx to MarkDown using Calibre and Pandoc")) 
 
 - [Calibre](http://calibre-ebook.com/) [^Calibre], is an open source management and reading program for epublications. It allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
 
