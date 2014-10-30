@@ -44,7 +44,6 @@ You may be a publisher, a designer or someone who is just starting out with maki
 As mentioned before 'you must change your life', so there might a little culture shock reading through this document. If electronic publishing will merely remain an afterthought in the production chain and product portfolio, the change might be light. If electronic publishing will become just as important as print, the change may be radical. What this means is that if you want to make visual electronic publications, you should be willing to change your current way of working and gradually get used to the offered but less common alternatives.
 
 
-
 ## How to use this Toolkit 
 
 The Toolkit aims to provide a practical guide on how to develop electronic publications
@@ -66,9 +65,6 @@ We are not claiming that all ebooks will follow, or must follow this path. We ar
 
 Next to this publication and the toolkit, five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose.
  
-
-
-
 
 
 [^DPT-blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing

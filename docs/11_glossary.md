@@ -173,47 +173,47 @@ A revenue model whereby the base product is free of charge, but can be extended 
 
 ### G
 
-*GIF (Graphic Interchange Format)*
-A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
+#####Graphic Interchange Format (GIF)
+A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images.
 
-*GitHub*
-Collaboration platform, code review, and code management for open source and private projects.
+#####GitHub
+A digital platform for collaboration, code review, and code management for open source and private projects.
 
-*GUI (Graphical User Interface)*
-An Interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one Folder/directory to another, deleting files, etc by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.
+<!-- not in text (Miriam)#####Graphical User Interface (GUI)
+An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.-->
 
-### **H**
+### H
 
-*Hexadecimal*
-A number system used in computers in which numbers are composed of combinations of 16 digits, using 0-9 then the letters A-F to represent 10-15. Hex allows binary numbers to be expressed in a more compact and comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)
+<!-- not in text (Miriam)#####Hexadecimal
+A number system used in computers in which numbers are composed of combinations of 16 digits, using 0-9 then the letters A-F to represent 10-15. Hex allows binary numbers to be expressed in a more compact and comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)-->
 
-*HTML (Hypertext Markup Language)*
-A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert Hypertext links within one Web page or to other pages anywhere on the Web.
+#####HTML (Hypertext Markup Language)
+A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert hypertext links within one Web page or to other pages anywhere on the Web.
 
-*HTTP (Hypertext Transfer Protocol)*
-The transfer method (*protocol*) used by the World Wide Web to transmit and receive Web pages.
+#####HTTP (Hypertext Transfer Protocol)
+The transfer method (protocol) used by the World Wide Web to transmit and receive Web pages.
 
-*Hyperlink*
-A contraction of hypertext link, the essence of Hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image. By clicking on the area designated as a hyperlink by the person who created the Web page, it is possible to jump quickly to another part of the page, a different page on the same website, or to a completely different website.
+#####Hyperlink
+A contraction of hypertext link, the essence of hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon.
 
-*Hypertext*
+#####Hypertext
 A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one Web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years.
 
-### **I**
+### I
 
-*iBooks*
+#####iBooks
 A program enabling the user to read and buy ebooks, developed by Apple for iOS and OS X.
 
-*iBookstore*
+#####iBookstore
 Apple's storefront for EPUBs and iBooks.
 
-*iOS*
+#####iOS
 Mobile operating, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
 
-*iPad*
+#####iPad
 Tablet introduced by Apple, controlled by touch gestures.
 
-*Icon*
+#####Icon
 A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
 
 #####Incompatiblity

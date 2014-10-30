@@ -9,6 +9,7 @@
 **Design EPUB:** André Castro\
 **Cover design:** [Studio Mooijman en Mittelberg](www.mooijmanenmittelberg.nl/)
 
+
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
 **Publisher:** Institute of Network Cultures\
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek
@@ -65,20 +66,20 @@ ISBN 978-90-822345-4-1 (EPUB)\
 
 # 01 Introduction 
 
-'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, for example, a catalog, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
+'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - hybrid print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
 
 
 *Change is minor for scientific and mass publishers*
 
-With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an ebook. This process can be quick if the book is visually simple - such as a novel or a textbook with little illustrations - and economic if many ebooks will be sold. 
+With that said, there are exceptions. Workflow changes can be minor for publishers who already accomplish all their editorial work in highly structured digital document formats (such as XML or databases); but typically, this is only the case in scientific and technology-oriented publishing. Changes might also be minor for larger publishers that can afford outsourcing. Making an electronic (digital) publication next to a printed publication then is simply a matter of paying an external service provider such as a document engineering company or a media design bureau for turning a Microsoft Word or InDesign file into an **ebook**. This process can be quick if the book is visually simple - like a novel or a textbook with little illustrations - and economical if many ebooks will be sold. 
 
 *Change is major for small, arts-oriented publishers*
 
-Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change.
+Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route than the one mentioned before. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for these types of publishers. But, to disappoint a common expectation, unfortunately there is no magic software button that will turn a print book design into an electronic publication just like that. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change. The good news is that it can. this toolkit will provide a guide on how to deal with the several issues which arise when making the transition for traditional to hybrid or electronic publishing. 
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 
-- visually oriented publications are still more difficult to technically realize in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
+- visually oriented publications are still more difficult to realize technically in the electronic medium when designing for a multitude of different reading devices and ebook platforms; 
 - small publishers are under high pressure to keep project costs low due to often smaller budgets - but having to publish in multiple forms (e.g. print and electronic) will increase costs unless one accomplishes as much work as possible in a way that is not the dependent on the medium; 
 - To make the investment in a digital publication durable it is necessary that electronic publications are sustainable: they should not need constant investment into technical maintenance and version updates.
 
@@ -86,22 +87,12 @@ For art and design publishers, the challenge of going electronic with their publ
 
 We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
 
-On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can force a rethinking of traditional publishing formats (such as: the anthology, the catalogue, the periodical). Rethought formats may be the greatest opportunity offered by electronic publishing: for example, splitting up a traditional exhibition catalogue into interrelated micro-monographs that people can download and read as individual ebooks.
-
-<!-- Andre Proposal:
-
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can lead us to rethink established publishing practices and formats. When traditional publishing formats go electronic or hybrid, the possibility for transformation is real. Once the book becomes electronic or hybrid, the permanence, immutability and stability typical of physical books, is likely to mutate into dynamic, modular, and participative forms, that can benefit from the networked environment where ebooks exist. 
 
-Seemingly banal types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an EPUB or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  Or an anthology of essays might allow annotations from all its readers to grow around its contents.
+Different types of electronic publications can be subject to significant change. An exhibition catalog, can for instances be split up into interrelated micro-monographs that readers can download and read as individual ebooks. An ebook can be assembled from a variety of sources selected by the reader, as currently happens in Wikipedia, where the visitor can compile her own collection of Wikipedia articles and export them to an **EPUB** or PDF using the [Book creator tool](http://en.wikipedia.org/wiki/Help:Books).  
 
-The possibility for change can also go beyond rethinking publishing formats and expand to redefine what the book is. As in the case of this publication, the adopted workflow brings into question aspects often seen as inherit and essential to books. For instances, instead of a single author, its authorship is shared by a number of collaborating authors. Several writers, designers, developers and editors, sometimes under more than one hat, actively contribute to this publication. They write, edit, design, create illustrations, comment, and develop scripts, that collectively lead the publication into its final from, which you are likely to be reading at this very moment. Each single contribution is entrusted to eyes and hands of the other co-authors by being uploaded to publication's [code repository](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) — an online pool, where all the files essential to the publication are stored and tracked over time. 
+The possibilities for change can go beyond rethinking publishing formats and expand to redefine what the book is. 
 
-With a single command one can get hold of code repository, downloading not only the current state of 'source' files for the book, but also the full history of changes and comments were made by each collaborator up to that point. With another command, the various 'sources' are pulled together into an EPUB produced at that moment. In this way both the 'content' and the 'machine' to make the book are bundled and shared.
-
-We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
--->
-
-<!--Pia: I agree with the more positive approach in the start of the paragraph and would propose to keep this part albeit edited slightly. However, I feel like the introduction of the commandline should be put towards the end of this introduction as a sort of end saying; this is what you are reading right now and this what you can do with it. I feel it ties in with who worked on this toolkit, as that then becomes who worked on this toolit and how did they do it -->
 
 ## What this Toolkit provides
 
@@ -135,7 +126,15 @@ This publication is part of the Digital Publishing Toolkit [^DPT-blog] RAAK-MKB 
 
 To answer this research question, the Institute of Network Cultures (lectoraat Netwerkcultuur) of the Amsterdam University of Applied Sciences and knowledge centre creating 010 of the Rotterdam University of Applied Sciences executed state-of-the-art research. In collaboration with an already existing consortium [^DPT-consortium] of eleven MKB-companies consisting of publishers, designers and developers, a fivesome subprojects were formulated. Within these subgroups publishers, designers and developers, (research)lecturers and students of the participating applied universities collaborated.
 
-The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT-GitHub]. As a result everyone can freely copy, adjust and distribute the tools. Five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose. 
+The result is this publication and a toolkit that exists of tools for digital publishing, based on open source-software of which the source code is published and freely accessible[^DPT-GitHub]. With a single command one can get hold of code repository, downloading not only the current state of 'source' files for the book, but also the full history of changes and comments were made by each collaborator to the toolkit up to that point. With another command, the various 'sources' are pulled together into an EPUB produced at that moment. In this way both the 'content' and the 'machine' to make the book are bundled and shared.
+
+We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
+
+Next to this publication and the toolkit, five e-publications of titles of the art- and culture books fund of the participating publishers were produced and presented on a platform that is developed for that purpose.
+ 
+
+
+
 
 
 [^DPT-blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
@@ -179,7 +178,7 @@ As cultural standardization over the centuries rendered, for example, a detectiv
 
 
 ## Summing up
-The essential issue is henceforward that the start is a clean flat text file. Withing this text markup coding is added. This coding has to adhere to standardized rules. In the most advanced case this would be according to the XML standard, but this very demanding grammar is too demanding for small publishers. Simple HTML coding is frequently used but is mainly useful for webdesign. The advanced version HTML5 is a promising, but also not simple option. In this booklet we opt for Markdown as a coding language as it is very simple and straightforward, however it is unfit for elaborate publications. From Markdown we can then convert to a HTML version, provided that we have a clear table that translate lay-out coding to the various outlets, such as paper, e-ink or LCD screens. Such a table is named a Style Sheet.
+The essential issue is henceforward that the start is a clean plain text file. Withing this text markup coding is added. This coding has to adhere to standardized rules. In the most advanced case this would be according to the XML standard, but this very demanding grammar is too demanding for small publishers. Simple HTML coding is frequently used but is mainly useful for webdesign. The advanced version HTML5 is a promising, but also not simple option. In this booklet we opt for Markdown as a coding language as it is very simple and straightforward, however it is unfit for elaborate publications. From Markdown we can then convert to a HTML version, provided that we have a clear table that translate lay-out coding to the various outlets, such as paper, e-ink or LCD screens. Such a table is named a Style Sheet.
 
 
 [^hist]: Guglielmo Cavallo and Roger Chartier (eds.), A history of reading in the west, Polity Press 1999.
@@ -187,6 +186,8 @@ The essential issue is henceforward that the start is a clean flat text file. Wi
 
 # 03 Genres of Publication
 
+
+## Five genres
 In the present project we deal with various kinds of products which we combine into five genres: 
 
  1) Research publication;  
@@ -200,7 +201,7 @@ In the present project we deal with various kinds of products which we combine i
  5) New genres of publication.
 
 
-##1) Research publication 
+###1) Research publication 
 - Heavy in use of text;
 - Texts take a central role;
 - Visuals are secondary (images refer to texts);
@@ -217,7 +218,7 @@ Going electronic also opens up new possibilities for creating content. Due to th
 
 
 
-##2) Art/design catalogue
+###2) Art/design catalogue
 - Heavy in use of images;
 - Visuals take central role over texts;
 - Visuals are primary (text refers to visuals);
@@ -231,7 +232,7 @@ Possibilities in this direction lie in offering high quality images which can be
 Just as with research publications, modularization offers interesting chances for writing and presenting material. As a catalogue is often built up around parts which are already modular in nature, there is a lot to be gained from using these features in electronic publishing. For example giving readers the opportunity to 'build' their own publication; publishing different editions (small, medium, large) of a catalogue without extra effort; easy updating of a part of the catalogue.
 
 
-##3)  Artist/designer book
+###3)  Artist/designer book
 - Book *by* an artist, rather than *about* an artist;
 - Complex use of images and typography, often pushing the possibilities of the medium;
 - In print: making use of the book as a material, visual and haptic object;
@@ -244,7 +245,7 @@ As artists/designers books essentially represent a reflection around the medium 
 When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 "Sentences on Conceptual Art"), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
 
 
-##4) Art/design periodical
+###4) Art/design periodical
 - Heavy in use of both texts and images; 
 - Both images and texts take central role;
 - Use of images is both primary and secondary;
@@ -259,11 +260,11 @@ The archival aspect provides other chances and issues for digital art/design per
 
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
 
-##5) New genres of publication
+###5) New genres of publication
 New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
 
 
-## 3 levels of electronic publishing
+## Three levels of electronic publishing
 Independently of the different genres listed above we can sketch a basic picture based on commonalities and diversions. The scope of epublishing starts with simple conversions from paper publications to electronic ones, moving towards full-scale electronic publications.  
 
 A division into three levels can be made, which are described in further detail below [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):
@@ -306,7 +307,7 @@ It is important to note that there will not be one workflow which fits all but i
 
 
 
-# 04 Ereading technologies
+# 04 Ereading Technologies
 
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 
@@ -340,7 +341,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
 ###Mobile applications
-There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2.0 and 3.0 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  
+There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB3.
@@ -381,7 +382,7 @@ Apart from web applications, several browser extensions exist allowing users to 
 ####Readium
 Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome Browser. After installing the extension offers an EPUB reader inside the browser window.
 
-####epubReader
+####EpubReader
 epubReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as epubReader is only compatible with Mozilla Firefox.
 
 
@@ -391,22 +392,29 @@ A file format is a standard way that information is encoded for storage in a com
 In this chapter the history and characteristics of various important file formats that exist for ereaders, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the _Open eBook_ specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape").
 
 ###Reflowable documents (EPUB and AZW)
-The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and XHTML, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2.0 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2.0 standard has support for basic styling, custom fonts, etc.[^epub2-specification]
+The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and XHTML, as a companion to their ereader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2 standard has support for basic styling, custom fonts, etc.[^epub2-specification]
 
-At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported Digital Rights Management (DRM) engineered by *Mobipocket*. The practice is controversial as it often hampers paying customers in freely interacting with digital goods'. 
-<!--Margreet: @Amy, I added this sentence.-->  
+At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported **Digital Rights Management (DRM)** engineered by *Mobipocket*. The practice is controversial as it often hampers paying customers in freely interacting with digital goods'.[![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/ "Link to blog post: The Book as Directory") 
+
+[^amazon-aquires-mobipocket] Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard.[^mobileread-palmdoc] Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an *acronym* for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company.[^amazon-azw]
+
+Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2 and even 1 to a certain extent. EPUB 3, released in 2011, brought support for HTML 5, more advanced styling using **CSS3**, scripting (discouraged in EPUB 2) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8][^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks][^ibooks-multicolumn][^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3 wrapped in Amazon's DRM. A MOBI version of the publication is also included to support older versions of eraders.[^azw3kf8-breakdown]
+
+Of course EPUB 3 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo][^epub-google-play][^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
+
 [^amazon-aquires-mobipocket] Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard.[^mobileread-palmdoc] Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an acronym for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company.[^amazon-azw]
 
-Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011, brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
+At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of *Mobipocket* and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (PDA). One of the main reasons for this move was the widely supported Digital Rights Management (DRM) engineered by *Mobipocket*. [^amazon-aquires-mobipocket] The practice of adding DRM to media is controversial as it often hampers paying customers in freely interacting with digital goods. Files are generally not freely transferable to other devices, for example. Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the Operating System (OS) developed by Palm Inc., with added support for the guidelines taken from the *Open eBook* standard.[^mobileread-palmdoc] Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* ereaders. The MOBI format is now called AZW (probably an acronym for _Amazon Word_) by Amazon, their generic term for all ebooks released by the company.[^amazon-azw]
 
-Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 
+Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2.0 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* ereaders. The other generally implements features from the EPUB 3.0 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2.0 and even 1.0 to a certain extent. EPUB 3.0, released in 2011, brought support for HTML 5 (as opposed to XHTML 1.1 in EPUB 2.0), more advanced styling using **CSS3**, scripting (discouraged in EPUB 2.0) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3.0 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8], [^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks], [^ibooks-multicolumn], [^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3.0 wrapped in Amazon's DRM. For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.[^azw3kf8-breakdown]
+
+Of course EPUB 3.0 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Nobles' NookPress.[^epub-seller-kobo], [^epub-google-play], [^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
 
 <!--Amy: I agree with Margreet, there are a wave of new terms introduced over a very short piece of text. It is hard to get through it all without having previous knowledge or spending time in checking the glossary and references. So in conclusion i propose to link some terms to the glossary + reorder this chapter as mentioned in earlier note-->
 
-<!-- Pia: the use of 2.0 and 3.0 feels inconsistent. i understand why its used here but is it really neccisary?--> 
 
 ###Other formats
 The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colours, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *Comic Book Archive*,[^comic-book-archive] however support for these file formats by ereaders varies greatly.
@@ -445,6 +453,7 @@ The aforementioned file formats may be categorized as *reflowable* documents as 
 
 	
 
+
 # 05 Distribution platforms
 
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony
@@ -463,7 +472,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-<!-- Marc: The following might be a better fit for a table or something similar. Kimmy & Loes are looking into this (29.10.2014) -->
+<!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
@@ -484,12 +493,14 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 **Statistics**
  
-| *For Issuu* (June 2014) | *For individual users*  
-| ----------------------- |:---------------------:|
-| 80 million monthly readers | Issuu offers general statistics for users and their publications  
-| 15 million publications | For deeper statistics a paid account is needed
+*For Issuu* (June 2014)    
+80 million monthly readers  
+15 million publications 
 
-
+*For individual users*
+Issuu offers general statistics for users and their publications 
+For deeper statistics a paid account is needed
+ 
 **Strengths and weaknesses**  
 *Strengths*  
 
@@ -505,7 +516,7 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 **Revenue Model**  
 
-* Freemium model [^Freemium]  
+* **Freemium** model [^Freemium]  
 
 **How-to-publish**  
 
@@ -762,7 +773,9 @@ Choose your preferred ways of distribution
 
 ###Espresso Book Machine
 
-The Espresso Book Machine [^Espresso-Book-Machine] can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model.  
+The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes.
+It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model.   
+
 
 **Characteristics**  
 Input is PDF
@@ -934,173 +947,6 @@ We recommend two ways of working with Word + pandoc, and discourage a third one:
 1. Direct conversion from Word to EPUB using pandoc. This will require that the Word document is 100% consolidated and no further editorial changes will be applied to it. A graphic designer can take the converted EPUB document and quite painlessly transform it into the final electronic publication (among others, by changing the typographic design to make it suitable for ereaders, by scaling and optimising images for screen reading, by adding bibliographic metadata etc.). 
 2. Conversion from Word to Markdown using pandoc. Since pandoc can also convert files _to_ the Markdown format, this often preferable, especially for complex publishing projects. The resulting Markdown file can then be used as the master file for conversions into all kinds of other file formats (such as HTML for websites). Converting to Markdown yields the advantage that any formatting glitch that existed in the Word document becomes clearly visible. For example, a headline erroneously formatted as bold standard text will show up as '\*\*headline\*\*' while a properly formatted headline will show up as '\#'. This makes it much easier to clean up the internal formatting of the document and have a clean master file for all subsequent document conversions. The EPUB file generated from this Markdown file would in most cases be better structured than the EPUB file directly generated from the Word file, and make the subsequent work of the designer easier. It is also possible to customise pandoc with conversion style templates. This even makes it possible to automatically generate complete and well-formatted EPUB files from the Markdown files without hiring a designer, depending on the type of publication. 
 3. Not advisable: Using pandoc to go back and forth between Word and EPUB. If the Word document is not consolidated, but subject to further editorial changes, conversion to EPUB (like in the first scenario) would have to be done again, and destroy all work of the designer on the previously exported EPUB file. 
- 
-
-###From InDesign (.INDD) to EPUB
-
-InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
-
-InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
-
-InDesigns print features —including master pages and the control of headers and footers, and precise positioning of elements and text— are ignored in flowable EPUB documents. Flowable EPUB does permit choosing (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completelly override these settings in individual ereaders. 
-
-You can use InDesign just for EPUB production and not print. In this case, you can simply ignore how the book looks in print and focus on generating flexible EPUB documents that look good across a range of ereaders.
-
-Underneath is a very short guide and InDesign is a very complex and complete software package. There are many more options than those described here.
-
-####Styles 
-One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style' — in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
-You must first create styles, then apply them, then make sure they are properly mapped for export to EPUB.
-
-**Creating styles**
-
-1. Open the Paragraph Styles panel and click the New Style button to create a new style. Any formatting in the active paragraph is incorporated automatically into the new style. 
-2. Give the style a name.
-3. Choose any additional options from the boxes at left, and save.
-
-Tips: You can also create Character Styles for applying formatting to just a selection of text rather than an entire paragraph. 
-Applying all formatting with styles instead of local formatting improves reliability across ereaders and facilitates later editing. 
-
-
-**Apply styles**
-
-1. Click in a paragraph that you want to style.
-Choose the desired style from the Paragraph Styles panel that you wish to apply.
-2. Repeat for every paragraph in the document.
-
-Tips: You can style all of the text at once by selecting all and then choosing the Body style. Then apply the less frequent headers and captions and other paragraphs individually.
-If you have imported a document with large quantities of existing bold or italic text, you can search and replace to automate applying the character style.
-
-
-**Map styles to tags**
-
-1. Though InDesign can do this step automatically, you can precisely specify which Paragraph Styles should be mapped to which tags in the resulting CSS to get more control.
-2. Choose Edit All Export Tags from the Paragraph Styles Panel menu. 
-3. In the dialog box that appears, verify that each style is mapped as desired to the appropriate tag. It's a good idea, for example, for header paragraphs in your book to be output as h1, h2, etc. and for each style to have its own class. 
-Tips: If you import XML documents, you can have InDesign automatically map specific XML tags to the desired Paragraph Styles (which later will be mapped to the proper EPUB CSS tags as above).
-Earlier versions of InDesign were not as good at exporting all of its styles to CSS. CC is substantially better.
-You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box.
-
-####Images
-InDesign has three kinds of images: inline, anchored and independent.
- 
-Inline images are placed or pasted directly within the text. When exported, they are rasterized (and thus if any inline objects contain text, this text is also rasterized), and exported in the flow of the text in which they are placed. Inline images cannot be wrapped with text.
-
-Anchored images are tied to a particular part of the text, and when exported to EPUB will appear just before that text in the code. Anchored images can have text wrapped around them and are properly exported as floating objects in EPUB. Text within anchored groups of objects is not rasterized, but sometimes resizes incorrectly in ereaders.
-
-Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects   on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel.  
-
-**Anchoring images**
-
-Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
-
-1. Place an image on the pasteboard. If desired, you can create a caption, style the caption, and then group the caption with the image
-2. Select the image to make its controls visible.
-3. Drag the blue box in the upper right corner of the image to the desired location in the text.
-4. If the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
-5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options.
-5.1. Display the EPUB and HTML options panel.
-5.2. Check the Custom Layout option and then choose Float Left from the menu. 
-5.3. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. You might also want to do this to adjust how the image appears in the print edition.
-
-
-**Links and cross references**
-
-One of the main advantages of ebooks over print is that they can contain to additional information, whether it be in the same book, or on a web site somewhere out on the internet. InDesign makes it easy to incorporate links into your ebook.
-
-There are two principal kinds of links: links in which you specify both the destination and the link text, and links that get the link text automatically from the destination. This second kind of links are called cross-references. It's a good idea to apply a character style to all kinds of links.
-
-**Creating links within a book**
-
-1. Create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. It's usually the first few words of the destination text.
-2. Select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu.  
-3. Choose Text Anchor next to Link To:, choose the Document that the destination is in and then choose the name of the Text Anchor. It's a good idea to apply a style so that you can format all links later.
-4. Click OK to create the link.
-
-
-**Creating cross references**
-
-1. Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example for cross references is when you want to link to a different chapter or header name. You can tell InDesign to always use the most up to date text in the Header.
-2. To create a cross reference, place the cursor in the text where the link will go.
-3. Choose Window > Type & Tables > Cross-References to view the Cross-References panel. 
-4. Choose Insert Cross-Reference.
-5. Choose the desired document and then the kind of paragraph that you want to link to in the left half of the box. The specific paragraphs tagged with that style will show up on the right so you can choose the one you want for the cross-reference.
-6. Select a Format for the Cross-Reference, and click OK.
-7. The text from the destination appears in the body of your document. It will be exported as a link in the EPUB document. 
-
-
-**Table of Contents**
-
-Ebooks have two different kinds of tables of contents, the conventional one that is part of the text, just like any other chapter in your book, but with links to the remaining chapters and sections, and one that is accessed through the menus of the user's ebook reader regardless of which page they're looking at at the moment. InDesign facilitates the creation of both types. 
-
-InDesign generates tables of contents from styled paragraphs. For example, you might want to create a table of contents with all of paragraphs marked with the Heading 1 and Heading 2 styles, or as in this example, with just all of the ChapName elements.
-
-
-**Creating a Table of Contents Style**
-
-1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears.
-2. Give the table of contents a name, like "Contents" and choose the paragraph style that should be applied to that header in the book. 
-3. Choose the kind of paragraphs that should be used to populate the table of contents, like headings or chapter names.
-4. Click More Options if it's not already chosen.
-5. In the center area, choose the style that should be applied to each kind of element in the table of contents. It's a good idea to create special styles to be applied to these elements.
-6. Choose No page number in the Page Number box since these are not necessary in an ebook.
-7. Click OK to save the TOC Style. This is the first step to creating both a navigational and in-document table of contents.
-
-
-**Generate the in-document table of contents**
-
-1. Once you've created a TOC Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs marked with the styles you selected.
-2. With the "loaded" pointer, place the table of contents in the desired location of the document. You don't have to put the table of contents at the front of the book, or indeed include it all. 
-
-You'll learn how to generate the navigational table of contents in the Export Options section of this guide.
-
-Tips: If you export a multi-document book to EPUB and don't create a Table of contents style, InDesign automatically creates a TOC based on the file names of the individual documents in the book. If you export a single document book to EPUB, InDesign will not automatically generate a table of contents.
-You can create a navigational table of contents or an in-document table of contents or both. Most ereaders will throw an error if the navigational TOC is not present. Some ebook stores will complain if you don't include an in-document TOC. 
-
-
-**Metadata**
-Metadata is information about your book, including the names of the author and other creators, the publisher, date of publication, subject matter, and more. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book.  
-
-InDesign gives you two opportunities to add metadata, in the File Info dialog box and when you export your file to EPUB. The two sets of information overlap but are not identical. Further, only empty fields are overwritten by data in the other system. 
-
-1. Go to File > Info to add metadata to your file about the name of your publication, the author, a description, keywords, and copyright status. 
-
-You can add additional metadata as you export the document to EPUB as discussed further ahead. 
-
-
-**Cover**
-The final step before you export to EPUB is to create and add a cover for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to preview the cover at icon size. Most ebook stores ask for images that are at least 1000 pixels on the shortest side. 
-
-1. Save the cover image as a JPEG.
-
-You specify the cover image when you actually export to EPUB in the next section.
-
-
-**Export options**
-Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the links needed, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
-
-1. Start by choosing File > Export and then choose a filename and destination, and EPUB (Reflowable) in the Format menu. Click OK. The EPUB - Reflowable Layout Export Options box appears with eight separate panels of options.
-2. In the General panel, choose EPUB 3.0 next to Version to ensure your document is up to the latest standards.
-3. Select Choose image next to Cover, and then click the folder to select the desired cover image that you created earlier. If you choose Rasterize Front Page, InDesign creates a screenshot of the first page of your book and uses that for the cover. 
-4. Next to Navigation TOC choose Multi Level (TOC Style) and then choose the Table of Contents Style that you created earlier in the TOC Style menu.
-5. Click the Metadata panel
-6. Insert the book's ISBN in the Identifier field, if it has one.
-7. All the other fields besides the Date field should be automatically populated with data entered in the File Info box earlier. You can add any missing information now. InDesign uses the information in the Date field for the EPUB 2.0 dc:date element but will always automatically set the EPUB 3.0 compatible date format with the export date and time. In other words, you don't have to put anything in the Date field.
-
-There are many other export options, for controlling the way images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Explore these at your leisure. The CSS is possibly Liz Castro her favorite option since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
-
-8. Finally, click OK to generate the EPUB file. 
-
-
-**Testing**
-Be sure to test the EPUB file in as many ereaders as possible. You can use Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to Kindle format so that you can test it on actual Kindle devices.
-
-
-**Validating**
-It's always a good idea to validate your EPUB documents with ePubCheck [^EpubCheck] before you release them.
-
-
-
 
 
 ### XML 
@@ -1183,8 +1029,6 @@ However, the declaration of these extensions in the document syntax and conversi
 
 They are not as universal and thoroughly structured as XML, but still provide the advantage of separating content structure from visual layout, along with the advantage of painless translation into multiple output formats. And lastly, XML has very complex markup that is hard to read and write for humans. Easy authoring tools for XML and any kind of XML-based document formats do not really exist yet. -->
 
-#### Practical tips and tricks for working with Markdown 
-
 ##### Word Processing / editing programs
 
 For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. 
@@ -1213,6 +1057,7 @@ For Apple's Mac OS X and iOS, there are nice and very user friendly programs for
 - [Pandoc](http://johnmacfarlane.net/pandoc/) [^Pandoc], similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. 
 
 - [Calibre](http://calibre-ebook.com/) [^Calibre], application suite that allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
+
 
 Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication.
 
@@ -1275,7 +1120,6 @@ In conclusion, we can only advise that various objects or in other words pictori
 
 
     
-
 ## Direct conversion
 
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to  EPUB.
@@ -1284,11 +1128,6 @@ Two popular conversion programs that can convert from a wide variety of input fo
 
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plaintext], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works.
 
-### Calibre
-Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
-
-After downloading and installing the program, follow these steps:
-![Simplest possible case](images/07_02_2stepepub.png "simple")
 
 ### Direct conversion to EPUB with pandoc
 
@@ -1436,7 +1275,7 @@ As stated in the introduction of this section a large part of an EPUB is a colle
 
 Creating an EPUB file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like The Unarchiver (Mac), WinZip (Windows) or a special purpose utility.[^EPUB zipping process] The .zip extension of the archive may then be renamed to .epub. 
 
-Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most ereaders will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of ereaders refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-Validator] or a desktop application[^desktop-application].
+Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most ereaders will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of ereaders refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-Validator] or a desktop application.
 
 Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
@@ -1515,7 +1354,7 @@ The decision about the desired output leads to certain steps to get the right in
 Specify for example:  
 
 * file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or .docx (which can be easily converted into html)  
-* image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
+* image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 **dpi** .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
 * formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- Kimmy: The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
@@ -1916,184 +1755,180 @@ Our Toolkit tries to be a helpful step in this direction.
 [^way]: A related example is the notorious instability of the web as such. The big international science publisher has a contract with the Dutch Royal Library for a complete backup of its electronic collections. But the same library has, with many others, digital preservation as a spearhead in its policy. The private charity that maintains the wayback machine: http://archive.org/web/ that act as a carbon copy of the internet is a gem, but what happens in case of major catastrophes?  
 
 
-# 11 Glossary of technical terms
+# 11 Glossary of Technical Terms
 
-### **A**
+### A
 
-*Acronym*
-An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in Garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
+#####Acronym
+An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
 
-*Adware*
-Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the nets, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you. 
+<!-- not in text (Miriam)#####Adware
+Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the internet, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you.  -->
 
-*Aliasing, anti-aliasing*
-Pictures on your computer monitor are made up of square pixel. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like PhotoShop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.
+<!-- not in text (Miriam)#####Aliasing, anti-aliasing
+Pictures on your computer monitor are made up of square pixels. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like Photoshop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.-->
 
-*Algorithm*
-This is the name given to a "defined set of steps that can be used to complete a task". For example there are 'algorithms' worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,
+<!-- not in text & incomplete  (Miriam)#####Algorithm
+This is the name given to a 'defined set of steps that can be used to complete a task'. For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,-->
 
-*Android*
-An Open Source operating system targeted at mobile phones, tablets. It's based on a Linux kernel and the Java programming language. As a mobile operating system Android is the most widely used.
+#####Android
+An open source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used.
 
-*Amazon*
-Online retailer of various goods, including ebooks, and producer of the Kindle and Fire ereading devices.
+#####Amazon
+Online retailer of various goods, including print and ebooks, and producer of the Kindle and Kindle Fire ereading devices.
 
-*App*
+#####App
 An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play Store, Apple App Store).
 
-*App store*
+#####App store
 An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazone Store, Windows Phone Store en BlackBerry App World.
 
-*azw (Amazon Word)*
-File format used by the Amazon Kindle e-Book reader.
+#####AZW (Amazon Word)
+File format used by the Amazon Kindle ereader.
 
-*Anchor*
-An 'anchor' is a specific location within a HTML-web page that can be jumped to by clicking on a hyperlink.
+<!-- not in text (Miriam)#####Anchor
+An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink.-->
 
-*Animated GIF (Graphics Interchange Format)*
-A GIF2 graphic file, which consists of two or more images shown in a timed sequence to give the effect of motion.
+#####Animated GIF (Graphics Interchange Format)
+A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion.
 
-*API (Application Programming Interface)*
+#####API (Application Programming Interface)
 An interface between the operating system and application programs that specifies how the two communicate with each other. 
 
-*Applet*
-An Applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations
+<!-- not in text (Miriam)#####Applet
+An applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations.-->
 
-*ASCII (American Standard Code for Information Interchange)*
+#####ASCII (American Standard Code for Information Interchange)
 A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters.
 
-*AVI (Audio Video Interleaved)*
-A Microsoft video format where audio and video coding appears in alternate segments. AVI files will end with an .avi extension.
+<!-- not in text (Miriam)#####AVI (Audio Video Interleaved)
+A Microsoft video format where audio and video coding appears in alternate segments. -->
 
-### **B**
+### B
 
-*Bandwidth*
-Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.
+<!-- not in text (Miriam)#####Bandwidth
+Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.-->
 
-*Baud*
-Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may
-include more than one bit.
+<!-- not in text (Miriam)#####Baud
+Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may include more than one bit.-->
 
-*Binary*
-A number system using base 2 instead of the usual (human) base 10, which is normally referred to as the decimal system. Computers use base 2 because they can only recognise two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001, the right-most column being the units column and the other columns, moving from right to left, being 2, 4, 8.
+#####Binary
+A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001.
 
-*Bit*
+#####Bit
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed.
 
-*Bitmap*
-A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.
+<!-- not in text (Miriam)#####Bitmap (BMT)
+A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.-->
 
-*Blog*
+#####Blog
 Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the web.
 
-*Browser*
-Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics (except text-only browsers), plays music and video, and provides links to related pages. Browsers are based on standards
-developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved. These differences in browsers create a challenge for web page developers.
+#####Browser
+Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
-*Byte*
+#####Browser extension
+
+#####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 
-### **C**
+### C
 
-*CAD/CAM*
-Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.
+<!-- not in text (Miriam)#####CAD/CAM
+Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.-->
 
-[CSS (*Cascading Style Sheets*)](#css)
-Cascading Style Sheets are a feature of HTML4 that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents. This makes it possible to set up CSS file containing a library of styles that are used throughout a website, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
+#####Cascading Style Sheets (CSS)
+Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
 
-*CMS (Content Management System)*
-A software package that makes it possible for non-technical users to publish content (text, images, etc) on a website.
-
-*Compatiblity*
+#####Compatiblity
 Pieces of hardware and/or software which are capable of being used together are described as *compatible*.
 
-*Compression*
-Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. There a number of programs that will compress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo.
+#####Compressed files
+Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo. 
 
-*Computer Program*
+#####Computer program
 A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, JAVA, C++) , and are then converted into binary machine instructions via a compiler or an interpreter.
 
-*Cookie*
-A cookie is a short file put on your system by a web page when the user visits a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check.
-There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.
+#####Content management system (CMS)
+A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website.
 
-### **D**
+<!-- not in text (Miriam)#####Cookie
+A cookie is a short file put on your system by a web page when you visit a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check. There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.-->
 
-*Data*
-Strictly speaking the plural of "datum",but now usually considered as a collective noun in the singular, with the plural form "data items" or "items of data". Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text
-or sets of figures on which a computer program operates.
+### D
 
-*Device*
-An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda)or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+#####Data
+Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
 
-*DRM ([Digital Rights Management](id:Digital Rights Management))*
-Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult.
-<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> -->  
+#####Decompress
+See **Compressed files**
 
-*DTP (Desktop Publishing)*
-Is the practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
+#####Desktop Publishing (DTP)
+The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
 
-*Directory*
-A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
-*Dithering*
-The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
+#####Device
+An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
 
-*DOS (Disk Operating System)*
-An operating system for desktop PCs developed by Microsoft from 1981 to 1995.
+#####Digital Rights Management (DRM)
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
+<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> Miriam: I added this link in the text itself-->  
 
-*Dot Matrix Printer*
-An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks "ragged". Laser printers and ink-jet printers are now much more common.
+#####Directory
+A location on a disc containing *files* and *subdirectories* grouped together for organisational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
-*Dpi (Dots Per Inch)*
-A measure of the of the quality of output, i.e. the number of dots per square inchproduced by a *printer* or *scanner*, also referred to as its *resolution*. A resolution of at least 300 dpi is considered reasonable for the production of
-high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots
+<!-- not in text (Miriam)#####Dithering
+The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate color.-->
 
-### **E**
+<!-- not in text (Miriam)#####Disk Operating System (DOS)
+An operating system for desktop PCs developed by Microsoft from 1981 to 1995.-->
 
-*ebook*
-A range of digital publications which can be read by ereaders, desktop computers and handheld devices.
+<!-- not in text (Miriam)#####Dot matrix printer
+An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks 'ragged'. Laser printers and ink-jet printers are now much more common.-->
 
-*EPUB (Electronic Publication)*
-An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content.
+#####Dots per inch (DPI)
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots.
 
-*ereader*
+### E
+
+#####Ebook
+Digital publications of different kinds and formats, which can be read by ereaders, desktop computers and handheld devices.
+
+#####EPUB (Electronic Publication)
+An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content.
+
+#####Ereader
 A device capable of reading digital texts in various formats, notably EPUB and AZW.
 
-*E-ink*
-Electrophoretic ink, a sytem in whch small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces considerably the power consumption and makes it an ideal technology for long reading. The resolution of the stable screen is very high. A disadvantage is that, like paper, the presentation does not allow motion pictures or animations.
+#####E-ink
+Electrophoretic ink, a sytem in which small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations.
 
-*Encryption*
-A system of coding that helps prevent access to private information on computer networks or on the Web.
+<!-- not in text (Miriam)#####Encryption
+A system of coding that helps prevent access to private information on computer networks or on the Web.-->
 
-### **F**
+### F
 
-*FAQ*
-Abbreviation for Frequently Asked Question(s).
+<!-- not in text (Miriam)#####FAQ
+Abbreviation for Frequently Asked Question(s).-->
 
-*File*
-A *file* in computer jargon can be used to describe many different things. It may be a Computer Program, a document file created with a Word-processor, an image file, an audio file, a video file, etc. Think of it in the same way as you would think of a file in a filing cabinet. A file has a name that describes what it is, and the file is stored in a
-place where you can easily find it.
+#####File
+'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place.
 
-*File extension*
-One popular method used by many operating systems, including Windows, Mac OS is to determine the format of a file based on the end of its name—the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so, often any given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
+#####File extension
+A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions.
 
-*File format*
+#####File format
 A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read.
 
-*File Permissions*
-Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.
+<!-- not in text (Miriam)#####File permissions
+Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
-*Flat text*
- Text without any visual characteristics, so without bolding, italics, etc.
- 
-*Formatting*
-The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.
+#####Formatting
+<!-- Change the meanging into: applying format aka style values, this is the only way it is used in the text. Miriam.  The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.-->
 
-*Freemium*
+#####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
 
-### **G**
+### G
 
 *GIF (Graphic Interchange Format)*
 A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
@@ -2137,6 +1972,9 @@ Tablet introduced by Apple, controlled by touch gestures.
 
 *Icon*
 A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+
+#####Incompatiblity
+See **Compatibility**
 
 *Ink Jet Printer*
 A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
@@ -2259,6 +2097,9 @@ This is a file type created by Adobe that allows fully formatted, documents to b
 *Pixel*
 A contraction of picture element. What you see on a computer Display Screen1 is made up of thousands of coloured pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
 
+#####Plain text
+Text without any visual characteristics, so without bolding, italics, etc.
+ 
 *Platform*
 Often used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
@@ -2336,6 +2177,8 @@ The main data transfer protocol used on the Internet.
 *Text editor*
 A computer program that allow the manipulation of text.
 
+#####Tiff
+
 *Tumblog*
 A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
 
@@ -2400,7 +2243,7 @@ https://github.com/DigitalPublishingToolkit/epubtrailer.py [^epubtrailer]
 https://github.com/DigitalPublishingToolkit/mmd-meta-validation [^mmd-meta-validation]
 
 ## NAI/010 Publishers
-The project for NAI/010 Publishers has two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of objects from this collection. The other is a set of WordPress plugins, extending the functionality of the WordPress JSON REST API (WP-AP)[^wp-api] and facilitate the generation of EPUBs using the content from a WordPress database. The latter is basically a packaged version of the CakePHP EPUB component that builds on Asbjørn Grandt's PHPePub.
+The project for NAI/010 Publishers has two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of objects from this collection. The other is a set of WordPress plugins, extending the functionality of the WordPress JSON REST **API** (WP-AP)[^wp-api] and facilitate the generation of EPUBs using the content from a WordPress database. The latter is basically a packaged version of the CakePHP EPUB component that builds on Asbjørn Grandt's PHPePub.
 
 My Highlights on GitHub.[^my-highlights-on-github]
 
