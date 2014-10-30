@@ -169,6 +169,7 @@ For Apple's Mac OS X and iOS, there are nice and very user friendly programs for
 
 - [Calibre](http://calibre-ebook.com/) [^Calibre], application suite that allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
 
+
 Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication.
 
 <!-- Marc: This is a very practical section all of a sudden. Maybe relocate it to another part of the toolkit? -->
