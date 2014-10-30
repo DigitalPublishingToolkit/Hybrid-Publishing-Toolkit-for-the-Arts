@@ -43,6 +43,16 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
 
+##### Cleaning up Markdown
+
+Since Markdown is a document format and not a word processing program, it does not offer functions like automatic renumbering of footnotes and list items during text editing. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
+
+However, to also make the Markdown text source coherent and tidy, pandoc can be used to clean it up. The trick is to tell pandoc to convert a document from Markdown to Markdown:
+
+    pandoc -f markdown -t markdown --output markdown-document-clean.txt markdown-document.txt
+    
+   <!--Pia: why? what happens?--> 
+
 
 ## Do it yourself EPUB from scratch
 
