@@ -4,15 +4,13 @@
 
 ## [Research publication](id:Research publication)
 ### General
-Currently, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real-time data, and computation. One would normally expect that electronic publishing provides the technical solution for these issues. However, this is not today's reality. If one wants to publish in standard e-book formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current e-book technology are, as a matter of fact, much more limited than in paper publishing. The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
+Currently, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real time data, and computation. One would normally expect that electronic publishing provides the technical solution for these issues. However, this is not today's reality. If one wants to publish in standard ebook formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current ebook technology are, as a matter of fact, much more limited than in paper publishing. <!--why? this needs example/explanation/reference -Miriam--> The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
 
-Pragmatically and for the near future, electronic research publishing will mean the publishing of conventionally designed papers, journals and textbooks in electronic form. This means that electronic research publishing will typically evolve around text-centered works. 
-  
-This means that the advice given for [research-type publications](researchlikepub.html) elsewhere in this publication will apply to most electronic research publications. 
+Pragmatically and for the near future, electronic research publishing will mean the publishing of conventionally designed papers, journals and textbooks in electronic form. In other words, electronic research publishing will typically evolve around text-centered works. This means that the advice given for [research-type publications](researchlikepub.html) elsewhere in this publication will apply to most electronic research publications. 
 
 ### Traditional workflow
 
-In print research publications, the typical workflow has been
+In print research publications, the typical workflow has been:
 
 * An editor works with author(s) on the manuscript.
 * Several versions of the manuscript are going back and forth between different people in different roles (editor, author, copyeditor, designer).
@@ -21,36 +19,32 @@ In print research publications, the typical workflow has been
 * Corrections are made to the print proof and added in the InDesign file.  
 * A PDF file of the corrected InDesign file goes to printer.
 
-In Chapter 7 <!-- internal link needed-->we describe a workflow on how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained.
+In Chapter 7 <!-- internal link needed-->we describe how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained.
  
 ### New workflow  
-We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, e-book and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archivale file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and Web is very straightforward using the Open Source software tool pandoc.
-
-<!-- Flow chart: workflow -->
+We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, ebook and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archival file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and web is very straightforward using the open source software tool pandoc.
 
 ![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
 
-<!-- Image: very rough sketch -->
-
-
+<!-- Image: will be updated with new version -->
 
 
 ### New possibilities ###
-A hybrid workflow geared towards e-publications as well as print, offers a number of advantages:
+A hybrid workflow geared towards epublications as well as print, offers a number of advantages:
 
-* Easy translation into various electronic file formats, as explained above;
-* User-friendly like Wikis and blogs can be used for collaborative editing and revision control, or even more sophisticated systems like Git/GitHub (that are traditionally used for software development by large teams of programmers distributed over the whole world);   
+* Easy translation into various electronic file formats, as explained above.
+* User-friendly tools like wikis and blogs can be used for collaborative editing and revision control, leading up to even more sophisticated systems like Git and GitHub (traditionally used for software development by large teams of programmers distributed over the whole world).
 * Adding elements other than text (videos, images, links) while keeping them separate from the document file. This prevents gigantic file sizes of the central editorial document. It also makes it easier to maintain images and videos in different resolutions for different publication media. 
-* Easy extraction of derived output from the book itself, such as abstracts, video book trailers, newsletters, personalized e-publications; easier extraction of parts of a publication that will be separately published.
-* Independence from one particular software program (such as Word and InDesign), long-time achivability.
+* Easy extraction of derived output from the book itself, such as abstracts, video book trailers, newsletters, personalized epublications; easier extraction of parts of a publication that will be separately published.
+* Independence from one particular software program (such as Word and InDesign), long-time archivability.
 
 ### Instructions
 
 #### Style guide ####
-A new workflow requires certain actions to obtain the suitable input for the publication. First of all, it is necessary to communicate this to all contributors (authors, editors, designers) in the publishing process. Publication style guides must be adjusted accordingly and specify:
+A new workflow requires certain actions to obtain the suitable input for the publication. First of all, it is necessary to communicate this to all contributors (authors, editors, designers) in the publishing process. <!--internal link to chapter 6. And check if it is not double - Miriam--> Publication style guides must be adjusted accordingly and specify:
 
 * the file format to be delivered by contributors (for example: Markdown, or .docx pending later conversion and formatting clean-up);
-* in case of the use the Word/.docx, require the author to use defined paragraph and character styles for all formatting (such as "Headline 1", "Headline 2", "quotation" etc.) - and to strictly avoid direct formatting of text. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this;
+* in case of .docx, require the author to use defined paragraph and character styles for all formatting (such as "Headline 1", "Headline 2", "quotation" etc.) - and to strictly avoid direct formatting of text. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this;
 * image style and format; high-resolution images that are suitable for print but can be downsized to lower resolutions for electronic publication;  
 * metadata the author needs to provide such as keywords, contact information, abstract, biography;
 * metadata to be added by the editor/publisher.
@@ -58,7 +52,9 @@ A new workflow requires certain actions to obtain the suitable input for the pub
 Editorial criteria for the content can also differ in a hybrid workflow:  
 
 * differents style of writing, 'writing for the web' vs. 'writing for print;  
-* the inclusion of interactive material, more or other images than can be published in print, video, audio, etc.  
+* the inclusion of interactive material, more or other images than can be published in print, video, audio, etc.
+
+
 
 
 ## Art/design catalogue
