@@ -20,7 +20,6 @@ Below several platforms are discussed, including characteristics, statistics, st
 
 
 ###Issuu 
-<<<<<<< HEAD
 ![Issuu](images/07_IssuuIcon.png "Issuu")
 
 <!--Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
@@ -80,7 +79,6 @@ For deeper statistics a paid account is needed
 * Embed on your own website  
 * Offer downloadable file  
 -->
-<<<<<<< HEAD
 
 
 
@@ -88,13 +86,11 @@ For deeper statistics a paid account is needed
 ![Scribd](images/07_Scribdicon.png "Scribd")
 
 <!-- 
-=======
 
 
 ![Scribd](images/05_01_scribd.png "Scribd")
 
-<!--
->>>>>>> FETCH_HEAD
+
 **Characteristics**  
 
 * The world’s largest collection of ebooks and written works, according to their own sources 
@@ -140,18 +136,14 @@ For deeper statistics a paid account is needed
 * Offer in-browser reading and downloadable file  
 
 -->
-<<<<<<< HEAD
 
 ### Internet Archive
 ![Internet Archive](images/07_IAIcon.png)
 <!--
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
-=======
->>>>>>> FETCH_HEAD
 
 ![Internet Archive](images/05_01_internetarchive.png)
 
-<!--
 **Characteristics**
 
 * Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
@@ -208,9 +200,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 -->
 
-=======
-* The publication will be given dedicated page. -->
->>>>>>> FETCH_HEAD
+
 
 
 ###Third party blogs
