@@ -214,68 +214,68 @@ Mobile operating system, originally called iPhone OS before June 2010, which run
 Tablet introduced by Apple, controlled by touch gestures.
 
 #####Icon
-A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+A small symbol or picture used in a **Graphical User Interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
 
 #####Incompatiblity
 See **Compatibility**
 
-*Ink Jet Printer*
-A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
+<!-- not in text (Miriam)#####Ink Jet Printer
+A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
-*Interface*
-An interface in computer jargon is a connection between two systems. It can be Hardware or Software. It may take the form of a plug, cable or socket, or all three, for example where a Printer or Scanner is connected to a computer, and then it's a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
+#####Interface
+An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
 
-*Internet*
-The Internet, or simply "the Net", is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an Internet Service Provider (ISP). Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60's and early 70's. It has grown from a handful of interconnected networks into a huge network of millions of computers.
+#####Internet
+The internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the internet using existing communications systems. Schools and universities normally access the internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the internet is in fact a network of networks, it appears to users as a network of individual computers. The internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers.
 
-*iPod*
-The name of a portable (mobile) Media Player designed and marketed by Apple.
+<!-- not in text (Miriam)#####iPod
+The name of a portable (mobile) Media Player designed and marketed by Apple.-->
 
-*IT(C) (Information Technology)*
-Essentially, technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.
+<!-- not in text (Miriam)#####I(C)T (Information (and Communication) Technology)
+Essentially technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.-->
 
-### **J**
+### J
 
-*Java*
-Java is a high level programming language. It is useful for creating small web applications and applets for use as part of a web page.
+<!-- not in text (Miriam)#####Java
+Java is a high level programming language. It is useful for creating small web applications and apps for use as part of a web page.-->
 
-*JavaScript*
-JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page.
+#####JavaScript
+JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript is not the same as Java, a high level programming language.
 
-Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page.
-
-*AJAX (Asynchronous Javascript and XML)*
+<!-- not in text (Miriam)*AJAX (Asynchronous Javascript and XML)*
 A popular technology closely linked with JavaScript, used to update details on a web page without having to fully refresh it.
 
 jQuery
-JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.
+JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.-->
 
-*JPEG or JPG (Joint Photographic Expert Group)*
-Pronounced "Jaypeg". A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. If you store an image, say, of a flag containing just three colours in JPEG/JPG format it may end up bigger than a GIF file containing the same image, but not necessarily a lot bigger - it depends on the type and range of colours it contains. JPEG/JPG files containing photographic images are normally smaller than GIF files containing photographic images.
+#####JPEG or JPG (Joint Photographic Expert Group)
+A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
 
-### **K**
+### K
 
-*KF8*
+#####KF8
 KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW.
 
-*Kindle*
+#####Kindle
 Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon.
 
-*Kobo*
+#####Kindle
+
+#####Kobo
 Kobo produces a range of handheld devices and software for ereading. It also has its own storefront where ebooks (mainly EPUBs) may be bought.
 
-### **L**
+### L
 
-*LAN (Local Area Network)*
-A Network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. 
+<!-- #####LAN (Local Area Network)
+A network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. -->
 
-*Latex*
+#####LaTex
 
 
-*LCD (Liquid Crystal Display)*
+#####LCD (Liquid Crystal Display)
 A technology used for producing a type of flat panel computer Display Screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
 
-*Linux*
+#####Linux
 Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone.
 
 ### **M**
