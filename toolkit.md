@@ -74,7 +74,7 @@ With that said, there are exceptions. Workflow changes can be minor for publishe
 
 *Change is major for small, arts-oriented publishers*
 
-Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change, both technologically as well as where editorial concepts<!--Amy: what is meant by 'concepts' in this context?--> are concerned.
+Since this Toolkit is for publishers who (a) publish visually oriented books in (b) mostly smaller print runs, it proposes an alternative route. Neither a complex internal IT infrastructure, nor costly outsourcing will be viable solutions for them. But, to disappoint a common expectation, there is no magic software button that will turn a print book design into an electronic publication. Since the two media are so different, with their own specific editorial and visual design needs, such a button will probably not materialize in the future either. Hybrid publishing will ultimately require editorial work to change.
 
 For art and design publishers, the challenge of going electronic with their publications is greater compared to other fields of publishing for a number of reasons: 
 
@@ -100,6 +100,8 @@ With a single command one can get hold of code repository, downloading not only 
 
 We are not claiming that all ebooks will follow, or must follow this path. We are simply laying out one of the many directions ebook creators can already undertake with their publications, by using with simple and inexpensive tools, and without needing to get into the industry's glossy scenarios of multimedia and interactivity. 
 -->
+
+<!--Pia: I agree with the more positive approach in the start of the paragraph and would propose to keep this part albeit edited slightly. However, I feel like the introduction of the commandline should be put towards the end of this introduction as a sort of end saying; this is what you are reading right now and this what you can do with it. I feel it ties in with who worked on this toolkit, as that then becomes who worked on this toolit and how did they do it -->
 
 ## What this Toolkit provides
 
@@ -441,7 +443,7 @@ The aforementioned file formats may be categorized as *reflowable* documents as 
 [^comic-book-archive]: Advanced Comic Book Format, <a href="https://launchpad.net/acbf">https://launchpad.net/acbf</a>.
 
 
-
+	
 
 # 05 Distribution platforms
 
@@ -461,7 +463,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-<!-- Marc: The following might be a better fit for a table or something similar. Margreet asked Kimmy & Loes for their opinion (29.10.2014) -->
+<!-- Marc: The following might be a better fit for a table or something similar. Kimmy & Loes are looking into this (29.10.2014) -->
 
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
@@ -892,12 +894,14 @@ We will now turn to implementing the new workflow for small edition and low budg
 
 ![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.")
 
+
 <!-- links on the blog: 
 * <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a>
 * <a href="http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/">http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/</a>
 -->
 
 <!-- Silvio: This might be integrated with ICML import from pandoc to have structured text in InDesign to be used by the designer: <a href="http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/">http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/</a> -->
+
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
 
@@ -907,7 +911,7 @@ There are certain advantages to this workflow: it is simple, linear, there are n
 
 The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to digital are cumbersome, and do not make full use of the potential in electronic publishing. A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
 
-Importantly, going from InDesign to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see XXXXXXX Elisabeth Castro. <!--Margreet: chapter will be added by Liz Castro--> 
+Importantly, going from InDesign to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see also paragrap from InDesign to EPUB. <!--Margreet: internal link needed--> 
 
 In the same way Microsoft Word (or any other text editor that uses a similar approach, for instance Open Office) is not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasise words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
 
@@ -915,7 +919,7 @@ It is possible to create 'interactive' publications in PDF, working with Microso
 
 ###From Microsoft Word (.docx) to EPUB
 
-There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. <!-- Marc: Needs a reference, I believe. -->
+There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. 
 
 In order to obtain the best possible EPUB file, the Word document should be formatted, solely if possible, with Word's standard paragraph styles such as 'Normal', 'Title', 'Subtitle', 'Quote' and most importantly 'Heading 1', 'Heading 2',  'Heading 3'  for the headings according to their logical hierarchy. For example: 'Heading 1' for chapters, 'Heading 2' for sections, 'Heading 3' for subheadlines. The resulting EPUB document will contain a well-structured table of contents and document navigation menu based on the 'Heading' hierarchy, so well structured headings are of paramount importance. Word footnotes will be appear as linked endnotes in the EPUB, elegantly simplifying an otherwise tedious document redesign task.
 
@@ -932,22 +936,20 @@ We recommend two ways of working with Word + pandoc, and discourage a third one:
 3. Not advisable: Using pandoc to go back and forth between Word and EPUB. If the Word document is not consolidated, but subject to further editorial changes, conversion to EPUB (like in the first scenario) would have to be done again, and destroy all work of the designer on the previously exported EPUB file. 
  
 
-###From InDesign to EPUB
+###From InDesign (.INDD) to EPUB
 
-
-####Intro
 InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
 
 InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
 
-InDesigns print features—including master pages and the control of headers and footers, and precise positioning of elements and text—are ignored in flowable EPUB documents. Flowable EPUB does permit choosing (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completelly override these settings in individual ereaders. 
+InDesigns print features —including master pages and the control of headers and footers, and precise positioning of elements and text— are ignored in flowable EPUB documents. Flowable EPUB does permit choosing (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completelly override these settings in individual ereaders. 
 
 You can use InDesign just for EPUB production and not print. In this case, you can simply ignore how the book looks in print and focus on generating flexible EPUB documents that look good across a range of ereaders.
 
 Underneath is a very short guide and InDesign is a very complex and complete software package. There are many more options than those described here.
 
 ####Styles 
-One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style'—in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
+One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style' — in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
 You must first create styles, then apply them, then make sure they are properly mapped for export to EPUB.
 
 **Creating styles**
@@ -1116,7 +1118,8 @@ A good example how to practically use XML for electronic publishing in daily lif
 
 ### Markdown 
 
-Central in a hybrid publishing workflow, we recommend to use the mark-up language Markdown, as it is an easlier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
+Central in a hybrid
+ publishing workflow, we recommend to use the mark-up language Markdown, as it is an easlier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
 
 ####Introduction: advantages and limitations
 John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as `<b>` for bold or `<author>` to mark-up the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown:
@@ -1143,12 +1146,11 @@ John Gruber, developer of Markdown, describes Markdown on his website as follows
 
 <!-- Margreet: Would it be possible to also present the result in a visual, like if one is using Mou or Macdown? -->
 
-A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. <!-- Margreet: Should be take about 'keyboard commands'? Is this clear for a publisher? -->
-<!-- pia: clear enough for publishers-->
+A short breakdown: '#' signifies a top-level headline, '##' a second-level headline, '_' italic text, ' ** ' bold text, '>' a block quote. Beyond that, Markdown provides conventions for marking up bold text, lists, embedded images and links. Its popular extension **MultiMarkdown** also supports footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. With simple open source converter programs, Markdown text like the above can be automatically translated into well-structured HTML, EPUB, PDF, RTF (for importing into InDesign) and other document formats, with a single mouse click or keyboard command, requiring no manual adjustments. 
 
 Markdown is a child of Internet culture. It standardises ad-hoc formatting signs used in e-mail and chats, and became popular in blogging software. There are similar plain text formatting languages to Markdown: the Wiki syntax used in Wikipedia, the language _Textile_ that is used for a number of web content management systems and the language _reStructuredText_ used for writing technical manuals, and many others. 
 
-Markdown and its siblings are human-readable, human-friendly well-structured document formats, excellent for long-term storage and as the basis (or source code) for conversions into present and future document formats. While they are simple, they are also both strict and unambiguous enough in their formatting syntax that multiple writers and editors can work on a single document without introducing weirdness <!-- Amy: What do we mean by 'weirdness'? Can this be more specific? --> into its formatting. Another advantage of Markdown can be written and edited in any computer program capable of processing basic text. Unlike the file formats of Microsoft Word or other classical word processing programs, the file containing the Markdown flavoured text is not bound to specific software, it can be opened using the simplest applications able to parse text.
+Markdown and its siblings are human-readable, human-friendly well-structured document formats, excellent for long-term storage and as the basis (or source code) for conversions into present and future document formats. While they are simple, they are also both strict and unambiguous enough in their formatting syntax that multiple writers and editors can work on a single document without introducing strangeness into its formatting. Another advantage of Markdown can be written and edited in any computer program capable of processing basic text. Unlike the file formats of Microsoft Word or other classical word processing programs, the file containing the Markdown flavoured text is not bound to specific software, it can be opened using the simplest applications able to parse text.
 
 Why do we recommend Markdown in particular? For particular publishing projects - for example, handbooks or books derived from Wikis, it can be worth considering one the alternatives to Markdown such as _reStructuredText_. There are, however, two reasons why we recommend Markdown as a practical tool for electronic and mixed media publishing:
 
@@ -1164,26 +1166,28 @@ Markdown and similar formatting/markup language are meant for workflows in which
 <!-- here. 12 sept.  who is this?  asks Miriam-->
 <!-- But which ones should be used then? -->
 
-<!-- Marc: XML again? This section is also highly opinionated and not referenced. Should this be merged with the previous XML section if possible? -->
-#### Markdown versus XML
 
+<!-- Marc: XML again? This section is also highly opinionated and not referenced. Should this be merged with the previous XML section if possible? -->
+
+#### Markdown versus XML
 Markdown, and similar human-readable plain text markup languages could be called a 'poor man’s XML'. To summarise XML is complexity hell even by the measures of computer science. It is the holy grail of document processing, and has been deployed by large scale publishers (especially in the academic field) very successfully. For small to medium publishers, it is often overkill. Markdown provides a good middle-of-the-road solution of a format that is easily usable for non-technicians yet much better structured, and a basis for easy document conversion into HTML, EPUB and many other formats, than Microsoft Word and similar classical word processing programs.
 
 Technically speaking, Markdown provides some of the same features and advantages, namely separation of content structure from visual layout, painless translation into multiple output formats. Their relative simplicity and human readability comes, however, at the price of extensibility and universality. XML is, strictly speaking, not a document markup language, but a meta-language (or toolkit) for building domain- and application-specific markup languages such as: a document markup language for exhibition catalogues, a document markup language for restaurant menus, a document markup language for flyers, etc.
 
 Markdown & Co. do not provide this flexibility of building one’s own syntax, but provide only their built-in, hard-wired syntax. For example, if one needs syntax for encoding footnotes and endnotes, MultiMarkdown simply doesn’t provide it. One could think up and use one’s own syntax extension (for example ^^[1] for an endnote), but this would not be supported by the word processing and text conversion programs for Markdown. In XML, there are standard methods of declaring and extending markup languages that can automatically be picked up by XML document converters.
 
-<!--Amy: Seems like there's a lot of repetition in this section: do these last two paragraphs need to be in? -->
+<!--Amy: Seems like there's a lot of repetition in this section. 
+Margreet suggests to delete the last two paragraphs? 
 
 However, the declaration of these extensions in the document syntax and conversion rules is highly complex. Even for computer scientists and engineers, XML is often so over-complex that they have resorted to simpler, human-readable language like Markdown, ReStructuredText and ASCIIdoc for software manuals.
 
-They are not as universal and thoroughly structured as XML, but still provide the advantage of separating content structure from visual layout, along with the advantage of painless translation into multiple output formats. And lastly, XML has very complex markup that is hard to read and write for humans. Easy authoring tools for XML and any kind of XML-based document formats do not really exist yet.
+They are not as universal and thoroughly structured as XML, but still provide the advantage of separating content structure from visual layout, along with the advantage of painless translation into multiple output formats. And lastly, XML has very complex markup that is hard to read and write for humans. Easy authoring tools for XML and any kind of XML-based document formats do not really exist yet. -->
 
 #### Practical tips and tricks for working with Markdown 
 
 ##### Word Processing / editing programs
 
-For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. <!--Margreet: What about Windows and Linux. Miriam: I added a Windows option, plus the open source Macdown. I think we should not name all these options but make a choice, for example only name the free ones? Otherwise, what is the criterium? -->
+For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. 
 
 **Linux**
 - [UberWriter](http://uberwriter.wolfvollprecht.de) [^UberWriter], this editor also includes built-in support for pandoc
@@ -1247,9 +1251,6 @@ In conclusion, we can only advise that various objects or in other words pictori
 
 
 
-
-
-
 [^EPUB Straight to the Point]: Elizabeth Castro provides a thorough guide for InDesign-to-EPUB publication in her book: EPUB Straight to the Point, San Francisco: Peachpit Press, 2010. 
 [^Pandoc]: Pandoc a universal document converter, http://www.johnmacfarlane.net/pandoc/.
 [^UberWriter]: UberWriter, http://uberwriter.wolfvollprecht.de/.
@@ -1265,19 +1266,14 @@ In conclusion, we can only advise that various objects or in other words pictori
 [^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', Coding Horror, 05 Sep 2014, http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/.
 [^EpubCheck]: EpubCheck is a tool to validate IDPF EPUB files, version 2.0 and later. https://github.com/IDPF/epubcheck
 
-<!--Amy removed it as it didn't appear in text
-[^2]: http://daringfireball.net/projects/markdown/
--->
 
 
 
 # 07 Guide: How to make a simple EPUB
 
-<!--Focus: EPUB 2/3, HTML5 (app) + PDF
+<!--Focus: EPUB 2/3, HTML5 (app) + PDF -->
 
-example Manifesto, El Lissitzky
 
-Miriam: are we still going to use this example?-->
     
 
 ## Direct conversion
@@ -1292,42 +1288,34 @@ For example, consider *Beowulf* available from Project Gutenberg in a variety of
 Calibre[^calibre] is an open source management and reading program for epublications. A more detailed description can be found in chapter 9 (<!--internal link needed-->). Calibre can also be used to convert files, for example into EPUB. How it works is shown below. Within a few simple steps Calibre allows you to make your own EPUB.
 
 After downloading and installing the program, follow these steps:
-
-<!-- Step 1: Open Calibre and import the original file you want to convert.
-Step 2: Select the file 
-Step 3: Click 'Convert books'.
-Step 4: Choose the file format for input and output.
-step 5: Click OK; Calibre starts converting.
-Your EPUB is ready. -->
-
 ![Simplest possible case](images/07_02_2stepepub.png "simple")
 
 ### Direct conversion to EPUB with pandoc
 
 To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling). [^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we’ll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc. [^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can’t ‘open’ the program and don’t see an icon. To convert the file into an EPUB follow the steps below.
 
-* First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
+1. First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'.
 
-* Pandoc is a command-line tool. There is no graphic user interface. So to use it, you’ll need to open a terminal window: 
+2. Pandoc is a command-line tool. There is no graphic user interface. So to use it, you’ll need to open a terminal window: 
 
 Windows: To start pandoc type cmd in the RUN (also called ‘search programs and files’ in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You'll get a white/black window saying C:\\user\\yourusername\>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
 Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems.
 
-* Go to the Terminal and type cd Documents. This means the Terminal will ‘change directory’ to the Documents folder.
-* Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
-* On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
-* To convert the file from docx to EPUB, type the following into the terminal: 
+1. Go to the Terminal and type cd Documents. This means the Terminal will ‘change directory’ to the Documents folder.
+2. Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there.
+3. On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir to get a list of files in the current folder. The beowulf.docx should be listed.
+4. To convert the file from docx to EPUB, type the following into the terminal: 
 
 		pandoc beowulf.docx -f docx -t epub -s -o beowulf.epub
 		
-* The filename beowulf.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o beowulf.epub says to put the output in a file named beowulf.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
-* Check that the file was created by typing ls or dir again. You should see beowulf.epub.
-* Open the EPUB from the folder or  in the Terminal type 
+5. The filename beowulf.docx tells pandoc which file to convert, -f docx -t epub, so from docx to EPUB. The -s option says to create a ‘standalone’ file, with a header and footer, not just a fragment. And the -o beowulf.epub says to put the output in a file named beowulf.epub. (Note: in Mac you can copy-paste the command, in Windows you can’t copy-paste.)
+6. Check that the file was created by typing ls or dir again. You should see beowulf.epub.
+7. Open the EPUB from the folder or  in the Terminal type 
 
  	 	open beowulf.epub 
  	
-* Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB:
+8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB:
 
 
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
@@ -1347,8 +1335,7 @@ You can download an example of a rudimentary EPUB that explains several of these
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows:
 
 ![EPUB layout](images/08_1_epublayout.png "EPUB layout")
-
-<!--@Kimmy Margreet: Can the image be cleaned, i.e take out shared media and also raptor, etc. Miriam: and zoom in on the filenames, can't read it like this. Kimmy: image is still in progress-->
+<!--Kimmy: image is still in progress-->
 
 The *META-INF* and *OEBPS* directories and *mimetype* should always be present in an EPUB file and form a large part of what constitutes an EPUB: 
 
@@ -1362,15 +1349,13 @@ These three components form the basic structure of an EPUB and are required in o
 
 ###Creating your own EPUB
 
-Most of the elements of an EPUB can be produced by hand in a text editor. Text editors is used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
+Most of the elements of an EPUB can be produced by hand in a text editor. Text editors are used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB.
 
 
 ####Creating the required files and directories
 
 Now that we've seen the insides of an EPUB after unzipping it, we can work the other way around and make the files and folders ourselves, thus creating a simple EPUB. We will work from our Documents directory where we can add folders like in the image above, and using a text editor to create the necessary files.
 
-<!--Margreet: Underneath steps go to fast to my opinion. Files and directories?! It would help to write a small introduction here maybe?
-Miriam: is it clearer now?-->
 1. Create a directory under Documents to store the files and subdirectories for your EPUB, and name it *Example*;
 2. Create two more directories inside the one you've just created, one called *META-INF* and the other *OEBPS*;
 3. Using a text editor create a plain text file and add the line `application/epub+zip` to the file;
@@ -1404,7 +1389,7 @@ The important part of this document is the information in quotes following the a
 
 ####The OPF file
 
-The OPF file is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file.
+The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by ereaders to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file.
 
 ```
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -1444,7 +1429,7 @@ Lastly, the `spine` lists all the pages present in the publication and it's list
 
 ####The content
 
-As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here](<!--Amy: link missing, Marc do you know what this is?-->). Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
+As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of ereaders in mind - limited support for rich media, colour, etc. An overview of the limitations can [be found here] <!-- internal link needed to limitations -->. Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of ereaders ignore or do not parse many of the style definitions.
 
 
 ####Packaging
@@ -1475,13 +1460,12 @@ Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre,
 # 08 Guide: E-publications per genre
 
 ## General questions
-<!--Visual by Arjen--> <!-- This is already added to chapter 5. What is the purpose of that visual in this chapter? what should it depict? (kimmy asked this question)-->
 
 ## [Research publication](id:Research publication)
 ### General
 Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
   
-See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html) 
+See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html)  <!--Margreet: is this a comment? -->
 
 * Editor works with author(s) on manuscript  
 * Several versions going back and forth between different people in different roles (editor, author, copyeditor, designer)  
@@ -1495,8 +1479,10 @@ See Kimmy's visualized workflow for the INC, which will be generalized for [rese
 This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 
 
 <!-- pia: this is why? unclear-->
+<!-- we only use bold words in the text if it is referring to the glossary ?! -->
 
-So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the e-publication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though not so easily to InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
+
+So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not very good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the epublication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though less easily in InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
 
 Flow chart: workflow -
 
@@ -1508,14 +1494,12 @@ Flow chart: workflow -
 ### Decision making
 
 **Should it be a 1:1 transfer from paper book to ebook?**  
-This is the traditional view.  
-The book is a unique, one off publication.  
-A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
+This is the traditional view. The book is a unique, one off publication. A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
 
 With text oriented files this may seem the most straightforward, maybe even the only useful way. There is not more than text, perhaps accompanied by a couple of images. Most important is e.g. to get references right, and a nice advantage is that making an index will be much easier digitally.
 
 **What are alternative possibilities?**  
-What is possible when using a hybrid workflow, focused as much on e-publications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
+What is possible when using a hybrid workflow, focused as much on epublications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
 
 * Version control can be more transparant   
 * Adding elements other than text (videos, (color) images, links)  
@@ -1530,19 +1514,19 @@ The decision about the desired output leads to certain steps to get the right in
 
 Specify for example:  
 
-* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or docx (which can be easily converted into html)  
+* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or .docx (which can be easily converted into html)  
 * image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
-* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this ^kimmy --> 
+* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- Kimmy: The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this --> 
 * URL style - full URLs should be clickable but not stylized as links (color or underlining)  
 * What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
-* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
+* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable? -->
 
 **What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
 Make a list of metadata to be added to the texts  
 
 * metadata provided by the author(s)  
 * metadata added by the editor/publisher
-* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Is this possible and desirable? ^Miriam -->
+* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable?  -->
 
 **Do editorial criteria regarding the content change?**  
 Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
@@ -1551,12 +1535,12 @@ Editorial criteria for the content can also differ in a hybrid workflow and depe
 * is interactive material needed, more or other images than can be published in print, video, audio, etc.  
 
 ### Specific issues for this publication type
-Important issues in the hybrid workflow for research publications ar
+Important issues in the hybrid workflow for research publications are
 1. the editorial process, with comments and copyediting
 2. footnotes and referencing
 
-### Based on the above, what to choose?
 
+### Based on the above, what to choose?
  
 How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
@@ -1626,7 +1610,8 @@ Advantages, disadvantages
 
 
 
-## Artist/designer book <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+## Artist/designer book 
+<!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 
 <!-- ![Periodical Approach](images/08_artistbook.png "Periodical Digital Approaches") -->
 
@@ -1790,10 +1775,7 @@ Advantages, disadvantages:
 
 
 # 09 Guide: Alternative ways of publishing
-<!-- This is a draft chapter and should be extended with a guide on how to create an EPUB using Adobe InDesign CC 
-
-
-Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
+<!-- Miriam: in chapter 7 there is also a small section on Calibre (how to make a simple ebook) - what is the difference with this chapter?-->
 
 <!-- Kimmy: there indeed seems to be a strange division between chapter 07 and 09. Maybe this chapter should come after 07 as a more advanced version? Or we should first explain the workflows and than the guides?. so you get:
 
@@ -1803,6 +1785,7 @@ chapter 08_guide_DIY.md
 Chapter 09_guide_advanced.md
 -->
 
+<!--Margreet:Chapter 09 should talk about existing authoring suites and enahancers, i.e. ADE, Mag+ -->
 
 <!-- Silvio: Adobe Digital Editions is the software used to read and manage e-books: <a href="http://www.adobe.com/it/solutions/ebook/digital-editions.html">http://www.adobe.com/it/solutions/ebook/digital-editions.html</a>
 - the Adobe Digital Publishing Suite is a sort of extension of InDesign that allows to produce 'enhanced' magazines and publications for iPad, etc: <a href="http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html">http://www.adobe.com/it/products/digital-publishing-suite-enterprise.html</a> -->
@@ -1868,9 +1851,6 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 [^Sigil]: Sigil, The EPUB Editor, http://code.google.com/p/sigil.
 [^Jutoh]: Jutoh, epublishing made easy, http://www.jutoh.com.
 
-<!--Amy removed the below reference as not in body text[^calibre_edit-ebooks]: calibre's ebook editor', http://blog.calibre-ebook.com/2013/12/calibres-ebook-editor.html
--->
-
 
 
 # 10 Futurology
@@ -1880,7 +1860,7 @@ These applications mostly integrate (as plugins) in an existing Adobe InDesign a
 
 *Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^doris] In art books we try to describe, show, analyse and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible.
 
-As we showed above in this guide, the act of glueing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers’s desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=921  "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ")
+As we showed before in this guide, the act of glueing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers’s desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=921  "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ")
 
 
 ## Reading technology 
@@ -1899,10 +1879,11 @@ Nevertheless, advantages and disadvantages will remain the same on the level of 
 ## Reading culture 
 
 Apart from the concerns expressed above, we have to review the culture of reading again. The present culture is that a person gets or buys a book and that is it. Now, more and more we are drifting to subscription models where the content as well as the software needed for consuming that content becomes unstable. 
+
 Cost pressure that now chases us in the direction of cheaper ebooks might result in a dangerous dependency on a livelong financial contract.[^way] 
 People living in poor, closed or financially weak countries might need a stable stock of material next to the unstable internet structure and related censorship.  
 
-A major point in the present day discussion is the question of literacy. Nicolas Carr scared the world with his book *The Shallows: What the Internet Is Doing to Our Brains* and on many internet forums and in many journals and magazines the discussion are vivid. We simple don't know. On the one hand people in many countries are trained by reading long texts and this competency might be influenced. On the other hand millions and millions of people from an illiterate background in  non-western countries get superb reading and writing skills by the use of mobile phones and tablets. On top of that in the Islamic world we know a strong oral tradition which is presently reflected in the avalanche of (often political of religious) video messages. Hence, in our project scope where we deal with arts and design we have to consider a increasing mixture of various medial productions. The accent now is more and more on short texts and the integration of short videos. Nothing and nobody can forecast if in a more mature technological environment the tides will turn and, next to other expressions, long written story telling will as well as well printed picture books will be come fashionable again. 
+A major point in the present day discussion is the question of literacy. Nicolas Carr scared the world with his book *The Shallows: What the Internet Is Doing to Our Brains* and on many internet forums and in many journals and magazines the discussions are vivid. We simple don't know. On the one hand people in many countries are trained by reading long texts and this competency might be influenced. On the other hand millions and millions of people from an illiterate background in  non-western countries get superb reading and writing skills by the use of mobile phones and tablets. On top of that in the Islamic world we know a strong oral tradition which is presently reflected in the avalanche of (often political of religious) video messages. Hence, in our project scope where we deal with arts and design we have to consider a increasing mixture of various medial productions. The accent now is more and more on short texts and the integration of short videos. Nothing and nobody can forecast if in a more mature technological environment the tides will turn and, next to other expressions, long written story telling will as well as well printed picture books will be come fashionable again. 
 
 
 Other ways of dealing with texts allow a more interactive relationship between reader and text. Not only in the sense of adding audio and video, but also leaving the reader the choice of entry into the text, setting out an individual reader path per person. 
@@ -2443,10 +2424,10 @@ EPUBster on GitHub.[^EPUBster on GitHub]
 ## Bibliography 
 
 ## Link list
-<!--mirrored linking -->
+<!--???: mirrored linking -->
 
 ## Instructions used in the preparation of this document
-<!-- Does this become a part of the final publication as appendix? -->
+<!-- ???: Does this become a part of the final publication as appendix? -->
 
 ## [Instructions for placing images](images/_image_instructions.html)
 

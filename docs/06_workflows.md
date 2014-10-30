@@ -242,7 +242,8 @@ A good example how to practically use XML for electronic publishing in daily lif
 
 ### Markdown 
 
-Central in a hybrid publishing workflow, we recommend to use the mark-up language Markdown, as it is an easlier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
+Central in a hybrid
+ publishing workflow, we recommend to use the mark-up language Markdown, as it is an easlier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
 
 ####Introduction: advantages and limitations
 John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as `<b>` for bold or `<author>` to mark-up the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown:
