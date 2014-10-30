@@ -115,19 +115,18 @@ Technology used by digital publishers to control the usage of copyright protecte
 <!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> Miriam: I added this link in the text itself-->  
 
 #####Directory
-A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
+A location on a disc containing *files* and *subdirectories* grouped together for organisational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
-#####Dithering
-The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
+<!-- not in text (Miriam)#####Dithering
+The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate color.-->
 
-#####DOS (Disk Operating System)
-An operating system for desktop PCs developed by Microsoft from 1981 to 1995.
+<!-- not in text (Miriam)#####Disk Operating System (DOS)
+An operating system for desktop PCs developed by Microsoft from 1981 to 1995.-->
 
-#####Dot Matrix Printer
-An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks "ragged". Laser printers and ink-jet printers are now much more common.
+<!-- not in text (Miriam)#####Dot matrix printer
+An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks 'ragged'. Laser printers and ink-jet printers are now much more common.-->
 
-#####Dpi (Dots Per Inch)
+#####Dots per inch (DPI)
 A measure of the of the quality of output, i.e. the number of dots per square inchproduced by a *printer* or *scanner*, also referred to as its *resolution*. A resolution of at least 300 dpi is considered reasonable for the production of
 high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots
 
@@ -420,6 +419,8 @@ The main data transfer protocol used on the Internet.
 
 *Text editor*
 A computer program that allow the manipulation of text.
+
+#####Tiff
 
 *Tumblog*
 A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
