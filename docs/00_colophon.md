@@ -9,6 +9,7 @@
 **Design EPUB:** André Castro\
 **Cover design:** [Studio Mooijman en Mittelberg](www.mooijmanenmittelberg.nl/)
 
+
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\
 **Publisher:** Institute of Network Cultures\
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek

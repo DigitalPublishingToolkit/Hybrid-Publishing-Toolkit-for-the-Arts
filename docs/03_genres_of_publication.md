@@ -1,5 +1,7 @@
 # 03 Genres of Publication
 
+
+## Five genres
 In the present project we deal with various kinds of products which we combine into five genres: 
 
  1) Research publication;  
@@ -13,7 +15,7 @@ In the present project we deal with various kinds of products which we combine i
  5) New genres of publication.
 
 
-##1) Research publication 
+###1) Research publication 
 - Heavy in use of text;
 - Texts take a central role;
 - Visuals are secondary (images refer to texts);
@@ -30,7 +32,7 @@ Going electronic also opens up new possibilities for creating content. Due to th
 
 
 
-##2) Art/design catalogue
+###2) Art/design catalogue
 - Heavy in use of images;
 - Visuals take central role over texts;
 - Visuals are primary (text refers to visuals);
@@ -44,7 +46,7 @@ Possibilities in this direction lie in offering high quality images which can be
 Just as with research publications, modularization offers interesting chances for writing and presenting material. As a catalogue is often built up around parts which are already modular in nature, there is a lot to be gained from using these features in electronic publishing. For example giving readers the opportunity to 'build' their own publication; publishing different editions (small, medium, large) of a catalogue without extra effort; easy updating of a part of the catalogue.
 
 
-##3)  Artist/designer book
+###3)  Artist/designer book
 - Book *by* an artist, rather than *about* an artist;
 - Complex use of images and typography, often pushing the possibilities of the medium;
 - In print: making use of the book as a material, visual and haptic object;
@@ -57,7 +59,7 @@ As artists/designers books essentially represent a reflection around the medium 
 When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 "Sentences on Conceptual Art"), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images.
 
 
-##4) Art/design periodical
+###4) Art/design periodical
 - Heavy in use of both texts and images; 
 - Both images and texts take central role;
 - Use of images is both primary and secondary;
@@ -72,11 +74,11 @@ The archival aspect provides other chances and issues for digital art/design per
 
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
 
-##5) New genres of publication
+###5) New genres of publication
 New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
 
 
-## 3 levels of electronic publishing
+## Three levels of electronic publishing
 Independently of the different genres listed above we can sketch a basic picture based on commonalities and diversions. The scope of epublishing starts with simple conversions from paper publications to electronic ones, moving towards full-scale electronic publications.  
 
 A division into three levels can be made, which are described in further detail below [![Bloglink](images/dpt_blog_verwijzing.png)]( http://digitalpublishingtoolkit.org/?p=2032  "Link to blog post: From print to what?"):

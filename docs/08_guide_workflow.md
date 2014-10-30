@@ -55,9 +55,10 @@ A new workflow requires certain actions to obtain the suitable input for the pub
 * metadata the author needs to provide such as keywords, contact information, abstract, biography;
 * metadata to be added by the editor/publisher.
 
-Editorial criteria regarding the content can also vary depending on the desired output. These include:
-* different styles of writing, 'writing for the web' vs. 'writing for print';
-* the use of interactive material, more or other images than can be published in print, video, audio, etc.  
+Editorial criteria for the content can also differ in a hybrid workflow:  
+
+* differents style of writing, 'writing for the web' vs. 'writing for print;  
+* the inclusion of interactive material, more or other images than can be published in print, video, audio, etc.  
 
 
 ### Based on the above, what to choose?
