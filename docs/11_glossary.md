@@ -71,6 +71,7 @@ Short for web log; usually a chronological record of thoughts, links, events, or
 Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
 #####Browser extension
+Plugins to extend or enhance the inner-workings of a web browser.
 
 #####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
@@ -168,7 +169,7 @@ A file format is a standard way that information is encoded for storage in a com
 Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
 #####Formatting
-<!-- Change the meanging into: applying format aka style values, this is the only way it is used in the text. Miriam.  The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.-->
+The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
 
 #####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
@@ -219,6 +220,7 @@ See **Compatibility**
 A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
 #####Interactivity
+Used to describe the ways in which software accepts and responds to user input.
 
 #####Interface
 An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
@@ -272,7 +274,7 @@ Kobo produces a range of handheld devices and software for ereading. It also has
 A network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. -->
 
 #####LaTex
-
+A document markup language used in scientific documents, often used to render mathematical notations, for example.
 
 #####LCD (Liquid Crystal Display)
 A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
@@ -286,13 +288,17 @@ Unix-type Operating System. Linux was originally created by Linus Torvalds with 
 A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.-->
 
 #####Mark-up Language
+A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in `<strong></strong>` tags, an interpreter (e.g. a webbrowser) will render that particular word as bold.
 
 #####Markdown
+A **markup language** using common symbols like #, * and _ to denote various style attributes.
 
 <!-- #####Mashup
 A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.-->
 
 #####Metadata
+Standardised descriptors of data in a particular document (author, creation date, etc.)
+
 <!--I added this link in the text Possible link: <a href="http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/">http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/</a> -->
 
 <!--#####MIDI (Musical Instrument Digital Interface)
@@ -317,6 +323,7 @@ Abbreviation for Motion Picture Expert Group. A standard file format for storing
 Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
 
 #####MultiMarkdown
+An extension of **Markdown's** syntax adding tables, footnotes, citations, etc.
 
 #####Multimedia
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application.
