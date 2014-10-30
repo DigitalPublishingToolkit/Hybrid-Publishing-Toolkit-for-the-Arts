@@ -12,7 +12,14 @@ In the present project we deal with various kinds of products which we combine i
 
 ## INC
 
-Index of tools used in the INC subgroup
+Index of (free) software tools created & used in the INC subgroup
+
+### epubtrailer.py
+
+A python script that generates a book trailer from an epub file as an animated gif
+
+[https://github.com/DigitalPublishingToolkit/epubtrailer.py](https://github.com/DigitalPublishingToolkit/epubtrailer.py)
+
 
 ### Git
 
