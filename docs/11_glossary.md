@@ -1,181 +1,177 @@
-# 11 Glossary of technical terms
+# 11 Glossary of Technical Terms
 
-### **A**
+### A
 
-*Acronym*
-An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in Garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
+#####Acronym
+An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
 
-*Adware*
-Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the nets, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you. 
+<!-- not in text (Miriam)#####Adware
+Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the internet, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you.  -->
 
-*Aliasing, anti-aliasing*
-Pictures on your computer monitor are made up of square pixel. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like PhotoShop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.
+<!-- not in text (Miriam)#####Aliasing, anti-aliasing
+Pictures on your computer monitor are made up of square pixels. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like Photoshop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.-->
 
-*Algorithm*
-This is the name given to a "defined set of steps that can be used to complete a task". For example there are 'algorithms' worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,
+<!-- not in text & incomplete  (Miriam)#####Algorithm
+This is the name given to a 'defined set of steps that can be used to complete a task'. For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,-->
 
-*Android*
-An Open Source operating system targeted at mobile phones, tablets. It's based on a Linux kernel and the Java programming language. As a mobile operating system Android is the most widely used.
+#####Android
+An open source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used.
 
-*Amazon*
-Online retailer of various goods, including ebooks, and producer of the Kindle and Fire ereading devices.
+#####Amazon
+Online retailer of various goods, including print and ebooks, and producer of the Kindle and Kindle Fire ereading devices.
 
-*App*
+#####App
 An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play Store, Apple App Store).
 
-*App store*
+#####App store
 An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazone Store, Windows Phone Store en BlackBerry App World.
 
-*azw (Amazon Word)*
-File format used by the Amazon Kindle e-Book reader.
+#####AZW (Amazon Word)
+File format used by the Amazon Kindle ereader.
 
-*Anchor*
-An 'anchor' is a specific location within a HTML-web page that can be jumped to by clicking on a hyperlink.
+<!-- not in text (Miriam)#####Anchor
+An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink.-->
 
-*Animated GIF (Graphics Interchange Format)*
-A GIF2 graphic file, which consists of two or more images shown in a timed sequence to give the effect of motion.
+#####Animated GIF (Graphics Interchange Format)
+A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion.
 
-*API (Application Programming Interface)*
+#####API (Application Programming Interface)
 An interface between the operating system and application programs that specifies how the two communicate with each other. 
 
-*Applet*
-An Applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations
+<!-- not in text (Miriam)#####Applet
+An applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations.-->
 
-*ASCII (American Standard Code for Information Interchange)*
+#####ASCII (American Standard Code for Information Interchange)
 A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters.
 
-*AVI (Audio Video Interleaved)*
-A Microsoft video format where audio and video coding appears in alternate segments. AVI files will end with an .avi extension.
+<!-- not in text (Miriam)#####AVI (Audio Video Interleaved)
+A Microsoft video format where audio and video coding appears in alternate segments. -->
 
-### **B**
+### B
 
-*Bandwidth*
-Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.
+<!-- not in text (Miriam)#####Bandwidth
+Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.-->
 
-*Baud*
-Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may
-include more than one bit.
+<!-- not in text (Miriam)#####Baud
+Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may include more than one bit.-->
 
-*Binary*
-A number system using base 2 instead of the usual (human) base 10, which is normally referred to as the decimal system. Computers use base 2 because they can only recognise two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001, the right-most column being the units column and the other columns, moving from right to left, being 2, 4, 8.
+#####Binary
+A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001.
 
-*Bit*
+#####Bit
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed.
 
-*Bitmap*
-A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.
+<!-- not in text (Miriam)#####Bitmap (BMT)
+A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.-->
 
-*Blog*
+#####Blog
 Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the web.
 
-*Browser*
-Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics (except text-only browsers), plays music and video, and provides links to related pages. Browsers are based on standards
-developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved. These differences in browsers create a challenge for web page developers.
+#####Browser
+Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers.
 
-*Byte*
+#####Browser extension
+
+#####Byte
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 
-### **C**
+### C
 
-*CAD/CAM*
-Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.
+<!-- not in text (Miriam)#####CAD/CAM
+Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.-->
 
-[CSS (*Cascading Style Sheets*)](#css)
-Cascading Style Sheets are a feature of HTML4 that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents. This makes it possible to set up CSS file containing a library of styles that are used throughout a website, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
+#####Cascading Style Sheets (CSS)
+Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
 
-*CMS (Content Management System)*
-A software package that makes it possible for non-technical users to publish content (text, images, etc) on a website.
-
-*Compatiblity*
+#####Compatiblity
 Pieces of hardware and/or software which are capable of being used together are described as *compatible*.
 
-*Compression*
-Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. There a number of programs that will compress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo.
+#####Compressed files
+Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, gnu zip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo. 
 
-*Computer Program*
+#####Computer program
 A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, JAVA, C++) , and are then converted into binary machine instructions via a compiler or an interpreter.
 
-*Cookie*
-A cookie is a short file put on your system by a web page when the user visits a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check.
-There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.
+#####Content management system (CMS)
+A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website.
 
-### **D**
+<!-- not in text (Miriam)#####Cookie
+A cookie is a short file put on your system by a web page when you visit a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check. There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.-->
 
-*Data*
-Strictly speaking the plural of "datum",but now usually considered as a collective noun in the singular, with the plural form "data items" or "items of data". Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text
-or sets of figures on which a computer program operates.
+### D
 
-*Device*
-An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda)or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+#####Data
+Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
 
-*DRM ([Digital Rights Management](id:Digital Rights Management))*
-Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult.
-<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> -->  
+#####Decompress
+See **Compressed files**
 
-*DTP (Desktop Publishing)*
-Is the practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
+#####Desktop Publishing (DTP)
+The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
 
-*Directory*
-A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
-"child directories" of the "parent directory". The topmost directory on a computer, which is the parent of all directories on the disc, is known as the *root directory* and usually has the *pathname* C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
-*Dithering*
-The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate colour.
+#####Device
+An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
 
-*DOS (Disk Operating System)*
-An operating system for desktop PCs developed by Microsoft from 1981 to 1995.
+#####Digital Rights Management (DRM)
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
+<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> Miriam: I added this link in the text itself-->  
 
-*Dot Matrix Printer*
-An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks "ragged". Laser printers and ink-jet printers are now much more common.
+#####Directory
+A location on a disc containing *files* and *subdirectories* grouped together for organisational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
-*Dpi (Dots Per Inch)*
-A measure of the of the quality of output, i.e. the number of dots per square inchproduced by a *printer* or *scanner*, also referred to as its *resolution*. A resolution of at least 300 dpi is considered reasonable for the production of
-high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots
+<!-- not in text (Miriam)#####Dithering
+The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate color.-->
 
-### **E**
+<!-- not in text (Miriam)#####Disk Operating System (DOS)
+An operating system for desktop PCs developed by Microsoft from 1981 to 1995.-->
 
-*ebook*
-A range of digital publications which can be read by ereaders, desktop computers and handheld devices.
+<!-- not in text (Miriam)#####Dot matrix printer
+An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks 'ragged'. Laser printers and ink-jet printers are now much more common.-->
 
-*EPUB (Electronic Publication)*
-An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content.
+#####Dots per inch (DPI)
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots.
 
-*ereader*
+### E
+
+#####Ebook
+Digital publications of different kinds and formats, which can be read by ereaders, desktop computers and handheld devices.
+
+#####EPUB (Electronic Publication)
+An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content.
+
+#####Ereader
 A device capable of reading digital texts in various formats, notably EPUB and AZW.
 
-*E-ink*
-Electrophoretic ink, a sytem in whch small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces considerably the power consumption and makes it an ideal technology for long reading. The resolution of the stable screen is very high. A disadvantage is that, like paper, the presentation does not allow motion pictures or animations.
+#####E-ink
+Electrophoretic ink, a sytem in which small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations.
 
-*Encryption*
-A system of coding that helps prevent access to private information on computer networks or on the Web.
+<!-- not in text (Miriam)#####Encryption
+A system of coding that helps prevent access to private information on computer networks or on the Web.-->
 
-### **F**
+### F
 
-*FAQ*
-Abbreviation for Frequently Asked Question(s).
+<!-- not in text (Miriam)#####FAQ
+Abbreviation for Frequently Asked Question(s).-->
 
-*File*
-A *file* in computer jargon can be used to describe many different things. It may be a Computer Program, a document file created with a Word-processor, an image file, an audio file, a video file, etc. Think of it in the same way as you would think of a file in a filing cabinet. A file has a name that describes what it is, and the file is stored in a
-place where you can easily find it.
+#####File
+'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place.
 
-*File extension*
-One popular method used by many operating systems, including Windows, Mac OS is to determine the format of a file based on the end of its name—the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so, often any given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. Since there is no standard list of extensions, more than one format can use the same extension, which can confuse both the operating system and users.
+#####File extension
+A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions.
 
-*File format*
+#####File format
 A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read.
 
-*File Permissions*
-Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.
+<!-- not in text (Miriam)#####File permissions
+Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
-*Flat text*
- Text without any visual characteristics, so without bolding, italics, etc.
- 
-*Formatting*
-The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.
+#####Formatting
+<!-- Change the meanging into: applying format aka style values, this is the only way it is used in the text. Miriam.  The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.-->
 
-*Freemium*
+#####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
 
-### **G**
+### G
 
 *GIF (Graphic Interchange Format)*
 A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
@@ -219,6 +215,9 @@ Tablet introduced by Apple, controlled by touch gestures.
 
 *Icon*
 A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+
+#####Incompatiblity
+See **Compatibility**
 
 *Ink Jet Printer*
 A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
@@ -341,6 +340,9 @@ This is a file type created by Adobe that allows fully formatted, documents to b
 *Pixel*
 A contraction of picture element. What you see on a computer Display Screen1 is made up of thousands of coloured pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. Thus, the more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
 
+#####Plain text
+Text without any visual characteristics, so without bolding, italics, etc.
+ 
 *Platform*
 Often used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
@@ -417,6 +419,8 @@ The main data transfer protocol used on the Internet.
 
 *Text editor*
 A computer program that allow the manipulation of text.
+
+#####Tiff
 
 *Tumblog*
 A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.
