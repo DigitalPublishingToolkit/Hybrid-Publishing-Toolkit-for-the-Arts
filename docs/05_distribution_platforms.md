@@ -293,7 +293,7 @@ Lulu is the biggest print-on-demand service that offers publishing free of costs
 **Strengths and weaknesses**  
 *Strengths*  
 Ability to set your own price  
-Distribution through Amazon and iBookstore (ebooks only) is possible
+Distribution through Amazon and **iBookstore** (ebooks only) is possible
 Free ISBN is available
 
 *Weaknesses*  

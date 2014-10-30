@@ -208,7 +208,7 @@ A program enabling the user to read and buy ebooks, developed by Apple for iOS a
 Apple's storefront for EPUBs and iBooks.
 
 #####iOS
-Mobile operating, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
+Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
 
 #####iPad
 Tablet introduced by Apple, controlled by touch gestures.
