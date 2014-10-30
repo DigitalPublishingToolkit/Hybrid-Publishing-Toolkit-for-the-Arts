@@ -110,7 +110,7 @@ See **Compressed files**
 The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
 
 #####Device
-An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (pda) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+An electronic handheld device like a smartphone, tablet, phablet, personal digital assitant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
 
 #####Digital Rights Management (DRM)
 Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
@@ -259,7 +259,7 @@ KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also 
 #####Kindle
 Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon.
 
-#####Kindle
+#####Kindle Fire
 
 #####Kobo
 Kobo produces a range of handheld devices and software for ereading. It also has its own storefront where ebooks (mainly EPUBs) may be bought.
@@ -273,46 +273,50 @@ A network of computers at one site that provides services to other computers con
 
 
 #####LCD (Liquid Crystal Display)
-A technology used for producing a type of flat panel computer Display Screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
+A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
 
 #####Linux
 Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone.
 
-### **M**
+### M
 
-*Macro*
-A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.
+<!-- #####Macro
+A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.-->
 
-*Mark-up Language*
+#####Mark-up Language
 
-*Mashup*
-A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.
+#####Markdown
 
-*Metadata*
-<!-- Possible link: <a href="http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/">http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/</a> -->
+<!-- #####Mashup
+A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.-->
 
-*MIDI (Musical Instrument Digital Interface)*
-A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.
+#####Metadata
+<!--I added this link in the text Possible link: <a href="http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/">http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/</a> -->
 
-*Mobipocket*
-Is a French company incorporated in March 2000 that produced Mobipocket Reader software, an ebook reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
+<!--#####MIDI (Musical Instrument Digital Interface)
+A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.-->
 
-*Monitor*
-The screen on which output from a computer is displayed. Also referred to as Display Screen. 
+#####Mobipocket
+A French company incorporated in March 2000 that produced Mobipocket Reader software, an ereader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
 
-*Monochrome* 
-Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. So a monochromatic object or image has only colors in shades of limited colors or hues.
+#####Monitor
+The screen on which output from a computer is displayed. Also referred to as display screen. 
 
-*MOV*
-The format for storing and playing back audio and video files using the QuickTime media player on the Apple Macintosh, but also available for the multimedia PC. Economical in terms of storage space.
+#####Monochrome
+Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. A monochromatic object or image has only colors in shades of limited colors or hues.
 
-*MP4*
+<!-- #####MOV
+The format for storing and playing back audio and video files using the QuickTime media player on the Apple Macintosh, but also available for the multimedia PC. Economical in terms of storage space.-->
+
+<!-- #####MPEG / MPG
+Abbreviation for Motion Picture Expert Group. A standard file format for storing movies and high-quality audio files in digital format. Video files stored MPEG format can be recognised by the extension .mpg or .mpeg. MP3 audio files can be recognised by the Extension .mp3. A newer file format is MP4. MP4 files that can be recognised by the Extension .mp4. See ASF, AVI7 MOV8 RM, which are alternative video file formats.-->
+
+#####MP4
 Abbreviation for the MPEG-4 file format. There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
 
-*MPEG* or *MPG*
-Abbreviation for Motion Picture Expert Group. Pronounced "Empeg". A standard file format for storing movies in digital format and high-quality audio files in a variation known as MP3. Video files stored MPEG format can be recognised by the Extension.mpg or .mpeg. MP3 audio files can be recognised by the Extension .mp3. A newer file format is MP4. MP4 files that can be recognised by the Extension .mp4. See ASF, AVI7 MOV8 RM, which are alternative video file formats.
+#####MultiMarkdown
 
-*Multimedia*
+#####Multimedia
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application.
 
 ### **N**
