@@ -112,7 +112,7 @@ An electronic handheld device like a smartphone, tablet, phablet, personal digit
 
 #####Digital Rights Management (DRM)
 Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
-<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> -->  
+<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> Miriam: I added this link in the text itself-->  
 
 #####Directory
 A location on a disc containing a group of *files*and *subdirectories* grouped together for organisational purposes. The term is used synonymously with Folder, which has become a more common term since the introduction of Windows'. Subdirectories are sometimes referred to as
