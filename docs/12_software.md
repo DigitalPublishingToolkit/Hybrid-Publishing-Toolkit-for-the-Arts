@@ -1,6 +1,6 @@
 # 12 Software Catalogue 
 
-A catalogue of open source software used & written in the context of the project with links to the relevant sources.
+A catalogue of free & open source software used and/or written in the context of the project with links to the relevant sources.
 
 In the present project we deal with various kinds of products which we combine into five genres: 
 
