@@ -1,9 +1,8 @@
 # 12 Software Catalogue 
-A catalogue of open source software written in the context of the project with links to the relevant GitHub repositories.
 
+A catalogue of open source software used & written in the context of the project with links to the relevant sources.
 
 In the present project we deal with various kinds of products which we combine into five genres: 
-
 
 
 ## BIS Publishers
@@ -20,6 +19,17 @@ A python script that generates a book trailer from an epub file as an animated g
 
 [https://github.com/DigitalPublishingToolkit/epubtrailer.py](https://github.com/DigitalPublishingToolkit/epubtrailer.py)
 
+### expand_toc.py
+
+A python script to generate a markdown source for an EPUB based on a (markdown) table of contents source.
+
+[https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader/blob/master/scripts/expand_toc.py](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader/blob/master/scripts/expand_toc.py)
+
+### mmd-meta-validation
+
+A simple validation tool to check metadata in a MMD file.
+
+[https://github.com/DigitalPublishingToolkit/mmd-meta-validation](https://github.com/DigitalPublishingToolkit/mmd-meta-validation)
 
 ### Git
 
