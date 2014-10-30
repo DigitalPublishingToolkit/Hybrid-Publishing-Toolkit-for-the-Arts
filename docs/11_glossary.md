@@ -342,7 +342,7 @@ The practice of allowing access to the source of product and the process through
 A file type created by Adobe that allows fully formatted documents to be transmitted across the internet and viewed on any computer that has Adobe Acrobat Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable.
 
 #####Pixel
-A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots, which can be set according to the user's choice to produce either low-resolution output, medium-resolution output or high-resolution output, the usual combinations of pixels across each line of the screen (horizontal pixels) and down each line of the screen (vertical pixels) being 640 x 480, 800 x 600, 1024 x 768, 1280 x 1024. The more pixels on the screen the higher the resolution (i.e. producing a finer, sharper image) and the greater the variety of colours that can be displayed.
+A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots. See also **resolution**.
 
 #####Plain text
 Text without any visual characteristics, so without bolding, italics, clickable links etc.
@@ -365,46 +365,45 @@ Print on demand (POD) is a digital printing technology in which a book or other 
 #####Protocol
 In internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and Web server.
 
-### **Q**
+### Q
 
-*QR Code (Quick Response Code)*
-A QR Code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps1 location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR Codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR Code.
+<!-- #####QR code (Quick Response Code)
+A QR code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR code.-->
 
-*QuickTime*
-Software by Apple used for viewing movies and listening to audio recordings
+<!-- #####QuickTime
+Software by Apple used for viewing movies and listening to audio recordings-->
 
-### **R**
+### R
 
-*Reflowable*
+#####Reflowable
 A reflowable document is a type of electronic document that can adapt its presentation to the output device.
 
-*Resolution*
-A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolutionand high-resolution. The resolution of a computer display screenis normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a Printer is normally referred to by the number of dots per inch (dpi)- i.e. square inch.
+#####Resolution
+A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolution and high-resolution. The resolution of a computer display screen is normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a printer is normally referred to by the number of dots per inch (dpi) - i.e. square inch.
 
-*RTF (Rich Text Format)*
-An alternative way of storing a document created with a MS-Word-processor. RTF-formatted files can be moved relatively easily between different computer systems. RTF format is also recommended when transmitting an Attachment by Email as it is much safer than the Microsoft Word formats, which can harbour Word Macro viruses. RTF files preserve most of the formatting contained in DOC-formatted files.
+#####Rich Text Format (RTF)
+An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files.
 
-### **S**
+### S
 
-*SDK (Software Development Kit)*
+#####Software Development Kit (SDK)
 
-*Semantic Web*
-The *Semantic Web* is not a new type of Web, but rather an extension of the Web whereby data available in different locations on the Web is linked together in a way that allows the user to search the Web in a more sophisticated way, e.g. by requesting information in forms such as "Tell me where I can find information about 21st-century writers who live within 50 miles of my home town":
+<!-- #####Semantic web
+The semantic web is not a new type of Web, but rather an extension of the Web whereby data available in different locations is linked together in a way that allows the user to search in a more sophisticated way, e.g. by requesting information in forms such as 'tell me where I can find information about 21st-century writers who live within 50 miles of my home town'.-->
 
-*Setup Program*
-A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as Install Program or Installation Program.
+<!-- #####Setup program
+A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as install program or installation program.-->
 
-*Shockwave Player*
-Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.
+<!-- #####Shockwave player
+Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.-->
 
-*sRGB color space*
-sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the Internet.
+<!-- #####sRGB color space
+sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the internet.-->
 
+#####Streaming
+Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
 
-*Streaming*
-Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific Plug-in program that links in with your Browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a Broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
-
-*Syntax*
+#####Syntax
 
 ### **T**
 
