@@ -23,7 +23,7 @@ In Chapter 7 <!-- internal link needed-->we describe how to create electronic bo
 ### New workflow  
 We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, ebook and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archival file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and web is very straightforward using the open source software tool pandoc.
 
-![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
+![Hybrid Workflow Research Publication](images/08_PubResearch.png "Workflow Hybrid") 
 
 <!-- Image: will be updated with new version -->
 
@@ -54,10 +54,7 @@ Editorial criteria for the content can also differ in a hybrid workflow:
 
 ## Art/design catalogue
 
-![Catalogue Approach](images/08_WorkflowCatalogus.png "Catalogue Digital Approaches") 
-
-<!--Image: very rough sketch -->
-
+![Catalogue Approach](images/08_pub_catalogue.png "Catalogue Digital Approaches") 
 
 ### General
 The traditional workflow for an art/design catalogue is roughly the same as the InDesign workflow described for the research publication, directed at the production of one integral book. The new workflow on the contrary, is based on a highly modularized publication process. The catalogue is built up of multiple modules or building blocks, for example different paintings with a description, following a standardized format. When these modules are treated as separate entities, and stored, described and tagged as such, it will be possible to cater for customized publications using only a selection of the building blocks.
@@ -90,10 +87,7 @@ Miriam: I have a problem with giving as final advice: employ these and those exp
 
 ## Artist/designer book 
 <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
-
-<!-- ![Periodical Approach](images/08_artistbook.png "Periodical Digital Approaches") -->
-
-Flow chart: workflow
+![Periodical Approach](images/08_pub_artist_designer.png "Periodical Digital Approaches") 
 
 ### General
 The traditional way of handling an artist/designer book is to view it as a conceptual design object or even sculptural object.
@@ -188,9 +182,8 @@ Electronic visual books can be made in very simple ways:
 - Commercial / app store model. <!--1000 words -->
 
 ### General
-![Periodical Approach](images/08_WorkflowPeriodical.png "Periodical Digital Approaches") 
+![Periodical Approach](images/08_pub_periodical.png "Periodical Digital Approaches") 
 
-<!-- Image: very rough sketch -->
 
 (a) magazine as downloadable PDF file; 
 

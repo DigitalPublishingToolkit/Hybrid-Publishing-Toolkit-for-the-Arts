@@ -8,7 +8,7 @@ The aforementioned storefronts typically charge a percentage for each publicatio
 
 Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author.[^apple-publication-guidelines] Amazon, via their Kindle Direct Publishing programme, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents.[^kindle-direct-publishing]
 
-## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog
+## Online reading platforms: Issuu, Scribd, Internet Archive, website/blog
 
 Online reading platforms are browser-based platforms where digital publications are uploaded and made available. The publication can be presented in different formats. The choice for an online platform and the accompanying publication format also has effect on modes and reach of distribution.
 
@@ -18,18 +18,12 @@ Below several platforms are discussed, including characteristics, statistics, st
 
 <!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
-
 ###Issuu 
-![Issuu](images/07_IssuuIcon.png "Issuu")
-
-<!--Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
-=======
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
 ###Scribd
 Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 ### Internet Archive
 Internet Archive can be found at [https://archive.org/](https://archive.org/)
->>>>>>> FETCH_HEAD
 
 ![Issuu](images/05_01_issuu.png "Issuu")
 
@@ -81,16 +75,9 @@ For deeper statistics a paid account is needed
 -->
 
 
-
-###Scribd
-![Scribd](images/07_Scribdicon.png "Scribd")
-
-<!-- 
-
-
 ![Scribd](images/05_01_scribd.png "Scribd")
 
-
+<!--
 **Characteristics**  
 
 * The world’s largest collection of ebooks and written works, according to their own sources 
@@ -137,13 +124,9 @@ For deeper statistics a paid account is needed
 
 -->
 
-### Internet Archive
-![Internet Archive](images/07_IAIcon.png)
-<!--
-Internet Archive can be found at [https://archive.org/](https://archive.org/)
-
 ![Internet Archive](images/05_01_internetarchive.png)
 
+<!--
 **Characteristics**
 
 * Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
@@ -195,12 +178,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Create an account  
 * Upload publication in any of the many allowed file formats  
 * Fill-in publication's metadata.
-<<<<<<< HEAD
-* The publication will be given dedicated page.
-
--->
-
-
+* The publication will be given dedicated page. -->
 
 
 ###Third party blogs
