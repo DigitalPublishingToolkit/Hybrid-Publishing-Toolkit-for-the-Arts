@@ -19,11 +19,15 @@ Below several platforms are discussed, including characteristics, statistics, st
 <!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
 ###Issuu 
-![Issuu](images/07_IssuuIcon.png "Issuu")
-
 Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
+###Scribd
+Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
+### Internet Archive
+Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
-**Characteristics**
+![Issuu](images/05_01_issuu.png "Issuu")
+
+<!-- **Characteristics**
   
 * It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
 * It is used for books, brochures, magazines, etc 
@@ -68,14 +72,13 @@ For deeper statistics a paid account is needed
 * Easy upload of many different file formats  
 * Embed on your own website  
 * Offer downloadable file  
+-->
 
 
-###Scribd
-![Scribd](images/07_Scribdicon.png "Scribd")
+![Scribd](images/05_01_scribd.png "Scribd")
 
-
+<!--
 **Characteristics**  
-Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
 
 * The world’s largest collection of ebooks and written works, according to their own sources 
 * Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
@@ -119,12 +122,11 @@ Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)
 * Easy upload of many different file formats  
 * Offer in-browser reading and downloadable file  
 
-### Internet Archive
-![Internet Archive](images/07_IAIcon.png)
+-->
 
-Internet Archive can be found at [https://archive.org/](https://archive.org/)
+![Internet Archive](images/05_01_internetarchive.png)
 
-
+<!--
 **Characteristics**
 
 * Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
@@ -147,9 +149,6 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 
 * 6 million publications.
 * Each month publications are either read or downloaded 10 million times [^IA_blog] 
-
-<!-- To be merged -->
-
 * Collection topped 10 petabytes
 * 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
 * Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
@@ -179,9 +178,7 @@ Internet Archive can be found at [https://archive.org/](https://archive.org/)
 * Create an account  
 * Upload publication in any of the many allowed file formats  
 * Fill-in publication's metadata.
-* The publication will be given dedicated page.
-
-
+* The publication will be given dedicated page. -->
 
 
 ###Third party blogs
