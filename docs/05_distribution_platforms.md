@@ -37,12 +37,14 @@ Issuu can be found at [http://www.issuu.com](http://www.issuu.com).
 
 **Statistics**
  
-| *For Issuu* (June 2014) | *For individual users*  
-| ----------------------- |:---------------------:|
-| 80 million monthly readers | Issuu offers general statistics for users and their publications  
-| 15 million publications | For deeper statistics a paid account is needed
+*For Issuu* (June 2014)    
+80 million monthly readers  
+15 million publications 
 
-
+*For individual users*
+Issuu offers general statistics for users and their publications 
+For deeper statistics a paid account is needed
+ 
 **Strengths and weaknesses**  
 *Strengths*  
 
