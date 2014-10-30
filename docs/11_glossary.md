@@ -166,12 +166,12 @@ A file format is a standard way that information is encoded for storage in a com
 Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
 
 #####Formatting
-The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.
+<!-- Change the meanging into: applying format aka style values, this is the only way it is used in the text. Miriam.  The process of preparing a writeable disc for use. Formatting creates a structure on the disc which enables it to hold data.-->
 
 #####Freemium
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
 
-### **G**
+### G
 
 *GIF (Graphic Interchange Format)*
 A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.

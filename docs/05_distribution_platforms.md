@@ -60,7 +60,7 @@ For deeper statistics a paid account is needed
 
 **Revenue Model**  
 
-* Freemium model [^Freemium]  
+* **Freemium** model [^Freemium]  
 
 **How-to-publish**  
 
