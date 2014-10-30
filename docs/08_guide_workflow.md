@@ -4,98 +4,71 @@
 
 ## [Research publication](id:Research publication)
 ### General
-Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
+Currently, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real-time data, and computation. One would normally expect that electronic publishing provides the technical solution for this. However, this is not today's reality. If one wants to publish in standard e-book formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current e-book technology are, as a matter of fact, much more limited than in paper publishing. The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
+
+Pragmatically and for the near future, electronic research publishing will mean the publishing of rather conventionally designed papers, journals and textbooks in electronic form. This means that electronic research publishing will typically evolve around text-centered works. Complex visual material (illustrations, audiovisual content) may often be outsourced from the electronic book to accompanying online resources and extended referencing and/or indexing.
   
-See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html)  <!--Margreet: is this a comment? -->
+This means that the advice given for [research-type publications](researchlikepub.html) elsewhere in this publication will apply to most electronic research publications. 
 
-* Editor works with author(s) on manuscript  
-* Several versions going back and forth between different people in different roles (editor, author, copyeditor, designer)  
-* Final version of the text will be in a text editor or Microsoft Word format  
-* This is then designed in InDesign  
-* Corrections made to the print proof and added in the InDesign file  
-* Certified PDF goes to printer  
-* How to make an electronic publication from InDesign - this is the big problem. Going from InDesign to electronic publication is not easy and needs a lot of manual work
+### Traditional workflow
 
-*New workflow*  
-This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 
+In print research publications, the typical workflow has been
 
-<!-- pia: this is why? unclear-->
-<!-- we only use bold words in the text if it is referring to the glossary ?! -->
+* An editor works with author(s) on the manuscript.
+* Several versions are going back and forth between different people in different roles (editor, author, copyeditor, designer).
+* The final version of the text will be established in a word processing program (typically Microsoft Word) or desktop publishing program (typically Adobe InDesign).
+* A graphic designer will design the publication in InDesign.  
+* Corrections made to the print proof and added in the InDesign file.  
+* A PDF file of the corrected InDesign project goes to printer.
 
+In <--where?--->… we describe a workflow how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained.
+ 
+### New workflow ### 
+We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, e-book and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archivale file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and Web is very straightforward using the Open Source software tool pandoc.
 
-So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not very good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the epublication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though less easily in InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
-
-Flow chart: workflow -
+<!-- Flow chart: workflow -->
 
 ![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
 
 <!-- Image: very rough sketch -->
 
 
-### Decision making
 
-**Should it be a 1:1 transfer from paper book to ebook?**  
-This is the traditional view. The book is a unique, one off publication. A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
 
-With text oriented files this may seem the most straightforward, maybe even the only useful way. There is not more than text, perhaps accompanied by a couple of images. Most important is e.g. to get references right, and a nice advantage is that making an index will be much easier digitally.
+### New possibilities ###
+A hybrid workflow geared towards e-publications as well as print, offers a number of advantages:
 
-**What are alternative possibilities?**  
-What is possible when using a hybrid workflow, focused as much on epublications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
-
-* Version control can be more transparant   
-* Adding elements other than text (videos, (color) images, links)  
-* Extracting outputs from the material different from the book itself, such as abstract, booktrailers, personalized e-publications  
-* Better archiving as one can keep the structure of the text as well
-* ...
+* Easy translation into various electronic file formats, as explained above;
+* User-friendly like Wikis and blogs can be used for collaborative editing and revision control, or even more sophisticated systems like Git/GitHub (that are traditionally used for software development by large teams of programmers distributed over the whole world);   
+* Adding elements other than text (videos, images, links) while keeping them separate from the document file. This prevents gigantic file sizes of the central editorial document. It also makes it easier to maintain images and videos in different resolutions for different publication media. 
+* Easy extraction of derived output from the book itself, such as abstracts, video book trailers, newsletters, personalized e-publications; easier extraction of parts of a publication that will be separately published.
+* Independence from one particular software program (such as Word and InDesign), long-time achivability.
 
 ### Instructions
 
-**How to adjust the style guide?**  
-The decision about the desired output leads to certain steps to get the right input. First of all it is therefore necessary to communicate this to the authors and others involved in the publishing process. Adjust your style guide which is leading in the communication with authors/designers/programmers etc.
+#### Style guide ####
+A new workflow requires certain actions to obtain the suitable input for the publication. First of all, it is necessary to communicate this to all contributors (authors, editors, designers) in the publishing process. Publication style guides must be adjusted accordingly and specify:
 
-Specify for example:  
+* the file format to be delivered by contributors (for example: Markdown, or .docx pending later conversion and formatting clean-up);
+* in case of the use the Word/.docx, require the author to use defined paragraph and character styles for all formatting (such as "Headline 1", "Headline 2", "quotation" etc.) - and to strictly avoid direct formatting of text. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this;
+* image style and format; high-resolution images that are suitable for print but can be downsized to lower resolutions for electronic publication;  
+* metadata the author needs to provide such as keywords, contact information, abstract, biography;
+* metadata to be added by the editor/publisher.
 
-* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or .docx (which can be easily converted into html)  
-* image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 dpi .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
-* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- Kimmy: The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this --> 
-* URL style - full URLs should be clickable but not stylized as links (color or underlining)  
-* What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
-* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable? -->
-
-**What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
-Make a list of metadata to be added to the texts  
-
-* metadata provided by the author(s)  
-* metadata added by the editor/publisher
-* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable?  -->
-
-**Do editorial criteria regarding the content change?**  
-Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
-
-* (not discussed in this guide) consider another style of writing, 'writing for the web'   
-* is interactive material needed, more or other images than can be published in print, video, audio, etc.  
-
-### Specific issues for this publication type
-Important issues in the hybrid workflow for research publications are
-1. the editorial process, with comments and copyediting
-2. footnotes and referencing
+Editorial criteria regarding the content can also vary depending on the desired output. These include:
+* different styles of writing, 'writing for the web' vs. 'writing for print';
+* the use of interactive material, more or other images than can be published in print, video, audio, etc.  
 
 
 ### Based on the above, what to choose?
  
 How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
-A step-by-step guide
+Guides:
+* For converting .docx to Markdown or EPUB, see <!-- cross-reference ..--> the respective guide.
+* For using InDesign for well-structured hybrid publishing, see <!-- cross-reference ..--> the respective guide.
+<!-- Pressbooks as an example of available open source tools? (post Silvio) - who is familiar with this? -->
 
-<!---Converting a Docx directly to EPUB using Calibre (post Silvio). It was superseded by Florian's respective section on docx conversion with pandoc-->
-
-Pressbooks as an example of available open source tools? (post Silvio)
-
-From InDesign - when it's 1:1 use the certified PDF that goes to the printer, downsized when needed.  
-
-Possibilities for reading online: Scribd, Issuu, in-browser reading
-
-Advantages, disadvantages
 
 
 
