@@ -19,7 +19,7 @@ For art and design publishers, the challenge of going electronic with their publ
 
 ## Industry promises versus reality
 
-We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and multimedia possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
+We face a major contrast between computer industry promises and the reality of the new digital medium. On the one hand, publishers, editors, designers and artists tend to overestimate the interactive and **multimedia** possibilities of electronic publishing. These extra possibilities do exist, but in most cases cause higher development costs and remain specific to one particular technical reading platform.
 
 On the other hand, publishers tend to underestimate how even technically simple and seemingly banal types of electronic publications can lead us to rethink established publishing practices and formats. When traditional publishing formats go electronic or hybrid, the possibility for transformation is real. Once the book becomes electronic or hybrid, the permanence, immutability and stability typical of physical books, is likely to mutate into dynamic, modular, and participative forms, that can benefit from the networked environment where ebooks exist. 
 

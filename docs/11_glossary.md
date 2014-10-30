@@ -207,12 +207,6 @@ A program enabling the user to read and buy ebooks, developed by Apple for iOS a
 #####iBookstore
 Apple's storefront for EPUBs and iBooks.
 
-#####iOS
-Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
-
-#####iPad
-Tablet introduced by Apple, controlled by touch gestures.
-
 #####Icon
 A small symbol or picture used in a **Graphical User Interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
 
@@ -222,11 +216,19 @@ See **Compatibility**
 <!-- not in text (Miriam)#####Ink Jet Printer
 A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
+#####Interactivity
+
 #####Interface
 An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
 
 #####Internet
 The internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the internet using existing communications systems. Schools and universities normally access the internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the internet is in fact a network of networks, it appears to users as a network of individual computers. The internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers.
+
+#####iOS
+Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
+
+#####iPad
+Tablet introduced by Apple, controlled by touch gestures.
 
 <!-- not in text (Miriam)#####iPod
 The name of a portable (mobile) Media Player designed and marketed by Apple.-->
@@ -311,8 +313,8 @@ The format for storing and playing back audio and video files using the QuickTim
 <!-- #####MPEG / MPG
 Abbreviation for Motion Picture Expert Group. A standard file format for storing movies and high-quality audio files in digital format. Video files stored MPEG format can be recognised by the extension .mpg or .mpeg. MP3 audio files can be recognised by the Extension .mp3. A newer file format is MP4. MP4 files that can be recognised by the Extension .mp4. See ASF, AVI7 MOV8 RM, which are alternative video file formats.-->
 
-#####MP4
-Abbreviation for the MPEG-4 file format. There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
+#####MP4 / MPEG-4
+Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
 
 #####MultiMarkdown
 
