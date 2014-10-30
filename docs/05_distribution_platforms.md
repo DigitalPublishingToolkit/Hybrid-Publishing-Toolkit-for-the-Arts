@@ -16,7 +16,7 @@ When using an online reading platform, publishers effectively become dependent o
 
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
 
-<!-- Marc: The following might be a better fit for a table or something similar. Kimmy & Loes are looking into this (29.10.2014) -->
+<!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
 
 ###Issuu 
 ![Issuu](images/07_IssuuIcon.png "Issuu")
@@ -317,7 +317,9 @@ Choose your preferred ways of distribution
 
 ###Espresso Book Machine
 
-The Espresso Book Machine [^Espresso-Book-Machine] can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model.  
+The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes.
+It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model.   
+
 
 **Characteristics**  
 Input is PDF
