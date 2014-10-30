@@ -110,7 +110,6 @@ You may be a publisher, a designer or someone who is just starting out with maki
 As mentioned before 'you must change your life', so there might a little culture shock reading through this document. If electronic publishing will merely remain an afterthought in the production chain and product portfolio, the change might be light. If electronic publishing will become just as important as print, the change may be radical. What this means is that if you want to make visual electronic publications, you should be willing to change your current way of working and gradually get used to the offered but less common alternatives.
 
 
-
 ## How to use this Toolkit 
 
 The Toolkit aims to provide a practical guide on how to develop electronic publications
@@ -134,9 +133,6 @@ Next to this publication and the toolkit, five e-publications of titles of the a
  
 
 
-
-
-
 [^DPT-blog]: Blog of the Digital Publishing Toolkit research program, http://networkcultures.org/digitalpublishing
 [^RAAK-MKB]: http://www.innovatie-alliantie.nl/stimuleringsregeling/regeling/item/54-raak-mkb.html.
 [^DPT-GitHub]: http://networkcultures.org/digitalpublishing/github/
@@ -153,7 +149,7 @@ In time, the craft of reading became a common good and many design/lay-out helpe
 
 This structure of stratifying words into sentences, sentences into paragraphs and so on, including reading aids such as exclamation marks, bold and underscored text is made possible by the insertion of special codes. This process is called **markup** and the codes are called mark-up elements. It goes without saying that all these **markup** elements demand stable definitions and clear relationships. Everybody is free to invent their own rules (e.g., every first letter of a new chapter is a well-decorated small picture). For example, in the time of handwritten manuscripts many “free style” inventions were made. Some of them remained in our time and became part of the expended alphabet. Think of the ampersand “&”, it originated from the conflation of the letter e and the letter t – we call this conflations, *ligatures*. To define what we allow and what not, **Markup languages** emerged.
 
-Markup languages are grammars that define the markup and the relations between markup elements. With the emergence of computer networks and the increasing need to standardize texts for multiple usages, an international ISO standard established in 1982 is called: Standardised General Markup Language (SGML). This logically structured markup language was a big step forward as it made a fundamental split between the text structure as such and the final representation of that structure. For example, contrary to languages used in word processors such as Tex, LaTeX, Word, Microsoft Word, Wordperfect or ODF (open office document format), where presentation and text structuring are mixed, SGML only defines functions or roles. When we type a **bold** word in the text using a word processor we in fact type “start bold” -\> type the word -\> “end bold”.
+Markup languages are grammars that define the markup and the relations between markup elements. With the emergence of computer networks and the increasing need to standardize texts for multiple usages, an international ISO standard established in 1982 is called: Standardised General Markup Language (SGML). This logically structured markup language was a big step forward as it made a fundamental split between the text structure as such and the final representation of that structure. For example, contrary to languages used in word processors such as Tex, **LaTeX**, Word, Microsoft Word, Wordperfect or ODF (open office document format), where presentation and text structuring are mixed, SGML only defines functions or roles. When we type a **bold** word in the text using a word processor we in fact type “start bold” -\> type the word -\> “end bold”.
 
 ![](images/03_4_boldstrong.png)
 
@@ -170,7 +166,7 @@ An electronic text is normally understood as a text which is represented on a sc
 In electronic books we have to work around things in a completely different way to the paper world. This means that the transposition from an existing work to an electronic representation is rife with difficulties if the structure of the texts and, in particular when the relation between illustrations and running text, is important. In the world of text based publications (novels, research publications) there is generally only running text. For these publications the page size is less important and this is part of the reason why ereaders are becoming increasingly popular. On electronic reading devices the text can always be made to fit the size of the device, this is called **reflowable** text. In all other cases, the creator (publisher, designer, etc.) has to consider how to design the work and under what conditions content and meaning are represented. This will be discussed in the following chapters for various outlets, as one might opt for various versions of the original work. It goes without saying that in the coming years, authors and designers will try and develop digitally conceived works that intrinsically allow for a variety of representations depending on the reading device whether electronic or not.
 
 ## What are some electronic possibilities?
-Novel electronic capabilities enable a great number of possible publication outlets. Before entering into the problematic aspects of such a plurality of presentations of the same message, we investigate the possibilities. As with all technological possibilities; the coin has two sides (leaving aside the unstable rim) which exclude each other. The printing press introduced pagination and indexing, allowing many thousands of identical texts to be read and compared by an expanding group of readers over the years, independently of location. In an electronic world with non-fixed screen sizes this is complicated. On paper text is fixed, this allows for comparisons and interactions between different readers separated in space and time. In an electronic version the fixity of the text remains, as the text file is independent from its final substrate (E-ink, lcd, paper), but its presentation on the final substrate can vary substantially. Think about the introduction of numbering phrases in the Bible, which came along when Bibles became printed books in very different formats and the priest wanted everybody in the audience to read the same text. As the formats of the Bibles were non standardized, page numbers were of no help, hence the numbering of the phrases. In an electronic environment, where page numbers are unstable, we are confronted with the same problem.
+Novel electronic capabilities enable a great number of possible publication outlets. Before entering into the problematic aspects of such a plurality of presentations of the same message, we investigate the possibilities. As with all technological possibilities; the coin has two sides (leaving aside the unstable rim) which exclude each other. The printing press introduced pagination and indexing, allowing many thousands of identical texts to be read and compared by an expanding group of readers over the years, independently of location. In an electronic world with non-fixed screen sizes this is complicated. On paper text is fixed, this allows for comparisons and interactions between different readers separated in space and time. In an electronic version the fixity of the text remains, as the text file is independent from its final substrate (**e-ink**, **LCD**, paper), but its presentation on the final substrate can vary substantially. Think about the introduction of numbering phrases in the Bible, which came along when Bibles became printed books in very different formats and the priest wanted everybody in the audience to read the same text. As the formats of the Bibles were non standardized, page numbers were of no help, hence the numbering of the phrases. In an electronic environment, where page numbers are unstable, we are confronted with the same problem.
 
 The challenge becomes even greater if we widen our ambition to pictures, audio and video, hyperlinks, etc. In the Toolkit project, we deal with the field of books in the arts. This category of books integrates all aspects of text-only publications but expands it with visual information that can be explanatory of the text and, more importantly, to visual information which can be a 'stand alone' statement. In such cases, text, helps the 'reader' (viewer) to have an understanding of and have a deeper appreciation for the object. It is clear that various forms of art books demand and enable different electronic representations. In these books we witness a crossover between the primary importance of text and image.
 
@@ -318,16 +314,16 @@ There are several ways to peruse electronic publications. Portable devices like 
 ###Ereaders
 Ereaders became widely known with the introduction of the Amazon Kindle in 2007. Ereaders differ from tablets in the way that they are only suitable for reading books, are relatively cheap and have monochrome displays. An important characteristic of the ereader is the use of *electronic paper* (epaper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as closely as possible and is relatively low in energy consumption. The current generation of epaper is incapable of rendering complex motion, so animations and videos are impossible to use.
 
-Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (and Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really ereaders anymore, but fully-fledged, small sized tablets. These models do not use epaper, but instead work with color LED screens with backlight – a standard component of tablets such as iPad and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic ereaders using their own operating system built on a version of Linux. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets.
+Both Amazon and Barnes & Noble also offer more expensive models, Amazon Fire (and Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really ereaders anymore, but fully-fledged, small sized tablets. These models do not use epaper, but instead work with color LED screens with backlight – a standard component of tablets such as **iPad** and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic ereaders using their own operating system built on a version of Linux. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets.
 
 Because of the lack of a color screen the current generation of ereaders is best suited for prevalently text publications, i.e. novels or research publications. 
 
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.")
 
 ###Tablets
-The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (iOS) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section.
+The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (**iOS**) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several ereader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section.
 
-Apple's and Samsung's most recent tablet screens cover nearly the entire **sRGB color space**, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers, and yields much better color reproduction than print. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
+Apple's and Samsung's most recent tablet screens cover nearly the entire so-called color space, which makes their color reproduction as good as that of professional monitors for photographers and graphic designers. It goes without saying that the color quality e.g. of a photograph, is still depended of the orginal capturing technque. Printing on paper remains a question of ink or toner and the printer technology used. Note that in arts publishing the combinaton of prining techniques and type of paper is very important for the end result. The human eye is different then an electronic screen. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, ereaders still reign supreme with an average battery life of up to several weeks.
 
 ###Smartphones
 The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both ereaders and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
@@ -341,7 +337,7 @@ Standalone applications for desktops, tablets and smartphones offer some advanta
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
 ###Mobile applications
-There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. iBooks and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  
+There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known ereaders, like Amazon's Kindle and Kobo's range of reader hardware. The other category contains applications which are not for available ereaders but often offer their own storefront, viz. **iBooks** and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the ereader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, KF8, mobi) along with txt and PDF.  
 
 ####iBooks####
 iBooks is Apple's ereader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB3 standard, but also PDF and the closed-source `.ibooks` file format (IBA) - a derivative of EPUB3.
@@ -749,7 +745,7 @@ Lulu is the biggest print-on-demand service that offers publishing free of costs
 **Strengths and weaknesses**  
 *Strengths*  
 Ability to set your own price  
-Distribution through Amazon and iBookstore (ebooks only) is possible
+Distribution through Amazon and **iBookstore** (ebooks only) is possible
 Free ISBN is available
 
 *Weaknesses*  
@@ -889,13 +885,13 @@ None of these projects compete with classical ebook stores, online reading platf
 
 # 06 Towards a Hybrid Workflow Based on Markdown
 
-Creating a workflow that is both structured and flexible enough to cater for the different choices made is a key step towards an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
+Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
 
-First describing a more traditional workflow based on desktop publishing via InDesign with a print book as end result, we move to an ideally fitted workflow centered around the structural file format XML, ending with a Markdown-oriented workflow which is both easy to use and open to many possibilities. Following such a workflow will make the transition from a print-centered publication process to a digital and print - in other words: hybrid - publication process viable. 
+After describing a more traditional workflow based on desktop publishing via InDesign with a print book as end result, we move to an ideally fitted workflow centered around the structural file format XML, ending with a Markdown-oriented workflow which is both easy to use and extendable. Following such a workflow will make the transition from a print-centered publication process to a digital and print - in other words: hybrid - publication process viable. 
 
-Instead of producing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the workflow should be adjusted and made efficient and practical towards hybrid publishing at an earlier stage. From-scratch development of each publication format is thus replaced by single source multi-format publishing.
+Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the regular workflow should be adjusted and made efficient and practical towards hybrid publishing at an earlier stage. From-scratch development of each publication format is thus replaced by single-source, multi-format publishing.
 
-However, the description below starts at a point which in reality is not the beginning of the publishing trajectory, namely when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
+However, the description of the workflow which follows below starts at a point which in reality is not the beginning of the publishing trajectory, which starts in reality when an author hands in the definitive manuscript - so after the editing and rewriting process has passed through its final stages. Should the author already be working in Markdown, HTML or even XML format, this will change the workflow. However, in our experience manuscripts are mainly written in Microsoft Word and delivered in .doc or .docx.
 
 Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide (see also [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy or Andre)--> for pointers regarding adjusting the style guide in this sense.
 
@@ -918,19 +914,22 @@ We will now turn to implementing the new workflow for small edition and low budg
 
 ### Desktop publishing workflow (from Word to InDesign to digital)
 
-Desktop publishing for a lot of publishers presents the current situation: a Microsoft Word file is imported into InDesign and, after designing and editing, exported to PDF, ready to be printed. The traditional, print-oriented workflow can be seen as standard for one-to-one publications: the print book is translated to an electronic version, following the 'original' as close as possible. 
+Desktop publishing represents the following for a lot of publishers: a Microsoft Word file is imported into InDesign and, after designing and editing, exported to PDF, ready to be printed. After work on the printed edition has been completed, the book is translated into an electronic version, following the design of the 'original' as close as possible. The aforementioned traditional, print-oriented workflow can be seen as a standard for one-to-one publications.
 
-There are certain advantages to this workflow: it is simple, linear, there are no version branches, you end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. For example, in the case of a print design where the page is fixed, changing hyphenation is a laborious process as hyphen indications need to be inserted manually in the InDesign document. <!-- Miram: maybe this is not formulated very clearly, but there needs to be some explanation here --> However, in digital publishing, hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. However, this workflow of course also means a limitation in electronic design possibilities. 
+There are certain advantages to this workflow: it is simple, linear and there are no version branches. You end up with one consolidated manuscript, and What You See Is What You Get when it comes to design. 
 
-The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to digital are cumbersome, and do not make full use of the potential in electronic publishing. A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional. 
+<!-- Marc: I do not get the follow paragraph. Does it discuss the merits of the DPT workflow, or the difficulty of transferring a print design to a digital format?
 
-Importantly, going from InDesign to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is catered more to electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see also paragrap from InDesign to EPUB. <!--Margreet: internal link needed--> 
+For example, in the case of a print design where the page is fixed, changing hyphenation is a laborious process as hyphen indications need to be inserted manually in the InDesign document. However, in digital publishing, hyphenations are not fixed, but will be subject to change as they shift according to the aspect ratio and screen size of the device used. So when an editorial correction involves a hyphenation, this need not be adjusted in the digital file. However, this workflow of course also means a limitation in electronic design possibilities.  -->
 
-In the same way Microsoft Word (or any other text editor that uses a similar approach, for instance Open Office) is not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasise words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
+The main disadvantage of the DTP workflow is that you only target one medium and the steps to go from here to a digital edition are quite laborious, and do not make full use of the potential in electronic publishing. <!-- Marc: Maybe give an example of difficulties and limitations of this scenario? --> A workflow with the paper publication as its basis generally tries to translate print into the digital books, keeping the workflow one-dimensional instead of multi-dimensional.
+
+Importantly, transferring an InDesign document to an electronic publication is not ideal, especially when working with older versions of the software [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6"). The results can be messy in terms of cleanliness of the code and may require extra steps in finalising the publication. <!-- Marc: The main question is: is cleanliness important. We developers might hate unclean code, but for most users this aspect is invisible. Does the unclean code actually hamper the rendering of EPUBs generated by InDesign  in various ereaders? Or is the code unclean to support as many ereaders as possible? --> InDesign, in its current state, is simply not optimised as a hybrid publishing tool, as it is (too) specifically developed for print design.[^EPUB Straight to the Point] The latest version of the InDesign suite (InDesign CC) is geared more towards electronic publishing, but requires very careful structuring and preparation of documents in order to yield good results within manageable work times. It's best suited for projects where the content is generated from databases, imported as XML into InDesign and from there exported to EPUB. For a detailed look at these developments, see also paragraph from InDesign to EPUB. <!-- Margreet: internal link needed--> 
 
 It is possible to create 'interactive' publications in PDF, working with Microsoft Word and InDesign. In the end however these are also static InDesign documents, upgraded with some interactive layers. This is still a limited vision of what the possibilities are for digital publishing. The second workflow, which centers on the file format XML, does precisely that.
 
 ###From Microsoft Word (.docx) to EPUB
+Like InDesign, Microsoft Word and any other word processor or text editor that uses a similar approach (for instance Open Office) are not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasise words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using stylesheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important.
 
 There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [Pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre"), produce worse results. 
 
@@ -940,7 +939,7 @@ Word unfortunately lacks two features that would make it more suitable for hybri
 1). Word does not have a 'strict mode' that would force all writers and editors of a document to only use defined paragraph styles instead of manually formatting. This means, your document will likely contain headlines that haven't been defined as headlines, but are just bold-faced text, quotes that haven't been defined as quotes etc. Unfortunately, if the manual formatting looks the same as the predefined paragraph styles, it is hard to impossible to spot these parts of a text.
 2). Word provides no automatic or semi-automatic tools to find manual formatting and replace it with predefined paragraph styles. The only way to achieve this is to manually control and adjust the whole document. 
 
-Often, such inconsistencies in a Word document will only become visible after the EPUB conversion, for example as a missing chapter headline in the table of contents of the electronic book. These are the inherent risks and limitations of using Word in the editorial workflow. Nevertheless, the Word + pandoc solution will likely be the easiest and least painful solution for publishers to adopt. <!-- Florian: We absolutely need to provide a dead-simple GUI or web tool for dropping a Word file to pandoc and obtaining EPUB + Markdown. @Michael and Marc, are you able to create this?-->
+Often, such inconsistencies in a Word document will only become visible after the EPUB conversion, for example as a missing chapter headline in the table of contents of the electronic book. These are the inherent risks and limitations of using Word in the editorial workflow. Nevertheless, the Word + pandoc solution will likely be the easiest and least painful solution for publishers to adopt.
 
 We recommend two ways of working with Word + pandoc, and discourage a third one:
 
@@ -948,24 +947,9 @@ We recommend two ways of working with Word + pandoc, and discourage a third one:
 2. Conversion from Word to Markdown using pandoc. Since pandoc can also convert files _to_ the Markdown format, this often preferable, especially for complex publishing projects. The resulting Markdown file can then be used as the master file for conversions into all kinds of other file formats (such as HTML for websites). Converting to Markdown yields the advantage that any formatting glitch that existed in the Word document becomes clearly visible. For example, a headline erroneously formatted as bold standard text will show up as '\*\*headline\*\*' while a properly formatted headline will show up as '\#'. This makes it much easier to clean up the internal formatting of the document and have a clean master file for all subsequent document conversions. The EPUB file generated from this Markdown file would in most cases be better structured than the EPUB file directly generated from the Word file, and make the subsequent work of the designer easier. It is also possible to customise pandoc with conversion style templates. This even makes it possible to automatically generate complete and well-formatted EPUB files from the Markdown files without hiring a designer, depending on the type of publication. 
 3. Not advisable: Using pandoc to go back and forth between Word and EPUB. If the Word document is not consolidated, but subject to further editorial changes, conversion to EPUB (like in the first scenario) would have to be done again, and destroy all work of the designer on the previously exported EPUB file. 
 
-
-### XML 
-<!-- Marc: This first paragraph is unclear. XML is not a 'document format' but it's a 'general document format'? Also the whole section appears to be a bit opinionated and lacking references, without providing references (messy XHTML?). -->
-The most detailed structuring language developed is XML. It is often confusing for people to understand what XML is because it is not really a document format of its own, but a general document format with which other, specific document formats can be created. HTML (or XHTML), or example, is one XML-based document format, Microsoft Words' .docx is another.
-
-XML is meant for structured documents that clearly separate logical structure from visual formatting, but it has two limitations; 1). since any document format can be constructed with it, messy formats like .docx and .xhtml can be constructed with it, too; 2). because it is itself a toolkit (or actually: a syntax) for defining document formats, it is very complex and quite difficult to work with. 
-
-An XML document works like an archive: from this single document it is possible to create multiple output for different media. Thus, a misspelling or another error is changed in the XML document, which is then used to recreate the output to the different media. Formatting is done in a second step, with for instance **Cascading Style Sheets** (CSS). 
-
-While XML theoretically presents the ideal way of working with single format files which deliver multiple output formats, we do not present it as the most advisable solution for small, independent publishing houses. Because XML is so detailed, with a very complex syntax and hard-to-use software tools, it is difficult to work with.
-
-A good example how to practically use XML for electronic publishing in daily life is demonstrated in our chapter on using InDesign for hybrid paper and electronic publishing. <!--Miriam: this needs adding. Use example -->
-<!-- Pia: maybe for the laymen show what xml looks like?-->
-
 ### Markdown 
 
-Central in a hybrid
- publishing workflow, we recommend to use the mark-up language Markdown, as it is an easlier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
+Central in a hybrid publishing workflow, we recommend to use the mark-up language Markdown, as it is an easier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
 
 ####Introduction: advantages and limitations
 John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as `<b>` for bold or `<author>` to mark-up the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown:
@@ -1004,30 +988,17 @@ Why do we recommend Markdown in particular? For particular publishing projects -
 
 2. With Multimarkdown (an extension of Markdown), it provides all the necessary formatting and document syntax needed in arts- and humanities-oriented text publishing. It is perfectly possible to write, for example, a cultural studies Ph.D. thesis in Multimarkdown, or the essay part (complete with footnotes and bibliographical references) of an exhibition catalog.
 
-Markdown/MultiMarkdown is however not a magical one-size-fits-all solution. It is well suited for text-heavy editorial work, but limited when creating visual documents and not really usable for interactive publishing formats. It is also not a layout tool, but a pure manuscript format, excellent for keeping manuscripts in a well-structured, readable, durable, software-independent format. 
+Markdown/MultiMarkdown is not a magical one-size-fits-all solution, however. It is well suited for text-heavy editorial work, but limited when creating visual documents and not really usable for interactive publishing formats. It is also not a layout tool, but a pure manuscript format, excellent for keeping manuscripts in a well-structured, readable, durable, software-independent format. 
 
-Markdown and similar formatting/markup language are meant for workflows in which there is a clear separation between editorial work - involving writers, translators and editors - on the one hand and publication design on the other. For publications requiring lots of interaction between writers/editors and visual designers/artists from the very beginning of the authoring process, these document languages are not the right tool. 
-
-
-<!-- here. 12 sept.  who is this?  asks Miriam-->
-<!-- But which ones should be used then? -->
-
-
-<!-- Marc: XML again? This section is also highly opinionated and not referenced. Should this be merged with the previous XML section if possible? -->
+Markdown and similar formatting/markup languages are meant for workflows in which there is a clear separation between editorial work - involving writers, translators and editors - on the one hand and publication design on the other. For publications requiring lots of interaction between writers/editors and visual designers/artists from the very beginning of the authoring process, these document languages are not the right tool. 
 
 #### Markdown versus XML
-Markdown, and similar human-readable plain text markup languages could be called a 'poor man’s XML'. To summarise XML is complexity hell even by the measures of computer science. It is the holy grail of document processing, and has been deployed by large scale publishers (especially in the academic field) very successfully. For small to medium publishers, it is often overkill. Markdown provides a good middle-of-the-road solution of a format that is easily usable for non-technicians yet much better structured, and a basis for easy document conversion into HTML, EPUB and many other formats, than Microsoft Word and similar classical word processing programs.
+The most detailed structuring language developed is XML and it forms the foundation for many other languages. HTML (or XHTML), for example, is one XML-based document format, Microsoft Words' .docx is another.
 
-Technically speaking, Markdown provides some of the same features and advantages, namely separation of content structure from visual layout, painless translation into multiple output formats. Their relative simplicity and human readability comes, however, at the price of extensibility and universality. XML is, strictly speaking, not a document markup language, but a meta-language (or toolkit) for building domain- and application-specific markup languages such as: a document markup language for exhibition catalogues, a document markup language for restaurant menus, a document markup language for flyers, etc.
+XML is meant for structured documents that clearly separate logical structure from visual formatting. That doesn't mean it's actually used to that end, as mentioned before Microsoft Word isn't too strict when it comes to structuring, but .docx is still based on XML. Furthermore, as XML is in itself a toolkit (or actually: a syntax) for defining document formats, it's broad versatility also adds many layers of complexity. While XML theoretically presents the ideal way of working with single format files which deliver multiple output formats, we do not present it as the most advisable solution for small, independent publishing houses.
 
-Markdown & Co. do not provide this flexibility of building one’s own syntax, but provide only their built-in, hard-wired syntax. For example, if one needs syntax for encoding footnotes and endnotes, MultiMarkdown simply doesn’t provide it. One could think up and use one’s own syntax extension (for example ^^[1] for an endnote), but this would not be supported by the word processing and text conversion programs for Markdown. In XML, there are standard methods of declaring and extending markup languages that can automatically be picked up by XML document converters.
-
-<!--Amy: Seems like there's a lot of repetition in this section. 
-Margreet suggests to delete the last two paragraphs? 
-
-However, the declaration of these extensions in the document syntax and conversion rules is highly complex. Even for computer scientists and engineers, XML is often so over-complex that they have resorted to simpler, human-readable language like Markdown, ReStructuredText and ASCIIdoc for software manuals.
-
-They are not as universal and thoroughly structured as XML, but still provide the advantage of separating content structure from visual layout, along with the advantage of painless translation into multiple output formats. And lastly, XML has very complex markup that is hard to read and write for humans. Easy authoring tools for XML and any kind of XML-based document formats do not really exist yet. -->
+Markdown provides a good middle-of-the-road solution of a format that is easily usable for non-technicians yet much better structured, and a basis for easy document conversion into HTML, EPUB and many other formats, than Microsoft Word and similar classical word processing programs.
+Technically speaking, Markdown provides some of the same features and advantages, namely separation of content structure from visual layout, painless translation into multiple output formats as XML does. The relative simplicity and human readability comes, however, at the price of extensibility and universality. Markdown does not provide the flexibility of building one’s own extensions, but provide its own built-in, hard-wired syntax. In XML, there are standard methods of declaring and extending markup languages that can automatically be picked up by XML document converters.
 
 ##### Word Processing / editing programs
 
@@ -1056,28 +1027,16 @@ For Apple's Mac OS X and iOS, there are nice and very user friendly programs for
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) [^Pandoc], similar in functionality to multimarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customised. 
 
-- [Calibre](http://calibre-ebook.com/) [^Calibre], application suite that allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
+- [Calibre](http://calibre-ebook.com/) [^Calibre], is an open source management and reading program for epublications. It allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows.
 
 
 Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication.
-
-<!-- Marc: This is a very practical section all of a sudden. Maybe relocate it to another part of the toolkit? -->
-
-##### Cleaning up Markdown
-
-Since Markdown is a document format and not a word processing program, it does not offer functions like automatic renumbering of footnotes and list items during text editing. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
-
-However, to also make the Markdown text source coherent and tidy, pandoc can be used to clean it up. The trick is to tell pandoc to convert a document from Markdown to Markdown:
-
-    pandoc -f markdown -t markdown --output markdown-document-clean.txt markdown-document.txt
-    
-   <!--Pia: why? what happens?--> 
 
 ##### A note on limitations
 
 A major downside of Markdown is that it exists in several variants, each with their own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant 'MultiMarkdown' that includes syntax for footnotes, tables, citations, cross-references, image captions and document meta data. It is also fully supported by pandoc, the recommended software tool.
 
-Another downside is that Markdown allows some formatting to be marked up in different alternative ways (for example, underlines or asterisks for italic text) which can introduce inconsistency in a collaboratively edited document. The trick mentioned above, to use pandoc for converting from Markdown to Markdown, can be used to eliminate such (visual) inconsistencies in a master document. 
+Another downside is that Markdown allows some formatting to be marked up in different alternative ways (for example, underlines or asterisks for italic text) which can introduce inconsistency in a collaboratively edited document. The trick mentioned above, to use pandoc for converting from Markdown to Markdown, can be used to eliminate such inconsistencies in a master document. 
 
 At the time of this writing in late 2014, a controversial standardisation effort of Markdown and its extensions is underway, under the name 'CommonMark'. [commonmark-controversy](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/) [^commonmark-controversy] We will update this Toolkit as soon as CommonMark has been standardised, released, and is supported by the software we recommend.
 
@@ -1085,7 +1044,7 @@ At the time of this writing in late 2014, a controversial standardisation effort
 ## Database publishing 
 What is gained by a shift to a hybrid publishing workflow? First of all, producing a publication with the possibility to have multiple output formats will be more efficient. However, when the workflow is put into use without restraint and when you really 'change your life', great possibilities will open up. The most important option is shortly discussed here, namely database publishing which uses a so-called content management system.
 
-The ideal database is a collection of independent, but mutually related, objects. These objects can be everything from structured text to pictures of wildlife. The issue at stake is that we need clear grammatical and categorization systems that go beyond the immediate use of the database. Take as an example your mailing list. We can take the full address including the name of the person as one object. But if we want to select per postal code or any other sub category in a full address or want to add more information to the persons name, such as age, email address and previous purchases, we have to make a strict scheme with so-called fields and sub-fields, including their interdependences (a house number demands a street name and vice versa), their indispensability (age might be not crucial), and so on.
+The ideal database is a collection of independent, but mutually related, objects. These objects can be everything from structured text to pictures of wildlife. The issue at stake is that we need clear grammatical and categorization systems that go beyond the immediate use of the database. Take as an example your mailing list. We can take the full address including the name of the person as one object. But if we want to select per zip code or any other sub category in a full address or want to add more information to the persons name, such as age, email address and previous purchases, we have to make a strict scheme with so-called fields and sub-fields, including their interdependences (a house number demands a street name and vice versa), their indispensability (age might be not crucial), and so on.
 What this means is that the holy grail of the all encompassing database is not only almost impossible but also an extremely time consuming operation to build and maintain. 
 
 The best option is therefore to explicate the goals of the publication programmme as well as the practical limitations. The four genres we discuss in this publication all have their own demands in relation to the creation and the dissemination of publications. An art catalog demands clear descriptors about the artist, the materials used, the sizes, the provenance, copyright, keywords according to established list, etc. Other collections of pictures might only need a subset.   
@@ -1158,6 +1117,16 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 
 
 		pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
+
+##### Cleaning up Markdown
+
+Since Markdown is a document format and not a word processing program, it does not offer functions like automatic renumbering of footnotes and list items during text editing. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
+
+However, to also make the Markdown text source coherent and tidy, pandoc can be used to clean it up. The trick is to tell pandoc to convert a document from Markdown to Markdown:
+
+    pandoc -f markdown -t markdown --output markdown-document-clean.txt markdown-document.txt
+    
+   <!--Pia: why? what happens?--> 
 
 
 ## Do it yourself EPUB from scratch
@@ -1302,98 +1271,72 @@ Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre,
 
 ## [Research publication](id:Research publication)
 ### General
-Traditional, print oriented workflow for text-centred works, with additional illustrations / videos / resources online, and extended referencing and/or indexing.
+Currently, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real-time data, and computation. One would normally expect that electronic publishing provides the technical solution for this. However, this is not today's reality. If one wants to publish in standard e-book formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current e-book technology are, as a matter of fact, much more limited than in paper publishing. The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
+
+Pragmatically and for the near future, electronic research publishing will mean the publishing of rather conventionally designed papers, journals and textbooks in electronic form. This means that electronic research publishing will typically evolve around text-centered works. Complex visual material (illustrations, audiovisual content) may often be outsourced from the electronic book to accompanying online resources and extended referencing and/or indexing.
   
-See Kimmy's visualized workflow for the INC, which will be generalized for [research-type publications](researchlikepub.html)  <!--Margreet: is this a comment? -->
+This means that the advice given for [research-type publications](researchlikepub.html) elsewhere in this publication will apply to most electronic research publications. 
 
-* Editor works with author(s) on manuscript  
-* Several versions going back and forth between different people in different roles (editor, author, copyeditor, designer)  
-* Final version of the text will be in a text editor or Microsoft Word format  
-* This is then designed in InDesign  
-* Corrections made to the print proof and added in the InDesign file  
-* Certified PDF goes to printer  
-* How to make an electronic publication from InDesign - this is the big problem. Going from InDesign to electronic publication is not easy and needs a lot of manual work
+### Traditional workflow
 
-*New workflow*  
-This is why the new workflow is directed towards **hybrid input** and **hybrid output** - which leads to a **workflow that is also hybrid**, but centered around **a single 'archive format'** - the definitive version that enables multiple output. 
+In print research publications, the typical workflow has been
 
-<!-- pia: this is why? unclear-->
-<!-- we only use bold words in the text if it is referring to the glossary ?! -->
+* An editor works with author(s) on the manuscript.
+* Several versions are going back and forth between different people in different roles (editor, author, copyeditor, designer).
+* The final version of the text will be established in a word processing program (typically Microsoft Word) or desktop publishing program (typically Adobe InDesign).
+* A graphic designer will design the publication in InDesign.  
+* Corrections made to the print proof and added in the InDesign file.  
+* A PDF file of the corrected InDesign project goes to printer.
 
+In <--where?--->… we describe a workflow how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained.
+ 
+### New workflow ### 
+We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, e-book and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archivale file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and Web is very straightforward using the Open Source software tool pandoc.
 
-So instead of having a final text file (e.g. Word) which is changed in InDesign - both of which are not very good formats to convert to an EPUB – the storage / archive file has to be in a format that can translate into InDesign for the print edition and EPUB / mobi / web for the epublication. The most suitable format for this is **html** - because it allows footnotes (which Markdown does not). The html can easily be converted to EPUB, though less easily in InDesign... (working on this) <!-- Also check <a href="http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/">http://digitalpublishingtoolkit.org/2014/05/import-html-into-indesign-via-xml/</a> --> <!-- Kimmy: I thought we are promoting markdown as archival file and not html? markdown to indesign is very straightforward using pandoc -->
-
-Flow chart: workflow -
+<!-- Flow chart: workflow -->
 
 ![Hybrid Workflow Research Publication](images/08_WorkflowResearchPub.png "Workflow Hybrid") 
 
 <!-- Image: very rough sketch -->
 
 
-### Decision making
 
-**Should it be a 1:1 transfer from paper book to ebook?**  
-This is the traditional view. The book is a unique, one off publication. A lot of different people working on separate parts of the project, but all towards one single goal: the end product, mostly print, sometimes translated 1:1 to an ebook.
 
-With text oriented files this may seem the most straightforward, maybe even the only useful way. There is not more than text, perhaps accompanied by a couple of images. Most important is e.g. to get references right, and a nice advantage is that making an index will be much easier digitally.
+### New possibilities ###
+A hybrid workflow geared towards e-publications as well as print, offers a number of advantages:
 
-**What are alternative possibilities?**  
-What is possible when using a hybrid workflow, focused as much on epublications as on print? (Next to having digital publications running naturally from the workflow, instead of having to be forced out of the print oriented workflow, of course)  
-
-* Version control can be more transparant   
-* Adding elements other than text (videos, (color) images, links)  
-* Extracting outputs from the material different from the book itself, such as abstract, booktrailers, personalized e-publications  
-* Better archiving as one can keep the structure of the text as well
-* ...
+* Easy translation into various electronic file formats, as explained above;
+* User-friendly like Wikis and blogs can be used for collaborative editing and revision control, or even more sophisticated systems like Git/GitHub (that are traditionally used for software development by large teams of programmers distributed over the whole world);   
+* Adding elements other than text (videos, images, links) while keeping them separate from the document file. This prevents gigantic file sizes of the central editorial document. It also makes it easier to maintain images and videos in different resolutions for different publication media. 
+* Easy extraction of derived output from the book itself, such as abstracts, video book trailers, newsletters, personalized e-publications; easier extraction of parts of a publication that will be separately published.
+* Independence from one particular software program (such as Word and InDesign), long-time achivability.
 
 ### Instructions
 
-**How to adjust the style guide?**  
-The decision about the desired output leads to certain steps to get the right input. First of all it is therefore necessary to communicate this to the authors and others involved in the publishing process. Adjust your style guide which is leading in the communication with authors/designers/programmers etc.
+#### Style guide ####
+A new workflow requires certain actions to obtain the suitable input for the publication. First of all, it is necessary to communicate this to all contributors (authors, editors, designers) in the publishing process. Publication style guides must be adjusted accordingly and specify:
 
-Specify for example:  
+* the file format to be delivered by contributors (for example: Markdown, or .docx pending later conversion and formatting clean-up);
+* in case of the use the Word/.docx, require the author to use defined paragraph and character styles for all formatting (such as "Headline 1", "Headline 2", "quotation" etc.) - and to strictly avoid direct formatting of text. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this;
+* image style and format; high-resolution images that are suitable for print but can be downsized to lower resolutions for electronic publication;  
+* metadata the author needs to provide such as keywords, contact information, abstract, biography;
+* metadata to be added by the editor/publisher.
 
-* file format - for example, if you are following the proposed workflow, request the file to be sent in either html directly (which can be converted into EPUB) or .docx (which can be easily converted into html)  
-* image style and format - while the print book has b/w pictures, <!-- Amy: I don't quite understand this point. a printed research  publication can also have color images --> the ebook enables color images; print requires large quality 300 **dpi** .tiff images, while these may be too heavy for an electronic publication, skyrocketing the size of the book, which is bad for download / and or storage space on an ereader.
-* formatting styles - use Header 1 style for title and author, Header 2 for article sections and Header 3 for subsections <!-- Kimmy: The structuring in programs like Microsoft Word might need a bit more explanation? or at least a link to a website which clearly explains how to work with this --> 
-* URL style - full URLs should be clickable but not stylized as links (color or underlining)  
-* What kind of metadata does the author have to provide - e.g. keywords, contact information, abstract, biography     
-* an extended example of a style guide adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable? -->
+Editorial criteria for the content can also differ in a hybrid workflow:  
 
-**What metadata to add?** <!-- shouldn't we explain why you need to add this metadata? Or is this explained elsewhere? if so add a link to that. -->
-Make a list of metadata to be added to the texts  
-
-* metadata provided by the author(s)  
-* metadata added by the editor/publisher
-* an extended example of a metadata list adjusted for a hybrid workflow can be found in the appendix <!-- Miriam: Is this possible and desirable?  -->
-
-**Do editorial criteria regarding the content change?**  
-Editorial criteria for the content can also differ in a hybrid workflow and depending on the desired output and the answer to the question of the relationship between the print and electronic edition:  
-
-* (not discussed in this guide) consider another style of writing, 'writing for the web'   
-* is interactive material needed, more or other images than can be published in print, video, audio, etc.  
-
-### Specific issues for this publication type
-Important issues in the hybrid workflow for research publications are
-1. the editorial process, with comments and copyediting
-2. footnotes and referencing
+* differents style of writing, 'writing for the web' vs. 'writing for print;  
+* the inclusion of interactive material, more or other images than can be published in print, video, audio, etc.  
 
 
 ### Based on the above, what to choose?
  
 How to make a research publication in EPUB2/3, HTML5 (/app), PDF
 
-A step-by-step guide
+Guides:
+* For converting .docx to Markdown or EPUB, see <!-- cross-reference ..--> the respective guide.
+* For using InDesign for well-structured hybrid publishing, see <!-- cross-reference ..--> the respective guide.
+<!-- Pressbooks as an example of available open source tools? (post Silvio) - who is familiar with this? -->
 
-<!---Converting a Docx directly to EPUB using Calibre (post Silvio). It was superseded by Florian's respective section on docx conversion with pandoc-->
-
-Pressbooks as an example of available open source tools? (post Silvio)
-
-From InDesign - when it's 1:1 use the certified PDF that goes to the printer, downsized when needed.  
-
-Possibilities for reading online: Scribd, Issuu, in-browser reading
-
-Advantages, disadvantages
 
 
 
@@ -1930,109 +1873,109 @@ A revenue model whereby the base product is free of charge, but can be extended 
 
 ### G
 
-*GIF (Graphic Interchange Format)*
-A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours, e.g. a photograph.GIF files are commonly used for storing images on the Web. GIF files are also suitable for storing animated (i.e. moving) images.
+#####Graphic Interchange Format (GIF)
+A file format used for storing simple graphics. GIF files use a palette of 256 colours, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colours. A GIF file containing a small number of colours tends to be quite small, but it will be big if the image has a wide range of colours. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images.
 
-*GitHub*
-Collaboration platform, code review, and code management for open source and private projects.
+#####GitHub
+A digital platform for collaboration, code review, and code management for open source and private projects.
 
-*GUI (Graphical User Interface)*
-An Interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one Folder/directory to another, deleting files, etc by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.
+<!-- not in text (Miriam)#####Graphical User Interface (GUI)
+An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.-->
 
-### **H**
+### H
 
-*Hexadecimal*
-A number system used in computers in which numbers are composed of combinations of 16 digits, using 0-9 then the letters A-F to represent 10-15. Hex allows binary numbers to be expressed in a more compact and comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)
+<!-- not in text (Miriam)#####Hexadecimal
+A number system used in computers in which numbers are composed of combinations of 16 digits, using 0-9 then the letters A-F to represent 10-15. Hex allows binary numbers to be expressed in a more compact and comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)-->
 
-*HTML (Hypertext Markup Language)*
-A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert Hypertext links within one Web page or to other pages anywhere on the Web.
+#####HTML (Hypertext Markup Language)
+A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert hypertext links within one Web page or to other pages anywhere on the Web.
 
-*HTTP (Hypertext Transfer Protocol)*
-The transfer method (*protocol*) used by the World Wide Web to transmit and receive Web pages.
+#####HTTP (Hypertext Transfer Protocol)
+The transfer method (protocol) used by the World Wide Web to transmit and receive Web pages.
 
-*Hyperlink*
-A contraction of hypertext link, the essence of Hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image. By clicking on the area designated as a hyperlink by the person who created the Web page, it is possible to jump quickly to another part of the page, a different page on the same website, or to a completely different website.
+#####Hyperlink
+A contraction of hypertext link, the essence of hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon.
 
-*Hypertext*
+#####Hypertext
 A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one Web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years.
 
-### **I**
+### I
 
-*iBooks*
+#####iBooks
 A program enabling the user to read and buy ebooks, developed by Apple for iOS and OS X.
 
-*iBookstore*
+#####iBookstore
 Apple's storefront for EPUBs and iBooks.
 
-*iOS*
-Mobile operating, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
+#####iOS
+Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
 
-*iPad*
+#####iPad
 Tablet introduced by Apple, controlled by touch gestures.
 
-*Icon*
-A small symbol or picture used in a Graphical User Interface (GUI). The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+#####Icon
+A small symbol or picture used in a **Graphical User Interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
 
 #####Incompatiblity
 See **Compatibility**
 
-*Ink Jet Printer*
-A type of Printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.
+<!-- not in text (Miriam)#####Ink Jet Printer
+A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
-*Interface*
-An interface in computer jargon is a connection between two systems. It can be Hardware or Software. It may take the form of a plug, cable or socket, or all three, for example where a Printer or Scanner is connected to a computer, and then it's a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
+#####Interface
+An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer.
 
-*Internet*
-The Internet, or simply "the Net", is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an Internet Service Provider (ISP). Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60's and early 70's. It has grown from a handful of interconnected networks into a huge network of millions of computers.
+#####Internet
+The internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the internet using existing communications systems. Schools and universities normally access the internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the internet is in fact a network of networks, it appears to users as a network of individual computers. The internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers.
 
-*iPod*
-The name of a portable (mobile) Media Player designed and marketed by Apple.
+<!-- not in text (Miriam)#####iPod
+The name of a portable (mobile) Media Player designed and marketed by Apple.-->
 
-*IT(C) (Information Technology)*
-Essentially, technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.
+<!-- not in text (Miriam)#####I(C)T (Information (and Communication) Technology)
+Essentially technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.-->
 
-### **J**
+### J
 
-*Java*
-Java is a high level programming language. It is useful for creating small web applications and applets for use as part of a web page.
+<!-- not in text (Miriam)#####Java
+Java is a high level programming language. It is useful for creating small web applications and apps for use as part of a web page.-->
 
-*JavaScript*
-JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page.
+#####JavaScript
+JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript is not the same as Java, a high level programming language.
 
-Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page.
-
-*AJAX (Asynchronous Javascript and XML)*
+<!-- not in text (Miriam)*AJAX (Asynchronous Javascript and XML)*
 A popular technology closely linked with JavaScript, used to update details on a web page without having to fully refresh it.
 
 jQuery
-JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.
+JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.-->
 
-*JPEG or JPG (Joint Photographic Expert Group)*
-Pronounced "Jaypeg". A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. If you store an image, say, of a flag containing just three colours in JPEG/JPG format it may end up bigger than a GIF file containing the same image, but not necessarily a lot bigger - it depends on the type and range of colours it contains. JPEG/JPG files containing photographic images are normally smaller than GIF files containing photographic images.
+#####JPEG or JPG (Joint Photographic Expert Group)
+A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
 
-### **K**
+### K
 
-*KF8*
+#####KF8
 KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW.
 
-*Kindle*
+#####Kindle
 Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon.
 
-*Kobo*
+#####Kindle
+
+#####Kobo
 Kobo produces a range of handheld devices and software for ereading. It also has its own storefront where ebooks (mainly EPUBs) may be bought.
 
-### **L**
+### L
 
-*LAN (Local Area Network)*
-A Network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. 
+<!-- #####LAN (Local Area Network)
+A network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. -->
 
-*Latex*
+#####LaTex
 
 
-*LCD (Liquid Crystal Display)*
+#####LCD (Liquid Crystal Display)
 A technology used for producing a type of flat panel computer Display Screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
 
-*Linux*
+#####Linux
 Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone.
 
 ### **M**
