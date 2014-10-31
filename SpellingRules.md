@@ -30,8 +30,6 @@ We use the American spelling
 ###Document/format names:
 
 * EPUB / EPUBs
-* EPUB3
-* EPUB2
 * PDF / PDFs
 * EPUB 3
 * EPUB 2
