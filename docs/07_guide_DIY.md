@@ -129,169 +129,211 @@ And again your EPUB is ready!
 
 
 ## Do it yourself EPUB using InDesign
-InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has continuously improved over time. Its omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. It is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
 
-InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images than can adapt to fill any size screen and which can be enlarged or shrunk to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few. 
+InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has gotten better and better with time. InDesign's omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. InDesign is so powerful that it's useful even if print isn't part of the equation—though cost considerations might preclude its use if print is never a requirement.
 
-InDesigns print features —including master pages and the control of headers and footers, and precise positioning of elements and text— are ignored in flowable EPUB documents. Flowable EPUB does permit choosing (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completely override these settings in individual ereaders. 
+InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images that can adapt to fill any size screen and which can be enlarged or reduced to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of ereaders, fixed layout is available in only a few.  
+![image](images/reflow1.jpg "Text reflows depending on the size of the window (this is iBooks on the Mac)")
+![image](images/reflow2.jpg "When the screen is wider, the text flows into a wider paragraph")
+![image](images/reflow3.jpg "If the user widens iBooks sufficiently, facing pages are displayed.")
+
+![image](images/reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens")
+![image](images/reflowiphone4.png "The text reflows to fit")
+
+
+InDesigns print features—including master pages and the control of headers and footers, and precise positioning of elements and text—are ignored in flowable EPUB documents. Flowable EPUB does permit choosing an (initial) font-size, leading, font, space before and after a paragraph, whether a paragraph should begin on a new page, and more, though the reader may be able to partially or completely override these settings in individual ereaders. 
 
 You can use InDesign just for EPUB production and not print. In this case, you can simply ignore how the book looks in print and focus on generating flexible EPUB documents that look good across a range of ereaders.
 
-Underneath is a very short guide and InDesign is a very complex and complete software package. There are many more options than those described here.
+This is a very short guide and InDesign is a very complex and complete software package. There are many more options than those described here.
 
-####Styles 
-One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style' — in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
+### Styles 
+One of the most effective tools that InDesign offers is the ability to identify different kinds of paragraphs (headers, subheaders, body text, captions, etc)  and apply a whole set of formatting rules to them—called a 'style'—in one fell swoop. These styles can later be exported into EPUB in CSS format, enabling subsequent editing and adjustments, if necessary, in order to adapt to a range of different ereaders and/or offer a different look than in the print document.
+
 You must first create styles, then apply them, then make sure they are properly mapped for export to EPUB.
 
-**Creating styles**
-
+#### Creating styles
 1. Open the Paragraph Styles panel and click the New Style button to create a new style. Any formatting in the active paragraph is incorporated automatically into the new style. 
+![image](images/Styles_1_new.jpg)
 2. Give the style a name.
-3. Choose any additional options from the boxes at left, and save.
+![image](images/Styles_2_New_Paragraph_Style.jpg)
+3. Choose any additional options on the right from the different categories available at left, and save.
 
-Tips: You can also create Character Styles for applying formatting to just a selection of text rather than an entire paragraph. 
-Applying all formatting with styles instead of local formatting improves reliability across ereaders and facilitates later editing. 
+Tips
 
+- You can also create Character Styles for applying formatting to just a selection of text rather than an entire paragraph. 
+- Applying all formatting with styles instead of applying formatting directly improves reliability across ereaders and facilitates later editing. 
 
-**Apply styles**
-
+#### Apply styles
 1. Click in a paragraph that you want to style.
-Choose the desired style from the Paragraph Styles panel that you wish to apply.
-2. Repeat for every paragraph in the document.
+![image](images/Styles_3_cursor.jpg)
 
-Tips: You can style all of the text at once by selecting all and then choosing the Body style. Then apply the less frequent headers and captions and other paragraphs individually.
-If you have imported a document with large quantities of existing bold or italic text, you can search and replace to automate applying the character style.
+2. Choose the desired style from the Paragraph Styles panel that you wish to apply.
+![image](images/Styles_4_apply.jpg)
+
+3. Repeat for every paragraph in the document.
+
+Tips
+
+- You can style all of the text at once by selecting all and then choosing the Body or Normal style. Then apply the less frequent headers and captions and other paragraphs individually.
+- If you have imported a document with large quantities of existing bold or italic text, you can search and replace to automate applying the character style.
+![Image](images/Styles_5_Find_change.jpg)
 
 
-**Map styles to tags**
+#### Map styles to tags
+Though InDesign can do this step automatically, you can precisely specify which Paragraph Styles should be mapped to which tags in the resulting CSS to get more control.
 
-1. Though InDesign can do this step automatically, you can precisely specify which Paragraph Styles should be mapped to which tags in the resulting CSS to get more control.
-2. Choose Edit All Export Tags from the Paragraph Styles Panel menu. 
-3. In the dialog box that appears, verify that each style is mapped as desired to the appropriate tag. It's a good idea, for example, for header paragraphs in your book to be output as h1, h2, etc. and for each style to have its own class. 
-Tips: If you import XML documents, you can have InDesign automatically map specific XML tags to the desired Paragraph Styles (which later will be mapped to the proper EPUB CSS tags as above).
-Earlier versions of InDesign were not as good at exporting all of its styles to CSS. CC is substantially better.
-You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box.
+1. Choose Edit All Export Tags from the Paragraph Styles Panel menu. 
 
-####Images
-InDesign has three kinds of images: inline, anchored and independent.
- 
+2. In the dialog box that appears, verify that each style is mapped as desired to the appropriate tag. It's a good idea, for example, for header paragraphs in your book to be output as h1, h2, etc. and for each style to have its own class. 
+![Image](images/Styles_8_add_class.jpg)
+
+
+Tips
+
+- If you import XML documents, you can have InDesign automatically map specific XML tags to the desired Paragraph Styles (which later will be mapped to the proper EPUB CSS tags as above).
+- You can also set Export mapping in the Paragraph and Character Style dialog boxes.
+ ![Image](images/Styles_7_pstyle_options_edit_tags.jpg)
+
+- Earlier versions of InDesign were not as good at exporting all of its styles to CSS. CC is substantially better.
+
+- You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box.
+
+###Images
+InDesign has three kinds of images: inline, anchored and independent. 
+
 Inline images are placed or pasted directly within the text. When exported, they are rasterized (and thus if any inline objects contain text, this text is also rasterized), and exported in the flow of the text in which they are placed. Inline images cannot be wrapped with text.
 
-Anchored images are tied to a particular part of the text, and when exported to EPUB will appear just before that text in the code. Anchored images can have text wrapped around them and are properly exported as floating objects in EPUB. Text within anchored groups of objects is not rasterized, but sometimes resizes incorrectly in ereaders.
+Anchored images are tied to a particular part of the text, and when exported to EPUB will appear next to that text in the code. Anchored images can have text wrapped around them and are properly exported as floating objects in EPUB. Text within anchored groups of objects is not rasterized, but sometimes resizes incorrectly in ereaders.
 
-Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects   on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel.  
+Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel.  
 
-**Anchoring images**
+####Anchoring images
+Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap.
 
-Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
+1. Place an image on the pasteboard.  
+![Image](images/anchor-1.jpg)  
+2. If desired, you can create a caption, style the caption, and then group the caption with the image.  
+![Image](images/anchor-2.jpg)   
+![Image](images/anchor3-group.jpg)  
 
-1. Place an image on the pasteboard. If desired, you can create a caption, style the caption, and then group the caption with the image
-2. Select the image to make its controls visible.
-3. Drag the blue box in the upper right corner of the image to the desired location in the text.
+3. If it's not already, select the image to make its controls visible. Drag the blue box in the upper right corner of the image to the desired location in the text. The blue box changes to an anchor symbol.  
+![Image](images/anchor4-dragbluesquare.jpg)  
+![Image](images/anchor5-anchored.jpg)  
 4. If the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
-5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options.
-5.1. Display the EPUB and HTML options panel.
-5.2. Check the Custom Layout option and then choose Float Left from the menu. 
-5.3. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. You might also want to do this to adjust how the image appears in the print edition.
+5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options.  
+![Image](images/anchor6-Object_Export_Options.jpg)  
+	a. Display the EPUB and HTML options panel.
+	b. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
+	c. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box.  
+	![Image](images/anchor7-textwrap.jpg)  
+	
+	You might also want to do this to adjust how the image appears in the print edition.
+	![Image](images/anchor8-printadjust.jpg)  
 
-
-**Links and cross references**
-
-One of the main advantages of ebooks over print is that they can contain to additional information, whether it be in the same book, or on a web site somewhere out on the internet. InDesign makes it easy to incorporate links into your ebook.
+	
+###Links and cross references
+One of the main advantages of ebooks over print is that they can contain links to additional information, whether it be in the same book, or on a web site somewhere out on the internet. InDesign makes it easy to incorporate links into your ebook.
 
 There are two principal kinds of links: links in which you specify both the destination and the link text, and links that get the link text automatically from the destination. This second kind of links are called cross-references. It's a good idea to apply a character style to all kinds of links.
 
-**Creating links within a book**
-
-1. Create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. It's usually the first few words of the destination text.
-2. Select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu.  
-3. Choose Text Anchor next to Link To:, choose the Document that the destination is in and then choose the name of the Text Anchor. It's a good idea to apply a style so that you can format all links later.
-4. Click OK to create the link.
-
-
-**Creating cross references**
-
-1. Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example for cross references is when you want to link to a different chapter or header name. You can tell InDesign to always use the most up to date text in the Header.
-2. To create a cross reference, place the cursor in the text where the link will go.
-3. Choose Window > Type & Tables > Cross-References to view the Cross-References panel. 
-4. Choose Insert Cross-Reference.
-5. Choose the desired document and then the kind of paragraph that you want to link to in the left half of the box. The specific paragraphs tagged with that style will show up on the right so you can choose the one you want for the cross-reference.
-6. Select a Format for the Cross-Reference, and click OK.
-7. The text from the destination appears in the body of your document. It will be exported as a link in the EPUB document. 
+###Creating links within a book
+1. First, create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. By default, it's the first few words of the destination text. Then click OK.   
+![Image](images/hyperlink_destination_1.jpg)  
+![Image](images/hyperlink_destination_2.jpg)  
+2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu.  
+3. Choose Text Anchor next to Link To:, choose the Document that the destination is in and then choose the name of the Text Anchor.  
+![Image](images/hyperlink_destination_3.jpg)  
+4. It's also a good idea to apply a style so that you can format all the links later.
+5. Click OK to create the link.  
+![Image](images/hyperlink_destination_4.jpg)  
 
 
-**Table of Contents**
+###Creating cross references
+Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example of cross references is to link to a different chapter or header name. InDesign will always use the most up to date text in the Header.
 
+1. To create a cross reference, place the cursor in the text where the link will go.
+2. Choose Window > Type & Tables > Cross-References to view the Cross-References panel. 
+3. Choose Insert Cross-Reference.
+4. Choose the desired document and then the kind of paragraph that you want to link to in the left half of the New Cross-Reference box.  
+![Image](images/cross_references.jpg)  
+The specific paragraphs tagged with that style will show up on the right so you can choose the one you want for the cross-reference.
+5. Select a Format for the Cross-Reference, and click OK.
+The text from the destination appears in the body of your document. It will be exported as a link in the EPUB document. 
+![Image](images/cross_references_2.jpg)  
+
+
+###Table of Contents
 Ebooks have two different kinds of tables of contents, the conventional one that is part of the text, just like any other chapter in your book, but with links to the remaining chapters and sections, and one that is accessed through the menus of the user's ebook reader regardless of which page they're looking at at the moment. InDesign facilitates the creation of both types. 
 
 InDesign generates tables of contents from styled paragraphs. For example, you might want to create a table of contents with all of paragraphs marked with the Heading 1 and Heading 2 styles, or as in this example, with just all of the ChapName elements.
 
-
-**Creating a Table of Contents Style**
-
-1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears.
+####Creating a Table of Contents Style
+1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears.  
+![Image](images/TOC_1_new.jpg)
 2. Give the table of contents a name, like "Contents" and choose the paragraph style that should be applied to that header in the book. 
 3. Choose the kind of paragraphs that should be used to populate the table of contents, like headings or chapter names.
 4. Click More Options if it's not already chosen.
 5. In the center area, choose the style that should be applied to each kind of element in the table of contents. It's a good idea to create special styles to be applied to these elements.
-6. Choose No page number in the Page Number box since these are not necessary in an ebook.
+6. Choose No page number in the Page Number box since these are not necessary in an ebook.  
+![Image](images/TOC_options.jpg)
 7. Click OK to save the TOC Style. This is the first step to creating both a navigational and in-document table of contents.
 
-
-**Generate the in-document table of contents**
-
+####Generate the in-document table of contents 
 1. Once you've created a TOC Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs marked with the styles you selected.
-2. With the "loaded" pointer, place the table of contents in the desired location of the document. You don't have to put the table of contents at the front of the book, or indeed include it all. 
+2. With the "loaded" pointer, place the table of contents in the desired location of the document.  
+![Image](images/TOC_indocument.jpg)  
+You don't have to put the table of contents at the front of the book, or indeed include it all. 
+3. You'll learn how to generate the navigational table of contents in the Export Options section of this guide.
 
-You'll learn how to generate the navigational table of contents in the Export Options section of this guide.
+Tips
 
-Tips: If you export a multi-document book to EPUB and don't create a Table of contents style, InDesign automatically creates a TOC based on the file names of the individual documents in the book. If you export a single document book to EPUB, InDesign will not automatically generate a table of contents.
-You can create a navigational table of contents or an in-document table of contents or both. Most ereaders will throw an error if the navigational TOC is not present. Some ebook stores will complain if you don't include an in-document TOC. 
+- If you export a multi-document book to EPUB and don't create a Table of contents style, InDesign automatically creates a TOC based on the file names of the individual documents in the book. If you export a single document book to EPUB, InDesign will not automatically generate a table of contents.
+- You can create a navigational table of contents or an in-document table of contents or both. Most ereaders will throw an error if the navigational TOC is not present. Some ebook stores will complain if you don't include an in-document TOC. 
 
-
-**Metadata**
+###Metadata
 Metadata is information about your book, including the names of the author and other creators, the publisher, date of publication, subject matter, and more. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book.  
 
 InDesign gives you two opportunities to add metadata, in the File Info dialog box and when you export your file to EPUB. The two sets of information overlap but are not identical. Further, only empty fields are overwritten by data in the other system. 
 
 1. Go to File > Info to add metadata to your file about the name of your publication, the author, a description, keywords, and copyright status. 
+![Image](images/Metadata_1.jpg)
 
-You can add additional metadata as you export the document to EPUB as discussed further ahead. 
+2. You can add additional metadata as you export the document to EPUB as discussed further ahead. 
 
-
-**Cover**
+###Cover
 The final step before you export to EPUB is to create and add a cover for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to preview the cover at icon size. Most ebook stores ask for images that are at least 1000 pixels on the shortest side. 
 
 1. Save the cover image as a JPEG.
+![Image](images/SaveCover.jpg)
+2. You indicate the cover image that you want to use to InDesign when you export to EPUB in the next section.
 
-You specify the cover image when you actually export to EPUB in the next section.
+###Export options
+Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the necessary links and cross-references, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
+
+1. Start by choosing File > Export and then choose a filename and destination, and EPUB (Reflowable) in the Format menu. 
+![Image](images/Export_1.jpg)
+
+2. Click OK. The EPUB - Reflowable Layout Export Options box appears with eight separate panels of options.
+3. In the General panel, choose EPUB 3.0 next to Version to ensure your document is up to the latest standards.  
+![Image](images/Export_2.jpg)
+4. Select Choose image next to Cover, and then click the folder to select the desired cover image that you created earlier. If you choose Rasterize Front Page, InDesign creates a screenshot of the first page of your book and uses that for the cover. 
+5. Next to Navigation TOC choose Multi Level (TOC Style) and then choose the Table of Contents Style that you created earlier in the TOC Style menu.
+6. Click the Metadata panel.
+7. If the book has an ISBN, enter it into the Identifier field.
+![Image](images/Metadata_Export.jpg)
+8. All the other fields besides the Date field should be automatically populated with data entered in the File Info box earlier. You can add any missing information now. InDesign uses the information in the Date field for the EPUB 2.0 dc:date element but will always automatically set the EPUB 3.0 compatible date format with the date and time of export. In other words, you don't have to put anything in the Date field.
+9. There are many other export options, for controlling the way images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Explore these at your leisure. The CSS is perhaps my favorite option since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
+10. Finally, click OK to generate the EPUB file.   
+![Image](images/finishedbook.jpg)![Image](images/finishedbook2.jpg)
 
 
-**Export options**
-Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the links needed, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
-
-1. Start by choosing File > Export and then choose a filename and destination, and EPUB (Reflowable) in the Format menu. Click OK. The EPUB - Reflowable Layout Export Options box appears with eight separate panels of options.
-2. In the General panel, choose EPUB 3.0 next to Version to ensure your document is up to the latest standards.
-3. Select Choose image next to Cover, and then click the folder to select the desired cover image that you created earlier. If you choose Rasterize Front Page, InDesign creates a screenshot of the first page of your book and uses that for the cover. 
-4. Next to Navigation TOC choose Multi Level (TOC Style) and then choose the Table of Contents Style that you created earlier in the TOC Style menu.
-5. Click the Metadata panel
-6. Insert the book's ISBN in the Identifier field, if it has one.
-7. All the other fields besides the Date field should be automatically populated with data entered in the File Info box earlier. You can add any missing information now. InDesign uses the information in the Date field for the EPUB 2.0 dc:date element but will always automatically set the EPUB 3.0 compatible date format with the export date and time. In other words, you don't have to put anything in the Date field.
-
-There are many other export options, for controlling the way images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Explore these at your leisure. The CSS is possibly Liz Castro her favorite option since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
-
-8. Finally, click OK to generate the EPUB file. 
-
-
-**Testing**
+###Testing
 Be sure to test the EPUB file in as many ereaders as possible. You can use Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to Kindle format so that you can test it on actual Kindle devices.
 
+###Validating
+It's always a good idea to validate your EPUB documents with ePubCheck before you release them.
 
-**Validating**
-It's always a good idea to validate your EPUB documents with ePubCheck [^EpubCheck] before you release them.
-
-
-Now your EPUB is ready! It can be opened and enjoyed in an ereader like Calibre, iBooks or a similar application.
 
 
 ## Do it yourself EPUB using pandoc
