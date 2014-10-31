@@ -98,19 +98,11 @@ An electronic handheld device like a smartphone, tablet, phablet, personal digit
 
 #####Digital Rights Management (DRM)
 Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active internet connection often proves to be difficult.
-<!-- possible link: <a href="http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/">http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/</a> Miriam: I added this link in the text itself-->  
+
 
 #####Directory
 A location on a disc containing *files* and *subdirectories* grouped together for organisational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly  -->
 
-<!-- not in text (Miriam)#####Dithering
-The technique of combining dots of primary colours to give the appearance of intermediate colours. Dots are combined in a square area, known as a *dither matrix,* to simulate a dot of an intermediate color.-->
-
-<!-- not in text (Miriam)#####Disk Operating System (DOS)
-An operating system for desktop PCs developed by Microsoft from 1981 to 1995.-->
-
-<!-- not in text (Miriam)#####Dot matrix printer
-An older type of printer that works by firing sets of pins in different combinations at an ink ribbon located against a sheet of paper. Such printers produce text that looks 'ragged'. Laser printers and ink-jet printers are now much more common.-->
 
 #####Dots per inch (DPI)
 A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots.
@@ -129,13 +121,9 @@ A device capable of reading digital texts in various formats, notably EPUB and A
 #####E-ink
 Electrophoretic ink, a sytem in which small particals are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations.
 
-<!-- not in text (Miriam)#####Encryption
-A system of coding that helps prevent access to private information on computer networks or on the Web.-->
+
 
 ### F
-
-<!-- not in text (Miriam)#####FAQ
-Abbreviation for Frequently Asked Question(s).-->
 
 #####File
 'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place.
@@ -144,10 +132,10 @@ Abbreviation for Frequently Asked Question(s).-->
 A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions.
 
 #####File format
-A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read.
+A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read and it can have it's own **file permissions**. 
 
-<!-- not in text (Miriam)#####File permissions
-Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.-->
+#####File permissions
+Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.
 
 #####Formatting
 The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
@@ -163,13 +151,10 @@ A file format used for storing simple graphics. GIF files use a palette of 256 c
 #####GitHub
 A digital platform for collaboration, code review, and code management for open source and private projects.
 
-<!-- not in text (Miriam)#####Graphical User Interface (GUI)
-An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.-->
+#####Graphical User Interface (GUI)
+An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.
 
 ### H
-
-<!-- not in text (Miriam)#####Hexadecimal
-A number system used in computers in which numbers are composed of combinations of 16 digits, using 0-9 then the letters A-F to represent 10-15. Hex allows binary numbers to be expressed in a more compact and comprehensible form. For example, 255 = FF (hex) = 11111111 (binary)-->
 
 #####HTML (Hypertext Markup Language)
 A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert hypertext links within one Web page or to other pages anywhere on the Web.
@@ -178,7 +163,7 @@ A markup language based on SGML. The coding system used for creating pages on th
 The transfer method (protocol) used by the World Wide Web to transmit and receive Web pages.
 
 #####Hybrid Publishing
-
+<!-- To be defined -->
 
 
 #####Hyperlink
@@ -201,8 +186,6 @@ A small symbol or picture used in a **Graphical User Interface (GUI)**. The icon
 #####Incompatiblity
 See **Compatibility**
 
-<!-- not in text (Miriam)#####Ink Jet Printer
-A type of printer that fire little jets of ink at the page in order to form the characters and graphics. One of the commonest forms of printers currently in use and capable of producing high-quality output in black and white and in full colour.-->
 
 #####Interactivity
 Used to describe the ways in which software accepts and responds to user input.
@@ -219,25 +202,12 @@ Mobile operating system, originally called iPhone OS before June 2010, which run
 #####iPad
 Tablet introduced by Apple, controlled by touch gestures.
 
-<!-- not in text (Miriam)#####iPod
-The name of a portable (mobile) Media Player designed and marketed by Apple.-->
-
-<!-- not in text (Miriam)#####I(C)T (Information (and Communication) Technology)
-Essentially technology relating to information processing, i.e. computer technology, The term IT is rapidly being replaced by ICT in order to reflect the important role that information technology plays in communications by email, the Web, satellites and mobile phones.-->
 
 ### J
 
-<!-- not in text (Miriam)#####Java
-Java is a high level programming language. It is useful for creating small web applications and apps for use as part of a web page.-->
-
 #####JavaScript
-JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript is not the same as Java, a high level programming language.
+JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. Javascript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. Javascript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages. JavaScript is not the same as Java, a high level programming language.
 
-<!-- not in text (Miriam)*AJAX (Asynchronous Javascript and XML)*
-A popular technology closely linked with JavaScript, used to update details on a web page without having to fully refresh it.
-
-jQuery
-JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.-->
 
 #####JPEG or JPG (Joint Photographic Expert Group)
 A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
@@ -255,9 +225,6 @@ Kobo produces a range of handheld devices and software for ereading. It also has
 
 ### L
 
-<!-- #####LAN (Local Area Network)
-A network of computers at one site that provides services to other computers connected to it. A LAN is usually limited to an immediate area, for example the floor of a building, a single building or a campus. The most important part of a LAN is the Server that delivers software to the computers (also known as workstations or clients) that are connected to it. The server is usually the most powerful computer in the network Users of computers connected to a LAN can access their own files remotely and exchange information with the server and other users connected to the network. -->
-
 #####LaTex
 A document markup language used in scientific documents, often used to render mathematical notations, for example.
 
@@ -265,12 +232,9 @@ A document markup language used in scientific documents, often used to render ma
 A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
 
 #####Linux
-Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone.
+Unix-type Operating System. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is open source and hence freely available to everyone. Also see **Unix**.
 
 ### M
-
-<!-- #####Macro
-A sort of mini-program that can be incorporated into other programs, comprising a series of keystrokes that you may wish to use over and over again. A macro is a series of commands and instructions that you group together as a single command to accomplish a task automatically. Instead of manually performing a series of time-consuming, repetitive actions, you can create and run a single macro - in effect, a custom command that carries out the task for you. A macro can be saved and called up whenever you need it.-->
 
 #####Mark-up Language
 A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in `<strong></strong>` tags, an interpreter (e.g. a webbrowser) will render that particular word as bold.
@@ -278,16 +242,10 @@ A markup language like HTML or Markdown allows users to wrap text in tags denoti
 #####Markdown
 A **markup language** using common symbols like #, * and _ to denote various style attributes.
 
-<!-- #####Mashup
-A *mashup* is a Web page that brings together data from two or more Web services and combines the data into a new application with added functionality.-->
 
 #####Metadata
 Standardised descriptors of data in a particular document (author, creation date, etc.)
 
-<!--I added this link in the text Possible link: <a href="http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/">http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/</a> -->
-
-<!--#####MIDI (Musical Instrument Digital Interface)
-A format for synthesised music. Music in MIDI format is created and played through the use of synthesisers, unlike "real" music which is normally recorded in MP31, WMA2 or WAV3 file format.-->
 
 #####Mobi
 An ebook file format developed by Mobipocket and the basis of Amazon's first AZW ebooks.
@@ -301,11 +259,6 @@ The screen on which output from a computer is displayed. Also referred to as dis
 #####Monochrome
 Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. A monochromatic object or image has only colors in shades of limited colors or hues.
 
-<!-- #####MOV
-The format for storing and playing back audio and video files using the QuickTime media player on the Apple Macintosh, but also available for the multimedia PC. Economical in terms of storage space.-->
-
-<!-- #####MPEG / MPG
-Abbreviation for Motion Picture Expert Group. A standard file format for storing movies and high-quality audio files in digital format. Video files stored MPEG format can be recognised by the extension .mpg or .mpeg. MP3 audio files can be recognised by the Extension .mp3. A newer file format is MP4. MP4 files that can be recognised by the Extension .mp4. See ASF, AVI7 MOV8 RM, which are alternative video file formats.-->
 
 #####MP4 / MPEG-4
 Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and iTunes Media Player. The MP4 AVC file format is used to store video files in a more manageable size wihout affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
@@ -323,8 +276,6 @@ The integration of two or more types of information (text, images, audio, video,
 <!-- #####OCR (Optical Character Recognition)
 OCR software is used conjunction with a scanner to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer.-->
 
-<!-- #####Objective-C
-A programming language often used to create applications for OS X and iOS. The language is based on C and comparable to Microsoft's C Sharp, also a dialect of C.-->
 
 #####Open source
 The practice of allowing access to the source of product and the process through which the product has been developed. Open source software is the most well-known exponent of this practice.
@@ -349,11 +300,6 @@ Text without any visual characteristics, so without bolding, italics, clickable 
 #####Platform
 Generic term used in various contexts to denote technology which acts as a foundation for other technology to build upon - an operating system can be considered a platform. Also used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
 
-<!-- #####Podcast
-A podcast is a broadcast digital audio recording, made available via the web in a way that allows the recording to be downloaded for listening at the user's convenience. Cf. Vodcast, which is often used to describe a downloadable broadcast digital video recording.-->
-
-<!-- #####Pop-up
-A small window that appears within a program or over the top of a web page to deliver additional information. Pop-ups are often used for unwanted advertising material.-->
 
 #####Print-on-demand (POD)
 Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print-on-demand is sometimes called publish-on-demand.
@@ -366,12 +312,6 @@ A computer program is a set of instructions for a computer, allowing it to perfo
 In internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and Web server.
 
 ### Q
-
-<!-- #####QR code (Quick Response Code)
-A QR code is a two-dimensional barcode that can store a variety of different types of information, e.g. text, a website URL, a telephone number, an SMS message, an email address, an email message, contact details, information about an event, a Google Maps location, your social media profile (Facebook, Twitter, etc), an iTunes link, a YouTube link, etc. QR codes can be read by barcode readers and Smartphone cameras. Instead of writing down the information relating to a website URL or map location etc, you just take a photo of the QR code.-->
-
-<!-- #####QuickTime
-Software by Apple used for viewing movies and listening to audio recordings-->
 
 ### R
 
@@ -387,21 +327,13 @@ An alternative way of storing a document created with a Microsoft Word-processor
 ### S
 
 #####Server-side scripting
+Server-side scripting is used is a web server technique where a user's request is fulfilled by running a script directly on the web server to generate dynamic web pages. 
+
 
 #####Software Development Kit (SDK)
 A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms.
 
-<!-- #####Semantic web
-The semantic web is not a new type of Web, but rather an extension of the Web whereby data available in different locations is linked together in a way that allows the user to search in a more sophisticated way, e.g. by requesting information in forms such as 'tell me where I can find information about 21st-century writers who live within 50 miles of my home town'.-->
 
-<!-- #####Setup program
-A program that enables the user to set up a program or suite of programs on the computer's hard disk. Also known as install program or installation program.-->
-
-<!-- #####Shockwave player
-Software developed by Adobe that enables Web pages containing interactive multimedia materials to be played on the Web. Such materials may contain games, product demonstrations and online learning applications.-->
-
-<!-- #####sRGB color space
-sRGB is a standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers and the internet.-->
 
 #####Streaming
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored.
@@ -417,8 +349,6 @@ A tablet is compact portable computer that makes use of a touchscreen instead of
 #####Tagging
 Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML. Tagging has become more common in recent years as a result of the widespread use of social media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
 
-<!-- #####TCP/IP (Transfer Control Protocol/Internet Protocol)
-The main data transfer protocol used on the internet.-->
 
 #####Tex
 A document markup language used in scientific documents, often used to render mathematical notations, for example.
@@ -429,31 +359,22 @@ A computer program that allow the manipulation of text.
 #####Tiff
 A file format for storing raster graphics, commonly used in print design.
 
-#####Tumlr
+#####Tumblr
+Tumblr is a micro blogging system, as well as a sociaal networking site. Mainly used for sharing images. 
 
-<!-- #####Tumblog
-A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.-->
 
 ### U
 
 #####Unicode
 The Unicode Worldwide Character Standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages.
 
-<!-- #####Unix
-An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.-->
+#####Unix
+An Operating System widely used on large computer systems in corporations and universities, on which many Web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows.
 
 ### V
 
-<!-- #####Vector graphic
-A method of creating graphic images on a computer by telling it to draw lines in particular positions. An advantage of a vector graphic is that it can be enlarged or reduced in size without loss of sharpness or distortion. Most modern image creation and edtiting packages can save images in vector graphic format. Vector graphics can be contrasted with *bit-mapped graphics*, which are made of a fixed number of pixels (small dots), and therefore sharpness may be lost when the image is resized.-->
-
-<!-- #####Vodcast
-A contraction of video podcast. A type of podcast that incoporates video as well as audio.-->
 
 ### W
-
-<!-- #####WAV (Waveform Audio Format)
-A format for storing high-quality audio files.-->
 
 #####Word processor
 Probably the most widely used computer application, succes as Microsoft Word, Apples' Pages, and open source software Libre Office. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing Web pages. 
@@ -463,7 +384,7 @@ Usually referred to simply as the Web. This is the most powerful and fastest gro
 
 #####WYSIWYG (What You See Is What You Get)
 A concept used to describe the notion that the appearance of text and images onscreen, corresponds more or less directly with the way the finished product (web page, printed document, etc.) will appear.
-<!-- Dates back to the pre-Windows and pre-Mac period, when what you saw on the screen, e.g. in a Word document, was not necessarily what appeared on your Printer - something we now take for granted.-->
+
 
 ### X
 
