@@ -85,7 +85,7 @@ In the specific case of art and design catalogues, the following changes to the 
 
 Pia: I dont think this is finished yet right?
 
-Miriam: I have a problem with giving as final advice: employ these and those experts. That's precisely not the point of the book?-->
+Miriam: I have a problem with giving as final advice: employ these and those experts. That's precisely not the point of the book I'd think?-->
 
 
 
@@ -93,7 +93,6 @@ Miriam: I have a problem with giving as final advice: employ these and those exp
 <!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
 ![Periodical Approach](images/08_pub_artist_designer.png "Periodical Digital Approaches") 
 
-### General
 The traditional way of handling an artist/designer book is to view it as a conceptual design object or even sculptural object.
 
 A new workflow should take into account the following points:
@@ -111,8 +110,6 @@ A new workflow should take into account the following points:
 - Since the artists' book is not a defined genre, any methodology / workflow that can be thought of
 
 ### Instructions
-How to adjust the style guide? What metadata to add? Do editorial criteria regarding the content change?
-
 
 <!-- Pia see Headers above, section is not finished -->
 
