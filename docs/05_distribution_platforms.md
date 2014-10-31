@@ -197,7 +197,7 @@ Choose your preferred ways of distribution
 * XinXii[^XinXii] - facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and mobi. As an aggregator, XinXii distributes to major international ebook retailers.
 
 ###Options in the Netherlands
-
+ 
 * CB Print on demand[^CB-Print-on-demand] - is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition.
 
 * Boekscout[^Boekscout] - is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
