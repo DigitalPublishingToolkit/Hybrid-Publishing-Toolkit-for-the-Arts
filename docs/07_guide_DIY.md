@@ -341,7 +341,7 @@ This means you give pandoc the command to convert your beowulf.md file from (-f)
 
 [^ebook-convert]:ebook-convert, http://manual.calibre-ebook.com/cli/ebook-convert.html.
 [^plain-text]:Beowulf by J. Lesslie Hall, http://www.gutenberg.org/ebooks/16328.
-[^calibre]: Calibre, http://calibre-ebook.com/.
+<!-- [^calibre]: Calibre, http://calibre-ebook.com/.--> <!-- Andre: no reference to this f.note -->
 [^pandoc-installation-page]: Installing Pandoc, http://www.johnmacfarlane.net/pandoc/installing.html.
 [^epub-zipping-process]: ePub Zip/Unzip AppleScript application for Mac OS X, http://www.mobileread.com/forums/showthread.php?t=55681.
 [^rudimentary-epub]: Example EPUB, https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub.
