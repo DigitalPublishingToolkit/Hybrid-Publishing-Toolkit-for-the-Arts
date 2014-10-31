@@ -200,7 +200,7 @@ Tips
 - You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box.
 
 ###Images
-InDesign has three kinds of images: inline, anchored and independent. 
+InDesign has three kinds of images: inline, **anchored** and independent. 
 
 Inline images are placed or pasted directly within the text. When exported, they are rasterized (and thus if any inline objects contain text, this text is also rasterized), and exported in the flow of the text in which they are placed. Inline images cannot be wrapped with text.
 

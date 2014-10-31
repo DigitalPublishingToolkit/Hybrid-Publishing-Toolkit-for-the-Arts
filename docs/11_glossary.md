@@ -5,10 +5,9 @@
 #####Acronym
 An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
 
-
-
-<!-- not in text & incomplete  (Miriam)#####Algorithm
-This is the name given to a 'defined set of steps that can be used to complete a task'. For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,-->
+#####Algorithm
+An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer: a basic algorithm for division.
+For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. 
 
 #####Android
 An open source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used.
@@ -25,8 +24,8 @@ An online store where mobile applications may be bought or obtained for free. Ev
 #####AZW (Amazon Word)
 File format used by the Amazon Kindle ereader.
 
-<!-- not in text (Miriam)#####Anchor
-An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink.-->
+#####Anchor
+An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink.
 
 #####Animated GIF (Graphics Interchange Format)
 A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion.
@@ -34,22 +33,14 @@ A graphic file that consists of two or more images shown in a timed sequence to 
 #####API (Application Programming Interface)
 An interface between the operating system and application programs that specifies how the two communicate with each other. 
 
-<!-- not in text (Miriam)#####Applet
-An applet is a small program that is downloaded from a web page and executed by browser software. Also, an HTML tag that defines an applet program which is written in Java and designed to run on a web page. It can be used to display scrolling text such as a marquee across the top of a page or other animations.-->
-
 #####ASCII (American Standard Code for Information Interchange)
 A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters.
 
-<!-- not in text (Miriam)#####AVI (Audio Video Interleaved)
-A Microsoft video format where audio and video coding appears in alternate segments. -->
 
 ### B
 
 #####Bandwidth
 Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period.
-
-<!-- not in text (Miriam)#####Baud
-Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal. Named for the French teleprinter inventor Baudot. In simplest systems, it is synonymous with bits per second. In more complex systems, a baud may include more than one bit.-->
 
 #####Binary
 A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001.
@@ -57,8 +48,6 @@ A number system used in computing, based on a representation for numbers with on
 #####Bit
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed.
 
-<!-- not in text (Miriam)#####Bitmap (BMT)
-A computer graphic which is defined by specifying the colors of dots or pixels which make up the picture. Also known as raster graphics. Common types of bitmap graphics are GIF, JPEG, Photoshop, PCX, TIFF, Macintosh Paint, Microsoft Paint, BMP, PNG, FAX formats, and TGA. The file extention is .BMT.-->
 
 #####Blog
 Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the web.
@@ -73,9 +62,6 @@ Plugins to extend or enhance the inner-workings of a web browser.
 A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
 
 ### C
-
-<!-- not in text (Miriam)#####CAD/CAM
-Abbreviations for Camputer Aided Design / Computer Aided Manufacturing. A process of drafting, designing and manufacturing with the aid of acomputer. CAD enables the user to manipulate drawings, including 3D drawings, and viewing them from a variety of angles. CAM is a general term for computer support during the manufacturing process.-->
 
 #####Cascading Style Sheets (CSS)
 Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
@@ -92,8 +78,6 @@ A set of instructions that the computer carries out in sequence to perform a giv
 #####Content management system (CMS)
 A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website.
 
-<!-- not in text (Miriam)#####Cookie
-A cookie is a short file put on your system by a web page when you visit a website for  the first time. It includes information about your usage and facilitates the current interaction. For example, it may include the information that you have logged into a passworded area already in the current session and don't need a second password check. There are many uses for cookies, they may be erased at the end of a session or retained until the next session, and they may be encrypted or in plain text. If retained, the next time that the user visits that site, the information in the cookie is sent back to the site so that the site can tailor what it presents to the user, e.g. tastes in music or shopping habits.-->
 
 ### D
 
@@ -193,6 +177,10 @@ A markup language based on SGML. The coding system used for creating pages on th
 #####HTTP (Hypertext Transfer Protocol)
 The transfer method (protocol) used by the World Wide Web to transmit and receive Web pages.
 
+#####Hybrid Publishing
+
+
+
 #####Hyperlink
 A contraction of hypertext link, the essence of hypertext and the HTML language used for creating pages on the World Wide Web. In a Web document a hyperlink can be a sequence of letters or an image leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon.
 
@@ -252,7 +240,7 @@ jQuery
 JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate webpages.-->
 
 #####JPEG or JPG (Joint Photographic Expert Group)
-A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression algorithm of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
+A file format used for storing images. The JPEG/JPG format uses a palette of millions of colours and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
 
 ### K
 
@@ -440,6 +428,8 @@ A computer program that allow the manipulation of text.
 
 #####Tiff
 A file format for storing raster graphics, commonly used in print design.
+
+#####Tumlr
 
 <!-- #####Tumblog
 A tumblog is similar to a blog. Whereas the full name for a blog is "Web log," the full name for a tumblog is a "tumble log." It is named *tumble* because it is designed for posting quick snippets instead of long articles.-->
