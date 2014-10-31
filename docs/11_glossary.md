@@ -402,6 +402,8 @@ An alternative way of storing a document created with a Microsoft Word-processor
 
 ### S
 
+#####Server-side scripting
+
 #####Software Development Kit (SDK)
 A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms.
 

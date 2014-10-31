@@ -2,25 +2,30 @@
 
 ## General questions
 
-## [Research publication](id:Research publication)
+* One to one translation or defining the content with the medium in mind?
+* Modularized / database publishing
+* The importance of metadata - to be applied from the start of the production process
+* The question of file size: image and multimedia use looks easy, but means a too heavy file in most cases.
+* In short: hybrid publishing
 
-### General
-Currently, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real time data, and computation. One would normally expect that electronic publishing provides the technical solution for these issues. However, this is not today's reality. If one wants to publish in standard ebook formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current ebook technology are, as a matter of fact, much more limited than in paper publishing. <!--why? this needs example/explanation/reference -Miriam--> The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
+## Research publication
 
-Pragmatically and for the near future, electronic research publishing will mean the publishing of conventionally designed papers, journals and textbooks in electronic form. In other words, electronic research publishing will typically evolve around text-centered works. This means that the advice given for [research-type publications](researchlikepub.html) elsewhere in this publication will apply to most electronic research publications. 
+<!-- moved paragraph to chapter 3. Miriam -->
+Pragmatically and for the near future, electronic research publishing will mean the publishing of conventionally designed papers, journals and textbooks in electronic form. In other words, electronic research publishing will typically evolve around text-centered works which are issues on multiple platforms and in multiple formats. The highly structured internal setup research publications often have, make them suitable for modularization or database publishing.
 
-### Traditional workflow
-In print research publications, the typical workflow has been:
-* An editor works with author(s) on the manuscript.
+### Workflows
+In print research publications, the typical workflow looks like this:
+* An editor works with the author(s) on the manuscript.
 * Several versions of the manuscript are going back and forth between different people in different roles (editor, author, copyeditor, designer).
 * The final version of the manuscript will be established in a word processing program (typically Microsoft Word) or desktop publishing program (typically Adobe InDesign).
 * A graphic designer will design the publication in InDesign.  
 * Corrections are made to the print proof and added in the InDesign file.  
 * A PDF file of the corrected InDesign file goes to printer.
 
-In Chapter 7 <!-- internal link needed-->we describe how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained.
+In Chapter 7 <!-- internal link needed-->we describe how to create electronic books from an InDesign project. However, this entails careful planning and meticulous internal structuring of the InDesign document that is untypical for the way book projects are being made today, and for which most graphic designers working with InDesign have not been trained. 
+
+To make full use of the possibilities hybrid publishing has to offer, it is more advisable to change the conception of the publication from the beginning of the workflow, instead of adding the electronic book at the end, as a desired one-to-one translation of the work. 
  
-### New workflow  
 We propose a new workflow that is directed towards diverse sources and hybrid output to various media (including print, ebook and web). It is centered around a single editorial and archival file format, a definitive version of the document that enables multiple output. Instead of a final Word file which is changed in InDesign - both of which are not very good formats to convert to EPUB – the editorial and archival file will be in a format that can easily translate into InDesign for the print edition and EPUB / mobi / web for the electronic publication. The most suitable format for this is Markdown with the MultiMarkdown extensions - because it allows footnotes, cross-references and bibliographies, and translation to InDesign, EPUB and web is very straightforward using the open source software tool pandoc.
 
 ![Hybrid Workflow Research Publication](images/08_PubResearch.png "Workflow Hybrid") 
@@ -35,9 +40,7 @@ A hybrid workflow geared towards epublications as well as print, offers a number
 * Easy extraction of derived output from the book itself, such as abstracts, video book trailers, newsletters, personalized epublications; easier extraction of parts of a publication that will be separately published.
 * Independence from one particular software program (such as Word and InDesign), long-time archivability.
 
-### Instructions
-
-#### Style guide ####
+### Style guide
 A new workflow requires certain actions to obtain the suitable input for the publication. First of all, it is necessary to communicate this to all contributors (authors, editors, designers) in the publishing process. <!--internal link to chapter 6. And check if it is not double - Miriam--> Publication style guides must be adjusted accordingly and specify:
 
 * the file format to be delivered by contributors (for example: Markdown, or .docx pending later conversion and formatting clean-up);
@@ -56,22 +59,23 @@ Editorial criteria for the content can also differ in a hybrid workflow:
 
 ![Catalogue Approach](images/08_pub_catalogue.png "Catalogue Digital Approaches") 
 
-### General
 The traditional workflow for an art/design catalogue is roughly the same as the InDesign workflow described for the research publication, directed at the production of one integral book. The new workflow on the contrary, is based on a highly modularized publication process. The catalogue is built up of multiple modules or building blocks, for example different paintings with a description, following a standardized format. When these modules are treated as separate entities, and stored, described and tagged as such, it will be possible to cater for customized publications using only a selection of the building blocks.
 
-Next to that there is the problem of the size of the publication. In most cases, with contemporary standards in bandwith and storage space, an art catalogue is difficult to translate one-to-one to an electronic publication, simply because of file sizes. It is therefore advizable to split the whole up into smaller publications, such as monographic micro-ebooks on single art works, or collections of articles that each reader can individually choose from and obtain as an automatically customized ebook. Modularized content can be offered by in-app download, see for an example the Stedelijk Museum project <!--internal link to 12-->
+This also provides with a solution for the problem of the size of the publication. In most cases, with contemporary standards in bandwith and storage space, an art catalogue is difficult to translate one-to-one to an electronic publication, simply because of file sizes. It is therefore advizable to split the whole up into smaller publications, such as monographic micro-ebooks on single art works, or collections of articles that each reader can individually choose from and obtain as an automatically customized ebook. Moreover, modularized content can lead to different commercial strategies, for example by offering parts of a publication through an in-app download. An example of this is the Stedelijk Museum project. <!--internal link to 12-->
 
-An important question to ask is whether a catalogue in the traditional definition provides for a desirable publication format for epublishing. Perhaps it is better to (a) think up new forms of small and smart catalogues, or (b) wait for more device storage capacity and network speed to arrive in the future. At the moment, producing a 100+ pages hi-resolution catalogue electronically does not make sense, except as heavy PDF files for desktop computer viewing. <!-- Pia: why doesnt this make sense?-->
+An important question to ask in the background is whether a catalogue in the traditional definition provides for a desirable publication format for epublishing. Perhaps it is better to firstly think up new forms of small and smart catalogues such as the micro-ebooks mentioned' or, secondly, wait for more device storage capacity and network speed to arrive in the future. At the moment, producing a 100+ pages hi-resolution catalogue electronically makes sense only as heavy PDF files for desktop computer viewing. 
 
-### Instructions
-In the specific case of art and design catalogues, the following points can be taken into consideration:
+### Workflows
 
-* Modularization of the content, as described above.
-* Creating separate low-res and hi-res versions. This can also be used as a business model: offer the low-res book cheap or for free, and the hi-res book at normal price. <!--Explain how on-the-fly resolution adjustment is easy with epub (using server-side scripting for resizing images and zipping the epub file), this is not so easy with PDF. >> didn't understand this last point. Miriam-->
-* For a more or less direct translation of a print book into an electronic publication it can be wise to target one reading medium (in most cases: tablets).<!--why? Miriam--> In that case consider PDF over EPUB if the focus is on images, because PDF offers a fixed layout for image composition. Small additions of interactive and multimedia elements are valid options.  However, such a project should be considered a short- to medium-term project that might have become technically obsolete/outmoded in three to five years.<!-- Target a 10" tablet screen with a resolution between 1024x768 and 1920x1080. Work in InDesign, and make - if necessary - a customized new page layout that fits these dimensions. Consider small additions of interactive and multimedia elements by using Adobe Acrobat Pro as a final authoring tool. (This is part of the Adobe Creative Suite). >> Isn't this too specific? Needs argumentation at least. Miriam-->
+In the specific case of art and design catalogues, the following changes to the workflow should be taken into consideration:
+
+* Modularize the content, giving multiple small portions of a catalogue, most evident one file per entry, separate images, videos, texts, etc.
+* Make sure that from the start of the workflow each module is tagged with the significant metadata; this is absolutely necessary for the selection and filtering process which leads to the aggregation of the modules in a specific ebook.
+* Create separate low-res and hi-res versions of the EPUB files, for example by using (computer) **server-side scripting**. This can also be used as a business model: offer the low-res book cheap or for free, and the hi-res book at normal price. 
+* For a more or less direct translation of a print book into an electronic publication it can be wise to target one reading medium (in most cases: tablets).<!--why? Miriam--> In that case consider PDF over EPUB if the focus is on images, because PDF offers a fixed layout for image composition.<!--In the workflow visualization there is no mention of PDF. Miriam--> Small additions of interactive and multimedia elements are valid options.  However, such a project should be considered a short- to medium-term project that might have become technically obsolete/outmoded in three to five years.<!-- Target a 10" tablet screen with a resolution between 1024x768 and 1920x1080. Work in InDesign, and make - if necessary - a customized new page layout that fits these dimensions. Consider small additions of interactive and multimedia elements by using Adobe Acrobat Pro as a final authoring tool. (This is part of the Adobe Creative Suite). >> Isn't this too specific? Needs argumentation at least. Miriam-->
 * For a custom epublication that isn't conceived as a print-to-ebook translation but as a hybrid publishing project using modularization, EPUB is the file format of choice because it is internally modular (being a zip archive of individual HTML files, images, fonts etc). This can be developed into a database or content management system. <!--Have a web developer program a simple custom server application that can customize, zip and upload an EPUB file according to a user's web form input. Also consider generating this EPUB from a database/content management system. >> Needs examples. Do we really want to put it like that: get a web developer? Miriam-->
 
-Practical pointers:
+<!-- Practical pointers:
 
 * consolidate text in Markdown, consolidate images in highest resolution;
 
@@ -79,7 +83,7 @@ Practical pointers:
 
 * employ editorial/interaction designer to think up new publication format.
 
-<!-- Pia: I dont think this is finished yet right?
+Pia: I dont think this is finished yet right?
 
 Miriam: I have a problem with giving as final advice: employ these and those experts. That's precisely not the point of the book?-->
 
