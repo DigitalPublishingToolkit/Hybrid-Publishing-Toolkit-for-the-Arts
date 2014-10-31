@@ -45,7 +45,10 @@ or else (also) on a private server. Git is Free Software.
 [http://git-scm.com/](http://git-scm.com/)
 
 
-## ICML/InDesign
+## ICML
+
+ICML is a file extension generally managed by [InCopy](https://creative.adobe.com/products/incopy), Adobe’s own word processor. See the  [related blog post on how make has been used in the INC
+subgroup](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/) in order to import structured text into Adobe InDesign.
 
 
 ## Make
@@ -140,5 +143,10 @@ For Valiz Publishers an online EPUB generator was developed using CakePHP and a 
 [Python](https://www.python.org/) is a general purpose programming (or scripting) language. In the INC project, python has been used to make small “helper” programs to: cleanup HTML, extract and accumulate metadata from different files, and to create GIF-format book trailers from an EPUB. Python scripts often make use of additional programs known as libraries. For INC, we made use of the html5lib and images2gif libraries. Python is often pre-installed on many operating systems such as Mac OS X and Debian and Ubuntu GNU/Linux, or otherwise an installer can be [downloaded from the Python website](https://www.python.org/downloads/).
 
 [http://www.python.org/](http://www.python.org/)
+
+
+## ReFoot.js
+
+[ReFoot.js](http://www.indiscripts.com/post/2010/04/refoot-convert-markup-text-into-indesign-footnotes) is an InDesign script written by Marc Autret. The script converts markup text into footnotes through InDesign.
 
 
