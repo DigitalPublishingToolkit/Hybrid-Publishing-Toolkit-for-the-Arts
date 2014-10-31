@@ -466,171 +466,13 @@ Online reading platforms are browser-based platforms where digital publications 
 
 When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical ebookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
 
-Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
-
-<!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
-
-###Issuu 
-Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
-###Scribd
-Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
-### Internet Archive
-Internet Archive can be found at [https://archive.org/](https://archive.org/)
+Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive])
 
 ![Issuu](images/05_01_issuu.png "Issuu")
 
-<!-- **Characteristics**
-  
-* It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
-* It is used for books, brochures, magazines, etc 
-* Allows downloading of books to read online
-* Because it is possible to upload a designed PDF it is a good way to publish styled and colorful publications   
-* Mostly used by independent publishers and individual users 
-* Supports all devices 
-* Mobile and desktop 
-* Full embedding possibilities
-* Supports most file formats
-
-**Statistics**
- 
-*For Issuu* (June 2014)    
-80 million monthly readers  
-15 million publications 
-
-*For individual users*
-Issuu offers general statistics for users and their publications 
-For deeper statistics a paid account is needed
- 
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Embed on all platforms  
-* Sharing possibilities  
-* Professional look and feel  
-* Audio support  
-
-*Weaknesses*  
-
-* Limit on publications of 500 pages  
-* No selling possibilities, only link to shop  
-
-**Revenue Model**  
-
-* **Freemium** model [^Freemium]  
-
-**How-to-publish**  
-
-* Create an account  
-* Easy upload of many different file formats  
-* Embed on your own website  
-* Offer downloadable file  
--->
-
-
 ![Scribd](images/05_01_scribd.png "Scribd")
 
-<!--
-**Characteristics**  
-
-* The world’s largest collection of ebooks and written works, according to their own sources 
-* Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
-* Allows downloading of books to read offline 
-* Supported File Types: PDF, txt, ps, rtf, EPUB, key, odt, odp, ods, odg, odf, sxw, sxc, sxi, sxd, doc, ppt, pps, xls, docx, pptx, ppsx, xlsx  
-* Lots of free content 
-* Subscription model
-* No limits on genre 
-* Both works from established publishers and self-published works
-
-**Statistics**  
-*For Scribd* (June 2014)  
-
-* 80 million monthly readers  
-* 40 million books and documents  
-* 100 countries  
-
-*For individual users*  
-
-* Scribd offers general statistics for users and their publications  
-
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Sharing possibilities  
-* Selling possibilities  
-
-*Weaknesses*  
-
-* Few options for metadata  
-* In-browser not optimal (like Issuu for example)  
-* Embedding not optimal
-
-**Revenue Model**  
-
-* Scribd offers a subscription model for its readers and allows publishers to set a price for their work  
-
-**How-to-publish**  
-
-* Create an account  
-* Easy upload of many different file formats  
-* Offer in-browser reading and downloadable file  
-
--->
-
 ![Internet Archive](images/05_01_internetarchive.png)
-
-<!--
-**Characteristics**
-
-* Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
-* Besides ebooks holds extensive collections of audio-visual media, software and archived web pages.
-* Provides free storage and access to the uploaded material.
-* Ebook collections are run in cooperation with OpenLibrary[^OpenLibrary] and include titles from other online ebook collections such as Project-Gutenberg,[^Project-Gutenberg] or the National and University Library of Iceland.[^National-and-University-Library-of-Iceland]
-* Operates both as a site for independent publishing and digital preservation books.
-* Contributions and use are made both by large institution and individuals.
-* Most text file formats are accepted (PDF, txt, rtf, EPUB, Comic Book, DjVu, Microfilm TIFF, etc).
-* Uploaded texts have to be licensed under a Creative Commons license.
-* After being submitted, uploaded texts are made available for online reading and download, in PDF, EPUB, mobi and DjVu formats.
-* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
-* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
-* It allows the public to upload and download digital material 
-
-
-**Statistics**
-
-*For Internet Archive* (October 2014)  
-
-* 6 million publications.
-* Each month publications are either read or downloaded 10 million times [^IA_blog] 
-* Collection topped 10 petabytes
-* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
-* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
-
-
-*For individual users*  
-
-* Provides number of downloads of a publication.
-* Allows readers to write reviews
-
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Free of charge
-* Easy-to-use  
-* Supports major ebook file formats
-* Automated conversions to other formats
-
-*Weaknesses*  
-
-* No distinction between self-publishing and archival efforts. Ebooks that were produced yesterday can be found next to an 1606 edition of The Bible published.
-* Optical character recognition performed on the image-based uploads (PDF, Microfilm, etc) is prone to error, and typos abound in the converted text based formats.
-* Navigating and searching the website is often confusing and cumbersome.
-
-**How-to-publish**  
-
-* Create an account  
-* Upload publication in any of the many allowed file formats  
-* Fill-in publication's metadata.
-* The publication will be given dedicated page. -->
 
 
 ###Third party blogs
@@ -876,15 +718,13 @@ None of these projects compete with classical ebook stores, online reading platf
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>.
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>.
 [^Ubuweb]: Ubuweb, <a href="http://www.ubu.com">http://www.ubu.com</a>.
-
-
-
+[^Issuu]: Issuu, http://www.issuu.com
+[^Scribd]: Scribd, http://www.scribd.com
+[^Internet-Archive]: Internet Archive, https://archive.org/
 
 # 06 Towards a Hybrid Workflow Based on Markdown
 
-Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
-
-After describing a more traditional workflow based on desktop publishing via InDesign with a print book as end result, we move to an ideally fitted workflow centered around the structural file format XML, ending with a Markdown-oriented workflow which is both easy to use and extendable. Following such a workflow will make the transition from a print-centered publication process to a digital and print - in other words: hybrid - publication process viable. 
+Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards to an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
 
 Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the regular workflow should be adjusted and made efficient and practical towards hybrid publishing at an earlier stage. From-scratch development of each publication format is thus replaced by single-source, multi-format publishing.
 
@@ -893,6 +733,7 @@ However, the description of the workflow which follows below starts at a point w
 Note: An important step preceding the publication trajectory lies in the formulation of the in-house style guide ([![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")), where authors and editors can find the requirements for the manuscript. This style guide must be adapted according to the hybrid workflow before starting any work on the manuscript itself. For example: specification of the required file format, structuring of the text (headers, styles), image specifications, et cetera. See the Guide per genres <!--Miriam: internal link needed, comment copy edit (Amy or Andre)--> for pointers regarding adjusting the style guide in this sense.
 
 We will now turn to implementing the new workflow for small edition and low budget publishing houses. ([![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps"))
+
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
 ![Traditional Workflow](images/07_workflow_traditional.png "Workflow Traditional.")
@@ -1712,6 +1553,7 @@ Despite these limitations, Calibre is a capable program for importing simple tex
 Currently, the technically easiest and least expensive way of hybrid publishing is to transform a book into Markdown, edit the Markdown into a structurally clean document, use pandoc for converting Markdown to EPUB , and import the EPUB into Calibre for final tweaks and conversion into other e-book formats (including Amazon Kindle).
 
 ![Calibre Workflow](images/09_calibre.png)
+<!-- image is still in progress, will be finished after go on content about calibre -->
 
 In a perfect future, Calibre would use pandoc as its import and document conversion engine, Readium for displaying e-books, and its document editor would be on par with iBooks Author for multimedia design while maintaining full compliance to the EPUB3 standard.  
 
