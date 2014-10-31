@@ -2,11 +2,19 @@
 
 ## General questions
 
-* One to one translation or defining the content with the medium in mind? Medium specificty of the work
-* Modularized / database publishing
-* The importance of metadata - to be applied from the start of the production process
-* The question of file size: image and multimedia use looks easy, but means a too heavy file in most cases.
-* In short: hybrid publishing
+After getting into hybrid workflows for hybrid publishing and the step-by-step guide to making a simple EPUB, there are some points to be made specific to the different genres of publications that are most used in the arts and culture sector.
+
+The following points should be made beofrehand, as they apply to all genres:
+* The first question to ask when making plans for an epublication is whether it should be a one-to-one translation of a print book, or rather the content will be defined with the medium in mind? Is the medium specificty of the work a departure or end point?
+* Many of the advantages in hybrid publishing, as mentioned earlier, come from modularized or database publishing. By chopping up a larger work into small modules or bricks, it is easy to make custom publications, make updates to parts only, replace heavy images or files with lighter ones when needed, etc.
+* The importance of metadata grows significantly when turning towards hybrid publishing. This is to ensure that the publication can be found online, in databases and booktores such as Amazon, but also for making the publication process efficient. Especially in the case of modularized or database publishing, to apply metadata from the start of the production process is of the utmost importance, otherwise the building blocks can's meaningfully be traced and thus put together.
+* For the arts and culture publishers of all kind of works file size remains a problem: the use of images and multimedia looks easy and like a great benefit opposite 'static' paper publishing, but results in a too heavy file in most cases, which can't be downloaded, stored or easily flipped through.
+
+When it comes to the choice for file format the follwing can be said in general:
+* EPUB is a good choice for ebooks, although not so much for periodicals. EPUB can combine advantages of PDF (single file distribution) with HTML (responsive design, small file sizes, modularity/reusability, automation).
+* HTML5 is theoretically an or even the ideal format. It gets increasingly used for multimedia journalism (following the example of the 'Snow Fall' reportage by the New York Times from December 2012 <!-- link to: http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek -->. When making 'responsive' pages - which is expected when the purpose is reading - this can be a problem.
+* PDF is the easiest to integrate in existing workflows, but has the disadvantage that it is non-responsive, can produce a high file size, and is essentially meant for print.
+
 
 ## Research publication
 
@@ -131,50 +139,25 @@ Miriam: this could perhaps be mentioned in chapter 9. Also, I think we shouldn't
 
 ## Art/design periodical
 
-Periodicals like year books and magazines are an important part of the art and culture publishing scene. Examples are OPEN Magazine<!-- link to http://www.openthemagazine.com/ --> and e-flux <!-- link to http://www.e-flux.com/ -->.
+Periodicals like year books and magazines are an important part of the art and culture publishing scene. Examples are OPEN Magazine<!-- link to http://www.openthemagazine.com/ --> and e-flux <!-- link to http://www.e-flux.com/ -->. The spectrum runs from non-commercial websites or PDFs via academic and public magazines to commercial websites or app store subscription model. The transition from traditional to new workflows is gradually taking place in digital magazine publishing, breaking  up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. All these technical solutions are now mature thanks to 20 years of online news publishing.
 
-- Non-commericial website / PDF 
-
-- Academic magazine (jStor) 
-
-- Public Magazine 
-
-- Commercial / app store model. 
+The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be a continuously updated web site (similar to a news website or a blog), or a focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. The difference between a 'blog' and a 'magazine' seems to be gradually diminshing online.
 
 
-### General
+### Workflows
 ![Periodical Approach](images/08_pub_periodical.png "Periodical Digital Approaches") 
 
+We distinguish between two major types of workflow, the first starting from a print publication which is digitized for electronic distribution, the second starting from the electronic medium, such as a web site or blog,  which can be distributed in several ways.
 
-(a) magazine as downloadable PDF file; 
+* Print based workflow: The magazine is designed and made-up as a print publication, using a desktop publishing program such as InDesign and exported as a PDF suited for print. This PDF is then optimized for (reading and downloading) on the web, meaning the file size is often decreased and it is distributed on different platforms offering PDF reading online, such as Issuu and Scribd<!-- internal link to ch. 5-->. This offers low-cost solution with a traditional revenue model (in-app purchase).
 
-(b) magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or Issuu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
+<!-- This needs much more explanation. A reference to our chapter on distribution channels solves some things. But e.g. Woodwing is new here and should be explained and referenced. Or leave out. Also we shouldn't just namecheck Blendle here as if it's an open tool for everyone to use and without further explanation. Miriam
 
-(c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.
+magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or Issuu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
 
-(d) magazine as self-published website. Best solution: CMS like WordPress, with custom design template. Most independent magazines work this way, but revenue model is difficult. Additional technical benefit: structured database of everything ever published on the site, easy to use as a basis for exporting to custom publications (downloadable e-books, InDesign layout for print yearbooks - see Elizabeth Castro's chapter - etc.)
+(c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.-->
 
-
-### Decision making
-Should it be a 1:1 transfer from paper book to e-journal? There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
-
-### Instructions
-See above. 
-
-### Specific issues for this publication type
-The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be (a) a continuously updated web site (similar to a news website or a blog), (b) focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. In the end, there is no hard difference between a "blog" and a "magazine" online.
-
-### Based on the above, what to choose?
-
-How to make an arts/design periodical in epub2/3, HTML5 (/app), PDF
-
-A step-by-step guide
-
-Advantages, disadvantages:
-
-- epub2/3 is, at the moment, an esoteric choice for a magazine and would be rather an option for scholarly journals. However, if cleverly used, it can combine advantages of PDF (single file distribution) with HTML (responsive design, small file sizes, modularity/reusability, automation).
-- HTML5: theoretically ideal, gets increasingly used for multimedia journalism (following the example of the "Snow Fall" reportage by the New York Times from December 2012. Problem of design complexity when making 'responsive' design pages.
-- PDF: easiest to integrate in existing workflows, disadvantage: clumsy, non-responsive, high file size, meant for print.
+* Web based workflow: The magazine is a self-published website. There are many ways to build websites, but the easiest open source, free solution is to use a content management system like WordPress with a custom design template for your own publication. This let's you have a responsive design that adapts to all available reading devices. An additional technical benefit is that this workflow let's you have structured database of everything ever published on the site, which is easy to use as a basis for exporting to custom publications such as downloadable ebooks, InDesign layout for print yearbooks, PDFs, a tablet app etc.
 
 [^bookworks]: Carrión, Ulises. The New Art of Making Books, Aegean editions, 2001.
 
