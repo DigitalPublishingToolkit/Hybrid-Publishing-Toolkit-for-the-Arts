@@ -51,7 +51,7 @@ We recommend two ways of working with Word + pandoc, and discourage a third one:
 
 ### Markdown workflow
 
-Central in a hybrid publishing workflow, we recommend to use the mark-up language Markdown, as it is an easier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing.
+Central in a hybrid publishing workflow, we recommend to use the mark-up language Markdown, as it is an easier language to use than XML. Markdown is not perfect, but is the most easy to work with and enables the creation of structured texts, thus allowing for hybrid publishing. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/04/mark-me-up-mark-me-down/  "Link to blog post: Mark me up, mark me down")
 
 ![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.")
 
