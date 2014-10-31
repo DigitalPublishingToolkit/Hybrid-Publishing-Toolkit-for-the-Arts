@@ -14,171 +14,13 @@ Online reading platforms are browser-based platforms where digital publications 
 
 When using an online reading platform, publishers effectively become dependent on the platform provider. If the platform changes its technology, terms of service or goes out of business, the publisher will be out of control. Online reading platforms typically create a higher degree of dependence and vendor-lock-in than classical ebookstores that distribute downloadable files (and where it is easier for a publisher to make those files on an alternative download/shop platform). 
 
-Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish.
-
-<!-- Kimmy & Loes are proving graphics for this (29.10.2014) -->
-
-###Issuu 
-Issuu can be found at [http://www.issuu.com](http://www.issuu.com).  
-###Scribd
-Scribd can be found at [http://www.scribd.com/](http://www.scribd.com/)  
-### Internet Archive
-Internet Archive can be found at [https://archive.org/](https://archive.org/)
+Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive])
 
 ![Issuu](images/05_01_issuu.png "Issuu")
 
-<!-- **Characteristics**
-  
-* It offers many options to publish and distribute works: in-screen reading with flippable pages, downloadable files, embedding of the readable format on your own website 
-* It is used for books, brochures, magazines, etc 
-* Allows downloading of books to read online
-* Because it is possible to upload a designed PDF it is a good way to publish styled and colorful publications   
-* Mostly used by independent publishers and individual users 
-* Supports all devices 
-* Mobile and desktop 
-* Full embedding possibilities
-* Supports most file formats
-
-**Statistics**
- 
-*For Issuu* (June 2014)    
-80 million monthly readers  
-15 million publications 
-
-*For individual users*
-Issuu offers general statistics for users and their publications 
-For deeper statistics a paid account is needed
- 
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Embed on all platforms  
-* Sharing possibilities  
-* Professional look and feel  
-* Audio support  
-
-*Weaknesses*  
-
-* Limit on publications of 500 pages  
-* No selling possibilities, only link to shop  
-
-**Revenue Model**  
-
-* **Freemium** model [^Freemium]  
-
-**How-to-publish**  
-
-* Create an account  
-* Easy upload of many different file formats  
-* Embed on your own website  
-* Offer downloadable file  
--->
-
-
 ![Scribd](images/05_01_scribd.png "Scribd")
 
-<!--
-**Characteristics**  
-
-* The world’s largest collection of ebooks and written works, according to their own sources 
-* Compatible with iPhone, iPad, Android, Kindle Fire, and any web browser 
-* Allows downloading of books to read offline 
-* Supported File Types: PDF, txt, ps, rtf, EPUB, key, odt, odp, ods, odg, odf, sxw, sxc, sxi, sxd, doc, ppt, pps, xls, docx, pptx, ppsx, xlsx  
-* Lots of free content 
-* Subscription model
-* No limits on genre 
-* Both works from established publishers and self-published works
-
-**Statistics**  
-*For Scribd* (June 2014)  
-
-* 80 million monthly readers  
-* 40 million books and documents  
-* 100 countries  
-
-*For individual users*  
-
-* Scribd offers general statistics for users and their publications  
-
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Sharing possibilities  
-* Selling possibilities  
-
-*Weaknesses*  
-
-* Few options for metadata  
-* In-browser not optimal (like Issuu for example)  
-* Embedding not optimal
-
-**Revenue Model**  
-
-* Scribd offers a subscription model for its readers and allows publishers to set a price for their work  
-
-**How-to-publish**  
-
-* Create an account  
-* Easy upload of many different file formats  
-* Offer in-browser reading and downloadable file  
-
--->
-
 ![Internet Archive](images/05_01_internetarchive.png)
-
-<!--
-**Characteristics**
-
-* Non-profit digital archive, with the mission to preserve the digital artifacts produced by the human civilization. 
-* Besides ebooks holds extensive collections of audio-visual media, software and archived web pages.
-* Provides free storage and access to the uploaded material.
-* Ebook collections are run in cooperation with OpenLibrary[^OpenLibrary] and include titles from other online ebook collections such as Project-Gutenberg,[^Project-Gutenberg] or the National and University Library of Iceland.[^National-and-University-Library-of-Iceland]
-* Operates both as a site for independent publishing and digital preservation books.
-* Contributions and use are made both by large institution and individuals.
-* Most text file formats are accepted (PDF, txt, rtf, EPUB, Comic Book, DjVu, Microfilm TIFF, etc).
-* Uploaded texts have to be licensed under a Creative Commons license.
-* After being submitted, uploaded texts are made available for online reading and download, in PDF, EPUB, mobi and DjVu formats.
-* It provides free public access to collections of digitized materials, including websites, music, moving images, and nearly three million public-domain books
-* In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet
-* It allows the public to upload and download digital material 
-
-
-**Statistics**
-
-*For Internet Archive* (October 2014)  
-
-* 6 million publications.
-* Each month publications are either read or downloaded 10 million times [^IA_blog] 
-* Collection topped 10 petabytes
-* 1,600,000 public domain books which are fully readable, downloadable and full-text searchable
-* Access to an ebook lending program for over 250,000 recent books not in the public domain, in partnership with over 1,000 library partners from 6 countries
-
-
-*For individual users*  
-
-* Provides number of downloads of a publication.
-* Allows readers to write reviews
-
-**Strengths and weaknesses**  
-*Strengths*  
-
-* Free of charge
-* Easy-to-use  
-* Supports major ebook file formats
-* Automated conversions to other formats
-
-*Weaknesses*  
-
-* No distinction between self-publishing and archival efforts. Ebooks that were produced yesterday can be found next to an 1606 edition of The Bible published.
-* Optical character recognition performed on the image-based uploads (PDF, Microfilm, etc) is prone to error, and typos abound in the converted text based formats.
-* Navigating and searching the website is often confusing and cumbersome.
-
-**How-to-publish**  
-
-* Create an account  
-* Upload publication in any of the many allowed file formats  
-* Fill-in publication's metadata.
-* The publication will be given dedicated page. -->
 
 
 ###Third party blogs
@@ -424,5 +266,6 @@ None of these projects compete with classical ebook stores, online reading platf
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>.
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>.
 [^Ubuweb]: Ubuweb, <a href="http://www.ubu.com">http://www.ubu.com</a>.
-
-
+[^Issuu]: Issuu, http://www.issuu.com
+[^Scribd]: Scribd, http://www.scribd.com
+[^Internet-Archive]: Internet Archive, https://archive.org/
