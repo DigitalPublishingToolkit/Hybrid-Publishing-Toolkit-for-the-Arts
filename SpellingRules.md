@@ -33,8 +33,8 @@ We use the American spelling
 * EPUB3
 * EPUB2
 * PDF / PDFs
-* EPUB 3.0
-* EPUB 2.0
+* EPUB 3
+* EPUB 2
 * .epub (if file extension)
 
 

@@ -163,7 +163,7 @@ A markup language based on SGML. The coding system used for creating pages on th
 The transfer method (protocol) used by the World Wide Web to transmit and receive Web pages.
 
 #####Hybrid Publishing
-<!-- To be defined -->
+Hybrid publishing is the publishing of one and the same publication in several different media, including print and electronic, preferably with a workflow that minimizes the effort of customizing the publication for each medium. The latter is also called 'single source publishing' genoemd - maar het term "single source multichannel publishing" spreekt niet de taal van het culturele veld.
 
 
 #####Hyperlink
