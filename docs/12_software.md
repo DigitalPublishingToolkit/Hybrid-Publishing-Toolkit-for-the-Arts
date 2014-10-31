@@ -157,3 +157,6 @@ For Valiz Publishers an online EPUB generator was developed using CakePHP and a 
 <!-- For Valiz Publishers an online EPUB generator was developed using CakePHP and a set of open-source libraries, notably PHPePub[^phpepub] by Asbjørn Grandt. The project was developed with relatively low-cost and low-feature [^low-feature-explanation] webhosting in mind, allowing it to be run on a broad range of hosting environments. Notable features include support for endnotes and a **WYSIWYG** editor based on HTML5's `contenteditable` mechanism. The platform allows publishers to author and generate EPUBs suitable for distribution in various bookstores. -->
 
 <!-- The project for NAI/010 Publishers has two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of objects from this collection. The other is a set of WordPress plugins, extending the functionality of the WordPress JSON REST **API** (WP-AP)[^wp-api] and facilitate the generation of EPUBs using the content from a WordPress database. The latter is basically a packaged version of the CakePHP EPUB component that builds on Asbjørn Grandt's PHPePub. -->
+
+[^phpepub]: ?
+<!-- missing foonote. Reference is the body, but the footone has no content -->
