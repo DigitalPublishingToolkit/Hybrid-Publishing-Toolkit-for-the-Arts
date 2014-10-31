@@ -2,11 +2,19 @@
 
 ## General questions
 
-* One to one translation or defining the content with the medium in mind?
-* Modularized / database publishing
-* The importance of metadata - to be applied from the start of the production process
-* The question of file size: image and multimedia use looks easy, but means a too heavy file in most cases.
-* In short: hybrid publishing
+After getting into hybrid workflows for hybrid publishing and the step-by-step guide to making a simple EPUB, there are some points to be made specific to the different genres of publications that are most used in the arts and culture sector.
+
+The following points should be made beofrehand, as they apply to all genres:
+* The first question to ask when making plans for an epublication is whether it should be a one-to-one translation of a print book, or rather the content will be defined with the medium in mind? Is the medium specificty of the work a departure or end point?
+* Many of the advantages in hybrid publishing, as mentioned earlier, come from modularized or database publishing. By chopping up a larger work into small modules or bricks, it is easy to make custom publications, make updates to parts only, replace heavy images or files with lighter ones when needed, etc.
+* The importance of metadata grows significantly when turning towards hybrid publishing. This is to ensure that the publication can be found online, in databases and booktores such as Amazon, but also for making the publication process efficient. Especially in the case of modularized or database publishing, to apply metadata from the start of the production process is of the utmost importance, otherwise the building blocks can's meaningfully be traced and thus put together.
+* For the arts and culture publishers of all kind of works file size remains a problem: the use of images and multimedia looks easy and like a great benefit opposite 'static' paper publishing, but results in a too heavy file in most cases, which can't be downloaded, stored or easily flipped through.
+
+When it comes to the choice for file format the follwing can be said in general:
+* EPUB is a good choice for ebooks, although not so much for periodicals. EPUB can combine advantages of PDF (single file distribution) with HTML (responsive design, small file sizes, modularity/reusability, automation).
+* HTML5 is theoretically an or even the ideal format. It gets increasingly used for multimedia journalism (following the example of the 'Snow Fall' reportage by the New York Times from December 2012 <!-- link to: http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek -->. When making 'responsive' pages - which is expected when the purpose is reading - this can be a problem.
+* PDF is the easiest to integrate in existing workflows, but has the disadvantage that it is non-responsive, can produce a high file size, and is essentially meant for print.
+
 
 ## Research publication
 
@@ -57,9 +65,11 @@ Editorial criteria for the content can also differ in a hybrid workflow:
 
 ## Art/design catalogue
 
-![Catalogue Approach](images/08_pub_catalogue.png "Catalogue Digital Approaches") 
 
 The traditional workflow for an art/design catalogue is roughly the same as the InDesign workflow described for the research publication, directed at the production of one integral book. The new workflow on the contrary, is based on a highly modularized publication process. The catalogue is built up of multiple modules or building blocks, for example different paintings with a description, following a standardized format. When these modules are treated as separate entities, and stored, described and tagged as such, it will be possible to cater for customized publications using only a selection of the building blocks.
+
+![Catalogue Approach](images/08_pub_catalogue.png "Catalogue Digital Approaches") 
+
 
 This also provides with a solution for the problem of the size of the publication. In most cases, with contemporary standards in bandwith and storage space, an art catalogue is difficult to translate one-to-one to an electronic publication, simply because of file sizes. It is therefore advizable to split the whole up into smaller publications, such as monographic micro-ebooks on single art works, or collections of articles that each reader can individually choose from and obtain as an automatically customized ebook. Moreover, modularized content can lead to different commercial strategies, for example by offering parts of a publication through an in-app download. An example of this is the Stedelijk Museum project. <!--internal link to 12-->
 
@@ -90,71 +100,32 @@ Miriam: I have a problem with giving as final advice: employ these and those exp
 
 
 ## Artist/designer book 
-<!--less oriented from publishers perspective. Loes might have a proposal. //1000 words //Florian-->
+
+There is a rich tradition of artists' audiovisual electronic books that began in the 1990s with hypertext and interactive multimedia literary experiments on floppy disk, CD-ROMs, later web sites and mobile apps. The Electronic Literature Organization[^electronic-literature-organization] and the international research project ELMCIP[^elmcip] document this extensively. Much of this documentation has become media archeology since multimedia formats have become obsolete: CD-ROM applications that no longer run on contemporary computers, websites whose links or plug-ins are no longer working or not compatible to today's browsers anymore. This problem was greater in the 1990s and early 2000s when open, cross-platform multimedia standards barely existed. But today the rule explained in chapter 4 <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. A problem also exemplified by the massive use of Flash by e-lit artists.
+
+Lately, artists' and designer's books have grown from a niche phenomenon to a major genre within arts and design publishing. It could be argued that the book as an art or design object in its own right has become more prominent now that the function of the book as a generic carrier of information (such as in a telephone directory, a dictionary or a run-of-the-mill novel or non-fiction paperback) is increasingly taken over by the World Wide Web and by ereaders. But also traditionally the way of handling an artist/designer book is to view it as a conceptual design object or even sculptural object. The more medium-specific an artist's book is, the less sense it makes to translate it one-to-one into an electronic book. Dieter Roth's sculptural book objects <!--Pia: insert footnote-->, for example, would change from book art works to mere depictions of book art works when reproduced electronically. 
+
+### Workflows
+
 ![Periodical Approach](images/08_pub_artist_designer.png "Periodical Digital Approaches") 
 
-The traditional way of handling an artist/designer book is to view it as a conceptual design object or even sculptural object.
+Since the artists' book is not a defined genre, there is no such thing as a standard methodology or workflow. The whole spectrum of the medium can be used and experimented with. On the other hand, many contemporary artists, designers and media activists experiment with electronic publishing as a 'poor' (i.e. simple low tech) medium of social sharing rather than a 'rich' visual and tactile medium. However, here we focus on artist/designers books as characterized by heavy use of form and images, as described in chapter 3. Of course it t is possible to make a book simply as a series or sequence of page-size images, that can be easily converted into screen-readable PDF, EPUB and HTML5. This requires a less drastic change in workflow, can be standardised as described in the sections on the other genres.
 
-A new workflow should take into account the following points:
+When thinking about going electronic with an artist/designer book, the workflow - be it a non-standard one, ever-changing from one publication to the next - should take into account the following points:
 
-- It is possible to make a book simply as a series of page-size images, that can be easily converted into screen-readable PDF, EPUB and HTML5.
+* Start from the specific medium that is targeted: the print book will demand a completely different approach from a tablet app, a web page, an EPUB, etc. 
+* The final output medium can then be seen to pull in different input material.
+* The medium also works the other way around with input materials; an example is the media artist approach: experiments with computer/server-generated EPUBs, using collage and cut-up methods, the generative or appropriation art recipe <!-- this example confuses me more than enlightening me (Miriam) (similar to the Yes Men's 'Ream Weaver' web site mirroring tool)-->.
+* A different approach takes as starting point the digital form of the blog. Chapter XX <!--internal link to Liz Castro's guide--> describes step-by-step how to turn a Tumblr, a blog form used a lot by artists, into a downloadable ebook.
+* Other artists put the distribution process at the centre of their work, such as the file sharing approach: easy conversions of publications into ebooks are made, with emphasis on spreading and alternative ways of networking (such as person-to-person USB stick file exchange. See also <!--internal link to chapter 5 distribution-->
 
-- Look at visual tools like Calibre and The People's Ebook, or authoring/sharing apps such as KYUR8 <!--pia: Why? what do these do??-->
+<!--pia: Why? what do these do??- Look at visual tools like Calibre and The People's Ebook, or authoring/sharing apps such as KYUR8 
 
-- Use Liz Castro's recipe for turning an artists'/designer's tumblr into downloadable artists' ebooks <!--Pia: Liz castro's receipe is unclear, what is this where can it be found? -->
+Miriam: this could perhaps be mentioned in chapter 9. Also, I think we shouldn't try to name everything, it will be obsolete soon, right-->
 
-- Media artist approach: experiment with computer/server-generated epub, using collage/cut-up methods, generative or appropriation art recipe (similar to the Yes Men's "Ream Weaver" web site mirroring tool)
-
-- Pirate site approach: easy conversions of publications into ebooks, emphasis on spreading, and alternative ways of networking (such as person-to-person USB stick file exchange.
-
-- Since the artists' book is not a defined genre, any methodology / workflow that can be thought of
-
-### Instructions
-
-<!-- Pia see Headers above, section is not finished -->
-
-<!--Florian's text:-->
-
-Lately, artists' and designer's books have grown from a niche phenomenon to a major genre within arts and design publishing. It could be argued that the book as an art or design object in its own right has become more prominent now that the function of the book as a generic carrier of information (such as in a telephone directory, a dictionary or a run-of-the-mill novel or non-fiction paperback) is increasingly taken over by the World Wide Web and by ereaders. 
-
-
-#### Transfer from paper to electronic?
-
-The more medium-specific an artist's book is, the less sense it makes to translate it 1:1 into an electronic book. Dieter Roth's sculptural book objects <!--Pia: insert footnote-->, for example, would change from book art works to mere depictions of book art works when reproduced electronically. 
-
-On the other hand, many contemporary artists, designers and media activists experimented with electronic publishing as a 'poor' (i.e. simple low tech) medium of social sharing rather than a 'rich' visual and tactile medium:
-
-* In the 1980s and early 1990s, many makers of zines (do-it-yourself small press periodicals) became makers of _e-zines_, electronic zines that used dial-up computer bulletin boards and the Internet as noncommercial samizdat media. Their typical publication format were simple plain text files.[^e-zines] Many e-zines worked around their technical limitations by using ASCII art, typograms as they had also been produced in 1960s and 70s concrete poetry on typewriters, and with homebrew formatting codes ('_' for underlines, '#' for headlines etc.), the immediate precursors of the Markdown format described here in this toolkit.
-* In the early 1990s, there also existed a hacker culture of 'disk mags' for the Commodore Amiga and Atari ST home computers. These electronic magazines were anonymously published on floppy disks and were based on self-written computer programs (factually, early 'apps') that displayed their animated text and visual contents.
-* Since the late 1990s, there have been a number of artist-run sites * textz.com, ubu.com, aaaaarg.org, monoskop.org - that offer free downloads of cultural theory and arts-related books, typically in simple formats such as plain text, PDF and EPUB.
-In these examples, the focus is not on the book as a visual object, but on concepts and politics of its sharing and dissemination; in other words, artists' publishing as electronic samizdat. In such scenarios, artists' publishing as simple 1:1 transfers from print originals to electronic reproductions can make sense.
-
-##### Technical solutions for samizdat publications <!--Pia: introduce term samizdat pls -->
-
-For such activist or minimalist projects, the lowest technical denominator and most easily readable file formats are advisable:
-
-* plain text (ASCII) as the most simple, compatible and minimalist solution
-* single-file HTML. It is possible to directly embed images into an HTML file (without providing them as separate files); technical instructions can be found [here](...). <!--Amy: empty link! -->
-* PDF. This format is widely readable and best suited for faithfully reproducing print books, but limited in its readability on different devices and hardly editable (more explanation [here](...)).<!--Amy: empty link! -->
-* EPUB. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to ereaders. Projects can very easily be made and provided both in HTML and EPUB.
-Since the design of most samizdat books does not differ from that of [research publications](#Research publication) or other visually simple publishing formats, no special design advice is necessary here, except the principle of 'worse is better': the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. <!-- Silvio suggests also to focus on the technical solution for  sharing texts, like etherpad, textb.org -->
-
-#### How to make visually oriented artists' books
-
-##### Pre-history and general issues
-
-There is, factually, a rich tradition of artists' audiovisual electronic books: It began in the 1990s with hypertext and interactive multimedia literary experiments on floppy disk, CD-ROMs, later web sites and mobile apps. The Electronic Literature Organization[^electronic-literature-organization] and the international research project ELMCIP[^elmcip] document it extensively. Much of this documentation has become media archeology since multimedia formats have become obsolete: CD-ROM applications that no longer run on contemporary computers, websites whose links or plug-ins are no longer working or not compatible to today's browsers anymore. 
-
-This problem was greater in the 1990s and early 2000s when working open, cross-platform multimedia standards barely existed. But even today, the rule explained in chapter ... <!-- cross-reference to Arjen's overview graph of non-visual vs. visual epublishing technologies--> still applies: The more complex the audiovisuality of an electronic book, the less compatible it will be to all kinds of different electronic reading devices, and the more technical updates it will likely need over the course of time. <!-- Silvio: This problem was also exemplified by the massive use of Flash by e-lit artists --> 
-
-##### Simple solutions
-
-Electronic visual books can be made in very simple ways:
-
-* As a sequence of images, embedded into an EPUB file <!-- add reference-->, a self-contained HTML file <!-- add reference--> or a PDF file.
-* As a PDF file. This is generally the most easy-to-use straightforward format for visual publications in a universally working format. However, for long-time durability, the PDF/A format is preferable to run-of-the mill PDF.[^PDF/A]  PDF documents can be graphically designed to work on different screen sizes, and resolution of embedded visuals can be decreased to keep the file size friendly for downloading. Still, the format is essentially limited to fixed document sizes and remains an electronic representation of printed matter. 
-* Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, **mp4** video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^other-formats] <!-- should this be mentioned as simple? not all of these formats work on e-readers. mention reference to image of Arjen or overview of strengths and weaknesses -->
-* Self-contained HTML. <!-- explain the use of self-contained HTML with base64-->
+<!-- Miriam: the following is all explained elsewhere * As a PDF file. This is generally the most easy-to-use straightforward format for visual publications in a universally working format. However, for long-time durability, the PDF/A format is preferable to run-of-the mill PDF.[^PDF/A]  PDF documents can be graphically designed to work on different screen sizes, and resolution of embedded visuals can be decreased to keep the file size friendly for downloading. Still, the format is essentially limited to fixed document sizes and remains an electronic representation of printed matter. 
+* Other standard file formats creatively (ab)used as document formats for visual books: animated GIF graphics files for the digital equivalent of flip books, for example, **mp4** video files displaying a real-time book, mp3 audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artefacts of corrupted bits.[^other-formats] <!-- should this be mentioned as simple? not all of these formats work on e-readers. mention reference to image of Arjen or overview of strengths and weaknesses 
+* Self-contained HTML. <!-- explain the use of self-contained HTML with base64
 
 (- iBooks author: medium solution between EPUB and PDF: example Badlands Unlimited)
 
@@ -164,57 +135,29 @@ Electronic visual books can be made in very simple ways:
 
 (- plain text: e-zines, BBS era ebooks, typograms/typoscripts) 
 
-(- Problem with it: distribution, books only available in the Apple ecosystem)
-
-
-
-
+(- Problem with it: distribution, books only available in the Apple ecosystem)-->
 
 ## Art/design periodical
 
-- Art OPEN Magazine of e-Flux journal, advise to use the web, instead of EPUB. 
+Periodicals like year books and magazines are an important part of the art and culture publishing scene. Examples are OPEN Magazine<!-- link to http://www.openthemagazine.com/ --> and e-flux <!-- link to http://www.e-flux.com/ -->. The spectrum runs from non-commercial websites or PDFs via academic and public magazines to commercial websites or app store subscription model. The transition from traditional to new workflows is gradually taking place in digital magazine publishing, breaking  up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. All these technical solutions are now mature thanks to 20 years of online news publishing.
 
-- Non-commericial website / PDF 
+The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be a continuously updated web site (similar to a news website or a blog), or a focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. The difference between a 'blog' and a 'magazine' seems to be gradually diminshing online.
 
-- Academic magazine (jStor) 
 
-- Public Magazine 
-
-- Commercial / app store model. <!--1000 words -->
-
-### General
+### Workflows
 ![Periodical Approach](images/08_pub_periodical.png "Periodical Digital Approaches") 
 
+We distinguish between two major types of workflow, the first starting from a print publication which is digitized for electronic distribution, the second starting from the electronic medium, such as a web site or blog,  which can be distributed in several ways.
 
-(a) magazine as downloadable PDF file; 
+* Print based workflow: The magazine is designed and made-up as a print publication, using a desktop publishing program such as InDesign and exported as a PDF suited for print. This PDF is then optimized for (reading and downloading) on the web, meaning the file size is often decreased and it is distributed on different platforms offering PDF reading online, such as Issuu and Scribd<!-- internal link to ch. 5-->. This offers low-cost solution with a traditional revenue model (in-app purchase).
 
-(b) magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or Issuu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
+<!-- This needs much more explanation. A reference to our chapter on distribution channels solves some things. But e.g. Woodwing is new here and should be explained and referenced. Or leave out. Also we shouldn't just namecheck Blendle here as if it's an open tool for everyone to use and without further explanation. Miriam
 
-(c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.
+magazine as PDF-based app in a tablet, via commercial app platform (such as Scribd or Issuu) or PDF-to-app software. Low-cost solution with a traditional revenue model (in-app purchase). Commercial authoring solution: Woodwing.
 
-(d) magazine as self-published website. Best solution: CMS like WordPress, with custom design template. Most independent magazines work this way, but revenue model is difficult. Additional technical benefit: structured database of everything ever published on the site, easy to use as a basis for exporting to custom publications (downloadable e-books, InDesign layout for print yearbooks - see Elizabeth Castro's chapter - etc.)
+(c) magazine as HTML5-based publication in a platform app. Commercial distribution platform solution: Blendle.-->
 
-
-### Decision making
-Should it be a 1:1 transfer from paper book to e-journal? There are now gradual transitions from traditional to new workflows in digital magazine publishing which break up the old-vs-new dichotomy. On this scale, providing a magazine as a downloadable PDF file is the most traditional solution, and turning the magazine into a website (running on a content management systems such as WordPress) the least traditional. On the upside, all these technical solutions are now mature thanks to 20 years of online news publishing.
-
-### Instructions
-See above. 
-
-### Specific issues for this publication type
-The main issue is to which extent the integrity of the publication as _one_ medium is important, or whether to entirely give up the traditional system of periodical appearance in bundled issues. Alternatively, the model could be (a) a continuously updated web site (similar to a news website or a blog), (b) focus on providing single articles rather than bundled issues based on search engine hits, social media recommendations etc. In the end, there is no hard difference between a "blog" and a "magazine" online.
-
-### Based on the above, what to choose?
-
-How to make an arts/design periodical in epub2/3, HTML5 (/app), PDF
-
-A step-by-step guide
-
-Advantages, disadvantages:
-
-- epub2/3 is, at the moment, an esoteric choice for a magazine and would be rather an option for scholarly journals. However, if cleverly used, it can combine advantages of PDF (single file distribution) with HTML (responsive design, small file sizes, modularity/reusability, automation).
-- HTML5: theoretically ideal, gets increasingly used for multimedia journalism (following the example of the "Snow Fall" reportage by the New York Times from December 2012. Problem of design complexity when making 'responsive' design pages.
-- PDF: easiest to integrate in existing workflows, disadvantage: clumsy, non-responsive, high file size, meant for print.
+* Web based workflow: The magazine is a self-published website. There are many ways to build websites, but the easiest open source, free solution is to use a content management system like WordPress with a custom design template for your own publication. This let's you have a responsive design that adapts to all available reading devices. An additional technical benefit is that this workflow let's you have structured database of everything ever published on the site, which is easy to use as a basis for exporting to custom publications such as downloadable ebooks, InDesign layout for print yearbooks, PDFs, a tablet app etc.
 
 [^bookworks]: Carrión, Ulises. The New Art of Making Books, Aegean editions, 2001.
 
@@ -228,3 +171,23 @@ Advantages, disadvantages:
 
 [^other-formats]: Used as a medium of artistic experimentation among others by net artists since the 1990s and by conceptual poet and Ubuweb founder Kenneth Goldsmith. 
 
+<!-- Miriam: I don't know in how far this is relevant for the toolkit guide... I copy/pasted a part of it in a different order in this chapter.
+
+Also: the way described here is not how we define artist/designer book in chapter 3. Miriam 
+
+* In the 1980s and early 1990s, many makers of zines (do-it-yourself small press periodicals) became makers of _e-zines_, electronic zines that used dial-up computer bulletin boards and the Internet as noncommercial samizdat media. Their typical publication format were simple plain text files.[^e-zines] Many e-zines worked around their technical limitations by using ASCII art, typograms as they had also been produced in 1960s and 70s concrete poetry on typewriters, and with homebrew formatting codes ('_' for underlines, '#' for headlines etc.), the immediate precursors of the Markdown format described here in this toolkit.
+* In the early 1990s, there also existed a hacker culture of 'disk mags' for the Commodore Amiga and Atari ST home computers. These electronic magazines were anonymously published on floppy disks and were based on self-written computer programs (factually, early 'apps') that displayed their animated text and visual contents.
+* Since the late 1990s, there have been a number of artist-run sites * textz.com, ubu.com, aaaaarg.org, monoskop.org - that offer free downloads of cultural theory and arts-related books, typically in simple formats such as plain text, PDF and EPUB.
+<!-- In these examples, the focus is not on the book as a visual object, but on concepts and politics of its sharing and dissemination; in other words, artists' publishing as electronic samizdat. In such scenarios, artists' publishing as simple 1:1 transfers from print originals to electronic reproductions can make sense. 
+
+##### Technical solutions for samizdat publications <!--Pia: introduce term samizdat pls --><!--
+
+For such activist or minimalist projects, the lowest technical denominator and most easily readable file formats are advisable:
+
+* plain text (ASCII) as the most simple, compatible and minimalist solution
+* single-file HTML. It is possible to directly embed images into an HTML file (without providing them as separate files); technical instructions can be found [here](...). <!--Amy: empty link! --><!--
+* PDF. This format is widely readable and best suited for faithfully reproducing print books, but limited in its readability on different devices and hardly editable (more explanation [here](...)).<!--Amy: empty link! --><!--
+* EPUB. This format is factually just HTML for offline reading, with improved publication meta data and improved compatibility to ereaders. Projects can very easily be made and provided both in HTML and EPUB.
+Since the design of most samizdat books does not differ from that of [research publications](#Research publication) or other visually simple publishing formats, no special design advice is necessary here, except the principle of 'worse is better': the smaller the file size, the most compatible and universally readable the file format, the better, even if this comes at the expense of typographic and visual quality. An plain text files, then, might be preferable to a nicely designed PDF file. <!-- Silvio suggests also to focus on the technical solution for  sharing texts, like etherpad, textb.org 
+Miriam: sharing texts is better discussed in chapter 5.
+ --> 
