@@ -15,7 +15,11 @@ What is happening here is a mixture of **layout** and structure. Layout is the a
 
 This freedom in the layout is explicated in a so-called **style sheet** , which is a table that connects a layout schema with the markup schema. This way of working is imperative if one wants to allow a source text to be represented in many different ways on various media of various sizes. Note that in many programs these translations are done fairly invisibly to the user. If we translate an .odt file into a .docx file, all coding is translated one-to-one. As we will see in the following, translation between one file type into another is not always symmetrical. Hence, the golden rule is to *always make sure that the source text is as systemically structured as possible*. 
 
-An important notion is that all digital texts and accompanying coding are written in simple letters and numerals, this is called **plain text**, or a flat file. This is a stripped down text without layout; the most elementary token. It goes without saying that the flexibility of this process is limited to the character set for plain text we use. In the “old” days this was **ASCII** based and limited to the possible number of distinct signs (letters, numerals, commas, etc.) of a binary computer text. Slowly but surely, a new elaborted list of allowed signs, extending ASCII is making inroads. This collection of signs is called: **Unicode**. Unicode aims to include all alphabets and letter systems including common signs and ligatures, such as the aforementioned *&* and diacritic signs. Again, this is a step forward to guarantee a clean source file for all kind of usages, even those we don’t consider or even imaging today.
+
+Book scanning is a process used in past, and still being used to convert physical books into digital media such as images, electronic texts, or an ebook by using an image scanner. **Optical character recognition** (OCR) is often used to convert a book into a digital text format like **ASCII**. To convert the raw images  is used to turn book pages into a digital text format like ASCII. After this conversion which reduces not only the file size, it also allows the user to  reformatted the text, search through it, and make it processed by other applications. Examples of book scanning by organizations on large scale are projects like: Project Gutenberg[^Project-Gutenberg], Million Book Project[^Million-Book-Project], Google Books[^Google-Books], and the Open Content Alliance scan books on a large scale.
+
+
+An important notion is that all digital texts and accompanying coding are written in simple letters and numerals, this is called **plain text**, or a flat file. This is a stripped down text without layout; the most elementary token. It goes without saying that the flexibility of this process is limited to the character set for plain text we use. In the “old” days this was ASCII based and limited to the possible number of distinct signs (letters, numerals, commas, etc.) of a binary computer text. Slowly but surely, a new elaborted list of allowed signs, extending ASCII is making inroads. This collection of signs is called: **Unicode**. Unicode aims to include all alphabets and letter systems including common signs and ligatures, such as the aforementioned *&* and diacritic signs. Again, this is a step forward to guarantee a clean source file for all kind of usages, even those we don’t consider or even imaging today.
 
 ### What is an electronic text?
 
@@ -36,3 +40,8 @@ The essential issue is henceforward that the start is a clean plain text file. W
 
 
 [^hist]: Guglielmo Cavallo and Roger Chartier (eds.), A history of reading in the west, Polity Press 1999.
+[^Project-Gutenberg]: Project Gutenberg, https://www.gutenberg.org.
+[^Million-Book-Project]: Million Book Project, https://archive.org/details/millionbooks
+[^Google-Books]: Google Books, http://books.google.nl/
+[^Open-Content-Alliance]: Open Content Alliance, www.opencontentalliance.org/
+
