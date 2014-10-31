@@ -5,11 +5,7 @@
 #####Acronym
 An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
 
-<!-- not in text (Miriam)#####Adware
-Any software which serves banner ads or pop-up ads to you while in use. It is sometimes installed in freeware or shareware which you download from the internet, and provides one more channel for advertisers to reach you. Some adware will also track your files, net usage, and software and report it back to advertisers to help them channel relevant ads to you.  -->
 
-<!-- not in text (Miriam)#####Aliasing, anti-aliasing
-Pictures on your computer monitor are made up of square pixels. When the edge of a solid colored object in a GIF image is a diagonal or curved line, and it is displayed against a contrasting color, the edges appear jagged, like stair steps. This jagged appearance is called aliasing. The jagged appearance can be softened by filling in adjacent pixels with intermediate colors between the object and the background. This softening of the edges is called anti-aliasing. Software like Photoshop can apply anti-aliasing for you automatically. One problem with anti-aliasing GIF images is that it increases the number of colors used, necessarily increasing the file size. You must decide whether quick loading or smoothed edges serves your needs better.-->
 
 <!-- not in text & incomplete  (Miriam)#####Algorithm
 This is the name given to a 'defined set of steps that can be used to complete a task'. For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. Algorithms are not computer code,-->
