@@ -212,3 +212,17 @@ img.fig {
     height: auto;
 }
 
+
+a.glossref{
+    vertical-align: super;
+    line-height: normal;
+    font-size: smaller;
+    font-weight: normal;
+}
+
+a.glossterm{
+    vertical-align: sub;
+    line-height: normal;
+    font-size: smaller;
+    font-weight: normal;
+}
