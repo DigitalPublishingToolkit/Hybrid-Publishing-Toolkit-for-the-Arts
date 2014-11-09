@@ -8,7 +8,8 @@ We use the American spelling
 ###Start of sentence*:
 
 * Ebook
-* Ereader
+* E-reader
+* E-publication
 * iBook
 * Epubreader
 
@@ -21,6 +22,7 @@ We use the American spelling
 
 * ebook
 * e-reader
+* e-publication
 * ebookstore
 * iBook
 
