@@ -20,7 +20,7 @@ We use the American spelling
 ###In the sentence*:
 
 * ebook
-* ereader
+* e-reader
 * ebookstore
 * iBook
 
