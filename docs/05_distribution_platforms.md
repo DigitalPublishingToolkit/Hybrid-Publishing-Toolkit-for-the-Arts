@@ -2,9 +2,9 @@
  
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
  
-Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of Nook devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
+Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of NOOK devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
  
-The aforementioned storefronts typically charge a percentage for each publication sold, this percentage generally is no less than 30% of the retail price.[^apple-press-percentage]^,^[^guardian-amazon-hachette] Apart from Google, most of the larger retailers offer tight integration with their own branded e-reader hardware (Kindle, iPad, Nook, etc.) For example, publications bought on a Kindle via the Amazon Store are immediately downloaded to the device for further use, without hooking the device up to a computer and transferring the purchases manually. 
+The aforementioned storefronts typically charge a percentage for each publication sold, this percentage generally is no less than 30% of the retail price.[^apple-press-percentage]^,^[^guardian-amazon-hachette] Apart from Google, most of the larger retailers offer tight integration with their own branded e-reader hardware (Kindle, iPad, NOOK, etc.) For example, publications bought on a Kindle via the Amazon Store are immediately downloaded to the device for further use, without hooking the device up to a computer and transferring the purchases manually. 
  
 Each retailer accepts a different set of publications. Apple for example doesn't allow the sale of PDFs in its bookstore and only supports EPUB or publications made using iBooks Author.[^apple-publication-guidelines] Amazon, via their Kindle Direct Publishing program, supports a wider range of publications formats, including AZW, EPUB, PDF and even Microsoft Word documents.[^kindle-direct-publishing] 
  
@@ -106,7 +106,7 @@ Examples of social reading platforms:
 - *Social media discussions* are also part of the social reading experience. One can think here of Twitter interviews or when a book is being discussed online by a publisher. 
  
  
-## Print-on-demand 
+## Print on demand 
  
 There are a lot of options for **print-on-demand** publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered. 
  
@@ -192,26 +192,26 @@ Choose your preferred ways of distribution
  
 * PubIt![^PubIt!] - automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers. 
  
-* Smashwords[^Smashwords] - makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel ebook Store and more. There are no setup fees and no cost to update or revise your book. 
+* Smashwords[^Smashwords] - makes it free and easy to publish, distribute and sell ebooks globally at the largest ebook retailers, including the Apple iPad iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBooks store and more. There are no setup fees and no cost to update or revise your book. 
  
-* XinXii[^XinXii] - facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and mobi. As an aggregator, XinXii distributes to major international ebook retailers. 
+* XinXii[^XinXii] - facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and MOBI. As an aggregator, XinXii distributes to major international ebook retailers. 
  
 ###Options in the Netherlands 
  
-* CB Print on demand[^CB-Print-on-demand] - is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition. 
+* CB print on demand[^CB-Print-on-demand] - is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition. 
  
-* Boekscout[^Boekscout] - is one of the biggest print-on-demand publishers in The Netherlands, aimed at self-publishing. 
+* Boekscout[^Boekscout] - is one of the biggest print-on-demand publishers in the Netherlands, aimed at self-publishing. 
  
  
-## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru 
+## Pirate platforms: AAAAARG, Monoskop, The Pirate Bay, library.ru 
 As with music and films, 'pirate' platforms haven often been the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright copyright violation or in gray zones (when, for example, providing obscure and out-of-print books, films or recordings whose rights owners are unknown). Whether one likes it or not, pirate platforms have best met customer demand. Often, they are user friendlier than many Internet shops. The mere existence and popularity of pirate sites for digitized book shows, by the way, how large the market for electronic reading really is. Pirate platforms are, by their nature, even more volatile than online bookstores and e-reading platforms. Worldwide, many organizations exist aiming to combat piracy and shut down facilitators of said practice, even when operating on a small scale. As a general rule pirate platforms have proven to be mostly resistant to the crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure. 
  
-Commercial providers of digital content can learn a lot from the pirates.Netflix,[^Netflix] the most successful web service for **streaming** films and growing competitor for pay TV, is known for buying films based on their popularity on The Pirate Bay.[^The-Pirate-Bay] 
+Commercial providers of digital content can learn a lot from the pirates. Netflix,[^Netflix] the most successful web service for **streaming** films and growing competitor for pay TV, is known for buying films based on their popularity on The Pirate Bay.[^The-Pirate-Bay] 
  
 #### All-purpose download sites 
-Sites like The Pirate Bay offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (bittorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers. 
+Sites like The Pirate Bay offer all kinds of media for download: films, music, computer games and software, and electronic books. Since they are widely used, display current download statistics and since their technology (BitTorrent) depend on user participation for their downloads to stay alive, they can provide great insight into what is really popular among readers. 
  
-The content listed on The Pirate Bay and other sites for the bittorrent **protocol** tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and Science Fiction among the ebook downloads. For example, on a particular day and minute in June 2014, the book 'Atlas of Ancient Worlds' had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series 'Game of Thrones' - had more than 70000 downloads. 
+The content listed on The Pirate Bay and other sites for the BitTorrent **protocol** tends to be mainstream: Hollywood films, pop music, and a tendency towards non-fiction and technical handbook literature alongside fantasy and science fiction among the ebook downloads. For example, on a particular day and minute in June 2014, the book 'Atlas of Ancient Worlds' had more than 2000 downloads in 48 hours. In comparison, the most popular film - an episode of the TV series 'Game of Thrones' - had more than 70000 downloads. 
  
  
 #### General ebook sites 
@@ -225,7 +225,7 @@ What online booksellers could learn from these sites:
  
 #### Specialized sites 
  
-Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the web sites aaaaarg.org[^aaaaarg.org] and Monoskop[^Monoskop] provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
+Some websites outside or in gray areas of copyright are artistic projects. In the 1990s, 'textz.com' by the Berlin-based artist Sebastian Luetgert was the first site to offer cultural, political and media theory books as simple, gratis-downloadable text files - among them, theory classics by Theodor W. Adorno. The name 'textz' was a pun on 'warez', a slang name for illegally copied software. Later, the websites aaaaarg.org[^aaaaarg.org] and Monoskop[^Monoskop] provided related collections of freely downloadable art, cultural and media studies books, yet with different thematic emphases: to stimulate reading and discussion groups, or to provide a carefully hand-selected library mirroring the taste of the site owner. 
  
 Best known, and factually legendary, is UbuWeb,[^Ubuweb] an encyclopedic site providing downloadable sound, video and text file version of avant-garde arts records, films and books. Most of them fall under the category of small edition artists' books, and are provided with the artists' permission - since most these works never created revenue when they were commercially released. 
  
@@ -234,7 +234,7 @@ All these sites run like small specialty bookstores (although they don't sell an
  
  
  
-## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks 
+## Artist-/designer-run projects: Badlands Unlimited, KYUR8, artists ebooks 
  
 In the last couple of years, there have been first attempts to create only small presses and book download stores for [artists' and designer's books](#artistdesigner-book): writer, artist and publisher, James Bridle (who coined the term 'new aesthetics') created the website 'artistsebooks.org' with freely downloadable EPUB files by experimental writers and artists. American contemporary artist and designer Paul Chan initiated the more commercial online press Badlands Unlimited that sells artist-made visual electronic books that are proprietary to the iPad and Apple's iBooks platform. The iPhone/iPad app 'KYUR8' (slang riff on 'curate') invites artists' to quickly make their own electronic visual zines using page templates and user's cell phone photo collections. Other examples are [http://www.gauss-pdf.com](http://www.gauss-pdf.com), a publisher of digital and print works and [http://trollthread.tumblr.com](http://trollthread.tumblr.com), a collective of poets that produces publications available for download in PDF or purchase as print on demand volumes. 
  
@@ -256,7 +256,7 @@ None of these projects compete with classical ebook stores, online reading platf
 [^PubIt!]: Self-Publishing Made Simple, <a href="http://pubit.barnesandnoble.com/">http://pubit.barnesandnoble.com/</a>. 
 [^Smashwords]: How to Create, Publish, and Distribute Ebooks with Smashwords, <a href="http://www.smashwords.com/about/how_to_publish_on_smashwords">http://www.smashwords.com/about/how_to_publish_on_smashwords</a>. 
 [^XinXii]: Xin Xii, <a href="http://www.xinxii.com/">http://www.xinxii.com/</a>. 
-[^CB-Print-on-demand]: CB Print on demand, <a href="http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/">http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/</a>. 
+[^CB-Print-on-demand]: CB print on demand, <a href="http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/">http://www.cb-logistics.nl/markten/media/uitgeverijen/logistieke-diensten/print-on-demand/</a>. 
 [^Boekscout]: Boekscout, <a href="http://www.boekscout.nl/">http://www.boekscout.nl/</a>. 
 [^Netflix]: Netflix, <a href="http://www.netflix.com">http://www.netflix.com</a>. 
 [^The-Pirate-Bay]: The Pirate Bay, <a href="http://thepiratebay.se">http://thepiratebay.se</a>. 

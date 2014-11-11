@@ -10,6 +10,7 @@ We use the American spelling
 * Ebook
 * E-reader
 * E-publication
+* E-paper
 * iBook
 * Epubreader
 
@@ -23,6 +24,7 @@ We use the American spelling
 * ebook
 * e-reader
 * e-publication
+* e-paper
 * ebookstore
 * iBook
 

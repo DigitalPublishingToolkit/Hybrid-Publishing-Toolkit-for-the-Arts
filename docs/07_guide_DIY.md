@@ -12,14 +12,14 @@ Making an EPUB doesn't have to be complicated. As the EPUB standard is open and 
  
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail. 
  
-An EPUB is a zip archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, stylesheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with zip files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process. [^epub-zipping-process] 
+An EPUB is a ZIP archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, style sheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with ZIP files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process. [^epub-zipping-process] 
  
 You can download an example of a rudimentary EPUB that explains several of these ideas.[^rudimentary-epub] 
  
  
 ###Layout of an EPUB package 
  
-Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed zip archive. First unzip it using an archive program. After unzipping it, it looks as follows: 
+Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed ZIP archive. First unzip it using an archive program. After unzipping it, it looks as follows: 
  
 ![EPUB layout](images/InD_InD_08_epublayout.png "EPUB layout") 
 <!--Kimmy: image is still in progress--> 
@@ -76,7 +76,7 @@ The important part of this document is the information in quotes following the a
  
 ####The OPF file 
  
-The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete opf file. 
+The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete OPF file. 
  
 ''' 
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
@@ -195,7 +195,7 @@ Tips
 - You can also set Export mapping in the Paragraph and Character Style dialog boxes. 
 ![Image](images/InD_Styles_7_pstyle_options_edit_tags.png) 
  
-- Earlier versions of InDesign were not as good at exporting all of its styles to CSS. CC is substantially better. 
+- Earlier versions of InDesign were not as good at exporting all of its styles to CSS. InDesign CC is substantially better. 
  
 - You can apply your own CSS in addition to or in substitution of the formatting from the styles from InDesign through the Export Options dialog box. 
  
@@ -233,7 +233,7 @@ Generally, it's more effective to use anchored images with text that will be exp
  
  
 ###Links and cross references 
-One of the main advantages of ebooks over print is that they can contain links to additional information, whether it be in the same book, or on a web site somewhere out on the internet. InDesign makes it easy to incorporate links into your ebook. 
+One of the main advantages of ebooks over print is that they can contain links to additional information, whether it be in the same book, or on a website somewhere out on the Internet. InDesign makes it easy to incorporate links into your ebook. 
  
 There are two principal kinds of links: links in which you specify both the destination and the link text, and links that get the link text automatically from the destination. This second kind of links are called cross-references. It's a good idea to apply a character style to all kinds of links. 
  
@@ -337,7 +337,7 @@ It's always a good idea to validate your EPUB documents with ePubCheck before yo
  
  
 ## Do it yourself EPUB using pandoc 
-Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 1) [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 2) ) and Calibre's conversion tool.[^ebook-convert] 
+Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 1) [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 2) ) and calibre's conversion tool.[^ebook-convert] 
  
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plain-text], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works. 
  
@@ -350,7 +350,7 @@ To make an EPUB of *Beowulf*, download the 'plain text' version (the complete te
  
 Windows: To start pandoc type cmd in the RUN (also called 'search programs and files' in the start panel which can be found under the MS window icon down in the toolbar), this will enable you to start the command mode. You'll get a white/black window saying C:\\user\\yourusername\>. There you type pandoc (enter) and the same line reappears, waiting for pandoc input (see further below).<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly --> 
  
-Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: Pandoc does not work on older Mac operating systems. 
+Mac: To use pandoc open the Terminal from your Utilities folder in your Applications folder, or through the search bar in the top right of your screen. Pandoc will be used to convert files in the steps below. Note: pandoc does not work on older Mac operating systems. 
  
 1. Go to the Terminal and type cd Documents. This means the Terminal will 'change directory' to the Documents folder. 
 2. Now type cd pandoc-test. The Terminal will change directory to the folder within the Documents folder called pandoc-test. Now you can work with the documents in there. 
@@ -365,7 +365,7 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
  
 	open beowulf.epub 
  
-8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a markdown file. Type the following command in pandoc to convert into EPUB: 
+8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a Markdown file. Type the following command in pandoc to convert into EPUB: 
  
 	pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub 
  
@@ -384,7 +384,7 @@ This means you give pandoc the command to convert your beowulf.md file from (-f)
 [^ebook-convert]:ebook-convert, http://manual.calibre-ebook.com/cli/ebook-convert.html. 
 [^plain-text]:Beowulf by J. Lesslie Hall, http://www.gutenberg.org/ebooks/16328. 
 <!-- [^calibre]: Calibre, http://calibre-ebook.com/.--> <!-- Andre: no reference to this f.note --> 
-[^pandoc-installation-page]: Installing Pandoc, http://www.johnmacfarlane.net/pandoc/installing.html. 
+[^pandoc-installation-page]: Installing pandoc, http://www.johnmacfarlane.net/pandoc/installing.html. 
 [^epub-zipping-process]: ePub Zip/Unzip AppleScript application for Mac OS X, http://www.mobileread.com/forums/showthread.php?t=55681. 
 [^rudimentary-epub]: Example EPUB, https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub. 
 [^idpf.org]: EPUB Publications 3.0.1. Recommended Specification 26 June 2014, http://www.idpf.org/epub/301/spec/epub-publications.html. 
