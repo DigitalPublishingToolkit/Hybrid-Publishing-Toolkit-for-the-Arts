@@ -12,7 +12,7 @@ We use the American spelling
 * E-publication
 * E-paper
 * iBook
-* Epubreader
+* EPUBreader (Firefox add-on)
 
 *exception: E-ink
 
