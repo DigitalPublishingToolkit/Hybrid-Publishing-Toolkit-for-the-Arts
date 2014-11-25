@@ -3,7 +3,6 @@
 We use the American spelling 
 'We use single parenthesis'
 
-<!-- Where it appears DPT or Digital Publishing Toolkit, should  change to new title: THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO EBOOKS -->
 
 ###Start of sentence*:
 
