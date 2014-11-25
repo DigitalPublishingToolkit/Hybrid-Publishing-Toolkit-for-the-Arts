@@ -8,10 +8,9 @@ We use the American spelling
 ###Start of sentence*:
 
 * Ebook
-* E-reader
-* E-publication
-* E-paper
+* Ereader
 * iBook
+* Epubreader
 * EPUBreader (Firefox add-on)
 
 *exception: E-ink
@@ -22,9 +21,7 @@ We use the American spelling
 ###In the sentence*:
 
 * ebook
-* e-reader
-* e-publication
-* e-paper
+* ereader
 * ebookstore
 * iBook
 
@@ -36,8 +33,8 @@ We use the American spelling
 
 * EPUB / EPUBs
 * PDF / PDFs
-* EPUB 3
-* EPUB 2
+* EPUB3
+* EPUB2
 * .epub (if file extension)
 
 
