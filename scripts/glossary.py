@@ -35,7 +35,10 @@ def find_unbold_term_in_text(term, gloss_file, search_dir): # looks for files fr
                     if term in text:
                     # if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
                         title = (xhtml_parsed.find('.//title')).text
-                        print 'FOUND unbold glossary term:', term, 'in file:', f, '"'+title+'"'
+                        msg = 'FOUND unbold glossary term: "{}" in file {}, section "{}"'.format(term,f,title)
+#                        msg = term +"; "+ title
+                        print msg
+                        return term, title
                         break
 
 
