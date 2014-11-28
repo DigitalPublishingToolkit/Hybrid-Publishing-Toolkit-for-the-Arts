@@ -1,0 +1,24 @@
+main files
+
+00_colophon.docx			= 
+01_introduction.docx			= 
+02_the_basics (miriam).docx		= 
+02_the_basics.docx			= 
+03_4_boldstrong.png			= 
+03_genres_of_publication.docx		= 
+04_ereading_technologies.docx		= 
+05_distribution_platforms.docx		= 
+06_workflows.docx			= 
+07_guide_DIY.docx			= 
+08_guide_workflow.docx			= 
+09_futurology.docx			= 
+10_glossary.docx			= 
+11_software.docx			= 
+12_appendix.docx			= 
+13_Backcover_text.docx			=
+
+other files
+
++master doc and highlight legend.docx	=
++terms deleted from glossary.docx	=
+glossary cross reference.xlsx		=
