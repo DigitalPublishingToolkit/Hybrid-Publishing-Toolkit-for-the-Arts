@@ -2,10 +2,8 @@ main files
 
 00_colophon.docx			= 
 01_introduction.docx			= 
-02_the_basics (miriam).docx		= 
 02_the_basics.docx			= 
-03_4_boldstrong.png			= 
-03_genres_of_publication.docx		= 
+03_genres_of_publication.docx		= joe
 04_ereading_technologies.docx		= 
 05_distribution_platforms.docx		= 
 06_workflows.docx			= 
