@@ -1,14 +1,14 @@
 main files
 
 00_colophon.docx			= 
-01_introduction.docx			= Miriam
+01_introduction.docx			=
 02_the_basics.docx			= 
 03_genres_of_publication.docx		= joe
 04_ereading_technologies.docx		= 
 05_distribution_platforms.docx		= 
-06_guide_DIY.docx			= Miriam
+06_guide_DIY.docx			=
 07_workflows.docx			= Miriam
-08_guide_workflow.docx			= 
+08_guide_workflow.docx			= Miriam
 09_futurology.docx			= 
 10_glossary.docx			= 
 11_software.docx			= 
