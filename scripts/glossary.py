@@ -12,16 +12,29 @@ from xml.etree import ElementTree as ET
 # replace html5lib with built-in module
 # integrate code on post_ script 
 
-
 temp_dir="EPUB/" #temp/
 temp_dir_ls=os.listdir(temp_dir)
 
-def add_child(parent, element, myclass, myid, href, text):
-    child = ET.SubElement(parent, element, {'class':myclass, 'href': href, 'id':myid} )
-    child.text = text
+def add_child(parent, element, myclass, myid, href, text, section):
+    if section is 'glossary':
+        link_wrap_before = ' [' 
+        link_wrap_after = ']'
+    else:
+        link_wrap_before = '' 
+        link_wrap_after = ' '
 
+    child = ET.SubElement(parent, 'span' )
+    child.text = link_wrap_before
+    child.tail = link_wrap_after
 
-def find_unbold_term_in_text(term, gloss_file, search_dir): # looks for files from Glossary outside <strong>
+    grandchild = ET.SubElement(child, element, {'class':myclass, 'href': href, 'id':myid})
+    grandchild.text = text
+#    grandchild.append('span', )
+    
+
+def find_unbold_term_in_text(term, gloss_file, search_dir):
+    # def only intended to produce lists of terms in body matter that need to become bold
+    # looks for files from Glossary outside <strong>
     xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
     xhtmls.sort()
     for f in xhtmls: #try matching glossary term with term in body text
@@ -41,8 +54,7 @@ def find_unbold_term_in_text(term, gloss_file, search_dir): # looks for files fr
                         return term, title
                         break
 
-
-    
+                    
 def find_term_in_text(term, gloss_file, search_dir): #find a match for each glossary term
     xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
     xhtmls.sort()
@@ -57,7 +69,6 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
                         print 'MATCH TEXT:', text, '-', 'TERM:', term     ## Step 3.3: TEXT LINK: Add link to glossary_term                          
                         return content, xhtml_parsed, f
                         break
-
 
 def strip_glossary_term(item): #remove whatever is inside parenthesis
     h5 = item.find('./h5')
@@ -89,56 +100,54 @@ def find_chapter(glossary_title, search_dir):
             return(f, xhtml_parsed)
 
 
-
-# glossary and its terms
+# files inside unziped EPUB (temp_dir)
 glossary=find_chapter("11 Glossary of Technical Terms", temp_dir_ls)
 gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
 gloss_terms = gloss_tree.findall('.//section[@class="level5"]') # find glossary terms
 
-
-# finding unbolded glossary terms
+# loop through all glossary terms and find them in body text
 for gloss_el in gloss_terms:
     gloss_term = strip_glossary_term(gloss_el) 
-#    print 'Glossary Term:', gloss_term
-    find_unbold_term_in_text(term=gloss_term, 
-                             gloss_file=gloss_file, 
-                             search_dir=temp_dir_ls)
+    print 'Glossary Term:', gloss_term
+    found_term = find_term_in_text(term=gloss_term, 
+                                   gloss_file=gloss_file, 
+                                   search_dir=temp_dir_ls)
+    if found_term is not None:
+        text_term_el = found_term[0]
+        text_tree = found_term[1]
+        text_file = found_term[2]
+
+        # add glossary reference hyperlink
+        add_child(parent=text_term_el, 
+                  element='a', 
+                  myclass='glossref', 
+                  myid='glossref_'+gloss_el.get('id'), 
+                  href=gloss_file+'#'+gloss_el.get('id'), 
+                  text='*',
+                  section = 'body'
+        )
+        save_html(temp_dir, text_file, text_tree ) # save chapter file
+
+        # add glossary term hyperlink
+        add_child(parent=(gloss_el.findall('.//h5'))[0], 
+                  element='a', 
+                  myclass='glossterm', 
+                  myid='glossterm_'+gloss_el.get('id'), 
+                  href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
+                  text=u"Return",
+                  section = 'glossary'
+        ) 
+
+save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
 
 
 
-
-## uncomment to change glossary    
-# # loop through all glossary terms and find them in body text
+# # finding unbolded glossary terms
 # for gloss_el in gloss_terms:
 #     gloss_term = strip_glossary_term(gloss_el) 
-#     print 'Glossary Term:', gloss_term
-#     found_term = find_term_in_text(term=gloss_term, 
-#                                    gloss_file=gloss_file, 
-#                                    search_dir=temp_dir_ls)
-#     if found_term is not None:
-#         text_term_el = found_term[0]
-#         text_tree = found_term[1]
-#         text_file = found_term[2]
-
-#         # add glossary reference hyperlink
-#         add_child(parent=text_term_el, 
-#                   element='a', 
-#                   myclass='glossref', 
-#                   myid='glossref_'+gloss_el.get('id'), 
-#                   href=gloss_file+'#'+gloss_el.get('id'), 
-#                   text='*')
-#         save_html(temp_dir, text_file, text_tree ) # save chapter file
-
-#         # add glossary term hyperlink
-#         add_child(parent=(gloss_el.findall('.//h5'))[0], 
-#                   element='a', 
-#                   myclass='glossterm', 
-#                   myid='glossterm_'+gloss_el.get('id'), 
-#                   href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
-#                   text=u"↩") 
-
-# save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
-
-
+# #    print 'Glossary Term:', gloss_term
+#     find_unbold_term_in_text(term=gloss_term, 
+#                              gloss_file=gloss_file, 
+#                              search_dir=temp_dir_ls)
