@@ -7,7 +7,7 @@ main files
 04_ereading_technologies.docx		= 
 05_distribution_platforms.docx		= 
 06_guide_DIY.docx			=
-07_workflows.docx			= Miriam
+07_workflows.docx			=
 08_guide_workflow.docx			= Miriam
 09_futurology.docx			= 
 10_glossary.docx			= 
