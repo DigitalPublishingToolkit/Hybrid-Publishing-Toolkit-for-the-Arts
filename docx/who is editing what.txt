@@ -4,7 +4,7 @@ main files
 01_introduction.docx			= 
 02_the_basics.docx			= 
 03_genres_of_publication.docx		= Miriam
-04_ereading_technologies.docx		= Joe
+04_ereading_technologies.docx		= 
 05_distribution_platforms.docx		= 
 06_guide_DIY.docx			=
 07_workflows.docx			=
