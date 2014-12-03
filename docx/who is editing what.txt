@@ -1,8 +1,8 @@
 main files
 
 00_colophon.docx			= 
-01_introduction.docx			=
-02_the_basics.docx			= Joe
+01_introduction.docx			= Joe
+02_the_basics.docx			= 
 03_genres_of_publication.docx		= Miriam
 04_ereading_technologies.docx		= Joe
 05_distribution_platforms.docx		= 
