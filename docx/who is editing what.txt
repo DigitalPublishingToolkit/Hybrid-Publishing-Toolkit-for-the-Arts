@@ -8,8 +8,8 @@ main files
 05_distribution_platforms.docx		= 
 06_guide_DIY.docx			=
 07_workflows.docx			=
-08_guide_workflow.docx			= Miriam
-09_futurology.docx			= 
+08_guide_workflow.docx			=
+09_futurology.docx			= Miriam
 10_glossary.docx			= 
 11_software.docx			= 
 12_appendix.docx			= 
