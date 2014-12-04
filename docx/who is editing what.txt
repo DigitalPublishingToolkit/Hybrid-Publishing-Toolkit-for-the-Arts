@@ -5,7 +5,7 @@ main files
 02_the_basics.docx			= 
 03_genres_of_publication.docx		=
 04_ereading_technologies.docx		= 
-05_distribution_platforms.docx		= 
+05_distribution_platforms.docx		= Joe
 06_guide_DIY.docx			=
 07_workflows.docx			=
 08_guide_workflow.docx			=
