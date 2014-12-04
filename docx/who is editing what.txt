@@ -9,8 +9,8 @@ main files
 06_guide_DIY.docx			=
 07_workflows.docx			=
 08_guide_workflow.docx			=
-09_futurology.docx			= Miriam
-10_glossary.docx			= 
+09_futurology.docx			=
+10_glossary.docx			= Miriam
 11_software.docx			= 
 12_appendix.docx			= 
 13_Backcover_text.docx			=
