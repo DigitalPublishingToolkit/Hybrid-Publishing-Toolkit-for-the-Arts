@@ -6,7 +6,7 @@ main files
 03_genres_of_publication.docx		=
 04_ereading_technologies.docx		= 
 05_distribution_platforms.docx		=
-06_guide_DIY.docx			=
+06_guide_DIY.docx			= Joe
 07_workflows.docx			=
 08_guide_workflow.docx			=
 09_futurology.docx			=
