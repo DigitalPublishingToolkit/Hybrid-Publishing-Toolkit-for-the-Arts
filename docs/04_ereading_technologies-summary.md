@@ -1,0 +1,3 @@
+- There is a multitude of electronic reading hardware and electronic reading software (apps).
+- The combinations of software and hardware that readers can use are complex and virtually unlimited.
+- EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook format.

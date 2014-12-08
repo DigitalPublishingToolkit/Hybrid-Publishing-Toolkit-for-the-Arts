@@ -1,0 +1,3 @@
+- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects.
+- These platforms differ in their scope of content, their business strategies and the reading technologies they support.
+- The choice of one or more distribution platforms therefore also determines design choices for an ebook.

@@ -1,0 +1,7 @@
+- In art and design publishing, the following genres are most common: research publications, catalogues, artists' books, periodicals.
+- Electronic publishing offers different opportunities – and creates different challenges – depending on the genre.
+- Searchability, easy dissemination and content modularization are common opportunities, visual design and the medium-specificity of artists' books are common difficulties.
+- There are three ways of creating hybrid books:
+	- “one-to-one” where the book is one finished product published in different media.
+	- “one-to-many” where the book has different appearances in different media.
+	- “one-to-database” where the book exists in a database whose content can be flexibly reused.
