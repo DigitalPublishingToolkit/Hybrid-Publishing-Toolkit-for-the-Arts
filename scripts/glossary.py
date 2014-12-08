@@ -1,20 +1,15 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
-import os, html5lib, re
+import os, html5lib, re, sys, zipfile, shutil
 from xml.etree import ElementTree as ET
 
 ###
-# Adds back hyperlink references and back-references to the terms in the EPUBs glossary.
+# Adds hyperlink references and back-references to the terms in the EPUBs GLOSSARY.
 ###
 
-## TODO
-# tackle problematic terms
-# replace html5lib with built-in module
-# integrate code on post_ script 
+print "** Adding hyperlinks to EPUB Glossary **"
 
-temp_dir="EPUB/" #temp/
-temp_dir_ls=os.listdir(temp_dir)
-
+# defs
 def add_child(parent, element, myclass, myid, href, text, section):
     if section is 'glossary':
         link_wrap_before = ' [' 
@@ -33,7 +28,7 @@ def wrap_term_anchor(parent, element, myclass, myid, href, section):
     parent.text = ''
     sub = ET.SubElement(parent, 'a', {'class':myclass, 'id':myid, 'href':href})
     sub.text = parent_text
-    print ET.tostring(parent)
+    #print ET.tostring(parent)
 
 def find_unbold_term_in_text(term, gloss_file, search_dir):
     # def only intended to produce lists of terms in body matter that need to become bold
@@ -56,7 +51,6 @@ def find_unbold_term_in_text(term, gloss_file, search_dir):
                         print msg
                         return term, title
                         break
-
                     
 def find_term_in_text(term, gloss_file, search_dir): #find a match for each glossary term
     xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
@@ -68,8 +62,7 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
             for content in p_strong:          
                 if content.text is not None:
                     text = (content.text).encode('UTF-8')
-                    if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                        
-
+                    if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                   
 #                    if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
                         print 'MATCH TEXT:', text, '-', 'TERM:', term     ## Step 3.3: TEXT LINK: Add link to glossary_term                          
                         return content, xhtml_parsed, f
@@ -113,12 +106,25 @@ def find_chapter(glossary_title, search_dir):
             return(f, xhtml_parsed)
 
 
+## unzip epub
+filename = sys.argv[1]
+fh = open(str(filename), 'rb')
+z = zipfile.ZipFile(fh)
+for name in z.namelist():
+    outpath = "temp"
+    z.extract(name, outpath)
+fh.close()
+temp_dir="temp/"
+temp_dir_ls=os.listdir(temp_dir)
+
+
 # files inside unziped EPUB (temp_dir)
 glossary=find_chapter("10 Glossary of Technical Terms", temp_dir_ls)
 gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
 gloss_terms = gloss_tree.findall('.//section[@class="level5"]') # find glossary terms
+
 
 # loop through all glossary terms and find them in body text
 for gloss_el in gloss_terms:
@@ -155,6 +161,29 @@ for gloss_el in gloss_terms:
 
 save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
 
+# Step 3: zip epub
+epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
+#epub.writestr("mimetype", "application/epub+zip")
+
+def fileList(source):
+    matches = []
+    for root, dirnames, filenames in os.walk(source):
+        for filename in filenames:
+            matches.append(os.path.join(root, filename))
+    return matches
+
+dirlist=fileList(temp_dir)
+
+for name in dirlist:
+    path = name[5:] # removes temp/
+    epub.write(name, path, zipfile.ZIP_DEFLATED)
+epub.close()
+
+# Step 4: clean up: rm temp zipname
+shutil.rmtree(temp_dir)
+
+print
+print "** Hyperlinks to Glossary were inserted without errors **"
 
 
 # # finding unbolded glossary terms
