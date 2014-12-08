@@ -26,6 +26,15 @@ fh.close()
 ## STEP 2:  Do Changes
 
 ### Changes defs
+def replace_fn_links(tree, element):
+    print 'replacing footnotes links'
+    for tag in tree.findall(element):
+        if tag.text is not None:
+            text=(tag.text).encode('utf-8')
+            if text == '↩':#'&#8617;':
+                tag.text = 'back'
+
+
 def addclass_bloglink(tree, element): # add class=bloglink to blog icon images
     print '     adding class=bloglink to bloglinks <img>s'
     for tag in tree.findall(element):
@@ -68,6 +77,7 @@ for f in temp_ls: # 2.1: loop content files
         xhtml = open("temp/"+f, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
 
+        replace_fn_links(xhtml_parsed, './/li/p/a')
         addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
         figure(xhtml_parsed, './/figure') 
 
