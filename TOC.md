@@ -45,7 +45,14 @@
 ## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks <!--Florian-->
 
 
-# [06 Towards a Hybrid Workflow Based on Markdown](docs/06_workflows.md) 
+# [06 Guide: How to make a simple EPUB](docs/06_guide_DIY.md) 
+<!--status: ask input from Florian -->
+
+## Direct conversion
+## Do it yourself EPUB from scratch
+
+
+# [07 Towards a Hybrid Workflow Based on Markdown](docs/07_workflows.md) 
 <!--status: needs work and cutting-->
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
@@ -53,11 +60,6 @@
 
 
 
-# [07 Guide: How to make a simple EPUB](docs/07_guide_DIY.md) 
-<!--status: ask input from Florian -->
-
-## Direct conversion
-## Do it yourself EPUB from scratch
 
 
 # [08 Guide: / E-publications per genre](docs/08_guide_workflow.md) 
@@ -70,11 +72,12 @@
 
 
 
-# [09 Guide: Alternative ways of publishing](docs/09_alternative_ways_of_publishing.md)
 
 
 
-# [10 Futurology](docs/10_futurology.md) 
+
+
+# [09 Futurology](docs/09_futurology.md) 
 <!--status: work needed--><!--Michael, Silvio, Florian, Joost, Arjen, Kimmy-->
 ## What we can expect
 ## Reading technology 
@@ -82,10 +85,10 @@
 ## Publishing culture
 
 
-# [11 Glossary of technical terms](docs/11_glossary.md)
+# [10 Glossary of technical terms](docs/10_glossary.md)
 <!--status: pending, add unknown words when you see them-->
 
-# [12 Software Catalogue](docs/12_software.md) 
+# [11 Software Catalogue](docs/11_software.md) 
 <!--status: -->
 
 ## BIS Publishers
@@ -98,7 +101,7 @@
 ## Self-written software
 -->
 
-# [13 Appendix](docs/13_appendix.md)
+# [12 Appendix](docs/12_appendix.md)
 
 ## Keyword index 
 ## Bibliography 
@@ -108,3 +111,4 @@
 ## Instructions for placing images
 
 
+# [13 Backcover](docs/13_Backcover_text.md)
