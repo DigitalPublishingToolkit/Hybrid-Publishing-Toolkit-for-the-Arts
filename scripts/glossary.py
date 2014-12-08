@@ -19,9 +19,6 @@ def add_child(parent, element, myclass, myid, href, text, section):
     if section is 'glossary':
         link_wrap_before = ' [' 
         link_wrap_after = ']'
-    else:
-        link_wrap_before = '' 
-        link_wrap_after = ' '
 
     child = ET.SubElement(parent, 'span' )
     child.text = link_wrap_before
@@ -30,7 +27,13 @@ def add_child(parent, element, myclass, myid, href, text, section):
     grandchild = ET.SubElement(child, element, {'class':myclass, 'href': href, 'id':myid})
     grandchild.text = text
 #    grandchild.append('span', )
-    
+
+def wrap_term_anchor(parent, element, myclass, myid, href, section):
+    parent_text = parent.text
+    parent.text = ''
+    sub = ET.SubElement(parent, 'a', {'class':myclass, 'id':myid, 'href':href})
+    sub.text = parent_text
+    print ET.tostring(parent)
 
 def find_unbold_term_in_text(term, gloss_file, search_dir):
     # def only intended to produce lists of terms in body matter that need to become bold
@@ -111,7 +114,7 @@ def find_chapter(glossary_title, search_dir):
 
 
 # files inside unziped EPUB (temp_dir)
-glossary=find_chapter("11 Glossary of Technical Terms", temp_dir_ls)
+glossary=find_chapter("10 Glossary of Technical Terms", temp_dir_ls)
 gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
@@ -131,12 +134,11 @@ for gloss_el in gloss_terms:
             text_file = found_term[2]
 
             # add glossary reference hyperlink
-            add_child(parent=text_term_el, 
+            wrap_term_anchor(parent=text_term_el, 
                       element='a', 
                       myclass='glossref', 
                       myid='glossref_'+gloss_el.get('id'), 
                       href=gloss_file+'#'+gloss_el.get('id'), 
-                      text='*',
                       section = 'body'
             )
             save_html(temp_dir, text_file, text_tree ) # save chapter file
