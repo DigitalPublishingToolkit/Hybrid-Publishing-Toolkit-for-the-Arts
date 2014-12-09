@@ -1,13 +1,13 @@
-﻿# Colophon 
+# Colophon 
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
  
 **Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\ 
-**Editing:** Joe Monk and Amy Wu\ 
+**Editing:** Miriam Rasch and Amy Wu\ 
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg\ 
 **Print design :** Loes Sikkes and Kimmy Spreeuwenberg\ 
 **EPUB design :** André Castro\ 
-**Cover design:** [Studio Mooijman en Mittelberg](www.mooijmanenmittelberg.nl/)
+**Cover design:** Loes Sikkes and Kimmy Spreeuwenberg\ 
  
  
 **Printer:** Drukkerij Printvisie B.V., Rotterdam\ 
@@ -35,8 +35,7 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
  
  
  
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit <!-- Hybrid Publishing Toolkit for the Arts, a Guide from Print to Ebooks -->
-please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
  
  
 Amsterdam, 2014\ 
