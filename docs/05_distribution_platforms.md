@@ -23,8 +23,7 @@ Below several platforms are discussed, including characteristics, statistics, st
 ![Internet Archive](images/05_01_internetarchive.png) 
  
  
-###Third party blogs 
- 
+### Third party blogs  
 ***Medium*** [https://medium.com](https://medium.com) 
  
 **Characteristics** 
@@ -93,8 +92,7 @@ Below several platforms are discussed, including characteristics, statistics, st
 * Create an account and upload text for blog 
  
  
-###Social reading platforms 
- 
+### Social reading platforms  
 Social reading has to do with the experience of reading ebooks. It is a field in great development, which lies beyond the scope of this Toolkit. However, it is good for publishers working on e-publications to keep an eye on the future of social reading. 
  
 Examples of social reading platforms: 
@@ -111,8 +109,7 @@ Examples of social reading platforms:
 There are a lot of options for **print-on-demand** publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered. 
  
  
-###Lulu.com 
-![Lulu](images/07_LuluIcon.png "Lulu") 
+### Lulu.com ![Lulu](images/07_LuluIcon.png "Lulu") 
  
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
  
@@ -154,8 +151,7 @@ Choose your preferred ways of distribution
  
  
  
-###Espresso Book Machine 
- 
+### Espresso Book Machine  
 The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes. 
 It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model. 
  
@@ -187,8 +183,7 @@ Sign the affidavit stating you own the rights to the book
 Choose your preferred ways of distribution 
  
  
-###Global options 
-* Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
+### Global options * Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
  
 * PubIt![^PubIt!] - automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers. 
  
@@ -196,8 +191,7 @@ Choose your preferred ways of distribution
  
 * XinXii[^XinXii] - facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and MOBI. As an aggregator, XinXii distributes to major international ebook retailers. 
  
-###Options in the Netherlands 
- 
+### Options in the Netherlands  
 * CB print on demand[^CB-Print-on-demand] - is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition. 
  
 * Boekscout[^Boekscout] - is one of the biggest print-on-demand publishers in the Netherlands, aimed at self-publishing. 

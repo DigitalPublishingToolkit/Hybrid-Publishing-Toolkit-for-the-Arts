@@ -45,18 +45,20 @@
 ## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks <!--Florian-->
 
 
-# [06 Guide: How to make a simple EPUB](docs/06_guide_DIY.md) 
+# [06 Towards a Hybrid Workflow Based on Markdown](docs/06_workflows.md) 
+<!--status: needs work and cutting-->
+
+## E-publishing workflows: desktop publishing, XML, Markdown 
+## Database publishing 
+
+
+# [07 Guide: How to make a simple EPUB](docs/07_guide_DIY.md) 
 <!--status: ask input from Florian -->
 
 ## Direct conversion
 ## Do it yourself EPUB from scratch
 
 
-# [07 Towards a Hybrid Workflow Based on Markdown](docs/07_workflows.md) 
-<!--status: needs work and cutting-->
-
-## E-publishing workflows: desktop publishing, XML, Markdown 
-## Database publishing 
 
 
 
@@ -84,11 +86,7 @@
 ## Reading culture 
 ## Publishing culture
 
-
-# [10 Glossary of technical terms](docs/10_glossary.md)
-<!--status: pending, add unknown words when you see them-->
-
-# [11 Software Catalogue](docs/11_software.md) 
+# [10 Software Catalogue](docs/10_software.md) 
 <!--status: -->
 
 ## BIS Publishers
@@ -96,12 +94,13 @@
 ## NAI/010 Publishers
 ## Valiz
 
-<!-- Amy: removed old titles.
-## Pre-existing software
-## Self-written software
--->
 
-# [12 Appendix](docs/12_appendix.md)
+# [Glossary of technical terms](docs/11_glossary.md)
+<!--status: pending, add unknown words when you see them-->
+
+
+
+# [Appendix](docs/12_appendix.md)
 
 ## Keyword index 
 ## Bibliography 
@@ -111,4 +110,4 @@
 ## Instructions for placing images
 
 
-# [13 Backcover](docs/13_Backcover_text.md)
+# [Backcover](docs/13_Backcover_text.md)
