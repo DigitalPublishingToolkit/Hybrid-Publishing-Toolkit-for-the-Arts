@@ -1,4 +1,4 @@
-﻿# 05 Distribution platforms 
+# 05 Distribution platforms 
  
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
  

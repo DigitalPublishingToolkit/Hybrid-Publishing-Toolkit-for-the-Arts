@@ -1,4 +1,4 @@
-﻿# 07 Guide: How to make a simple EPUB 
+# 07 Guide: How to make a simple EPUB 
  
  
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to EPUB. The following options are being explained 

@@ -1,4 +1,4 @@
-﻿# Colophon 
+# Colophon 
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
  
