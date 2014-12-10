@@ -1,5 +1,12 @@
 # 02 The Basics 
- 
+<div class="summary">
+- In the historical development of writing, non-letter characters have become increasingly important: first blank spaces between words, then punctuation marks, later formatting **markup**.
+- In electronic texts, markup has developed into two general types: visual-typographic (such as in the tag “bold type”) versus logical-semantic (such as in the tag “emphasis”).
+- Logical-semantic markup is the basis for hybrid publishing since it can be translated into the visual formatting that is best fit for a particular medium.
+- The main advantage of electronic books is that same content can be published in a wide variety of formats.
+</div>
+
+
 ## What is a text? 
 A text is a collection of words and words are compositions of letters. In order to read a text we have all kinds of layout helpers. Keep in mind that in the Roman times (when texts were cut in stone) there was continuing writing: no spaces between the words. This was not considered a problem as reading was a craft only a few people mastered. These people knew the words and hence were able to read aloud, just try: *Icanreadthiseasilyaloud*. 
  

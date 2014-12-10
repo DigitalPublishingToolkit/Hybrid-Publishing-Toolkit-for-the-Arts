@@ -1,5 +1,11 @@
 # 05 Distribution platforms 
- 
+
+<div class="summary">
+- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects.
+- These platforms differ in their scope of content, their business strategies and the reading technologies they support.
+- The choice of one or more distribution platforms therefore also determines design choices for an ebook.
+</div>
+
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
  
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of NOOK devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
@@ -23,7 +29,8 @@ Below several platforms are discussed, including characteristics, statistics, st
 ![Online Reading Platform Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png) 
  
  
-###Third party blogs 
+
+### Third party blogs
 ![Online Reading Platform Medium](images/05_01_onlinereadingplatforms_medium.png) 
  
 ***Medium*** [https://medium.com](https://medium.com) 
@@ -94,8 +101,7 @@ Below several platforms are discussed, including characteristics, statistics, st
 * Create an account and upload text for blog 
  
  
-###Social reading platforms 
- 
+### Social reading platforms  
 Social reading has to do with the experience of reading ebooks. It is a field in great development, which lies beyond the scope of this Toolkit. However, it is good for publishers working on e-publications to keep an eye on the future of social reading. 
  
 Examples of social reading platforms: 
@@ -112,9 +118,9 @@ Examples of social reading platforms:
 There are a lot of options for **print-on-demand** publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered. 
  
  
-###Lulu.com 
-![Online Reading Platform Lulu](images/05_01_onlinereadingplatforms_Lulu.png)
 
+### Lulu.com
+![Online Reading Platform Lulu](images/05_01_onlinereadingplatforms_Lulu.png)
  
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
  
@@ -156,10 +162,8 @@ Choose your preferred ways of distribution
  
  
  
-###Espresso Book Machine 
-![Online Reading Platform Espresso Book Machine](images/05_01_onlinereadingplatforms_espressomachine.png)
- 
- 
+
+### Espresso Book Machine ![Online Reading Platform Espresso Book Machine](images/05_01_onlinereadingplatforms_espressomachine.png)
 The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes. 
 It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model. 
  
@@ -191,8 +195,7 @@ Sign the affidavit stating you own the rights to the book
 Choose your preferred ways of distribution 
  
  
-###Global options 
-* Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
+### Global options * Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
  
 * PubIt![^PubIt!] - automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers. 
  
@@ -200,8 +203,7 @@ Choose your preferred ways of distribution
  
 * XinXii[^XinXii] - facilitate authors to upload and sell their work online on their XinXii author page: short works, documents and books (as ebook or audiobook) - in multiple formats including PDF, EPUB and MOBI. As an aggregator, XinXii distributes to major international ebook retailers. 
  
-###Options in the Netherlands 
- 
+### Options in the Netherlands  
 * CB print on demand[^CB-Print-on-demand] - is the largest Dutch supplier of non-specialist printed books to bookshops and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services is print-on-demand. This is directed primarily at publishers already working with the CB distribution center. The book will stay available through the book databases used by book stores and publishers in the same way when it is in stock as a paper edition. 
  
 * Boekscout[^Boekscout] - is one of the biggest print-on-demand publishers in the Netherlands, aimed at self-publishing. 

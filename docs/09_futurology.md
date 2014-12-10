@@ -1,5 +1,14 @@
-# 10 Futurology 
- 
+# 09 Futurology 
+
+<div class="summary">
+- Collage, customization and curation appear to be key concepts in future electronic publishing.
+- Classical e-readers seem to lose importance while more and more people read on their standard mobile devices. Future e-reading customs will highly depend on the further development of electronic display technology.
+- E-reading and paper books will likely continue to coexist.
+- Flatrate subscriptions to whole ebook catalogues will likely become more common.
+- Self-publishing will likely grow more.
+- Reciprocally, there may be more need to editorial selection and content curation.
+</div>
+
 ## What we can expect 
 *Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^doris] In art books we try to describe, show, analyze and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible. 
 As we showed above in this guide, the act of gluing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers' desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations of hardware, platforms and content, both online and offline. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/?p=921 "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ") 

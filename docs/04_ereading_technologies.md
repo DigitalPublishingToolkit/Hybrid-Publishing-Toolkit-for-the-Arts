@@ -1,12 +1,18 @@
 # 04 E-reading Technologies 
- 
+
+<div class="summary">
+- There is a multitude of electronic reading hardware and electronic reading software (apps).
+- The combinations of software and hardware that readers can use are complex and virtually unlimited.
+- EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook format.
+</div>
+
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
  
-##Reader hardware 
+## Reader hardware
 There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications. 
  
  
-###E-readers 
+### E-readers
 E-readers became widely known with the introduction of the Amazon Kindle in 2007. E-readers differ from tablets in the way that they are only suitable for reading books, are relatively cheap and have **monochrome** displays. An important characteristic of the e-reader is the use of *electronic paper* (e-paper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as closely as possible and is relatively low in energy consumption. The current generation of e-paper is incapable of rendering complex motion, so animations and videos are impossible to use. 
  
 Both Amazon and Barnes & Noble also offer more expensive models, Amazon's Kindle Fire (and Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really e-readers anymore, but fully-fledged, small sized tablets. These models do not use e-paper, but instead work with color LED screens with backlight - a standard component of tablets such as **iPad** and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic e-readers using their own operating system built on a version of **Linux**. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets. 
@@ -15,74 +21,74 @@ Because of the lack of a color screen the current generation of e-readers is bes
  
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.") 
  
-###Tablets 
+### Tablets
 The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (**iOS**) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section. 
  
 Apple's and Samsung's most recent tablet screens cover nearly the entire so-called color space, which makes their color reproduction as good as that of professional **monitors** for photographers and graphic designers. It goes without saying that the color quality e.g. of a photograph, is still depended of the original capturing technique. Printing on paper remains a question of ink or toner and the printer technology used. Note that in arts publishing the combination of printing techniques and type of paper is very important for the end result. The human eye is different then an electronic screen. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, e-readers still reign supreme with an average battery life of up to several weeks. 
  
-###Smartphones 
+### Smartphones
 The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
  
-###PC/Laptops 
+### PC/Laptops
 Reading ebooks on a laptop or personal computer is a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets. 
  
-##Reader software 
+## Reader software
 Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on e-readers. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of e-readers. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc. 
  
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
  
-###Mobile applications 
+### Mobile applications
 There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known e-readers, like Amazon's **Kindle** and **Kobo's** range of reader hardware. The other category contains applications which are not for available e-readers but often offer their own storefront, viz. **iBooks** and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the e-reader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, **KF8**, MOBI) along with plain text and PDF. 
  
-####iBooks#### 
+#### iBooks
 iBooks is Apple's e-reader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and the closed-source '.ibooks' file format (IBA) - a derivative of EPUB 3. 
  
-####Marvin#### 
+#### Marvin
 Marvin is another application and one of the few paid entries. It does not offer its own store and is mainly geared towards managing existing collections of digital publications compiled from various sources. Marvin only accepts EPUBs and offers to convert incompatible file formats using third party software package such as [calibre](#calibre). 
  
-####Aldiko#### 
+#### Aldiko
 Aldiko is both a storefront and an e-reader for Android which supports EPUB and PDF. As such it is comparable to Apple's iBooks. There is a paid version which offers some extra features (annotation, removal of advertisements) which the free version does not offer. 
  
-####Kindle#### 
+#### Kindle
 Kindle is Amazon's tablet and smartphone counterpart to their physical e-readers (Kindle Paperwhite, etc.). The application is available for both iOS and Android. Books can be bought from inside the application on Android. On iOS it is less straightforward due to the restrictions Apple places on in-app purchasing. Kindle for mobile devices only has support for Amazon's proprietary file formats (AZW, KF8) and PDF. EPUBs have to be converted using software, for example calibre, in order for Kindle to be able to import the files into its library. The application is able to sync its library so that a collection of ebooks is available on both the Kindle e-reader and in the application. It is not possible to copy-paste. 
  
-####Kobo#### 
+#### Kobo
 Kobo, like Amazon, produces e-reader hardware and also has a large bookstore. As such the apps they offer for Android and iOS are largely complementary to the e-reader companion devices manufactured by Kobo. Libraries are synced across devices, provided all the content is bought in Kobo's bookstore. Kobo supports both EPUB and PDF files. 
  
  
  
-###PC software 
+### PC software
 A plethora of desktop applications exists that allow users to read EPUBs. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software, Linux support isn't available - although Kobo offered beta software for Debian based systems.[^kobo-debian] The functionality is similar to that of the mobile versions. 
  
-####Calibre 
+#### Calibre
 Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both [^ebook] and other text based formats).[^calibre-file-formats] Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package. 
  
  
  
-####Adobe Digital Editions 
+#### Adobe Digital Editions
 Adobe Digital Editions (ADE) is an ebook reader and management tool which is able to read EPUB and PDF. Support for EPUB 3 is incomplete. Although Adobe claims support for all the important features is present, it doesn't elaborate on what those important features are. ADE also integrates with many e-readers offering syncing possibilities. So a library managed with ADE could in theory be synced with a compatible e-reader.[^ade-readers] 
  
  
-###Web platforms 
+### Web platforms
 There are some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012.[^bookworm-oreilly] The reason given for the closure mentions an 'interesting experiment' but also due to the dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which may be view and stored online.[^bookish] It doesn't appear to operate commercially though, and the ability to purchase books was removed in June 2013.[^bookish-blog] 
  
-###Browser applications 
+### Browser applications
 Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are most likely more of a convenience method in order to quickly (pre)view ebooks, instead of being fully-fledged solutions for reading ebooks comparable to the functionality of e-readers. 
  
  
-####Readium 
+#### Readium
 Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome web browser. After installing the extension offers an EPUB reader inside the browser window. 
  
-####EPUBReader 
+#### EPUBReader
 EPUBReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as EPUBReader is only compatible with Mozilla Firefox. 
  
  
-##File formats 
+## File formats
 A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it. 
  
 In this chapter the history and characteristics of various important file formats that exist for e-readers, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the *Open eBook* specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape")(Digital Publications In Practice). 
  
-###Reflowable documents (EPUB and AZW) 
+### Reflowable documents (EPUB and AZW)
 The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and **XHTML**, as a companion to their e-reader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2 standard has support for basic styling, custom fonts, etc.[^epub2-specification] 
  
 At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of **Mobipocket** and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (**PDA**). One of the main reasons for this move was the widely supported **Digital Rights Management (DRM)** engineered by *Mobipocket*. [^amazon-aquires-mobipocket] The practice of adding DRM to media is controversial as it often hampers paying customers in freely interacting with digital goods. Files are generally not freely transferable to other devices, for example. 
@@ -103,7 +109,7 @@ Of course EPUB 3 files without proprietary extensions exist as well and are sold
 <!--Amy: I agree with Margreet, there are a wave of new terms introduced over a very short piece of text. It is hard to get through it all without having previous knowledge or spending time in checking the glossary and references. So in conclusion i propose to link some terms to the glossary + reorder this chapter as mentioned in earlier note--> 
  
  
-###Other formats 
+### Other formats
 The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colors, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *comic book archive*,[^comic-book-archive] however support for these file formats by e-readers varies greatly. 
  
  
