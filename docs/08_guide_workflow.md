@@ -1,19 +1,20 @@
-﻿# 08 Guide: Hybrid publishing per genre 
+# 08 Guide: Hybrid publishing for each genre 
 
 <div class="summary">
-- Research publications are relatively straightforward to adapt to electronic publishing. They often require work with document conversion software. Clear style guides for authors can simplify hybrid publishing.
-- Exhibition catalogues can best be broken up into micro publications to make them suitable for reading on electronic devices. Otherwise, PDF is often a better suited format for them than EPUB.
-- There is no standard recipe for electronic artists' and designers' books. They can even be published as plain text files or animated GIFs. More conventional scenarios include the publishing of artists' blogs as ebooks.
-- PDF files and WordPress blogs are the two most common electronic publication forms for art and design periodicals. With the emergence of HTML5 and new distribution platforms like Blendle, this area of publishing is currently undergoing change.
+- Research publications can be converted or adapted for electronic publishing in a relatively straightforward manner. This often involves working with document conversion software. Using clearly defined style guides for authors can help simplify hybrid publishing. 
+- Exhibition catalogues can best be broken up into micro-publications, thus making them more suitable for reading on electronic devices. If this is not an option, then PDF is usually a more suitable format than EPUB for such publications. 
+- There is no 'standard recipe' for electronic artist's and designer's books. These books can be published in a wide variety of formats, even as plain-text files or animated GIFs. More conventional scenarios include publishing artist's blogs as ebooks. 
+- PDF files and WordPress blogs are currently the two most common electronic publication forms for art and design periodicals. With the emergence of HTML5 and new distribution platforms such as Blendle, this field of publishing is currently in a state of transformation. 
 </div>
 
 ## General questions 
 
-After the step-by-step guide to making a simple EPUB and the general introduction into workflows for hybrid publishing, and the we will now address some questions that are specific to the most common genres of publications in the arts and cultural sector. 
+After the step-by-step guide to making a simple EPUB (chapter 6) and the general introduction into workflows for hybrid publishing (chapter 7), we will now address a number of questions that are specific to each of the most common publication genres in the field of arts and culture.
 
-The following points should be clearly defined at the beginning of any hybrid publication project, since they apply to all genres: 
-* Is the project a one-to-one translation of a print book into other media, or will the content be specific to electronic media? In other words, will the publication be medium-specific or medium-neutral? One should also consider that many of the advantages of a hybrid publishing approach, as pointed out earlier, lie in modularized or database publishing. By dividing a larger work into small modules or 'bricks', it is easier to generate custom publications, to apply updates to some parts only, to replace 'heavy' images or files with 'lighter' ones when needed, etc. 
-* Metadata is significantly more important in hybrid publishing. Carefully applied metadata will ensure that the publication can be found online, in databases and bookstores such as Amazon, and will make the electronic editing and design process more efficient. Especially in the case of modularized or database publishing, it is of utmost importance to properly gather metadata from the start of the production process. Otherwise the modular building blocks of the source document can't be meaningfully traced and put together. 
+The following points, which apply to all genres, should be clearly defined at the beginning of any hybrid publication project: 
+
+* Will the publication be medium-specific or medium-neutral? In other words, is the project a one-to-one conversion of a print book into other media, or will it include content which is specific to electronic media? One should also consider that many of the advantages of a hybrid publishing approach, as pointed out earlier, lie in modularized or database publishing. By dividing a larger work into small modules or 'bricks', it is easier to generate custom publications, to apply updates to some parts only, to replace 'heavy' images or files with 'lighter' ones when needed, etc. 
+* Metadata is significantly more important in hybrid publishing. Carefully applied metadata will ensure that the publication can be found online in databases and bookstores such as Amazon, and will make the electronic editing and design process more efficient. Especially in the case of modularized or database publishing, it is of utmost importance to start gathering metadata at the very beginning of the production process. Otherwise the modular building blocks of the source document cannot be meaningfully traced and put together. 
 * For arts and culture publishers, file sizes pose a fundamental problem: electronic publication seems to offer great new opportunities for including images and multimedia as opposed to 'static' paper publishing, but in the real world, this can result in files that are too large to be easily downloaded, stored or flipped through. 
 
 When it comes to choosing a file format, the following general recommendations apply: 
