@@ -240,7 +240,8 @@ In the present project we deal with various kinds of products which we combine i
 - Often with a standardized structure; 
 - Often with complex referencing (footnotes, endnotes, cross-references, citations, bibliographies, keyword and name indexes, list of illustrations, glossaries, table of contents). 
  
-**Going electronic: Advantages and issues** 
+**Going electronic: Advantages and issues**
+ 
 As in the whole book world, there are intense discussions about changing the forms of research publications in both sciences and humanities. The idea is to transition from the classical textbook model to new forms of publication that allow more complex forms of visualization, inclusion of real time data, and computation. However, if one wants to publish in standard ebook formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities of current ebook technology are as a matter of fact limited - mostly because of the size the ebook will get, making it too heavy for download. The alternative, to develop research publications as visual apps, will in most cases not be a viable solution because apps have short lifespans of technical compatibility while research publishing is long-term (and long-tail) publishing almost by definition. 
  
 Advantages of going electronic with publications presenting research are first of all obvious for users: firstly, an ebook allows for copying (and pasting) text in an easy and natural way which has been long desired by researchers, students, and readers alike. Secondly, an obvious but crucial advantage is the possibility of searching within a text. Thirdly, a possible advantage is the possibility of embedding the **datasets** employed in the publication itself. For publishers a huge advantage has to do with the wider reach and availability of the content. Making the text available digitally will increase its spreading, not in the least regarding international outreach, as the ebook offers no limitations on availability. Open access publishing further changes the question of availability dramatically. 
@@ -257,6 +258,7 @@ Going electronic also opens up new possibilities for creating content. Due to th
 - Descriptive texts of changing lengths. 
  
 **Going electronic: Advantages and issues** 
+
 Most art/design catalogues are image-heavy publications, and this is precisely the greatest challenge for electronic publishing in this genre. Being an art/design catalogue, it is important that the quality of the images is high, with no degradation of colors and the highest possible **resolution**. This means that a publication containing a lot of these images will be very large in size, posing a problem when it comes to downloading speed, storage space on the user's device and on the publishers servers. This is an issue that begs consideration but as speed and storage space increase exponentially over time, possibilities grow parallel. 
  
 Possibilities in this direction lie in offering high quality images which can be zoomed in to and complementing the content with other (interactive) materials. Also, most **tablet** computers offer much more better color reproduction (gamut) than the print page. An issue of concern is that in a catalogue often a fixed page layout is necessary: image and text must appear in a certain layout as they belong to each other. However, changes in size (of the device or of the settings a reader uses) might influence the flow of content, resulting in a drifting apart of pictures and text. 
@@ -271,6 +273,7 @@ Just as with research publications, modularization offers interesting chances fo
 - Text is often used in non-descriptive or non-narrative ways. 
  
 **Going electronic: Advantages and issues** 
+
 As artists/designers books essentially represent a reflection around the medium itself, it is not a question of going electronic and considering the accompanying 'advantages and issues'. There aren't advantages or disadvantages in choosing a digital format or a print edition, it's a different choice that determines the artist book from the start. Also, choosing an electronic format like EPUB for an artist/designer book means to master the specificities of such formats. This seems to be one of the reason why there are few digital artists' books, except for electronic reproductions of artists' paper books on such websites as UbuWeb and Monoskop. 
  
 When working on an electronic edition of an already existing print artist/designer book, the most important thing thus is the choice of the file format. The specifications of the format (and medium in general, as mentioned above) determine the end result extensively. Furthermore, here too, the quality of images and the relation between text and images is important. Where an artists' book is not primarily a reflection of its medium, and electronic publication of a book or pamphlet is principally not difficult (a good example would be Sol LeWitt's 1968 'Sentences on Conceptual Art'), advantages of digitalization are similar to those in other genres: the more elaborate possibilities offered in interactive material, outreach of the publication, reach of new audiences, and friendliness for reusing text and images. 
@@ -284,6 +287,7 @@ When working on an electronic edition of an already existing print artist/design
 - Recurring publication format (e.g. magazines, series etc.). 
  
 **Going electronic: Advantages and issues** 
+
 A periodical thrives well by its physical presence. It can be tossed in a bag and just as easily be disposed of. In a digital form, the physical presence becomes limited in this sense. Of course the digital domain offers other forms of 'nudging' and ways to keep a periodical present for the reader, such as push messages on tablets and smart phones, email notifications, and sharing via social media, but this is not quite the same. 
  
 The archival aspect provides other chances and issues for digital art/design periodicals. New articles can refer to older ones and even integrate parts. The periodical as such becomes a repository and therefore a playground for new work. 
@@ -437,12 +441,12 @@ At the beginning of Amazon's foray into the world of digital publishing, the onl
 [^amazon-aquires-mobipocket] Technically, the MOBI file-format is partly based on *PalmDOC*, an ebook file-format readable on PDAs running the operating system (OS) developed by Palm, Inc., with added support for the guidelines taken from the *Open eBook* standard.[^mobileread-palmdoc] Mobilepocket and Amazon then developed the format further in order for it to be used exclusively with *Mobipocket* and, later, Amazon *Kindle* e-readers. The MOBI format is now called AZW (probably an *acronym* for *Amazon Word*) by Amazon, their generic term for all ebooks released by the company.[^amazon-azw] 
  
 Nowadays, roughly two generations of widely used ebook formats exist. One generation is based on the EPUB 2 standard as introduced in 2007, or an earlier version released under the *Open eBook* moniker. Amazon's MOBI/AZW is an example of this, as it's still widely used and supported by the *Kindle* e-readers. The other generally implements features from the EPUB 3 standard, while often remaining backwardly compatible with older versions and subsets of EPUB 2 and even 1 to a certain extent. EPUB 3, released in 2011, brought support for HTML5 (as opposed to XHTML 1.1 in EPUB 2.0), 
-more advanced styling using **CSS3**, scripting (discouraged in EPUB 2) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8][^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks][^ibooks-multicolumn][^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3 wrapped in Amazon's DRM.
+more advanced styling using **CSS3**, scripting (discouraged in EPUB 2) and easy embedding of video and audio, amongst others.[^epub3-changes] EPUB 3 forms the basis of most of the ebook file formats available today. Most of the current file formats, like Amazon's AZW3/KF8 and Apple's iBooks, implement most of the EPUB standard, mainly to benefit from the HTML5 and CSS3 specifications, while adding their own proprietary extensions.[^amazon-kf8]^,^[^ibooks-author] These extensions are mainly geared towards extra support for more advanced (fixed) layout options, rich media integration and DRM.[^ibooks-photo-blocks]^,^[^ibooks-multicolumn]^,^[^amazon-kf8] An AZW3/KF8 ebook is basically an EPUB 3 wrapped in Amazon's DRM.
 (v1:) A MOBI version of the publication is also included to support older versions of e-readers.
 (v2:) For backwards compatibility a MOBI version of the publication is generally also present in the ebook package.
 [^azw3kf8-breakdown] 
  
-Of course EPUB 3 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Noble's NOOK Press.[^epub-seller-kobo][^epub-google-play][^epub-seller-barnes] [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")(Crash Test Dummy) 
+Of course EPUB 3 files without proprietary extensions exist as well and are sold to various commercial channels. In addition to their own iBooks file format, Apple also sells ebooks in their online store.[^epub-seller-apple] Other major players include Kobo, Google Play and Barnes & Noble's NOOK Press.[^epub-seller-kobo]^,^[^epub-google-play]^,^[^epub-seller-barnes]^,^[![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.")(Crash Test Dummy) 
 
 <!-- Margreet: an overwhelming amount of terminology and formats introduced. Perhaps we should introduce some terms earlier in the toolkit? --> 
  
@@ -512,14 +516,17 @@ When using an online reading platform, publishers effectively become dependent o
  
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive]) 
  
-![Issuu](images/05_01_issuu.png "Issuu") 
+![Online Reading Platform Issuu](images/05_01_onlinereadingplatforms_issuu.png "Issuu") 
  
-![Scribd](images/05_01_scribd.png "Scribd") 
+![Online Reading Platform Scribd](images/05_01_onlinereadingplatforms_scribd.png "Scribd") 
  
-![Internet Archive](images/05_01_internetarchive.png) 
+![Online Reading Platform Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png) 
  
  
-### Third party blogs  
+
+### Third party blogs
+![Online Reading Platform Medium](images/05_01_onlinereadingplatforms_medium.png) 
+ 
 ***Medium*** [https://medium.com](https://medium.com) 
  
 **Characteristics** 
@@ -605,7 +612,9 @@ Examples of social reading platforms:
 There are a lot of options for **print-on-demand** publishing. A simple Google query will return a myriad of services. Below are discussed the most important ones, international and Dutch. Of course, 'regular' printers also offer print-on-demand services. However, they usually ask for a minimum of copies ordered. 
  
  
-### Lulu.com ![Lulu](images/07_LuluIcon.png "Lulu") 
+
+### Lulu.com
+![Online Reading Platform Lulu](images/05_01_onlinereadingplatforms_Lulu.png)
  
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
  
@@ -647,7 +656,8 @@ Choose your preferred ways of distribution
  
  
  
-### Espresso Book Machine  
+
+### Espresso Book Machine ![Online Reading Platform Espresso Book Machine](images/05_01_onlinereadingplatforms_espressomachine.png)
 The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes. 
 It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model. 
  
@@ -679,7 +689,8 @@ Sign the affidavit stating you own the rights to the book
 Choose your preferred ways of distribution 
  
  
-### Global options * Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
+### Global options
+* Kobo Writing Life[^Kobo-Writing-Life] - lets authors and publishers self-publish digital content in 160+ countries. One can use Kobo Writing Life to publish ebooks and track sales. 
  
 * PubIt![^PubIt!] - automatically converts your digital files for viewing on NOOK, mobile, and computing devices. It helps you distribute your ebooks to all kind of readers. 
  
@@ -806,7 +817,7 @@ Another option is ICML import from pandoc to have structured text in InDesign wh
 ### From Microsoft Word (.docx) to EPUB
 Like InDesign, Microsoft Word and any other word processor or **text editor** that uses a similar approach (for instance OpenOffice) are not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasize words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using style sheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important. 
  
-There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre")(Converting a DOCX directly to EPUB using Calibre), produce worse results. 
+There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website')[^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre")(Converting a DOCX directly to EPUB using Calibre), produce worse results. 
  
 In order to obtain the best possible EPUB file, the Word document should be formatted, solely if possible, with Word's standard paragraph styles such as 'Normal', 'Title', 'Subtitle', 'Quote' and most importantly 'Heading 1', 'Heading 2', 'Heading 3' for the headings according to their logical hierarchy. For example: 'Heading 1' for chapters, 'Heading 2' for sections, 'Heading 3' for subheadlines. The resulting EPUB document will contain a well-structured table of contents and document navigation menu based on the 'Heading' hierarchy, so well structured headings are of paramount importance. Word footnotes will be appear as linked endnotes in the EPUB, elegantly simplifying an otherwise tedious document redesign task. 
  
@@ -880,29 +891,29 @@ Technically speaking, Markdown provides some of the same features and advantages
 For Apple's Mac OS X and iOS, there are nice and very user friendly programs for editing in Markdown. 
  
 **Linux** 
-- [UberWriter](http://uberwriter.wolfvollprecht.de) [^UberWriter], this editor also includes built-in support for pandoc 
-- [MdCharm](http://www.mdcharm.com) [^MdCharm], supports MultiMarkdown 
+- [UberWriter](http://uberwriter.wolfvollprecht.de),[^UberWriter] this editor also includes built-in support for pandoc 
+- [MdCharm](http://www.mdcharm.com),[^MdCharm] supports MultiMarkdown 
  
 **Mac** 
 *Freeware:* 
-- [Mou](http://www.mouapp.com) [^Mou], with features like live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more. 
-- [MacDown](http://macdown.uranusjr.com/) [^MacDown], released under the MIT License and influenced in design and setup by Mou. 
+- [Mou](http://www.mouapp.com),[^Mou] with features like live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more. 
+- [MacDown](http://macdown.uranusjr.com/),[^MacDown] released under the MIT License and influenced in design and setup by Mou. 
  
 *Paid* 
-- [ByWord](http://bywordapp.com) [^ByWord], a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
-- [iA Writer](http://www.iawriter.com/mac/) [^iAWriter], a program similar to ByWord. The program runs on Mac, iPhone and iPad. 
-- [Scrivener](http://www.literatureandlatte.com/scrivener.php) [^Scrivener], a word processing program popular among professional writers, for Mac OS X and Windows. Fully supports MultiMarkdown internally 
+- [ByWord](http://bywordapp.com),[^ByWord] a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
+- [iA Writer](http://www.iawriter.com/mac/),[^iAWriter] a program similar to ByWord. The program runs on Mac, iPhone and iPad. 
+- [Scrivener](http://www.literatureandlatte.com/scrivener.php),[^Scrivener] a word processing program popular among professional writers, for Mac OS X and Windows. Fully supports MultiMarkdown internally 
  
 **Windows** 
-- [MarkdownPad](http://markdownpad.com/) [^MarkdownPad], free for personal use, with upgrade to MarkdownPad Pro to unlock additional features. 
+- [MarkdownPad](http://markdownpad.com/),[^MarkdownPad] free for personal use, with upgrade to MarkdownPad Pro to unlock additional features. 
  
  
 ##### Document conversion programs 
-- [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) [^MultiMarkdown], the original program converts MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows. 
+- [MultiMarkdown](http://fletcherpenney.net/multimarkdown/),[^MultiMarkdown] the original program converts MultiMarkdown files into HTML, PDF, OpenDocument (for later conversion into RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows. 
  
-- [Pandoc](http://johnmacfarlane.net/pandoc/) [^Pandoc], similar in functionality to MultiMarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customized. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/ "Link to blog post: Docx to MarkDown using Calibre and Pandoc") (.Docx to MarkDown using Calibre and Pandoc) 
+- [Pandoc](http://johnmacfarlane.net/pandoc/),[^Pandoc] similar in functionality to MultiMarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, LaTeX, RTF, Word, EPUB 2 and 3, PDF and many more. Typographic templates for the conversion can be easily customized. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/ "Link to blog post: Docx to MarkDown using Calibre and Pandoc") (.Docx to MarkDown using Calibre and Pandoc) 
  
-- [Calibre](http://calibre-ebook.com/) [^Calibre], is an Open Source management and reading program for e-publications. It allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows. 
+- [Calibre](http://calibre-ebook.com/),[^Calibre] is an Open Source management and reading program for e-publications. It allows users to manage ebook collections as well as to create, edit, and read ebooks. It supports a variety of formats (including the common Amazon Kindle and EPUB formats), ebook syncing with a variety of ebook readers, and conversion (within DRM restrictions) from different ebook and non-ebook formats. Open Source, runs on Linux, Mac OS X and Windows. 
  
  
 Pandoc is the tool we recommend for working with Markdown, and has also been extensively used in creating this publication. 
@@ -913,7 +924,7 @@ A major downside of Markdown is that it exists in several variants, each with th
  
 Another downside is that Markdown allows some formatting to be marked up in different alternative ways (for example, underlines or asterisks for italic text) which can introduce inconsistency in a collaboratively edited document. The trick mentioned above, to use pandoc for converting from Markdown to Markdown, can be used to eliminate such inconsistencies in a master document. 
  
-At the time of this writing in late 2014, a controversial standardization effort of Markdown and its extensions is underway, under the name 'CommonMark'. [commonmark-controversy](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/) [^commonmark-controversy] We will update this Toolkit as soon as CommonMark has been standardized, released, and is supported by the software we recommend. 
+At the time of this writing in late 2014, a controversial standardization effort of Markdown and its extensions is underway, under the name 'CommonMark'.[^commonmark-controversy] We will update this Toolkit as soon as CommonMark has been standardized, released, and is supported by the software we recommend. 
  
  
 ## Database publishing 
@@ -983,7 +994,7 @@ Making an EPUB doesn't have to be complicated. As the EPUB standard is open and 
  
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail. 
  
-An EPUB is a ZIP archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, style sheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with ZIP files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process. [^epub-zipping-process] 
+An EPUB is a ZIP archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, style sheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with ZIP files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process.[^epub-zipping-process] 
  
 You can download an example of a rudimentary EPUB that explains several of these ideas.[^rudimentary-epub] 
  
@@ -1025,14 +1036,16 @@ Next we make the file 'container.xml', the XML file that directs e-readers to an
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*; 
 2. The *container.xml* contains a simple structure written in XML. Below is a complete version of the text, followed by an explanation of its separate parts. (You may ignore the explanation without much consequence if its too technical in nature.) 
  
-	''' 
-	<?xml version="1.0" encoding="UTF-8"?> 
-	<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
-		<rootfiles> 
-			<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
-		</rootfiles> 
-	</container> 
-	''' 
+        
+
+
+        <?xml version="1.0" encoding="UTF-8"?> 
+        	<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
+        		<rootfiles> 
+        			<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
+        		</rootfiles> 
+        	</container>
+
  
 The first line is a 'declaration statement' which should always be present in XML files. This is followed by the 'container' which denotes that the publication is based on the *Open Container Format* as specified by the EPUB standard.[^epub-standard] The 'rootfiles' tag denotes a collection of rootfiles, which is the possible starting point(s) for e-readers to begin processing and parsing the content. In this case the rootfiles contains only one entry, called 'rootfile', this tag has two attributes - 'full-path' and 'media-type'. The first attribute holds the path to an inventory file (in this case *content.opf*) containing metadata regarding the publication and its content. Finally, 'media-type' is a reaffirmation of the EPUB's mimetype. 
  
@@ -1044,39 +1057,38 @@ The important part of this document is the information in quotes following the a
 #### The OPF file
 The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete OPF file. 
  
-''' 
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
-		xmlns:opf="http://www.idpf.org/2007/opf" 
-		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
-		<dc:title>Example EPUB</dc:title> 
-		<dc:language>en</dc:language> 
-		<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
-	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
-	... 
-	</metadata> 
-''' 
+ 
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    		xmlns:opf="http://www.idpf.org/2007/opf" 
+    		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+    		<dc:title>Example EPUB</dc:title> 
+    		<dc:language>en</dc:language> 
+    		<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
+    	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
+    </metadata>
+ 
  
 The metadata section describes the current publication. It lists information such as the title, author, publisher, etc. Most of these entries are identical to what librarians use to catalogue publications. Parts of the metadata section are used by e-readers to organize collections. 
  
-''' 
- <manifest> 
- <item href="styles.css" id="css1" media-type="text/css"/> 
- <item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
-	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
-	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
-	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
- <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
- </manifest> 
-''' 
+
+    <manifest> 
+     <item href="styles.css" id="css1" media-type="text/css"/> 
+     <item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
+    	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
+    	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
+    	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
+     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
+     </manifest>
+ 
  
 A manifest lists all the resources available in the EPUB package, with the exception of directories, the *mimetype* file, the contents of *META-INF* and the .opf file itself. A manifest file can be a pain to produce by hand for large EPUBs, as the list of resources utilized in the publication is bound to be long. Every resource has a unique 'id' and should be referenced by a relative path in the 'href' tag and described in the 'media-type' attribute. The entry with the *cover.png* is of special interest, as the attribute 'properties' describes the fact that the image may be used by e-readers as the cover image for the publication - e.g. for use in collection overviews. 
  
-''' 
- <spine toc="ncx"> 
- 	<itemref idref="chapter1" /> 
- 	<itemref idref="chapter2" /> 
- </spine> 
-''' 
+ 
+    <spine toc="ncx"> 
+     	<itemref idref="chapter1" /> 
+     	<itemref idref="chapter2" /> 
+     </spine>
+
 Lastly, the 'spine' lists all the pages present in the publication and it's listing arrangement tells an e-reader the linear reading order of the publication. The 'spine' can only contain (X)HTML pages, not images or other content. The 'toc' attribute refers to the 'id' of the 'toc.ncx' in the manifest. 
  
  
@@ -1184,7 +1196,8 @@ Anchored images are tied to a particular part of the text, and when exported to 
  
 Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel. 
  
-#### Anchoring images Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
+#### Anchoring images
+Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
  
 1. Place an image on the pasteboard. 
 
@@ -1206,13 +1219,14 @@ Independent images are placed on the page adjacent to text and other objects, wi
 5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options. 
 
 ![Image](images/InD_anchor6-Object_Export_Options.png) 
-	a. Display the EPUB and HTML options panel. 
-	b. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
-	c. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. 
+
+6. Display the EPUB and HTML options panel. 
+7. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
+8. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. 
 
 ![Image](images/InD_anchor7-textwrap.png) 
  
-	You might also want to do this to adjust how the image appears in the print edition. 
+You might also want to do this to adjust how the image appears in the print edition. 
 
 ![Image](images/InD_anchor8-printadjust.png) 
  
@@ -1348,12 +1362,12 @@ It's always a good idea to validate your EPUB documents with ePubCheck before yo
  
  
 ## Do it yourself EPUB using pandoc 
-Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 1) [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 2) ) and calibre's conversion tool.[^ebook-convert] 
+Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1")  [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2") and calibre's conversion tool.[^ebook-convert] 
  
 For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plain-text], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works. 
  
  
-To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling). [^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we'll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc. [^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can't 'open' the program and don't see an icon. To convert the file into an EPUB follow the steps below. 
+To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling).[^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we'll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc.[^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can't 'open' the program and don't see an icon. To convert the file into an EPUB follow the steps below. 
  
 1. First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'. 
  
@@ -1374,11 +1388,11 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 6. Check that the file was created by typing ls or dir again. You should see beowulf.epub. 
 7. Open the EPUB from the folder or in the Terminal type 
  
-	open beowulf.epub 
+        open beowulf.epub
  
 8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a Markdown file. Type the following command in pandoc to convert into EPUB: 
  
-	pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub 
+        pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
  
 ### Cleaning up Markdown 
  

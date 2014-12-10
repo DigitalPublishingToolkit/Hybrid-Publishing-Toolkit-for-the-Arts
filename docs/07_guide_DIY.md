@@ -20,7 +20,7 @@ Making an EPUB doesn't have to be complicated. As the EPUB standard is open and 
  
 The process of creating an EPUB from scratch is similar to developing a simple website. The main difference is that while websites can and often link to other websites, an EPUB is 'self-contained', any pages that are linked to, or images that are displayed must be part of the collection. Creating an EPUB by hand is useful for creating small personal publications, or for making publications that explore the particularities of the EPUB format in detail. 
  
-An EPUB is a ZIP archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, style sheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with ZIP files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process. [^epub-zipping-process] 
+An EPUB is a ZIP archive typically named with the extension '.epub' instead of '.zip'. The EPUB is a compressed collection of HTML files, style sheets, and images, like the files found on a website, compiled together with some extra files that mark and structure the files so that an e-reader can display them. Any file archiver that works with ZIP files (Archive Utility, The Unarchiver, WinZip, etc.) can open and decompress an EPUB. In some cases, it might simply be done by renaming the '.epub' with '.zip'. Here is more information on how to automate the EPUB zipping process.[^epub-zipping-process] 
  
 You can download an example of a rudimentary EPUB that explains several of these ideas.[^rudimentary-epub] 
  
@@ -62,14 +62,16 @@ Next we make the file 'container.xml', the XML file that directs e-readers to an
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*; 
 2. The *container.xml* contains a simple structure written in XML. Below is a complete version of the text, followed by an explanation of its separate parts. (You may ignore the explanation without much consequence if its too technical in nature.) 
  
-	''' 
-	<?xml version="1.0" encoding="UTF-8"?> 
-	<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
-		<rootfiles> 
-			<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
-		</rootfiles> 
-	</container> 
-	''' 
+        
+
+
+        <?xml version="1.0" encoding="UTF-8"?> 
+        	<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
+        		<rootfiles> 
+        			<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
+        		</rootfiles> 
+        	</container>
+
  
 The first line is a 'declaration statement' which should always be present in XML files. This is followed by the 'container' which denotes that the publication is based on the *Open Container Format* as specified by the EPUB standard.[^epub-standard] The 'rootfiles' tag denotes a collection of rootfiles, which is the possible starting point(s) for e-readers to begin processing and parsing the content. In this case the rootfiles contains only one entry, called 'rootfile', this tag has two attributes - 'full-path' and 'media-type'. The first attribute holds the path to an inventory file (in this case *content.opf*) containing metadata regarding the publication and its content. Finally, 'media-type' is a reaffirmation of the EPUB's mimetype. 
  
@@ -81,39 +83,38 @@ The important part of this document is the information in quotes following the a
 #### The OPF file
 The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete OPF file. 
  
-''' 
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
-		xmlns:opf="http://www.idpf.org/2007/opf" 
-		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
-		<dc:title>Example EPUB</dc:title> 
-		<dc:language>en</dc:language> 
-		<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
-	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
-	... 
-	</metadata> 
-''' 
+ 
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    		xmlns:opf="http://www.idpf.org/2007/opf" 
+    		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+    		<dc:title>Example EPUB</dc:title> 
+    		<dc:language>en</dc:language> 
+    		<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
+    	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
+    </metadata>
+ 
  
 The metadata section describes the current publication. It lists information such as the title, author, publisher, etc. Most of these entries are identical to what librarians use to catalogue publications. Parts of the metadata section are used by e-readers to organize collections. 
  
-''' 
- <manifest> 
- <item href="styles.css" id="css1" media-type="text/css"/> 
- <item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
-	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
-	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
-	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
- <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
- </manifest> 
-''' 
+
+    <manifest> 
+     <item href="styles.css" id="css1" media-type="text/css"/> 
+     <item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
+    	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
+    	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
+    	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
+     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
+     </manifest>
+ 
  
 A manifest lists all the resources available in the EPUB package, with the exception of directories, the *mimetype* file, the contents of *META-INF* and the .opf file itself. A manifest file can be a pain to produce by hand for large EPUBs, as the list of resources utilized in the publication is bound to be long. Every resource has a unique 'id' and should be referenced by a relative path in the 'href' tag and described in the 'media-type' attribute. The entry with the *cover.png* is of special interest, as the attribute 'properties' describes the fact that the image may be used by e-readers as the cover image for the publication - e.g. for use in collection overviews. 
  
-''' 
- <spine toc="ncx"> 
- 	<itemref idref="chapter1" /> 
- 	<itemref idref="chapter2" /> 
- </spine> 
-''' 
+ 
+    <spine toc="ncx"> 
+     	<itemref idref="chapter1" /> 
+     	<itemref idref="chapter2" /> 
+     </spine>
+
 Lastly, the 'spine' lists all the pages present in the publication and it's listing arrangement tells an e-reader the linear reading order of the publication. The 'spine' can only contain (X)HTML pages, not images or other content. The 'toc' attribute refers to the 'id' of the 'toc.ncx' in the manifest. 
  
  
@@ -221,7 +222,8 @@ Anchored images are tied to a particular part of the text, and when exported to 
  
 Independent images are placed on the page adjacent to text and other objects, without any explicit link between the two. InDesign exports text and independent image objects sequentially according to their location on the page, starting with those objects that are farther up and to the left. Because an entire story is exported before other objects on the same page, images may often appear several pages after the text in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel. 
  
-#### Anchoring images Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
+#### Anchoring images
+Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
  
 1. Place an image on the pasteboard. 
 
@@ -243,13 +245,14 @@ Independent images are placed on the page adjacent to text and other objects, wi
 5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options. 
 
 ![Image](images/InD_anchor6-Object_Export_Options.png) 
-	a. Display the EPUB and HTML options panel. 
-	b. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
-	c. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. 
+
+6. Display the EPUB and HTML options panel. 
+7. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
+8. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. 
 
 ![Image](images/InD_anchor7-textwrap.png) 
  
-	You might also want to do this to adjust how the image appears in the print edition. 
+You might also want to do this to adjust how the image appears in the print edition. 
 
 ![Image](images/InD_anchor8-printadjust.png) 
  
@@ -385,12 +388,12 @@ It's always a good idea to validate your EPUB documents with ePubCheck before yo
  
  
 ## Do it yourself EPUB using pandoc 
-Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 1) [![Bloglink](images/InD_dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(HYBRID WORKFLOW HOW-TO: MAKING AUTOMATED WORKFLOWS, PART 2) ) and calibre's conversion tool.[^ebook-convert] 
+Two popular conversion programs that can convert from a wide variety of input formats and produce EPUBs are pandoc (see also chapter 6 <!-- internal link needed--> [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1")  [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2") and calibre's conversion tool.[^ebook-convert] 
  
-For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version [^plain-text], is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works. 
+For example, consider *Beowulf* available from Project Gutenberg in a variety of formats (including EPUB). The 'plain text' version ,[^plain-text] is the complete text of the book in a single file with no styling (no fonts, sizes, or bold etc). We can use this to show how a simple conversion to EPUB works. 
  
  
-To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling). [^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we'll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc. [^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can't 'open' the program and don't see an icon. To convert the file into an EPUB follow the steps below. 
+To make an EPUB of *Beowulf*, download the 'plain text' version (the complete text of the book in a single file with no styling).[^plain-text] In your Documents folder, make a sub folder named 'pandoc-test'. This is the folder where we'll store and retrieve documents to be converted and which are made by pandoc. Save the file in this folder with the name beowulf.txt. Download and install pandoc.[^pandoc-installation-page] Pandoc is working in the so-called command line mode and not in a user interface environment. Hence you can't 'open' the program and don't see an icon. To convert the file into an EPUB follow the steps below. 
  
 1. First open the file with Microsoft Word or a similar program. Save the file as a docx-document, in the same folder called 'pandoc-test'. 
  
@@ -411,11 +414,11 @@ Mac: To use pandoc open the Terminal from your Utilities folder in your Applicat
 6. Check that the file was created by typing ls or dir again. You should see beowulf.epub. 
 7. Open the EPUB from the folder or in the Terminal type 
  
-	open beowulf.epub 
+        open beowulf.epub
  
 8. Note that you can also start from Markdown. Then open the text file in your Markdown editor and save as a Markdown file. Type the following command in pandoc to convert into EPUB: 
  
-	pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub 
+        pandoc beowulf.md -f markdown -t epub -s -o beowulf.epub
  
 ### Cleaning up Markdown 
  
