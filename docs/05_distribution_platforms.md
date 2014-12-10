@@ -16,14 +16,15 @@ When using an online reading platform, publishers effectively become dependent o
  
 Below several platforms are discussed, including characteristics, statistics, strengths and weaknesses, and how-to-publish (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive]) 
  
-![Issuu](images/05_01_issuu.png "Issuu") 
+![Online Reading Platform Issuu](images/05_01_onlinereadingplatforms_issuu.png "Issuu") 
  
-![Scribd](images/05_01_scribd.png "Scribd") 
+![Online Reading Platform Scribd](images/05_01_onlinereadingplatforms_scribd.png "Scribd") 
  
-![Internet Archive](images/05_01_internetarchive.png) 
+![Online Reading Platform Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png) 
  
  
 ###Third party blogs 
+![Online Reading Platform Medium](images/05_01_onlinereadingplatforms_medium.png) 
  
 ***Medium*** [https://medium.com](https://medium.com) 
  
@@ -112,7 +113,8 @@ There are a lot of options for **print-on-demand** publishing. A simple Google q
  
  
 ###Lulu.com 
-![Lulu](images/07_LuluIcon.png "Lulu") 
+![Online Reading Platform Lulu](images/05_01_onlinereadingplatforms_Lulu.png)
+
  
 Lulu is the biggest print-on-demand service that offers publishing free of costs, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
  
@@ -155,6 +157,8 @@ Choose your preferred ways of distribution
  
  
 ###Espresso Book Machine 
+![Online Reading Platform Espresso Book Machine](images/05_01_onlinereadingplatforms_espressomachine.png)
+ 
  
 The Espresso Book Machine [^Espresso-Book-Machine] is a print on demand (POD) machine that prints, collates, covers, and binds a single book in a few minutes. 
 It can be found on different locations, for example in a physical bookstore. It allows to print a (digital) book on the spot in a direct-to-consumer model. 
