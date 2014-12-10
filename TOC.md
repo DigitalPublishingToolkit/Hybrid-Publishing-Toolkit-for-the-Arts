@@ -44,19 +44,20 @@
 ## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
 ## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks <!--Florian-->
 
+# [06 Guide: How to make a simple EPUB](docs/06_guide_DIY.md) 
+<!--status: ask input from Florian -->
 
-# [06 Towards a Hybrid Workflow Based on Markdown](docs/06_workflows.md) 
+## Direct conversion
+## Do it yourself EPUB from scratch
+
+
+
+# [07 Towards a Hybrid Workflow Based on Markdown](docs/07_workflows.md) 
 <!--status: needs work and cutting-->
 
 ## E-publishing workflows: desktop publishing, XML, Markdown 
 ## Database publishing 
 
-
-# [07 Guide: How to make a simple EPUB](docs/07_guide_DIY.md) 
-<!--status: ask input from Florian -->
-
-## Direct conversion
-## Do it yourself EPUB from scratch
 
 
 
