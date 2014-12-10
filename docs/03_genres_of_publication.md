@@ -1,4 +1,4 @@
-﻿# 03 Genres of Publication 
+# 03 Genres of Publication 
  
  
 ## Five genres 

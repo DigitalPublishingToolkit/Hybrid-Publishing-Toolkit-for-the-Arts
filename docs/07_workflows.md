@@ -1,4 +1,4 @@
-﻿# 06 Towards a Hybrid Workflow Based on Markdown 
+# 06 Towards a Hybrid Workflow Based on Markdown 
  
 Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards to an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
  

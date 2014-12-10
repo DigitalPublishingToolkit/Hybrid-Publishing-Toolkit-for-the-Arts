@@ -1,4 +1,4 @@
-﻿# 08 Guide: Hybrid publishing per Genre 
+# 08 Guide: Hybrid publishing per Genre 
  
 ## General questions 
  

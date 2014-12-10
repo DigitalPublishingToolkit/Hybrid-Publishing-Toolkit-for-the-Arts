@@ -1,4 +1,4 @@
-﻿# 10 Futurology 
+# 10 Futurology 
  
 ## What we can expect 
 *Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^doris] In art books we try to describe, show, analyze and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible. 

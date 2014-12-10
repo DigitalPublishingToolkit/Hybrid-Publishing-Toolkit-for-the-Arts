@@ -1,4 +1,4 @@
-﻿# 04 E-reading Technologies 
+# 04 E-reading Technologies 
  
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
  
