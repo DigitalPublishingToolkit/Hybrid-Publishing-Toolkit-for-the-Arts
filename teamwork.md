@@ -12,4 +12,6 @@
 ## Loes & Kimmy
 
 ## Joe
+* doing: complete edit of chapter 8, with many changes to the text
+* will do: edit summaries in all chapters
 
