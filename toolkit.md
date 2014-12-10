@@ -2,16 +2,16 @@
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
  
-**Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol\ 
-**Editing:** Joe Monk and Amy Wu\ 
-**Images:** Loes Sikkes and Kimmy Spreeuwenberg\ 
-**Print design :** Loes Sikkes and Kimmy Spreeuwenberg\ 
-**EPUB design :** André Castro\ 
-**Cover design:** [Studio Mooijman en Mittelberg](www.mooijmanenmittelberg.nl/)
+**Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol<br/> 
+**Editing:** Miriam Rasch and Amy Wu<br/> 
+**Images:** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
+**Print design :** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
+**EPUB design :** André Castro<br/> 
+**Cover design:**  Loes Sikkes and Kimmy Spreeuwenberg<br/> 
  
  
-**Printer:** Drukkerij Printvisie B.V., Rotterdam\ 
-**Publisher:** Institute of Network Cultures\ 
+**Printer:** Drukkerij Printvisie B.V., Rotterdam<br/> 
+**Publisher:** Institute of Network Cultures<br/> 
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek 
  
  
@@ -20,14 +20,14 @@
 **Order a copy of this book by email**: books@networkcultures.org 
  
  
-**Contact:**\ 
-Institute of Network Cultures\ 
-Hogeschool van Amsterdam\ 
-Rhijnspoorplein 1\ 
-1091 GC Amsterdam\ 
-The Netherlands\ 
-[http://www.networkcultures.org](http://www.networkcultures.org)\ 
-books@networkcultures.org\ 
+**Contact:**<br/> 
+Institute of Network Cultures<br/> 
+Hogeschool van Amsterdam<br/> 
+Rhijnspoorplein 1<br/> 
+1091 GC Amsterdam<br/> 
+The Netherlands<br/> 
+[http://www.networkcultures.org](http://www.networkcultures.org)<br/> 
+books@networkcultures.org<br/> 
 t: +31 (0)20 59 51 865 
  
  
@@ -35,13 +35,12 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
  
  
  
-For background material, blog posts, videos and the software created within this Digital Publishing Toolkit <!-- Hybrid Publishing Toolkit for the Arts, a Guide from Print to Ebooks -->
-please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
+For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project please visit: [http://networkcultures.org/digitalpublishing](http://networkcultures.org/digitalpublishing/). Throughout the book the following symbol ![Bloglink](images/dpt_blog_verwijzing.png) will appear, pointing to blog posts relevant to the discussed topic. 
  
  
-Amsterdam, 2014\ 
-ISBN 978-90-822345-3-4 (print)\ 
-ISBN 978-90-822345-4-1 (EPUB)\ 
+Amsterdam, 2014<br/> 
+ISBN 978-90-822345-3-4 (print)<br/> 
+ISBN 978-90-822345-4-1 (EPUB)<br/> 
  
  
 [![Hogeschool van Amsterdam](images/logos_partners/logo_partner_HvA.png)](http://hva.nl) 
@@ -291,7 +290,8 @@ The archival aspect provides other chances and issues for digital art/design per
  
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
  
-### 5) New genres of publication New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
+### 5) New genres of publication
+New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
  
  
 ## Three levels of electronic publishing 
@@ -308,7 +308,8 @@ A division into three levels can be made, which are described in further detail 
 ![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.") 
  
  
-### 1) One-to-one publications On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. 
+### 1) One-to-one publications
+On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. 
  
 Usually this implies that going electronic means making an e-representation of the same book. In some cases files of the final pages or book are being converted into EPUB 3 by an external agent. The final pages are checked on readability and the digital make-up (for example, that figures and captions are on the same page), and changes are made accordingly to create the ebook. On this level the ebook is not more than an exact-as-possible picture of the printed book. 
  
@@ -317,11 +318,13 @@ The publisher might use a document management system, which can be a mere collec
 There are many common characteristics between books in one genre. The question is how we can reveal and define these characteristics to enhance insight in the nature of the genre at hand and thus enhance the realization of these new options. 
  
  
-### 2) One-to-many publications The next level presents a split between the manifestation of a (one) paper print version and (many) electronic versions. The electronic version, contrary to the paper version, is not a single object but has various appearances, due to different presentation substrates of electronic book formats. Furthermore, the sizes of reading devices are not standardized and generally allow for both portrait or oblong viewing. On top of this, the popular semi-standard EPUB 3 allows for flowable pages and a change in font and font size. 
+### 2) One-to-many publications
+The next level presents a split between the manifestation of a (one) paper print version and (many) electronic versions. The electronic version, contrary to the paper version, is not a single object but has various appearances, due to different presentation substrates of electronic book formats. Furthermore, the sizes of reading devices are not standardized and generally allow for both portrait or oblong viewing. On top of this, the popular semi-standard EPUB 3 allows for flowable pages and a change in font and font size. 
  
 Workflow schemes become very important when working towards a one-to-many publication, as the same texts and images are used in various outlets. A structured and detailed workflow, accompanied by a related descriptors (metadata) set is necessary. In such a way, the ebook is not a byproduct of the print book anymore, but is produced simultaneously in its different output formats. 
  
-### 3) One-to-database Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
+### 3) One-to-database
+Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
  
 Especially in publications which have a more or less fixed layout database publishing opens new ways of conceiving books. For example, in the case of a collection of essays readers are then be able to make a personal choice from the available texts. The same can be thought of in the case of catalogues and journals. Based on metadata a structured presentation of all material is made possible, allowing the reader to navigate and put together a collection based on personal interests. Of course this means that **tagging**, describing, and storing of all components should happen in the early stages of publication with utmost care. 
  
@@ -345,10 +348,12 @@ It is important to note that there will not be one workflow which fits all but i
 
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
  
-## Reader hardware There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications. 
+## Reader hardware
+There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications. 
  
  
-### E-readers E-readers became widely known with the introduction of the Amazon Kindle in 2007. E-readers differ from tablets in the way that they are only suitable for reading books, are relatively cheap and have **monochrome** displays. An important characteristic of the e-reader is the use of *electronic paper* (e-paper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as closely as possible and is relatively low in energy consumption. The current generation of e-paper is incapable of rendering complex motion, so animations and videos are impossible to use. 
+### E-readers
+E-readers became widely known with the introduction of the Amazon Kindle in 2007. E-readers differ from tablets in the way that they are only suitable for reading books, are relatively cheap and have **monochrome** displays. An important characteristic of the e-reader is the use of *electronic paper* (e-paper), a so-called electrophoretic screen. Electronic paper is designed to mimic the characteristics of paper as closely as possible and is relatively low in energy consumption. The current generation of e-paper is incapable of rendering complex motion, so animations and videos are impossible to use. 
  
 Both Amazon and Barnes & Noble also offer more expensive models, Amazon's Kindle Fire (and Fire HD) and NOOK Tablet (and NOOK HD+) respectively. These models are not really e-readers anymore, but fully-fledged, small sized tablets. These models do not use e-paper, but instead work with color LED screens with backlight - a standard component of tablets such as **iPad** and Galaxy Tab. Often these tablets use a version of the Android operating system as its core, in contrast to the classic monochromatic e-readers using their own operating system built on a version of **Linux**. The Samsung Galaxy Note and Apple iPad mini can be seen as an answer to the smaller sized tablets. 
  
@@ -356,56 +361,75 @@ Because of the lack of a color screen the current generation of e-readers is bes
  
 ![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.") 
  
-### Tablets The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (**iOS**) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section. 
+### Tablets
+The tablet-market is dominated by two main players,[^sales-figures-tablet] Apple and Samsung. Apple utilizes their own operating system (**iOS**) for the iPad, while Samsung with its Galaxy Tab product line has opted for Android. The Android-segment of the market consists of many manufacturers offering similar hardware with a variant of Android as its operating system. Several e-reader applications exist for both iOS and Android, the most important ones will be reviewed in the [reader software](#reader-software) section. 
  
 Apple's and Samsung's most recent tablet screens cover nearly the entire so-called color space, which makes their color reproduction as good as that of professional **monitors** for photographers and graphic designers. It goes without saying that the color quality e.g. of a photograph, is still depended of the original capturing technique. Printing on paper remains a question of ink or toner and the printer technology used. Note that in arts publishing the combination of printing techniques and type of paper is very important for the end result. The human eye is different then an electronic screen. The upside of the tablet's color screen is at the same time also its weakness, as backlit LED screens are generally known to cause eye fatigue. Furthermore, reading in the sun is problematic, because direct sunlight obscures most of the visibility of the screen. Battery life is another issue with tablets. Although newer tablet models often claim impressive battery life, e-readers still reign supreme with an average battery life of up to several weeks. 
  
-### Smartphones The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
+### Smartphones
+The story for tablets also largely applies to the realm of smartphones.[^sales-figures-phone] Of course most smartphones have smaller screens than both e-readers and tablets. But the similarities between smartphones and tablets are large enough to justify clustering them with tablet devices. 
  
-### PC/Laptops Reading ebooks on a laptop or personal computer is a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets. 
+### PC/Laptops
+Reading ebooks on a laptop or personal computer is a possibility but may be a less natural fit than handheld devices. A full range of software for e-reading is available, but the same downsides of relatively limited battery life and increased chances of eye fatigue exist as with tablets. 
  
-## Reader software Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on e-readers. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of e-readers. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc. 
+## Reader software
+Standalone applications for desktops, tablets and smartphones offer some advantages to the software present on e-readers. Firstly, almost all devices offer a full color display, as opposed to the monochrome e-ink screens of e-readers. Secondly, a lot of applications support a larger subset of the EPUB standard, which allows for more features - like custom fonts, layout styling, etc. 
  
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
  
-### Mobile applications There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known e-readers, like Amazon's **Kindle** and **Kobo's** range of reader hardware. The other category contains applications which are not for available e-readers but often offer their own storefront, viz. **iBooks** and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the e-reader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, **KF8**, MOBI) along with plain text and PDF. 
+### Mobile applications
+There are many existing applications for mobile devices (tablets and smartphones). Some of the available software constitutes of companion apps to well-known e-readers, like Amazon's **Kindle** and **Kobo's** range of reader hardware. The other category contains applications which are not for available e-readers but often offer their own storefront, viz. **iBooks** and Aldiko. EPUB 2 and 3 support is generally available, but some of the applications require the user to convert files into a proprietary file format in order for the e-reader to be able to read the document. Kindle is an example, as it only supports Amazon's proprietary file formats (AZW, **KF8**, MOBI) along with plain text and PDF. 
  
-#### iBooks#### iBooks is Apple's e-reader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and the closed-source '.ibooks' file format (IBA) - a derivative of EPUB 3. 
+#### iBooks
+iBooks is Apple's e-reader application for iPhone, iPad and Mac. Books may be bought in the iTunes Store or can be copied to the iBooks library. The latest version of iBooks offers support for many of the features of the EPUB 3 standard, but also PDF and the closed-source '.ibooks' file format (IBA) - a derivative of EPUB 3. 
  
-#### Marvin#### Marvin is another application and one of the few paid entries. It does not offer its own store and is mainly geared towards managing existing collections of digital publications compiled from various sources. Marvin only accepts EPUBs and offers to convert incompatible file formats using third party software package such as [calibre](#calibre). 
+#### Marvin
+Marvin is another application and one of the few paid entries. It does not offer its own store and is mainly geared towards managing existing collections of digital publications compiled from various sources. Marvin only accepts EPUBs and offers to convert incompatible file formats using third party software package such as [calibre](#calibre). 
  
-#### Aldiko#### Aldiko is both a storefront and an e-reader for Android which supports EPUB and PDF. As such it is comparable to Apple's iBooks. There is a paid version which offers some extra features (annotation, removal of advertisements) which the free version does not offer. 
+#### Aldiko
+Aldiko is both a storefront and an e-reader for Android which supports EPUB and PDF. As such it is comparable to Apple's iBooks. There is a paid version which offers some extra features (annotation, removal of advertisements) which the free version does not offer. 
  
-#### Kindle#### Kindle is Amazon's tablet and smartphone counterpart to their physical e-readers (Kindle Paperwhite, etc.). The application is available for both iOS and Android. Books can be bought from inside the application on Android. On iOS it is less straightforward due to the restrictions Apple places on in-app purchasing. Kindle for mobile devices only has support for Amazon's proprietary file formats (AZW, KF8) and PDF. EPUBs have to be converted using software, for example calibre, in order for Kindle to be able to import the files into its library. The application is able to sync its library so that a collection of ebooks is available on both the Kindle e-reader and in the application. It is not possible to copy-paste. 
+#### Kindle
+Kindle is Amazon's tablet and smartphone counterpart to their physical e-readers (Kindle Paperwhite, etc.). The application is available for both iOS and Android. Books can be bought from inside the application on Android. On iOS it is less straightforward due to the restrictions Apple places on in-app purchasing. Kindle for mobile devices only has support for Amazon's proprietary file formats (AZW, KF8) and PDF. EPUBs have to be converted using software, for example calibre, in order for Kindle to be able to import the files into its library. The application is able to sync its library so that a collection of ebooks is available on both the Kindle e-reader and in the application. It is not possible to copy-paste. 
  
-#### Kobo#### Kobo, like Amazon, produces e-reader hardware and also has a large bookstore. As such the apps they offer for Android and iOS are largely complementary to the e-reader companion devices manufactured by Kobo. Libraries are synced across devices, provided all the content is bought in Kobo's bookstore. Kobo supports both EPUB and PDF files. 
- 
- 
- 
-### PC software A plethora of desktop applications exists that allow users to read EPUBs. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software, Linux support isn't available - although Kobo offered beta software for Debian based systems.[^kobo-debian] The functionality is similar to that of the mobile versions. 
- 
-#### Calibre Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both [^ebook] and other text based formats).[^calibre-file-formats] Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package. 
- 
- 
- 
-#### Adobe Digital Editions Adobe Digital Editions (ADE) is an ebook reader and management tool which is able to read EPUB and PDF. Support for EPUB 3 is incomplete. Although Adobe claims support for all the important features is present, it doesn't elaborate on what those important features are. ADE also integrates with many e-readers offering syncing possibilities. So a library managed with ADE could in theory be synced with a compatible e-reader.[^ade-readers] 
+#### Kobo
+Kobo, like Amazon, produces e-reader hardware and also has a large bookstore. As such the apps they offer for Android and iOS are largely complementary to the e-reader companion devices manufactured by Kobo. Libraries are synced across devices, provided all the content is bought in Kobo's bookstore. Kobo supports both EPUB and PDF files. 
  
  
-### Web platforms There are some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012.[^bookworm-oreilly] The reason given for the closure mentions an 'interesting experiment' but also due to the dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which may be view and stored online.[^bookish] It doesn't appear to operate commercially though, and the ability to purchase books was removed in June 2013.[^bookish-blog] 
  
-### Browser applications Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are most likely more of a convenience method in order to quickly (pre)view ebooks, instead of being fully-fledged solutions for reading ebooks comparable to the functionality of e-readers. 
+### PC software
+A plethora of desktop applications exists that allow users to read EPUBs. Of the five applications mentioned above only Aldiko is not available on desktops and iBooks is a Mac-only application. Kobo and Kindle both offer Windows and Mac versions of their software, Linux support isn't available - although Kobo offered beta software for Debian based systems.[^kobo-debian] The functionality is similar to that of the mobile versions. 
  
- 
-#### Readium Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome web browser. After installing the extension offers an EPUB reader inside the browser window. 
- 
-#### EPUBReader EPUBReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as EPUBReader is only compatible with Mozilla Firefox. 
+#### Calibre
+Calibre is an application of note here, because it's an ebook management suite with many features. It offers tools for managing large collections of ebooks, but also converts files to many different formats (both [^ebook] and other text based formats).[^calibre-file-formats] Viewing all major ebook file formats, as well as editing EPUBs and AZWs is also part of the software package. 
  
  
-## File formats A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it. 
+ 
+#### Adobe Digital Editions
+Adobe Digital Editions (ADE) is an ebook reader and management tool which is able to read EPUB and PDF. Support for EPUB 3 is incomplete. Although Adobe claims support for all the important features is present, it doesn't elaborate on what those important features are. ADE also integrates with many e-readers offering syncing possibilities. So a library managed with ADE could in theory be synced with a compatible e-reader.[^ade-readers] 
+ 
+ 
+### Web platforms
+There are some web platforms for reading EPUBs online, their popularity is hard to gauge. A project called Bookworm, developed by Threepress, was closed by O'Reilly Labs in 2012.[^bookworm-oreilly] The reason given for the closure mentions an 'interesting experiment' but also due to the dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which may be view and stored online.[^bookish] It doesn't appear to operate commercially though, and the ability to purchase books was removed in June 2013.[^bookish-blog] 
+ 
+### Browser applications
+Apart from web applications, several browser extensions exist allowing users to read EPUBs in their web browser. These extensions are most likely more of a convenience method in order to quickly (pre)view ebooks, instead of being fully-fledged solutions for reading ebooks comparable to the functionality of e-readers. 
+ 
+ 
+#### Readium
+Readium is a project by several publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB 3 publications.[^readium-goals] The Readium Project offers a range of tools for online and offline use, mainly geared towards software developers. One of the tools is a browser extension [^readium-extension] for the Google Chrome web browser. After installing the extension offers an EPUB reader inside the browser window. 
+ 
+#### EPUBReader
+EPUBReader is similar to the browser extension offered by Readium. However, the main difference is the supported browser, as EPUBReader is only compatible with Mozilla Firefox. 
+ 
+ 
+## File formats
+A file format is a standard way that information is encoded for storage in a computer file. Technically, it specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read it. 
  
 In this chapter the history and characteristics of various important file formats that exist for e-readers, electronic devices capable of reading digital texts, will be explained. The development of the modern ebook started with the *Open eBook* specification and has thus culminated in an ebook format called EPUB which is currently at version 3 [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/digital-publications-in-practice/ "Link to blog post: An initial overview of the digital publishing landscape")(Digital Publications In Practice). 
  
-### Reflowable documents (EPUB and AZW) The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and **XHTML**, as a companion to their e-reader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2 standard has support for basic styling, custom fonts, etc.[^epub2-specification] 
+### Reflowable documents (EPUB and AZW)
+The history of the modern ebook can be traced back to the late 1990s with the establishment of the *Open eBook Forum* tasked with the creation of the *Open eBook Publication Structure* (OEBPS). Microsoft was heavily involved in the development of what became the *Open eBook* based partly on technology created by a company called SoftBook Press.[^businessweek-ebooks] SoftBook Press developed the format, based on XML and **XHTML**, as a companion to their e-reader. The *Open eBook* specification had its first release in 1999 and was later renamed to EPUB when the standard reached the 2 version milestone under the auspices of the *International Digital Publishing Forum* (IDPF, formerly the *Open eBook Forum*).[^interoperability-of-ebook-formats] The EPUB 2 standard has support for basic styling, custom fonts, etc.[^epub2-specification] 
  
 At the beginning of Amazon's foray into the world of digital publishing, the online bookseller chose not to use EPUB but opted to buy a French company responsible for the development of **Mobipocket** and the MOBI file format that also produced Mobipocket Reader software and an ebook reader for some personal digital assistants (**PDA**). One of the main reasons for this move was the widely supported **Digital Rights Management (DRM)** engineered by *Mobipocket*. [^amazon-aquires-mobipocket] The practice of adding DRM to media is controversial as it often hampers paying customers in freely interacting with digital goods. Files are generally not freely transferable to other devices, for example. 
 [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/29/the-book-as-directory/ "Link to blog post: The Book as Directory") (The Book as Directory) 
@@ -425,7 +449,8 @@ Of course EPUB 3 files without proprietary extensions exist as well and are sold
 <!--Amy: I agree with Margreet, there are a wave of new terms introduced over a very short piece of text. It is hard to get through it all without having previous knowledge or spending time in checking the glossary and references. So in conclusion i propose to link some terms to the glossary + reorder this chapter as mentioned in earlier note--> 
  
  
-### Other formats The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colors, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *comic book archive*,[^comic-book-archive] however support for these file formats by e-readers varies greatly. 
+### Other formats
+The aforementioned file formats may be categorized as *reflowable* documents as they can adapt its presentation to the output device. There are of course other ways different ways to disseminate electronic publications, for example the fixed layout, which preserves the look of the original, complete with fonts, colors, images, and formatting. One way of doing this is exporting a document as a **PDF** (Portable Document Format), but there are also more content specific file formats like the *comic book archive*,[^comic-book-archive] however support for these file formats by e-readers varies greatly. 
  
  
  
@@ -778,7 +803,8 @@ It is possible to create 'interactive' publications in PDF, working with Microso
  
 Another option is ICML import from pandoc to have structured text in InDesign which can be used by the designer. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ "Link to blog post: Markdown to InDesign with Pandoc (via ICML)")(Markdown to InDesign with Pandoc (via ICML)) 
  
-### From Microsoft Word (.docx) to EPUB Like InDesign, Microsoft Word and any other word processor or **text editor** that uses a similar approach (for instance OpenOffice) are not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasize words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using style sheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important. 
+### From Microsoft Word (.docx) to EPUB
+Like InDesign, Microsoft Word and any other word processor or **text editor** that uses a similar approach (for instance OpenOffice) are not well suited for processing structured text. When working with structured text the author is expected to wrap elements (a heading to emphasize words) in tags, word processors generally apply a visual style to a text, without bothering with tags or any other form of structure. To a certain extent these text processing programs allow working in a structured manner, by using style sheets which determine for instance different types of headers. The problem is that they do not separate between formatting and structure, while in the world of digital publishing this is especially important. 
  
 There is a viable solution for generating EPUB from Microsoft Word files, using the command line tool pandoc (for more information visit the [pandoc](http://www.johnmacfarlane.net/pandoc/ 'pandoc website') [^Pandoc] website). The latest versions of pandoc (see below<!---insert cross-reference-->) support document conversion from '.doc' files generated by Microsoft Office 2007 or later, or by comparable programs like OpenOffice/LibreOffice. Since Word does not, as explained above, enforce good structure in a document, the EPUB generated by pandoc will never be perfect and ready for publishing. But it is still a clean enough, usable basis for a designer to produce a the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a DOCX directly to EPUB using Calibre")(Converting a DOCX directly to EPUB using Calibre), produce worse results. 
  
@@ -802,7 +828,8 @@ Central in a hybrid publishing workflow, we recommend to use the markup language
  
 ![Traditional XML](images/07_workflowMarkdown.png "Workflow XML.") 
  
-#### Introduction: advantages and limitations John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as '<b>' for bold or '<author>' to markup the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
+#### Introduction: advantages and limitations
+John Gruber, developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).'^[2] Markdown is a way to process plain, unformatted text with human-readable formatting symbols. That means that Markdown doesn't use HTML style tags to format, such as '\<b\>' for bold or '\<author\>' to markup the author name. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
  
 ![Markdown](images/Markdown.png "Markdown.") 
  
@@ -961,7 +988,7 @@ An EPUB is a ZIP archive typically named with the extension '.epub' instead of '
 You can download an example of a rudimentary EPUB that explains several of these ideas.[^rudimentary-epub] 
  
  
-### Layout of an EPUB package  
+### Layout of an EPUB package
 Decompressing an EPUB will reveal its directory layout and in that way makes clear how an EPUB is set up. As explained above, the EPUB can be seen as a compressed ZIP archive. First unzip it using an archive program. After unzipping it, it looks as follows: 
  
 ![EPUB layout](images/InD_InD_08_epublayout.png "EPUB layout") 
@@ -977,11 +1004,11 @@ The *META-INF* and *OEBPS* directories and *mimetype* should always be present i
  
 These three components form the basic structure of an EPUB and are required in order for the file to be a valid EPUB. For a formal specification of EPUB 3, see the overview by IDPF.org which defines semantics and conformance requirements for EPUB publications.[^idpf.org] 
  
-### Creating your own EPUB  
+### Creating your own EPUB
 Most of the elements of an EPUB can be produced by hand in a text editor. Text editors are used for editing plain text files (for example HTML files) and should not to be confused with word processors like Microsoft Word or Apple's Pages. Popular text editors include BBEdit, TextWrangler or TextMate for Mac or NotePad++ and PSPad for Windows. Below follows a step by step process of creating a very simple EPUB. 
  
  
-#### Creating the required files and directories  
+#### Creating the required files and directories
 Now that we've seen the insides of an EPUB after unzipping it, we can work the other way around and make the files and folders ourselves, thus creating a simple EPUB. We will work from our Documents directory where we can add folders like in the image above, and using a text editor to create the necessary files. 
  
 1. Create a directory under Documents to store the files and subdirectories for your EPUB, and name it *Example*; 
@@ -992,7 +1019,7 @@ Now that we've seen the insides of an EPUB after unzipping it, we can work the o
 Now there are the two directories and one text file, like we saw when we decompressed the EPUB used as an example. 
  
  
-#### container.xml  
+#### container.xml
 Next we make the file 'container.xml', the XML file that directs e-readers to an inventory of all the files present in the publication, and that is located in *META-INF*. 
  
 1. Again using a text editor, create a new file and save it to the *META-INF* directory with the name *container.xml*; 
@@ -1014,7 +1041,7 @@ The important part of this document is the information in quotes following the a
 3. Save and close *container.xml*. 
  
  
-#### The OPF file  
+#### The OPF file
 The OPF file <!-- write out full description --> is an important part of the structure of an EPUB. It is located in the OEBPS directory and contains the necessary metadata to accurately describe the publication. Next to that it can contain the linear reading order which, in combination with the contents of toc.ncx, may be used by e-readers to build navigation menus or a table of contents. The OPF file is too long to be included verbatim in this document, but the most important sections are referenced below. The file 'Example.opf' in the rudimentary EPUB used here, is an example of a complete OPF file. 
  
 ''' 
@@ -1053,11 +1080,11 @@ A manifest lists all the resources available in the EPUB package, with the excep
 Lastly, the 'spine' lists all the pages present in the publication and it's listing arrangement tells an e-reader the linear reading order of the publication. The 'spine' can only contain (X)HTML pages, not images or other content. The 'toc' attribute refers to the 'id' of the 'toc.ncx' in the manifest. 
  
  
-#### The content  
+#### The content
 As stated in the introduction of this section a large part of an EPUB is a collection of HTML files which are often interlinked. The process of creating the pages of an EPUB is similar to building a website, but with the particular limitations of e-readers in mind - limited support for rich media, color, etc. An overview of the limitations can [be found here] <!-- internal link needed to limitations -->. Pages should be written in XHTML, a variant of HTML which was created to make HTML more extensible and increase the interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, though a lot of e-readers ignore or do not parse many of the style definitions. 
  
  
-#### Packaging  
+#### Packaging
 Creating an EPUB file is as simple as selecting both the *META-INF* and *OEBPS* directories and the *mimetype* file and creating a ZIP archive. This may be done by using the built-in archive utility of the operating system, or an external program like The Unarchiver (Mac), WinZip (Windows) or a special purpose utility.[^epub-zipping-process] The .zip extension of the archive may then be renamed to .epub. 
  
 Because some archive programs create unnecessary (hidden) files inside the archive which might invalidate your EPUB, it's important to validate your EPUB to see if it works (although most e-readers will safely ignore extraneous files and parse the document properly). Invalid EPUBs are files that do not conform to the EPUB specification or have other issues, such as incorrect. Fixing validation errors will minimize but not eliminate the chance of e-readers refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-validator] or a desktop application. 
@@ -1070,11 +1097,15 @@ And again your EPUB is ready!
 InDesign is an excellent tool for creating and managing print projects. It also has a powerful EPUB production tool that has gotten better and better with time. InDesign's omnipresence and importance in print make it an obvious choice for projects that have both a print and electronic output. InDesign is so powerful that it's useful even if print isn't part of the equation-though cost considerations might preclude its use if print is never a requirement. 
  
 InDesign can generate both flowing and fixed layout EPUB files. Flowing EPUB is characterized by text and images that can adapt to fill any size screen and which can be enlarged or reduced to suit the preferences of the reader. Fixed layout EPUB features text and images that are always shown in the same positions on a page, regardless of the size of the screen. Indeed, they are often reduced in size to fit on smaller screens and are often barely illegible on mobile phones. Finally, flowable EPUB is better supported by a larger range of e-readers, fixed layout is available in only a few. 
+
 ![image](images/InD_InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
+
 ![image](images/InD_InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
+
 ![image](images/InD_InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
  
 ![image](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
+
 ![image](images/InD_reflowiphone4.png "The text reflows to fit") 
  
  
@@ -1091,9 +1122,13 @@ You must first create styles, then apply them, then make sure they are properly 
  
 #### Creating styles 
 1. Open the Paragraph Styles panel and click the New Style button to create a new style. Any formatting in the active paragraph is incorporated automatically into the new style. 
+
 ![image](images/InD_Styles_1_new.png) 
+
 2. Give the style a name. 
+
 ![image](images/InD_Styles_2_New_Paragraph_Style.png) 
+
 3. Choose any additional options on the right from the different categories available at left, and save. 
  
 Tips 
@@ -1102,10 +1137,12 @@ Tips
 - Applying all formatting with styles instead of applying formatting directly improves reliability across e-readers and facilitates later editing. 
  
 #### Apply styles 
-1. Click in a paragraph that you want to style. 
+1. Click in a paragraph that you want to style.
+
 ![image](images/InD_Styles_3_cursor.png) 
  
 2. Choose the desired style from the Paragraph Styles panel that you wish to apply. 
+
 ![image](images/InD_Styles_4_apply.png) 
  
 3. Repeat for every paragraph in the document. 
@@ -1114,6 +1151,7 @@ Tips
  
 - You can style all of the text at once by selecting all and then choosing the Body or Normal style. Then apply the less frequent headers and captions and other paragraphs individually. 
 - If you have imported a document with large quantities of existing bold or italic text, you can search and replace to automate applying the character style. 
+
 ![Image](images/InD_Styles_5_Find_change.png) 
  
  
@@ -1123,6 +1161,7 @@ Though InDesign can do this step automatically, you can precisely specify which 
 1. Choose Edit All Export Tags from the Paragraph Styles Panel menu. 
  
 2. In the dialog box that appears, verify that each style is mapped as desired to the appropriate tag. It's a good idea, for example, for header paragraphs in your book to be output as h1, h2, etc. and for each style to have its own class. 
+
 ![Image](images/InD_Styles_8_add_class.png) 
  
  
@@ -1130,6 +1169,7 @@ Tips
  
 - If you import XML documents, you can have InDesign automatically map specific XML tags to the desired Paragraph Styles (which later will be mapped to the proper EPUB CSS tags as above). 
 - You can also set Export mapping in the Paragraph and Character Style dialog boxes. 
+
 ![Image](images/InD_Styles_7_pstyle_options_edit_tags.png) 
  
 - Earlier versions of InDesign were not as good at exporting all of its styles to CSS. InDesign CC is substantially better. 
@@ -1147,71 +1187,102 @@ Independent images are placed on the page adjacent to text and other objects, wi
 #### Anchoring images Generally, it's more effective to use anchored images with text that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB and also permits the use of text wrap. 
  
 1. Place an image on the pasteboard. 
+
 ![Image](images/InD_anchor-1.png) 
+
 2. If desired, you can create a caption, style the caption, and then group the caption with the image. 
+
 ![Image](images/InD_anchor-2.png) 
+
 ![Image](images/InD_anchor3-group.png) 
  
 3. If it's not already, select the image to make its controls visible. Drag the blue box in the upper right corner of the image to the desired location in the text. The blue box changes to an anchor symbol. 
+
 ![Image](images/InD_anchor4-dragbluesquare.png) 
+
 ![Image](images/InD_anchor5-anchored.png) 
+
 4. If the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want text to wrap around the image, select the image and then choose Object > Object Export Options. 
+
 ![Image](images/InD_anchor6-Object_Export_Options.png) 
 	a. Display the EPUB and HTML options panel. 
 	b. Check the Custom Layout option and then choose Float Left or Float Right from the menu. 
 	c. In order to specify the desired amount of space between the image and the text, choose the image, display the Text Wrap box, click the second option, and specify the amount of space in each box. 
-	![Image](images/InD_anchor7-textwrap.png) 
+
+![Image](images/InD_anchor7-textwrap.png) 
  
 	You might also want to do this to adjust how the image appears in the print edition. 
-	![Image](images/InD_anchor8-printadjust.png) 
+
+![Image](images/InD_anchor8-printadjust.png) 
  
  
-### Links and cross references One of the main advantages of ebooks over print is that they can contain links to additional information, whether it be in the same book, or on a website somewhere out on the Internet. InDesign makes it easy to incorporate links into your ebook. 
+### Links and cross references
+One of the main advantages of ebooks over print is that they can contain links to additional information, whether it be in the same book, or on a website somewhere out on the Internet. InDesign makes it easy to incorporate links into your ebook. 
  
 There are two principal kinds of links: links in which you specify both the destination and the link text, and links that get the link text automatically from the destination. This second kind of links are called cross-references. It's a good idea to apply a character style to all kinds of links. 
  
-### Creating links within a book 1. First, create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. By default, it's the first few words of the destination text. Then click OK. 
+### Creating links within a book
+1. First, create the destination by selecting the point in the book where you want the link to point to, and then choosing New Hyperlink Destination from the Hyperlinks panel menu. Note the name of the Text Anchor, you'll need it later. By default, it's the first few words of the destination text. Then click OK. 
+
 ![Image](images/InD_hyperlink_destination_1.png) 
+
 ![Image](images/InD_hyperlink_destination_2.png) 
+
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
 3. Choose Text Anchor next to Link To:, choose the Document that the destination is in and then choose the name of the Text Anchor. 
+
 ![Image](images/InD_hyperlink_destination_3.png) 
+
 4. It's also a good idea to apply a style so that you can format all the links later. 
 5. Click OK to create the link. 
+
 ![Image](images/InD_hyperlink_destination_4.png) 
  
  
-### Creating cross references Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example of cross references is to link to a different chapter or header name. InDesign will always use the most up to date text in the Header. 
+### Creating cross references
+Cross references are links in which the text you click on is automatically generated from the text in the destination. A typical example of cross references is to link to a different chapter or header name. InDesign will always use the most up to date text in the Header. 
  
 1. To create a cross reference, place the cursor in the text where the link will go. 
 2. Choose Window > Type & Tables > Cross-References to view the Cross-References panel. 
 3. Choose Insert Cross-Reference. 
 4. Choose the desired document and then the kind of paragraph that you want to link to in the left half of the New Cross-Reference box. 
+
 ![Image](images/InD_cross_references.png) 
+
 The specific paragraphs tagged with that style will show up on the right so you can choose the one you want for the cross-reference. 
 5. Select a Format for the Cross-Reference, and click OK. 
 The text from the destination appears in the body of your document. It will be exported as a link in the EPUB document. 
+
 ![Image](images/InD_cross_references_2.png) 
  
  
-### Table of Contents Ebooks have two different kinds of tables of contents, the conventional one that is part of the text, just like any other chapter in your book, but with links to the remaining chapters and sections, and one that is accessed through the menus of the user's ebook reader regardless of which page they're looking at at the moment. InDesign facilitates the creation of both types. 
+### Table of Contents
+Ebooks have two different kinds of tables of contents, the conventional one that is part of the text, just like any other chapter in your book, but with links to the remaining chapters and sections, and one that is accessed through the menus of the user's ebook reader regardless of which page they're looking at at the moment. InDesign facilitates the creation of both types. 
  
 InDesign generates tables of contents from styled paragraphs. For example, you might want to create a table of contents with all of paragraphs marked with the Heading 1 and Heading 2 styles, or as in this example, with just all of the ChapName elements. 
  
-#### Creating a Table of Contents Style 1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. 
+#### Creating a Table of Contents Style
+1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. 
+
 ![Image](images/InD_TOC_1_new.png) 
+
 2. Give the table of contents a name, like 'Contents' and choose the paragraph style that should be applied to that header in the book. 
 3. Choose the kind of paragraphs that should be used to populate the table of contents, like headings or chapter names. 
 4. Click More Options if it's not already chosen. 
 5. In the center area, choose the style that should be applied to each kind of element in the table of contents. It's a good idea to create special styles to be applied to these elements. 
 6. Choose No page number in the Page Number box since these are not necessary in an ebook. 
+
 ![Image](images/InD_TOC_options.png) 
+
 7. Click OK to save the TOC Style. This is the first step to creating both a navigational and in-document table of contents. 
  
-#### Generate the in-document table of contents 1. Once you've created a TOC Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs marked with the styles you selected. 
+#### Generate the in-document table of contents
+1. Once you've created a TOC Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs marked with the styles you selected. 
 2. With the 'loaded' pointer, place the table of contents in the desired location of the document. 
+
 ![Image](images/InD_TOC_indocument.png) 
+
 You don't have to put the table of contents at the front of the book, or indeed include it all. 
 3. You'll learn how to generate the navigational table of contents in the Export Options section of this guide. 
  
@@ -1220,43 +1291,59 @@ Tips
 - If you export a multi-document book to EPUB and don't create a Table of contents style, InDesign automatically creates a TOC based on the file names of the individual documents in the book. If you export a single document book to EPUB, InDesign will not automatically generate a table of contents. 
 - You can create a navigational table of contents or an in-document table of contents or both. Most e-readers will throw an error if the navigational TOC is not present. Some ebook stores will complain if you don't include an in-document TOC. 
  
-### Metadata Metadata is information about your book, including the names of the author and other creators, the publisher, date of publication, subject matter, and more. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book. 
+### Metadata
+Metadata is information about your book, including the names of the author and other creators, the publisher, date of publication, subject matter, and more. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book. 
  
 InDesign gives you two opportunities to add metadata, in the File Info dialog box and when you export your file to EPUB. The two sets of information overlap but are not identical. Further, only empty fields are overwritten by data in the other system. 
  
 1. Go to File > Info to add metadata to your file about the name of your publication, the author, a description, keywords, and copyright status. 
+
 ![Image](images/InD_Metadata_1.png) 
  
 2. You can add additional metadata as you export the document to EPUB as discussed further ahead. 
  
-### Cover The final step before you export to EPUB is to create and add a cover for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to preview the cover at icon size. Most ebook stores ask for images that are at least 1000 pixels on the shortest side. 
+### Cover
+The final step before you export to EPUB is to create and add a cover for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to preview the cover at icon size. Most ebook stores ask for images that are at least 1000 pixels on the shortest side. 
  
 1. Save the cover image as a JPEG. 
+
 ![Image](images/InD_SaveCover.png) 
+
 2. You indicate the cover image that you want to use to InDesign when you export to EPUB in the next section. 
  
-### Export options Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the necessary links and cross-references, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
+### Export options
+Before exporting to EPUB make sure that all formatting is applied with styles, all images are properly placed and anchored, you've created all the necessary links and cross-references, there is a defined Table of Contents style, you've specified as much metadata as necessary and desired, and you've created a high-resolution cover image that can be viewed adequately at small sizes. 
  
 1. Start by choosing File > Export and then choose a filename and destination, and EPUB (Reflowable) in the Format menu. 
+
 ![Image](images/InD_Export_1.png) 
  
 2. Click OK. The EPUB - Reflowable Layout Export Options box appears with eight separate panels of options. 
 3. In the General panel, choose EPUB 3.0 next to Version to ensure your document is up to the latest standards. 
+
 ![Image](images/InD_Export_2.png) 
+
 4. Select Choose image next to Cover, and then click the folder to select the desired cover image that you created earlier. If you choose Rasterize Front Page, InDesign creates a screenshot of the first page of your book and uses that for the cover. 
 5. Next to Navigation TOC choose Multi Level (TOC Style) and then choose the Table of Contents Style that you created earlier in the TOC Style menu. 
 6. Click the Metadata panel. 
 7. If the book has an ISBN, enter it into the Identifier field. 
+
 ![Image](images/InD_Metadata_Export.png) 
+
 8. All the other fields besides the Date field should be automatically populated with data entered in the File Info box earlier. You can add any missing information now. InDesign uses the information in the Date field for the EPUB 2.0 dc:date element but will always automatically set the EPUB 3.0 compatible date format with the date and time of export. In other words, you don't have to put anything in the Date field. 
 9. There are many other export options, for controlling the way images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Explore these at your leisure. The CSS is perhaps my favorite option since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
-![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
+
+![Image](images/InD_finishedbook.png)
+
+![Image](images/InD_finishedbook2.png) 
  
  
-### Testing Be sure to test the EPUB file in as many e-readers as possible. You can use Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to Kindle format so that you can test it on actual Kindle devices. 
+### Testing
+Be sure to test the EPUB file in as many e-readers as possible. You can use Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to Kindle format so that you can test it on actual Kindle devices. 
  
-### Validating It's always a good idea to validate your EPUB documents with ePubCheck before you release them. 
+### Validating
+It's always a good idea to validate your EPUB documents with ePubCheck before you release them. 
  
  
  
@@ -1555,7 +1642,7 @@ Our Toolkit intends to be a helpful step in this direction.
 
 
 
-# 11 Software Catalogue 
+# 10 Software Catalogue 
  
 A catalogue of the Free and Open Source software both used and written in the context of the Digital Toolkit project with links to the relevant sources. 
  
@@ -1678,296 +1765,395 @@ For Valiz Publishers an online EPUB generator was developed using CakePHP and a 
 
 
 
-# 10 Glossary of Technical Terms 
+# 11 Glossary of Technical Terms 
  
 ### A 
  
-##### Acronym An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
+##### Acronym
+An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What you see is what you get'. 
  
-##### Algorithm An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer: a basic algorithm for division. 
+##### Algorithm
+An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer: a basic algorithm for division. 
 For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. 
+
+##### Android 
+An Open Source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used. 
+
+##### Amazon
+Online retailer of various goods, including print and ebooks, and producer of the Kindle and Kindle Fire e-reading devices. 
+
+##### App
+An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
  
-##### Android An Open Source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used. 
+##### App store 
+An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
+
+##### AZW (Amazon Word) 
+File format used by the Amazon Kindle e-reader. 
  
-##### Amazon Online retailer of various goods, including print and ebooks, and producer of the Kindle and Kindle Fire e-reading devices. 
+##### Anchor 
+An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink. 
  
-##### App An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
+##### Animated GIF (Graphics Interchange Format) 
+A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion. 
  
-##### App store An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
- 
-##### AZW (Amazon Word) File format used by the Amazon Kindle e-reader. 
- 
-##### Anchor An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink. 
- 
-##### Animated GIF (Graphics Interchange Format) A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion. 
- 
-##### API (Application Programming Interface) An interface between the operating system and application programs that specifies how the two communicate with each other. 
- 
-##### ASCII (American Standard Code for Information Interchange) A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters. 
+##### API (Application Programming Interface) 
+An interface between the operating system and application programs that specifies how the two communicate with each other. 
+
+##### ASCII (American Standard Code for Information Interchange) 
+A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters. 
  
  
 ### B 
  
-##### Bandwidth Literally, the frequency width of a transmission channel in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period. 
+##### Bandwidth 
+Literally, the frequency width of a transmission channel in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period. 
  
-##### Binary A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001. 
+##### Binary 
+A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001. 
  
-##### Bit Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed. 
+##### Bit 
+Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed. 
  
  
-##### Blog Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the Web. 
+##### Blog 
+Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the Web.
+
+##### Browser
+Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers. 
  
-##### Browser Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers. 
+##### Browser extension
+Plugins to extend or enhance the inner-workings of a web browser. 
  
-##### Browser extension Plugins to extend or enhance the inner-workings of a web browser. 
- 
-##### Byte A measurement of computer memory or disc capacity. A byte comprises 8 *bits*. 
- 
+##### Byte 
+A measurement of computer memory or disc capacity. A byte comprises 8 *bits*.
+
 ### C 
  
-##### Cascading Style Sheets (CSS) Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
- 
-##### Compatiblity Pieces of hardware and/or software which are capable of being used together are described as *compatible*. 
- 
-##### Compressed files Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo. 
- 
-##### Computer program A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, Java, C++) , and are then converted into binary machine instructions via a compiler or an interpreter. 
- 
-##### Content Management System (CMS) A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website. 
- 
+##### Cascading Style Sheets (CSS) 
+Cascading Style Sheets are a feature that enables a range of styles for headers, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically.
+
+##### Compatiblity 
+Pieces of hardware and/or software which are capable of being used together are described as *compatible*.
+
+##### Compressed files 
+Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taZ, taz, tgz, Z, zip, and zoo.
+
+##### Computer program
+A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, Java, C++) , and are then converted into binary machine instructions via a compiler or an interpreter.
+
+##### Content Management System (CMS) 
+A software package that makes it possible for non-technical users to publish and manage content (text, images, etc) on a website.
  
 ### D 
  
-##### Data Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates. 
+##### Data
+Strictly speaking the plural of 'datum', but now usually considered as a collective noun in the singular, with the plural form 'data items' or 'items of data'. Data is information in a form which can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates.
+
+
+##### Database 
+A structured datasource from which one can select specific records or a collection of records.
+
+##### Decompress 
+See **Compressed files**
+
+##### Desktop Publishing (DTP) 
+The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress.
+
+##### Device 
+An electronic handheld device like a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita).
+
+##### Digital Rights Management (DRM) 
+Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult. 
  
-##### Database A structured datasource from which one can select specific records or a collection of records. 
- 
-##### Decompress See **Compressed files** 
- 
-##### Desktop Publishing (DTP) The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress. 
- 
-##### Device An electronic handheld device like a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
- 
-##### Digital Rights Management (DRM) Technology used by digital publishers to control the usage of copyright protected material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult. 
+##### Directory
+A location on a disc containing *files* and *subdirectories* grouped together for organizational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly -->
+
  
  
-##### Directory A location on a disc containing *files* and *subdirectories* grouped together for organizational purposes. The term is used synonymously with 'folder', which has become a more common term since the introduction of Windows. Subdirectories are sometimes referred to as 'child directories' of the 'parent directory'. The topmost directory on a computer, which is the parent of all directories on the disc, is known as the 'root directory' and usually has the pathname C:\\\\<!-- Double \ used to espace meta value of \ in Mardown and display C:\\ literaly --> 
- 
- 
-##### Dots per inch (DPI) A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots. 
- 
+##### Dots per inch (DPI) 
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots.
+
 ### E 
  
-##### Ebook Digital publications of different kinds and formats, which can be read by e-readers, desktop computers and handheld devices. 
- 
-##### EPUB (Electronic Publication) An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content. 
- 
-##### E-reader A device capable of reading digital texts in various formats, notably EPUB and AZW. 
- 
-##### E-ink Electrophoretic ink, a system in which small particles are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations. 
+##### Ebook 
+Digital publications of different kinds and formats, which can be read by e-readers, desktop computers and handheld devices.
+
+##### EPUB (Electronic Publication) 
+An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content.
+
+##### E-reader 
+A device capable of reading digital texts in various formats, notably EPUB and AZW.
+
+##### E-ink
+Electrophoretic ink, a system in which small particles are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations. 
  
  
  
 ### F 
  
-##### File 'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place. 
+##### File 
+'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place.
+
+##### File extension 
+A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions.
+
+##### File format
+A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read and it can have it's own **file permissions**. 
  
-##### File extension A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions. 
- 
-##### File format A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read and it can have it's own **file permissions**. 
- 
-##### File permissions Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers. 
- 
-##### Formatting The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
- 
-##### Freemium A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins. 
- 
+##### File permissions 
+Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers.
+
+##### Formatting 
+The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use.
+##### Freemium 
+A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins.
+
 ### G 
  
-##### Graphics Interchange Format (GIF) A file format used for storing simple graphics. GIF files use a palette of 256 colors, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colors. A GIF file containing a small number of colors tends to be quite small, but it will be big if the image has a wide range of colors. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images. 
- 
-##### GitHub A digital platform for collaboration, code review, and code management for Open Source and private projects. 
- 
-##### Graphical User Interface (GUI) An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse. 
- 
+##### Graphics Interchange Format (GIF) 
+A file format used for storing simple graphics. GIF files use a palette of 256 colors, which makes them practical for almost all graphics except photographs. Generally, GIF files should be used for logos, line drawings, icons, etc, i.e. images that don't contain a rich range of colors. A GIF file containing a small number of colors tends to be quite small, but it will be big if the image has a wide range of colors. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images.
+
+##### GitHub 
+A digital platform for collaboration, code review, and code management for Open Source and private projects.
+
+##### Graphical User Interface (GUI) 
+An interface, i.e. a software package, that enables human beings to control what happens on their computers. A GUI consists of graphical elements known as icons and enables the user to run programs and to carry out other operations such as copying information from one folder/directory to another, deleting files, etc. by clicking on these icons, opening and shutting windows and dragging and dropping with a mouse.
+
 ### H 
  
-##### HTML (HyperText Markup Language) A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert hypertext links within one web page or to other pages anywhere on the Web. 
+##### HTML (HyperText Markup Language) 
+A markup language based on SGML. The coding system used for creating pages on the World Wide Web. HTML enables the author to control how the page appears and to insert hypertext links within one web page or to other pages anywhere on the Web.
+
+##### HTTP (HyperText Transfer Protocol) 
+The transfer method (protocol) used by the World Wide Web to transmit and receive web pages.
+
+##### Hybrid Publishing
+Hybrid publishing is the publishing of one and the same publication in several different media, including print and electronic, preferably with a workflow that minimizes the effort of customizing the publication for each medium. The latter is also called 'single source publishing' genoemd - maar het term 'single source multichannel publishing' spreekt niet de taal van het culturele veld. 
  
-##### HTTP (HyperText Transfer Protocol) The transfer method (protocol) used by the World Wide Web to transmit and receive web pages. 
- 
-##### Hybrid Publishing Hybrid publishing is the publishing of one and the same publication in several different media, including print and electronic, preferably with a workflow that minimizes the effort of customizing the publication for each medium. The latter is also called 'single source publishing' genoemd - maar het term 'single source multichannel publishing' spreekt niet de taal van het culturele veld. 
- 
- 
-##### Hyperlink A contraction of hypertext link, the essence of hypertext and the HTML language used for creating pages on the World Wide Web. In a web document a hyperlink can be a sequence of letters or an image leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon. 
- 
-##### Hypertext A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years. 
- 
+##### Hyperlink 
+A contraction of hypertext link, the essence of hypertext and the HTML language used for creating pages on the World Wide Web. In a web document a hyperlink can be a sequence of letters or an image leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon.
+
+##### Hypertext 
+A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years.
+
 ### I 
  
-##### iBooks A program enabling the user to read and buy ebooks, developed by Apple for iOS and OS X. 
+##### iBooks 
+A program enabling the user to read and buy ebooks, developed by Apple for iOS and OS X.
+
+##### iBookstore
+Apple's storefront for EPUBs and iBooks. 
  
-##### iBookstore Apple's storefront for EPUBs and iBooks. 
+##### Icon 
+A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file.
+
+##### Incompatiblity
+See **Compatibility** 
  
-##### Icon A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file. 
+##### Interactivity 
+Used to describe the ways in which software accepts and responds to user input.
+
+##### Interface
+An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer. 
  
-##### Incompatiblity See **Compatibility** 
+##### Internet
+The Internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers. 
  
- 
-##### Interactivity Used to describe the ways in which software accepts and responds to user input. 
- 
-##### Interface An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer. 
- 
-##### Internet The Internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers. 
- 
-##### iOS Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV. 
- 
-##### iPad Tablet introduced by Apple, controlled by touch gestures. 
+##### iOS 
+Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV.
+
+##### iPad
+Tablet introduced by Apple, controlled by touch gestures. 
  
  
 ### J 
  
-##### JavaScript JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate web pages. JavaScript is not the same as Java, a high level programming language. 
+##### JavaScript 
+JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate web pages. JavaScript is not the same as Java, a high level programming language.
+
  
- 
-##### JPEG or JPG (Joint Photographic Experts Group) A file format used for storing images. The JPEG/JPG format uses a palette of millions of colors and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. 
- 
+##### JPEG or JPG (Joint Photographic Experts Group) 
+A file format used for storing images. The JPEG/JPG format uses a palette of millions of colors and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images.
+
 ### K 
  
-##### KF8 KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW.
+##### KF8 
+KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW.
+
+##### Kindle
+Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon. Kindle Fire is the multifunctional, full color tablet in this same range. 
  
-##### Kindle Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon. Kindle Fire is the multifunctional, full color tablet in this same range. 
- 
-##### Kobo Kobo produces a range of handheld devices and software for e-reading. It also has its own storefront where ebooks (mainly EPUBs) may be bought. 
- 
+##### Kobo 
+Kobo produces a range of handheld devices and software for e-reading. It also has its own storefront where ebooks (mainly EPUBs) may be bought.
+
 ### L 
  
-##### LaTeX A document markup language used in scientific documents, often used to render mathematical notations, for example. 
- 
-##### LCD (Liquid Crystal Display) A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders. 
- 
-##### Linux Unix-type operating system. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is Open Source and hence freely available to everyone. Also see **Unix**. 
- 
+##### LaTeX 
+A document markup language used in scientific documents, often used to render mathematical notations, for example.
+
+##### LCD (Liquid Crystal Display) 
+A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders.
+
+##### Linux 
+Unix-type operating system. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is Open Source and hence freely available to everyone. Also see **Unix**.
+
 ### M 
  
-##### Markup language A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in '<strong></strong>' tags, an interpreter (e.g. a web browser) will render that particular word as bold. 
- 
-##### Markdown A **markup language** using common symbols like #, * and _ to denote various style attributes. 
- 
- 
-##### Metadata Standardized descriptors of data in a particular document (author, creation date, etc.) 
- 
- 
-##### MOBI An ebook file format developed by Mobipocket and the basis of Amazon's first AZW ebooks. 
- 
-##### Mobipocket A French company incorporated in March 2000 that produced Mobipocket Reader software, an e-reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform. 
- 
-##### Monitor The screen on which output from a computer is displayed. Also referred to as display screen. 
- 
-##### Monochrome Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. A monochromatic object or image has only colors in shades of limited colors or hues. 
+##### Markup language 
+A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in '<strong></strong>' tags, an interpreter (e.g. a web browser) will render that particular word as bold. 
+
+##### Markdown
+A **markup language** using common symbols like #, * and _ to denote various style attributes. 
  
  
-##### MP4 / MPEG-4 Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and the iTunes media player. The MP4 AVC file format is used to store video files in a more manageable size without affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices. 
+##### Metadata 
+Standardized descriptors of data in a particular document (author, creation date, etc.)
  
-##### MultiMarkdown An extension of **Markdown's** syntax adding tables, footnotes, citations, etc. 
+##### MOBI 
+An ebook file format developed by Mobipocket and the basis of Amazon's first AZW ebooks.
+
+##### Mobipocket 
+A French company incorporated in March 2000 that produced Mobipocket Reader software, an e-reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform.
+
+##### Monitor 
+The screen on which output from a computer is displayed. Also referred to as display screen.
+
+##### Monochrome 
+Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. A monochromatic object or image has only colors in shades of limited colors or hues.
  
-##### Multimedia The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application. 
+##### MP4 / MPEG-4 
+Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and the iTunes media player. The MP4 AVC file format is used to store video files in a more manageable size without affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices.
+
+##### MultiMarkdown 
+An extension of **Markdown's** syntax adding tables, footnotes, citations, etc.
+
+##### Multimedia 
+The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application.
+
+### N 
  
-### **N** 
- 
-### **O** 
+### O 
  
 <!-- #####OCR (Optical Character Recognition) 
 OCR software is used conjunction with a scanner to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer.--> 
  
  
-##### Open Source The practice of allowing access to the source of product and the process through which the product has been developed. Open Source software is the most well-known exponent of this practice. 
- 
-##### Operating system (OS) Software which manages the computer's hardware and provides a collection of tools and services used by computer programs within the operating system. Well known operating systems include Windows, Linux, Mac OS X and mobile operating systems like Android and iOS. 
+##### Open Source 
+The practice of allowing access to the source of product and the process through which the product has been developed. Open Source software is the most well-known exponent of this practice.
+
+##### Operating system (OS)
+Software which manages the computer's hardware and provides a collection of tools and services used by computer programs within the operating system. Well known operating systems include Windows, Linux, Mac OS X and mobile operating systems like Android and iOS. 
  
 ### P 
  
-##### PDA A handheld device providing services like an agenda, contacts and web browsing. Since the introduction of smartphones, the manufacturing of PDAs has been largely discounted. 
- 
-##### PDF (Portable Document Format) A file type created by Adobe that allows fully formatted documents to be transmitted across the Internet and viewed on any computer that has Adobe Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable. 
- 
-##### Pixel A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots. See also **resolution**. 
- 
-##### Plain text Text without any visual characteristics, so without bolding, italics, clickable links etc. 
- 
-##### Platform Generic term used in various contexts to denote technology which acts as a foundation for other technology to build upon - an operating system can be considered a platform. Also used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer. 
- 
- 
-##### Print on demand (POD) Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print on demand is sometimes called publish on demand. 
- 
-##### Program A computer program is a set of instructions for a computer, allowing it to performing certain tasks. 
+##### PDA 
+A handheld device providing services like an agenda, contacts and web browsing. Since the introduction of smartphones, the manufacturing of PDAs has been largely discounted.
+
+##### PDF (Portable Document Format) 
+A file type created by Adobe that allows fully formatted documents to be transmitted across the Internet and viewed on any computer that has Adobe Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable.
+
+##### Pixel 
+A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots. See also **resolution**.
+
+##### Plain text 
+Text without any visual characteristics, so without bolding, italics, clickable links etc.
+
+##### Platform 
+Generic term used in various contexts to denote technology which acts as a foundation for other technology to build upon - an operating system can be considered a platform. Also used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer.
+
+
+
+##### Print on demand (POD) 
+Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print on demand is sometimes called publish on demand.
+
+##### Program
+A computer program is a set of instructions for a computer, allowing it to performing certain tasks. 
 <!-- The American spelling is standard in computer jargon, enabling a useful distinction to be made in British English between a *computer program* and a *programme* in the sense of a *programme of study*. A talk with the title 'Turning programmes into programs' (or maybe it was the other way round) was presented by a British Council officer at the annual TESOL conference in the USA in 1987 - which puzzled the American audience but made sense to the British participants.--> 
  
-##### Protocol In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web server. 
+##### Protocol
+In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web server. 
  
 ### Q 
  
 ### R 
  
-##### Reflowable A reflowable document is a type of electronic document that can adapt its presentation to the output device. 
+##### Reflowable 
+A reflowable document is a type of electronic document that can adapt its presentation to the output device.
+
+##### Resolution
+A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolution and high-resolution. The resolution of a computer display screen is normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a printer is normally referred to by the number of dots per inch (dpi) - i.e. square inch. 
  
-##### Resolution A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolution and high-resolution. The resolution of a computer display screen is normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a printer is normally referred to by the number of dots per inch (dpi) - i.e. square inch. 
- 
-##### Rich Text Format (RTF) An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files. 
- 
+##### Rich Text Format (RTF)
+An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files. 
+
 ### S 
  
-##### Server-side scripting Server-side scripting is used is a web server technique where a user's request is fulfilled by running a script directly on the web server to generate dynamic web pages. 
+##### Server-side scripting 
+Server-side scripting is used is a web server technique where a user's request is fulfilled by running a script directly on the web server to generate dynamic web pages.
  
+##### Software Development Kit (SDK) 
+A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms.
+
  
-##### Software Development Kit (SDK) A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms. 
+##### Streaming
+Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored. 
  
- 
- 
-##### Streaming Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored. 
- 
-##### Syntax The correct 'grammar' and 'spelling' of a programming language. 
- 
+##### Syntax 
+The correct 'grammar' and 'spelling' of a programming language.
+
 ### T 
  
-##### Tablet A tablet is compact portable computer that makes use of a touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer. 
+##### Tablet 
+A tablet is compact portable computer that makes use of a touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer.
+
+##### Tagging 
+Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML. Tagging has become more common in recent years as a result of the widespread use of social media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly.
+
  
-##### Tagging Tags are small alpha-numeric indicators around a word or part of text to define the role and/or function of that text. It is an essential tool in XML and HTML. Tagging has become more common in recent years as a result of the widespread use of social media for sharing images, audio recordings, video recordings, website references, etc. Tags are labels that briefly describe the what the media or references are all about and help other people find them quickly. 
- 
- 
-##### TeX A document markup language used in scientific documents, often used to render mathematical notations, for example. 
- 
-##### Text editor A computer program that allow the manipulation of text. 
- 
-##### TIFF (Tagged Image File Format)A file format for storing raster graphics, commonly used in print design. 
- 
-##### Tumblr Tumblr is a micro blogging system, as well as a social networking site. Mainly used for sharing images. 
- 
+##### TeX 
+A document markup language used in scientific documents, often used to render mathematical notations, for example.
+
+##### Text editor 
+A computer program that allow the manipulation of text.
+
+##### TIFF (Tagged Image File Format)
+A file format for storing raster graphics, commonly used in print design.
+
+##### Tumblr 
+Tumblr is a micro blogging system, as well as a social networking site. Mainly used for sharing images.
+
  
 ### U 
  
-##### Unicode The Unicode worldwide character standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages. 
- 
-##### Unix An operating system widely used on large computer systems in corporations and universities, on which many web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows. 
+##### Unicode 
+The Unicode worldwide character standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages.
+
+##### Unix
+An operating system widely used on large computer systems in corporations and universities, on which many web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows. 
  
 ### V 
  
  
 ### W 
  
-##### Word processor Probably the most widely used computer application, success as Microsoft Word, Apples' Pages, and Open Source software LibreOffice. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing web pages. 
- 
-##### WWW (World Wide Web) Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms. 
- 
-##### WYSIWYG (What You See Is What You Get) A concept used to describe the notion that the appearance of text and images onscreen, corresponds more or less directly with the way the finished product (web page, printed document, etc.) will appear. 
- 
- 
+##### Word processor
+Probably the most widely used computer application, success as Microsoft Word, Apples' Pages, and Open Source software LibreOffice. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing web pages.
+
+##### WWW (World Wide Web) 
+Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms.
+
+##### WYSIWYG (What You See Is What You Get) 
+A concept used to describe the notion that the appearance of text and images onscreen, corresponds more or less directly with the way the finished product (web page, printed document, etc.) will appear.
+
 ### X 
  
-##### XML (Extensible Markup Language) XML is a specification emanating from the World Wide Web Consortium (W3C) that allows web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating web pages, HTML, and makes it possible to create websites containing more complex interactivity. 
- 
-##### XHTML (Extensible HyperText Markup Language) A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
- 
+##### XML (Extensible Markup Language) 
+XML is a specification emanating from the World Wide Web Consortium (W3C) that allows web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating web pages, HTML, and makes it possible to create websites containing more complex interactivity.
+
+##### XHTML (Extensible HyperText Markup Language) 
+A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser.
+
 ### Y 
  
 ### Z
