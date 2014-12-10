@@ -1,5 +1,12 @@
 ﻿# 08 Guide: Hybrid publishing per genre 
 
+<div class="summary">
+- Research publications are relatively straightforward to adapt to electronic publishing. They often require work with document conversion software. Clear style guides for authors can simplify hybrid publishing.
+- Exhibition catalogues can best be broken up into micro publications to make them suitable for reading on electronic devices. Otherwise, PDF is often a better suited format for them than EPUB.
+- There is no standard recipe for electronic artists' and designers' books. They can even be published as plain text files or animated GIFs. More conventional scenarios include the publishing of artists' blogs as ebooks.
+- PDF files and WordPress blogs are the two most common electronic publication forms for art and design periodicals. With the emergence of HTML5 and new distribution platforms like Blendle, this area of publishing is currently undergoing change.
+</div>
+
 ## General questions 
 
 After the step-by-step guide to making a simple EPUB and the general introduction into workflows for hybrid publishing, and the we will now address some questions that are specific to the most common genres of publications in the arts and cultural sector. 

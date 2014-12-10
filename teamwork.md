@@ -14,4 +14,6 @@
 ## Joe
 * doing: complete edit of chapter 8, with many changes to the text
 * will do: edit summaries in all chapters
+** `@andre: Joe. I will add the summaries to the chapters now. Edit in the chapters please`
+
 
