@@ -1,5 +1,11 @@
 # 04 E-reading Technologies 
- 
+
+<div class="summary">
+- There is a multitude of electronic reading hardware and electronic reading software (apps).
+- The combinations of software and hardware that readers can use are complex and virtually unlimited.
+- EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook format.
+</div>
+
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
  
 ## Reader hardware There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications. 

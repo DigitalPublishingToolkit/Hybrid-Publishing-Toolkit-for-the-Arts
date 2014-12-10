@@ -1,4 +1,14 @@
 # 03 Genres of Publication 
+
+<div class="summary">
+- In art and design publishing, the following genres are most common: research publications, catalogues, artists' books, periodicals.
+- Electronic publishing offers different opportunities – and creates different challenges – depending on the genre.
+- Searchability, easy dissemination and content modularization are common opportunities, visual design and the medium-specificity of artists' books are common difficulties.
+- There are three ways of creating hybrid books:
+	- “one-to-one” where the book is one finished product published in different media.
+	- “one-to-many” where the book has different appearances in different media.
+	- “one-to-database” where the book exists in a database whose content can be flexibly reused.
+</div>
  
  
 ## Five genres 
@@ -72,7 +82,8 @@ The archival aspect provides other chances and issues for digital art/design per
  
 Advantages are mostly the same as with the other genres listed: increased possibilities in extending content (interactivity, video etc.); decreasing distribution costs; outreach to a large audience; modularity. However, storage and download/update speed present a challenge, as already mentioned above. 
  
-### 5) New genres of publication New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
+### 5) New genres of publication
+New genres of publication are likely to emerge out of the ongoing digitization of the publishing industry. They could even fall outside of what we would normally consider a 'book', like short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog et cetera. Or similar to adventure games, we can imagine the use of an interactive approach where the reader is able to control the narrative or to build or customize the publication. 
  
  
 ## Three levels of electronic publishing 
@@ -89,7 +100,8 @@ A division into three levels can be made, which are described in further detail 
 ![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.") 
  
  
-### 1) One-to-one publications On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. 
+### 1) One-to-one publications
+On the first level, there is the unique book. Each book is considered as a separate product where authors, illustrators, artists, photographers, and designers work together to produce the book as a one-off team. The production workflow can be unique from book to book, but mostly is traditional, moving from manuscript to a designed PDF ready to be printed. Pictures and/or full layout pages do not work as reusable (digital) objects. In many cases no archives of the independent ingredients that together create the end-product are available. 
  
 Usually this implies that going electronic means making an e-representation of the same book. In some cases files of the final pages or book are being converted into EPUB 3 by an external agent. The final pages are checked on readability and the digital make-up (for example, that figures and captions are on the same page), and changes are made accordingly to create the ebook. On this level the ebook is not more than an exact-as-possible picture of the printed book. 
  
@@ -98,11 +110,13 @@ The publisher might use a document management system, which can be a mere collec
 There are many common characteristics between books in one genre. The question is how we can reveal and define these characteristics to enhance insight in the nature of the genre at hand and thus enhance the realization of these new options. 
  
  
-### 2) One-to-many publications The next level presents a split between the manifestation of a (one) paper print version and (many) electronic versions. The electronic version, contrary to the paper version, is not a single object but has various appearances, due to different presentation substrates of electronic book formats. Furthermore, the sizes of reading devices are not standardized and generally allow for both portrait or oblong viewing. On top of this, the popular semi-standard EPUB 3 allows for flowable pages and a change in font and font size. 
+### 2) One-to-many publications
+The next level presents a split between the manifestation of a (one) paper print version and (many) electronic versions. The electronic version, contrary to the paper version, is not a single object but has various appearances, due to different presentation substrates of electronic book formats. Furthermore, the sizes of reading devices are not standardized and generally allow for both portrait or oblong viewing. On top of this, the popular semi-standard EPUB 3 allows for flowable pages and a change in font and font size. 
  
 Workflow schemes become very important when working towards a one-to-many publication, as the same texts and images are used in various outlets. A structured and detailed workflow, accompanied by a related descriptors (metadata) set is necessary. In such a way, the ebook is not a byproduct of the print book anymore, but is produced simultaneously in its different output formats. 
  
-### 3) One-to-database Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
+### 3) One-to-database
+Database publishing presents the final level. Database publishing means that all objects or entities constituting a publication can be used independently and easily from each other. To that end they should be uniquely defined and stored in a database. As a precondition for full scale database publishing, the editorial workflow is important, because it is there that a decision is being made on what items are defined as individual entities and which characteristics and features (metadata) they have. 
  
 Especially in publications which have a more or less fixed layout database publishing opens new ways of conceiving books. For example, in the case of a collection of essays readers are then be able to make a personal choice from the available texts. The same can be thought of in the case of catalogues and journals. Based on metadata a structured presentation of all material is made possible, allowing the reader to navigate and put together a collection based on personal interests. Of course this means that **tagging**, describing, and storing of all components should happen in the early stages of publication with utmost care. 
  

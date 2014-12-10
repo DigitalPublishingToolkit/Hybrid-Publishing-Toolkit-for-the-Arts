@@ -1,5 +1,15 @@
 # 06 Towards a Hybrid Workflow Based on Markdown 
- 
+
+<div class="summary">
+- Hybrid publishing works best with a single source document that gets translated into different output formats (such as InDesign document, EPUB, Web site...).
+- The traditional Word + InDesign workflow does not work well for ebook publishing.
+- Markdown, a plain text format with simple markup, has many pragmatic advantages as the source format for a hybrid publication.
+- It is very easy to learn and makes it easy to see whether a source document has been cleanly formatted.
+- There are many text editing and document conversion programs that support Markdown.
+- XML is technically even better, but often too complex for small publishers.
+- Hybrid publication projects can also be authored in database-driven content management systems which have their own advantages and limitations.
+</div>
+
 Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards to an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
  
 Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the regular workflow should be adjusted and made efficient and practical towards hybrid publishing at an earlier stage. From-scratch development of each publication format is thus replaced by single-source, multi-format publishing. 

@@ -67,7 +67,14 @@ ISBN 978-90-822345-4-1 (EPUB)\
 
 
 # 01 Introduction 
- 
+
+<div class="summary">
+- Hybrid print and electronic publishing requires new work methods and workflows.
+- Low budget, small edition, in-house designed, visually-oriented publications require more change in work methods than big budget publications whose ebook design can be outsourced.
+- Interactive multimedia is still difficult to realize in books. All the while, new opportunities lie in entirely new publication formats (like: books with customized content, micro books).
+- This Toolkit focuses on low budget, in-house-designed, hybrid print and electronic books made with standard software and Open Source tools.
+</div>
+
 'You must change your life' - borrowing from philosopher Peter Sloterdijk, this could be the summary of our message for art and design oriented publishers, writers, editors and designers who are transitioning from traditional book making to electronic publishing or - more typically - **hybrid** print and electronic publishing. Hybrid publishing will sooner or later confront them with the following: (a) rethinking of traditional publication formats, (b) rethinking of editorial and production workflows and (c) rethinking of distribution. The changes that need to be made might be greater and more extensive than initially expected! 
  
  
@@ -143,7 +150,14 @@ Next to this publication and the toolkit, five e-publications of titles of the a
 
 
 # 02 The Basics 
- 
+<div class="summary">
+- In the historical development of writing, non-letter characters have become increasingly important: first blank spaces between words, then punctuation marks, later formatting **markup**.
+- In electronic texts, markup has developed into two general types: visual-typographic (such as in the tag “bold type”) versus logical-semantic (such as in the tag “emphasis”).
+- Logical-semantic markup is the basis for hybrid publishing since it can be translated into the visual formatting that is best fit for a particular medium.
+- The main advantage of electronic books is that same content can be published in a wide variety of formats.
+</div>
+
+
 ## What is a text? 
 A text is a collection of words and words are compositions of letters. In order to read a text we have all kinds of layout helpers. Keep in mind that in the Roman times (when texts were cut in stone) there was continuing writing: no spaces between the words. This was not considered a problem as reading was a craft only a few people mastered. These people knew the words and hence were able to read aloud, just try: *Icanreadthiseasilyaloud*. 
  
@@ -194,6 +208,16 @@ The essential issue is henceforward that the start is a clean plain text file. W
 
 
 # 03 Genres of Publication 
+
+<div class="summary">
+- In art and design publishing, the following genres are most common: research publications, catalogues, artists' books, periodicals.
+- Electronic publishing offers different opportunities – and creates different challenges – depending on the genre.
+- Searchability, easy dissemination and content modularization are common opportunities, visual design and the medium-specificity of artists' books are common difficulties.
+- There are three ways of creating hybrid books:
+	- “one-to-one” where the book is one finished product published in different media.
+	- “one-to-many” where the book has different appearances in different media.
+	- “one-to-database” where the book exists in a database whose content can be flexibly reused.
+</div>
  
  
 ## Five genres 
@@ -312,7 +336,13 @@ It is important to note that there will not be one workflow which fits all but i
 
 
 # 04 E-reading Technologies 
- 
+
+<div class="summary">
+- There is a multitude of electronic reading hardware and electronic reading software (apps).
+- The combinations of software and hardware that readers can use are complex and virtually unlimited.
+- EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook format.
+</div>
+
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
  
 ## Reader hardware There are several ways to peruse electronic publications. Portable devices like e-readers or tablets are by far the most popular gateway to digital content. Smartphones also offer some of the capabilities of an e-reader, as most of these devices are a miniature version of their tablet counterparts. Lastly not to forget the desktop computer, which is often used in combination with the physical book, especially in the case of research publications. 
@@ -434,7 +464,13 @@ Of course EPUB 3 files without proprietary extensions exist as well and are sold
 
 
 # 05 Distribution platforms 
- 
+
+<div class="summary">
+- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects.
+- These platforms differ in their scope of content, their business strategies and the reading technologies they support.
+- The choice of one or more distribution platforms therefore also determines design choices for an ebook.
+</div>
+
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
  
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of NOOK devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
@@ -701,7 +737,17 @@ None of these projects compete with classical ebook stores, online reading platf
 
 
 # 06 Towards a Hybrid Workflow Based on Markdown 
- 
+
+<div class="summary">
+- Hybrid publishing works best with a single source document that gets translated into different output formats (such as InDesign document, EPUB, Web site...).
+- The traditional Word + InDesign workflow does not work well for ebook publishing.
+- Markdown, a plain text format with simple markup, has many pragmatic advantages as the source format for a hybrid publication.
+- It is very easy to learn and makes it easy to see whether a source document has been cleanly formatted.
+- There are many text editing and document conversion programs that support Markdown.
+- XML is technically even better, but often too complex for small publishers.
+- Hybrid publication projects can also be authored in database-driven content management systems which have their own advantages and limitations.
+</div>
+
 Creating a workflow that is both structured and flexible enough to cater to different demands is a key step towards to an efficient electronic or hybrid publishing strategy. The hybrid workflow we propose here is based on the need for publishing across different mediums, while keeping the majority of the work process in-house instead of outsourcing. 
  
 Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the regular workflow should be adjusted and made efficient and practical towards hybrid publishing at an earlier stage. From-scratch development of each publication format is thus replaced by single-source, multi-format publishing. 
@@ -889,6 +935,14 @@ In conclusion, we can only advise that various objects or in other words pictori
 
 
 # 07 Guide: How to make a simple EPUB 
+<div class="summary">
+- An EPUB file is basically a web site in a zip archive, plus some metadata files.
+- EPUBs can be created from scratch, with any text program, just by creating HTML files, the required meta data files and by putting all files into the required folders.
+- EPUBs can also be exported from InDesign projects if work within the program is done in a highly structured way, using the very latest version of the software.
+- The Open Source command line program Pandoc is a very capable tool for translating text files into EPUB. However, the more structured the markup of the input text file, the better the translation.
+- The graphical Open Source program Calibre can alternatively be used for document conversion and editing.
+
+</div>
  
  
 Making an EPUB doesn't have to be complicated. As the EPUB standard is open and based on HTML (the same format as web pages), there's a large and growing variety of ways to convert and export to EPUB from different kinds of sources. For very simple publications, it may be possible to use a tool that directly converts your document to EPUB. The following options are being explained 
@@ -1269,7 +1323,14 @@ This means you give pandoc the command to convert your beowulf.md file from (-f)
 
 
 # 08 Guide: Hybrid publishing per Genre 
- 
+
+<div class="summary">
+- Research publications are relatively straightforward to adapt to electronic publishing. They often require work with document conversion software. Clear style guides for authors can simplify hybrid publishing.
+- Exhibition catalogues can best be broken up into micro publications to make them suitable for reading on electronic devices. Otherwise, PDF is often a better suited format for them than EPUB.
+- There is no standard recipe for electronic artists' and designers' books. They can even be published as plain text files or animated GIFs. More conventional scenarios include the publishing of artists' blogs as ebooks.
+- PDF files and WordPress blogs are the two most common electronic publication forms for art and design periodicals. With the emergence of HTML5 and new distribution platforms like Blendle, this area of publishing is currently undergoing change.
+</div>
+
 ## General questions 
  
 After the general introduction into workflows for hybrid publishing and the step-by-step guide to making a simple EPUB, some points to be made that are specific to the most common genres of publications in the arts and cultural sector. 
@@ -1446,7 +1507,16 @@ Miriam: sharing texts is better discussed in chapter 5.
 
 
 # 09 Futurology 
- 
+
+<div class="summary">
+- Collage, customization and curation appear to be key concepts in future electronic publishing.
+- Classical e-readers seem to lose importance while more and more people read on their standard mobile devices. Future e-reading customs will highly depend on the further development of electronic display technology.
+- E-reading and paper books will likely continue to coexist.
+- Flatrate subscriptions to whole ebook catalogues will likely become more common.
+- Self-publishing will likely grow more.
+- Reciprocally, there may be more need to editorial selection and content curation.
+</div>
+
 ## What we can expect 
 *Que Sera, Sera (Whatever Will Be, Will Be)*, is also the never ending question for the electronic publishing of art books.[^doris] In art books we try to describe, show, analyze and collect works of art. These works can be made of everything, but more often than not they deal with tactile objects, paintings, drawings, sculptures, etc. In many books these works are reproduced and discussed. But writing itself is also an art form and the mutual interaction between texts and tactile objects becomes more and more integrated. In the 20s and 30s of the previous century collages became very popular. Here texts, newspaper clippings, photographs and any other expressions, mostly on a paper substrate were put together to obtain a new artwork. In an electronic environment we transcend this collage technique into a new substrate: the pixel screen. Now, an enormous range of novel opportunities for creative expression becomes possible. 
 As we showed above in this guide, the act of gluing, dissecting and endlessly reorganizing enables us to create new works that can express themselves differently in different technological environments as well as being tailored to the readers' desire of the moment of consumption. Electronic publishing becomes like a gigantic fruit salad bar, where the end user is able to or fill her own plate or to make a choice between prepared combinations of hardware, platforms and content, both online and offline. This not the same as blending all ingredients into one smoothie, which is an end phase from where no way back is possible. Below, we discuss some actual trends, though as we have seen over the past years the predictive power of fashion and hype is limited. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/?p=921 "Link to blog post: Book review. The end of ebooks. 20 visionaries on the future of digital reading. ") 

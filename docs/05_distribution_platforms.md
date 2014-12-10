@@ -1,5 +1,11 @@
 # 05 Distribution platforms 
- 
+
+<div class="summary">
+- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects.
+- These platforms differ in their scope of content, their business strategies and the reading technologies they support.
+- The choice of one or more distribution platforms therefore also determines design choices for an ebook.
+</div>
+
 ## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
  
 Many channels exist for distributing ebooks. Curiously, most traditional retailers (large bookshops, like Libris or AKO in the Netherlands) play a marginal role in the selling of electronic publications, with the exception of a company like Barnes & Noble with their range of NOOK devices and associated storefront. Large players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
