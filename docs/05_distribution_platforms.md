@@ -27,7 +27,7 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 ![Scribd](images/05_01_onlinereadingplatforms_scribd.png "Scribd") 
 
-![Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
+![Internet-Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
 
 ![^Medium](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
 
@@ -47,10 +47,11 @@ Examples of social reading platforms:
 
 ##Print on demand (POD) 
 
-There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. 
+There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu [^Lulu] and the Espresso Book Machine [^Espresso-Book-Machine]. 
 
 ###Lulu.com 
-<!-- image absent from folder ![Lulu](images/07_LuluIcon.png "Lulu"). maybe delete this link?-->
+![Lulu](images/05_01_onlinereadingplatforms_LULU.png "Lulu") 
+<!-- the following text will be replaced by the image above -->
 
 Lulu is the biggest print-on-demand service which offers publishing free of cost, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
 
@@ -96,6 +97,9 @@ Lulu is the biggest print-on-demand service which offers publishing free of cost
 * Choose your preferred methods of distribution 
 
 ###Espresso Book Machine 
+
+![Espresso-Book-Machine](images/05_01_onlinereadingplatforms_EspressoMachine.png "Espresso Book Machine")
+<!-- the following text will be replaced by the image above -->
 
 The Espresso Book Machine (EBM) [^Espresso-Book-Machine] is a direct-to-consumer print-on-demand machine that prints, collates, covers, and binds a single copy of a book in a few minutes. It can be found at different locations, for example in physical bookstores. 
 
