@@ -1,12 +1,12 @@
-# 05 Distribution platforms 
+#05 Distribution platforms 
 
-<div class="summary">
-- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects.
-- These platforms differ in their scope of content, their business strategies and the reading technologies they support.
-- The choice of one or more distribution platforms therefore also determines design choices for an ebook.
-</div>
+<div class="summary"> 
+- Electronic book distribution currently consists of ebook stores, online reading platforms, social reading platforms, print on demand and self-publishing services, pirate download platforms and artists' ebook projects. 
+- These platforms differ in their scope of content, their business strategies and the reading technologies they support. 
+- The choice of one or more distribution platforms therefore also determines design choices for an ebook. 
+</div> 
 
-## Ebook stores: Amazon, Apple, Google, Kobo, Sony 
+##Ebook stores: Amazon, Apple, Google, Kobo, Sony 
 
 There are many channels for the distribution of ebooks. Perhaps surprisingly, traditional retailers (for example, large bookstores such as Libris or AKO in the Netherlands) generally play no more than a marginal role in selling electronic publications. A notable exception is Barnes & Noble with its range of NOOK devices and dedicated ebook store. Major players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
 
@@ -15,23 +15,23 @@ These ebook stores typically charge a percentage for each publication sold, usua
 Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing program supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents.[^kindle-direct-publishing] 
 
 
-## Online reading platforms: Issuu, Scribd, Internet Archive, websites/blogs 
+##Online reading platforms: Issuu, Scribd, Internet Archive, websites/blogs 
 
 Online reading platforms are browser-based platforms for reading electronic publications. Publications can be presented in a variety of formats. The choice of online platform (and thus of publication format) also has consequences for distribution methods and accessibility. 
 
 It is important to remember that publishers who make use of an online reading platform are effectively dependent on the platform provider. If the platform changes its technology or terms of service, or simply goes out of business, the publisher has no recourse, except possibly to find another platform. On the other hand, ebook stores which offer downloadable files provide the publisher with much more control and freedom in this respect. 
 
-The following diagrams show the main characteristics, statistics, strengths and weaknesses, and publishing guidelines for three major online reading platforms (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive] ). 
+The following diagrams show the main characteristics, statistics, strengths and weaknesses, and publishing guidelines for three major online reading platforms (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive]) and two third-party blogs (Medium [^Medium] and Wordpress [^Wordpress]). 
 
 ![Issuu](images/05_01_onlinereadingplatforms_issuu.png "Issuu") 
 
 ![Scribd](images/05_01_onlinereadingplatforms_scribd.png "Scribd") 
 
-![Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png) 
+![Internet Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
 
+![](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
 
-
-
+![](images/05_01_onlinereadingplatforms_Wordpress.png "Wordpress") 
 
 ###Social reading platforms 
 
@@ -46,7 +46,7 @@ Examples of social reading platforms:
 - *Discussions on social media* are also part of the social reading experience: Twitter interviews, Facebook pages for newly released books, book reviews in podcasts or on YouTube. 
 
 
-## Print on demand (POD) 
+##Print on demand (POD) 
 
 There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. 
 
@@ -139,21 +139,21 @@ Choose your preferred methods of distribution
 * Boekscout[^Boekscout] - is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
 
 
-## Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
+##Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
 As with music and films, 'pirate' platforms haven often been at the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright violation of copyrights, or in legal 'gray zones' (obscure and out-of-print books, films or recordings of which the rights owners are unknown). The mere existence and popularity of pirate sites for digitized books is in itself an indication of the actual size of the market for electronic reading. Pirate platforms are, by their nature, more volatile than online bookstores and e-reading platforms. Worldwide there are various organizations dedicated to fighting piracy and shutting down pirate websites, even small-scale ones. However pirate platforms have usually proven quite resilient to such crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure. 
 
 Commercial providers of digital content can (and do) learn a lot from pirate platforms. For example, Netflix,[^Netflix] the most successful web service for **streaming** films and a growing competitor to paid cable television, has been known to decide which films to show based on the popularity of these films on The Pirate Bay.[^The-Pirate-Bay] 
 
-#### All-purpose download sites 
+####All-purpose download sites 
 Sites like The Pirate Bay offer every imaginable type of digital media for download: films, music, computer games and software, and of course electronic books. The content listed on The Pirate Bay and other sites which make use of the BitTorrent **protocol** tends toward the mainstream: Hollywood films, pop music, and non-fiction and technical handbook literature as well as fantasy and science fiction. Since these sites are widely used and provide up-to-date download statistics, and since their technology (BitTorrent) depends on user participation for downloads to remain available, they provide a great deal of insight into which titles are truly popular among readers. For example, at a particular moment in June 2014, the book *Atlas of Ancient Worlds* had been downloaded more than 2000 times in 48 hours (in comparison, the most popular film - an episode of the TV series *Game of Thrones* - had been downloaded more than 70,000 times). 
 
 
-#### General ebook sites 
+####General ebook sites 
 
 Besides sites such as Project Gutenberg,[^Project-Gutenberg] where users can legally download copyright-free ebooks, there are many websites where ebooks are shared illegally. The most simple pirate ebook sites offer every kind of book - very much like a large general-audience bookstore or Amazon's online bookstores. This type of site, which is in fact little more than a simple search engine with downloadable content such as ebooks, is particularly popular in Russia. At the time of writing, library.ru was the model for this type of site; after its forced closure, the vacuum was soon filled by other sites such as bookfi.org.[^bookfi.org] Another example worth mentioning here is the online library libgen.info.[^libgen.info] 
 
 
-#### Specialized sites 
+####Specialized sites 
 
 Some websites which operate outside (or in 'gray zones') of copyright law are in fact art projects. In the 1990s the website 'textz.com', created by the Berlin-based artist Sebastian Luetgert, was the first website to offer books on culture, politics and media theory as simple, freely downloadable text files (incidentally, the name 'textz' was a pun on 'warez', a slang term for illegally copied software). Later, other websites such as AAAAARG[^aaaaarg.org] and Monoskop[^Monoskop] provided thematically linked collections of freely downloadable books on art, culture and media studies, with the stated goal of stimulating reading and discussion groups, or of offering a carefully hand-selected library according to the specific tastes of the website's owner. 
 
@@ -167,7 +167,7 @@ What online booksellers could learn from these websites:
 * Simplicity of format. The sites provide mostly PDFs and EPUBs, depending on the format the work was presented in. 
 
 
-## Artist and designer-run projects: Badlands Unlimited, KYUR8, artistsebooks.org 
+##Artist and designer-run projects: Badlands Unlimited, KYUR8, artistsebooks.org 
 
 In recent years there have been attempts to set up small presses and book download stores focusing exclusively on [artists' and designer's books](#artistdesigner-book): <!-- what is this markdown tag? It doesn't link to anything. Maybe delete --> for example the writer, artist and publisher James Bridle (who coined the term 'new aesthetics') created the website artistsebooks.org which features freely downloadable EPUB files by experimental writers and artists. Another example is the more commercially oriented online press Badlands Unlimited, an initiative of the American contemporary artist and designer Paul Chan, which sells artist-made visual electronic books, available only in Apple's proprietary format for the iPad tablet and iBooks platform. 
 
