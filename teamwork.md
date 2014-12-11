@@ -6,6 +6,7 @@
 * will do: hyperlinks to and from Glossary; Urlize all urls
 
 ## Miriam
+* will go over images when next version is ready (Thursday/Friday)
 
 ## Margreet
 
