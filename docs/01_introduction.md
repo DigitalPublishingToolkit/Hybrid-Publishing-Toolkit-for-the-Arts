@@ -4,7 +4,7 @@
 - Hybrid print and electronic publishing requires new work methods and workflows. 
 - Low-budget, small-edition, visually-oriented publications that are designed in-house will require more significant changes in work methods than big-budget publications for which the ebook design can be outsourced. 
 - Interactive multimedia is still difficult to realize in books. Yet there are new opportunities for entirely new publication formats (such as books with customized content and micro-books). 
-- This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and Open Source tools. 
+- This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and **Open Source** tools. 
 </div> 
 
 'You must change your life' - borrowing from the philosopher Peter Sloterdijk, this could be the summary of our message to art-oriented and design-oriented publishers, writers, editors and designers who are currently transitioning from traditional book making to electronic publishing or - more typically - **hybrid publishing** of print and electronic formats. Hybrid publishing will sooner or later confront them with the need to re-think traditional publication formats, editorial and production workflows, and distribution. The changes required may well be greater and more extensive than initially expected! 
