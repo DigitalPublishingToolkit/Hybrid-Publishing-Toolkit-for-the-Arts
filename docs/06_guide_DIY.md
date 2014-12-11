@@ -46,7 +46,7 @@ These three components form the basic structure of an EPUB, and are required in 
 
 ###Creating your own EPUB 
 
-Most of the elements of an EPUB can be produced manually in a text editor. Text editors are used for editing plain-text files such as HTML files, and should not to be confused with word processors such as Microsoft Word or Apple's Pages (though it is of course entirely possible to create and edit text files using a word processor). Popular text editors include BBEdit, TextWrangler or TextMate for Mac, or NotePad++ and PSPad for Windows. The following is a step-by-step description of the process of creating a very simple EPUB. 
+Most of the elements of an EPUB can be produced manually in a **text editor**. Text editors are used for editing plain-text files such as HTML files, and should not to be confused with word processors such as Microsoft Word or Apple's Pages (though it is of course entirely possible to create and edit text files using a word processor). Popular text editors include BBEdit, TextWrangler or TextMate for Mac, or NotePad++ and PSPad for Windows. The following is a step-by-step description of the process of creating a very simple EPUB. 
 
 ####Creating the required files and directories 
 
