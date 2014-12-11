@@ -1,13 +1,11 @@
-# 06 Guide: How to make a simple EPUB 
+#06 Guide: How to make a simple EPUB 
 
 <div class="summary">
-- Hybrid publishing works best with a single source document that gets translated into different output formats (such as InDesign document, EPUB, Web site...).
-- The traditional Word + InDesign workflow does not work well for ebook publishing.
-- Markdown, a plain text format with simple markup, has many pragmatic advantages as the source format for a hybrid publication.
-- It is very easy to learn and makes it easy to see whether a source document has been cleanly formatted.
-- There are many text editing and document conversion programs that support Markdown.
-- XML is technically even better, but often too complex for small publishers.
-- Hybrid publication projects can also be authored in database-driven content management systems which have their own advantages and limitations.
+- An EPUB file is basically a web site in a zip archive, plus some metadata files.
+- EPUBs can be created from scratch, with any text program, just by creating HTML files, the required meta data files and by putting all files into the required folders.
+- EPUBs can also be exported from InDesign projects if work within the program is done in a highly structured way, using the very latest version of the software.
+- The Open Source command line program Pandoc is a very capable tool for translating text files into EPUB. However, the more structured the markup of the input text file, the better the translation.
+- The graphical Open Source program Calibre can alternatively be used for document conversion and editing.
 </div>
 
 Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these do-it-yourself tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
@@ -255,7 +253,6 @@ You can also use this option to adjust how the image appears in the print editio
 
 ![Image](images/InD_anchor8-printadjust.png) 
 
-
 ###Links and cross-references 
 One of the main advantages of ebooks over print is that they can contain links to additional information, whether in the same book or on an external website. InDesign makes it easy to incorporate links into your ebook. 
 
@@ -272,7 +269,6 @@ There are two main types of links: links which specify both the destination and 
 5. Click OK to create the link. 
 ![Image](images/InD_hyperlink_destination_4.png) 
 
-
 ###Creating cross-references 
 Cross-references are links in which the link text is automatically generated based on the text at the specified destination. A typical example of a cross-reference is a link to a different chapter or heading name. InDesign will always use the most up-to-date text in the heading. 
 
@@ -285,7 +281,6 @@ All paragraphs formatted with that particular style will show up in the list on 
 5. Select a Format for the Cross-Reference, and click OK. 
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
 ![Image](images/InD_cross_references_2.png) 
-
 
 ###Tables of contents 
 Ebooks have two different types of tables of contents: the conventional one which is part of the text (more or less like any other chapter in your book, only with links to the other chapters and sections); and one that is accessed through the menus of the user's e-reader device or application, regardless of which page the user is currently viewing. InDesign facilitates the creation of both types. 
@@ -351,10 +346,8 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 10. Finally, click OK to generate the EPUB file. 
 ![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
 
-
 ###Testing and validating 
 Be sure to test the EPUB file with as many e-reader devices and applications as possible. You can use the application Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to the Kindle format so that you can test it on actual Kindle devices. Finally, it's always a good idea to validate your EPUB documents before releasing them.[^epub-validator] 
-
 
 ##Do-it-yourself EPUB using Pandoc 
 Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. <!-- internal link needed--> 
@@ -393,7 +386,6 @@ The first term of the command line ('pandoc') indicates which program will proce
 
 While developing this Toolkit we created an online graphical user interface which makes it possible to use Pandoc to convert .docx files to HTML, plain text, ICML (InDesign) and Markdown. This browser-based converter is freely accessible online.[^pandoc-convert] 
 
-
 ##Using Calibre and custom plug-ins 
 
 Many other publishing tools are available, which roughly fall into two categories. One can be described as full-fledged editors, the other are tools which allow publishers to enhance existing publications with interactive features. 
@@ -405,13 +397,9 @@ Calibre [^calibre] has been described as a 'Swiss army knife' for reading, conve
 Calibre can be used to: 
 
 * open and read EPUB files on a personal computer; 
-
 * import documents in various ebook and electronic text formats (including .docx, RTF, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
-
 * manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
-
 * synchronize the user's ebook library with e-reader devices; 
-
 * edit ebooks in HTML source code, with a live preview in a graphical user interface. 
 
 Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc provides better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
@@ -420,18 +408,14 @@ At the time of writing, the easiest and least expensive method of hybrid publish
 
 ![Calibre Workflow](images/09_calibre.png) 
 
-
 ###Enhancement utilities: Adobe Digital Publishing Suite, Mag+ 
 These applications usually integrate (as custom plug-ins) with a previously installed Adobe InDesign package and allow designers to add interactive content (media, animations, etc.) to an e-book design. As such these tools are often used to convert print magazines into digital products suitable for sale on platforms such as Apple's Newsstand. Mag+ for example 'is based upon an InDesign plugin and made for creating tablet and smartphone apps without the need for programming skills'.[^magplus] 
-
 
 ###Other possibilities 
 
 For publications which require consistent design and uniform interactivity across devices, a reflowable document will probably not be the best solution. Therefore various publishers have developed their own (mobile) applications, such as The Guardian's iOS [^guardian-ios] version of its newspaper, the 'amplified' ebooks series by Penguin,[^penguin-amplified] or the children's books published by Purple Carrot Books. [^purple-carrot-publication] These solutions offer detailed control over interactivity as well as consistency of design, but at the extra cost of hiring a specialist (or even a team of specialists) to engineer the application. Transferring an EPUB to another device is fairly easy; however, publishing specifically for many platforms is by no means straightforward, due to the relatively closed nature of mobile operating systems. For example, an application designed specifically for the iPhone/iPad iOS **Software Development Kit** will likely require a lot of technical modifications before it can run on the Android platform. 
 
 Finally, why not simply publish essays, articles or even whole books on a website? The abundance of blogs and other publishing platforms shows that this is indeed a viable form of publishing. Monetizing is less straightforward: most websites generate income by showing advertisements or sponsored articles. Paid membership is also a model used by some websites, such as the Dutch news platform *De Correspondent* [^de-correspondent]. One of the major downsides is that the content will only be available online, and cannot be easily transferred as a single unit of information the way an EPUB or PDF can. 
-
-
 
 [^plain-text]: *Beowulf by J. Lesslie Hall*, http://www.gutenberg.org/ebooks/16328. 
 [^calibre]: Calibre, http://calibre-ebook.com/. 

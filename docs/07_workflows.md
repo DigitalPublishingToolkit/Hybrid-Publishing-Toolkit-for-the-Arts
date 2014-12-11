@@ -1,14 +1,14 @@
-﻿# 07 Towards a hybrid workflow based on Markdown 
+# 07 Towards a hybrid workflow based on Markdown 
 
-
-<div class="summary">
-- An EPUB file is basically a web site in a zip archive, plus some metadata files.
-- EPUBs can be created from scratch, with any text program, just by creating HTML files, the required meta data files and by putting all files into the required folders.
-- EPUBs can also be exported from InDesign projects if work within the program is done in a highly structured way, using the very latest version of the software.
-- The Open Source command line program Pandoc is a very capable tool for translating text files into EPUB. However, the more structured the markup of the input text file, the better the translation.
-- The graphical Open Source program Calibre can alternatively be used for document conversion and editing.
-
-</div>
+<div class="summary"> 
+- Hybrid publishing works best using a single source document which can then be converted to different output formats (InDesign document, EPUB, website, etc.). 
+- The traditional Microsoft Word + Adobe InDesign workflow does not work well for ebook publishing. 
+- Markdown, a plain-text format with simple markup, has many pragmatic advantages as a source format for hybrid publications. 
+- Markdown can be learned quickly, and makes it easy to see whether a source document has been cleanly formatted. 
+- There are many text editing and document conversion programs that support Markdown. 
+- XML is technically even better, but often too complex for small publishers. 
+- Hybrid publication projects can also be authored in database-driven content management systems which have their own advantages and limitations. 
+</div> 
 
 Creating a workflow that is both structured and flexible enough to cater to a variety of demands is a key step towards establishing an efficient electronic or hybrid publishing strategy. What we propose here is a hybrid workflow based on the need for publishing across different media, while keeping the main part of the work process in-house rather than outsourcing it. 
 
