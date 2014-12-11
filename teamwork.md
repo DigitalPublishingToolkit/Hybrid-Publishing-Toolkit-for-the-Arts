@@ -9,7 +9,7 @@
 * will go over images when next version is ready (Thursday/Friday)
 
 ## Margreet
-* 
+* Going trough chapter 2
 
 ## Loes & Kimmy
 
