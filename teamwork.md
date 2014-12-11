@@ -13,9 +13,7 @@
 ## Loes & Kimmy
 
 ## Joe
-* doing: replacing text with image in chapter 5, together with kimmy
-* doing: editing summary of chapter 6
-* doing: small adjustments to text of chapter 6
-* will do: finish edit of chapter 8, with many changes to the text
+* doing: editing chapter 8 including summary, with many changes to the text
+* will do: replace text with image in chapter 5, together with kimmy
 * will do: edit chapter 9 and appendices, with many changes to the text
 
