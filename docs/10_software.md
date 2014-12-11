@@ -73,7 +73,7 @@ A simple validation tool to check metadata in a **Markdown** file.
 
 ### My Highlights 
 
-Our project for NAI010 Publishers had two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of catalogue texts on art works from the Stedelijk Museum Amsterdam collection. The other is a set of plugins for the popular web content management system WordPress, extending the functionality of the WordPress JSON REST **API** (WP-AP)[^wp-api] and facilitating the generation of EPUBs directly from a WordPress database. (The latter is for the most part a packaged version of the **CakePHP** EPUB component that builds on Asbjørn Grandt's PHPePub.)
+Our project for nai010 Publishers had two technical components. A mobile web application, called My Highlights, allowing a user to browse a large collection and create an EPUB based on a personal selection of catalogue texts on art works from the Stedelijk Museum Amsterdam collection. The other is a set of plugins for the popular web content management system WordPress, extending the functionality of the WordPress JSON REST **API** (WP-AP)[^wp-api] and facilitating the generation of EPUBs directly from a WordPress database. (The latter is for the most part a packaged version of the **CakePHP** EPUB component that builds on Asbjørn Grandt's PHPePub.)
 
 [https://github.com/DigitalPublishingToolkit/my-highlights](https://github.com/DigitalPublishingToolkit/my-highlights) 
 
