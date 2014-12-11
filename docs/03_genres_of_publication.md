@@ -14,10 +14,10 @@
 In the present project we deal with a variety of publication products which we have categorized into five genres: 
  
 1. Research publication; 
-1. Art/design catalogue; 
-1. Artist's/designer's book; 
-1. Art/design periodical; 
-1. New genres. 
+2. Art/design catalogue; 
+3. Artist's/designer's book; 
+4. Art/design periodical; 
+5. New genres. 
 
 ###1) Research publication 
 - Mainly text-based; 
@@ -33,7 +33,6 @@ Discussions on the digital opportunities for research publications in the scienc
 The first, most obvious advantage of 'going electronic' with research publications is that it makes things easier for users: electronic texts make it possible for researchers, students and other readers to search, copy and paste text in a simple and natural way. Also, the **datasets** used in the research can be included within the publication, allowing more serious readers and researchers to engage directly with the research material itself. For publishers, making texts available digitally offers huge advantages in terms of accessibility, particularly on an international level, since distribution of ebooks is not limited by logistical issues of shipment and storage. On the other hand there are also specific problems related to digital research publications. One of these has to do with referencing: without fixed page numbers, there is no standard way of specifying the location of a reference within a publication. This is one reason why scientific ebooks are still often issued as PDFs. 
 
 'Going electronic' also opens up new possibilities for creating content. A high degree of standardized structure and ensuing 'modularization' allow for new ways of reading and writing essays. Particularly when different authors refer to each other, they often share data, quotations, tables, figures, etc. Multiple use and reuse of 'modules' can help foster communication within a community. However, this remains a future dream for the time being, since comments and annotations are not linked to (a specific place in) the book the way they are in the case of physical books, which makes sharing more complicated. [^Kircz](http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf) Another option that comes with modularization is that different users or readers of a text can each extract the modules they need. For example, if we consider an anthology of essays, a user could generate a customized ebook of all bibliographical references within the various texts. 
-
 
 ###2) Art/design catalogue 
 - Mainly image-based; 
@@ -64,7 +63,6 @@ the specifications of each format, and more generally of each medium. Here too, 
 
 In the case of artist's books or pamphlets which are not primarily a reflection of their medium (for example Sol LeWitt's 1968 *Sentences on Conceptual Art* which consists of handwritten text on paper pages) and are not particularly difficult to adapt/convert to electronic media, the advantages of doing so are similar to those for other genres: access and distribution, reaching new audiences, the ability to easily copy and paste text and images, and the possibility of incorporating interactive materials. 
 
-
 ###4) Art/design periodical 
 - Both text-based and image-based; 
 - Images as well as texts play a central role; 
@@ -83,7 +81,6 @@ The advantages are mostly the same as with the other genres listed: increased po
 ###5) New genres 
 New genres of publication will continue to emerge as a result of the ongoing digitization of the publishing industry. These could fall outside of what we would normally consider a 'book': for example, short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a blog, etc. We could also imagine an interactive approach, similar to adventure games, where the reader is able to control the narrative or to build or customize the publication. 
 
-
 ## Three levels of electronic publishing 
 Independently of the different genres listed above, we can distinguish three levels of electronic publishing. The scope of e-publishing ranges from the simple conversion of a paper book, to an electronic publication (offering the PDF of the print edition as an ebook), to full-scale electronic publications which incorporate advanced digital formats such as video, or are published as 'native apps' (applications developed for a particular platform or device). When we consider the different genres of publishing from this perspective, the role and use of **metadata** also becomes an important factor. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/ "Link to blog post: Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document")(*Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document*) 
 
@@ -97,7 +94,6 @@ Electronic publishing can be divided into three levels, as described in further 
 
 ![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.") 
 
-
 ###1) One-to-one 
 On the first level there is the single edition. Each publication is considered as a separate product or project where text authors, illustrators, artists, photographers and designers work together as an ad-hoc team. The production workflow may be unique from book to book, but will usually follow a traditional pattern, from a manuscript to a designed PDF ready to be printed. Images and/or full layout pages are not suitable as reusable (digital) objects. The independent components which together make up the end product are usually not archived separately. 
 
@@ -106,7 +102,6 @@ On the first level there is the single edition. Each publication is considered a
 The publisher may make use of a content management system, which in its simplest form is just a collection of folders/directories on a hard drive. Archiving is important: often publishers have had to scan their own books for a reprint, simply because they failed to properly archive the files. Maintaining an archive of semantically structured content also offers many new possibilities, not only for efficiently reissuing the publication but also for doing so in new formats which were not previously available. 
 
 There are many common characteristics between individual publications within each genre. A better understanding of these characteristics will allow publishers and designers to make good use of new possibilities. 
-
 
 ###2) One-to-many 
 On the next level we see a split between the manifestation of the (single) printed version, and the (one or many) electronic versions. The electronic version, unlike the paper version, is not a single object but has a different appearance for each ebook format. Also, due to the variety and flexibility of reading devices, different users will see the book differently on their display. The display sizes of reading devices are not standardized and generally allow for both portrait and landscape viewing. Furthermore, the popular (and more or less standard) EPUB3 allows for reflowable pages and variable fonts and font sizes. 
@@ -119,7 +114,5 @@ The final level is database publishing, in which all objects or entities of a pu
 Particularly for publications which have a more or less fixed layout, database publishing opens up new ways of designing books. For example in the case of a collection of essays, a catalogue, or a journal, readers can compile a personal selection from the available texts. A structured presentation of all material is made possible based on the metadata, allowing readers to navigate and put together a collection based on their own personal interests. Of course this means that **tagging**, describing, and storing all the components must be done in the early stages of publication and with utmost care. 
 
 It is important to note that there will never be one single workflow which fits all requirements. However, by making available the relevant metadata, publications can be created in a variety of formats. 
-
-
 
 [^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - 
