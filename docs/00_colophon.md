@@ -6,7 +6,7 @@
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
 **Print design :** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
 **EPUB design :** André Castro<br/> 
-**Cover design EPUB and print:**  Loes Sikkes and Kimmy Spreeuwenberg<br/> 
+**EPUB and print cover design:**  Loes Sikkes and Kimmy Spreeuwenberg<br/> 
 
  
 **Printer:** Drukkerij Printvisie B.V., Rotterdam<br/> 
