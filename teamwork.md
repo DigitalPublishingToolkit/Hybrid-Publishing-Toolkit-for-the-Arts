@@ -13,8 +13,8 @@
 ## Loes & Kimmy
 
 ## Joe
-* doing: editing summary of chapter 4
-* doing: small adjustments to text of chapter 4
-* will do: complete edit of chapter 8, with many changes to the text
+* doing: editing summary of chapter 6
+* doing: small adjustments to text of chapter 6
+* will do: finish edit of chapter 8, with many changes to the text
 * will do: edit chapter 9 and appendices, with many changes to the text
 
