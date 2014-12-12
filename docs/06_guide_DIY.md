@@ -8,16 +8,16 @@
 - The Open Source software Calibre, which features a graphical user interface, can alternatively be used for document conversion and editing. 
 </div>
 
-Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these do-it-yourself tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
+Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these DIY tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
 
 This chapter consists of four sections: 
 
-1) Do-it-yourself EPUB from scratch 
-2) Do-it-yourself EPUB using InDesign 
-3) Do-it-yourself EPUB using Pandoc 
+1) DIY EPUB from scratch 
+2) DIY EPUB using InDesign 
+3) DIY EPUB using Pandoc 
 4) Using Calibre and custom plug-ins 
 
-##Do-it-yourself EPUB from scratch 
+##DIY EPUB from scratch 
 
 The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do include material from other locations or websites, an EPUB is 'self-contained'. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, by hand, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
 
@@ -131,7 +131,7 @@ Because some archive programs create unnecessary (hidden) files inside the archi
 
 And your EPUB is ready! 
 
-##Do-it-yourself EPUB using InDesign 
+##DIY EPUB using InDesign 
 
 InDesign is an excellent tool for creating and managing print projects. It also includes a powerful EPUB production tool which has steadily improved over time. InDesign's omnipresence and importance in print design make it an obvious choice for projects that have both print and electronic outputs. InDesign is so powerful that it will be useful even if print isn't part of the equation - though cost considerations may preclude its use if print is not going to be a requirement. Below we will describe step-by-step how to create an EPUB with custom layout using InDesign. 
 
@@ -333,7 +333,7 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 ###Testing and validating 
 Be sure to test the EPUB file with as many e-reader devices and applications as possible. You can use the application Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to the Kindle format so that you can test it on actual Kindle devices. Finally, it's always a good idea to validate your EPUB documents before releasing them. [^epub-validator] 
 
-##Do-it-yourself EPUB using Pandoc 
+##DIY EPUB using Pandoc 
 Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats. [^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. <!-- internal link needed--> 
 ([![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (*Hybrid Workflow How-To: Making Automated Workflows, Part 1*) [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(*Hybrid Workflow How-To: Making Automated Workflows, Part 2*)) 
 
