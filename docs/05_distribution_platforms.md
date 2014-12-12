@@ -35,7 +35,7 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 ###Social reading platforms 
 
-Social reading, a combination of social networking and reading ebooks, is a relatively new phenomenon with much potential for future developments. A detailed discussion of the topic would lead us beyond the scope of this Toolkit; however, publishers working on e-publications are advised to keep an eye on developments in social reading. 
+Social reading, a combination of social networking and reading ebooks, is a relatively new phenomenon with much potential for future developments. A detailed discussion of the topic would lead us beyond the scope of this Toolkit; however, publishers working on electronic publications are advised to keep an eye on developments in social reading. 
 
 Examples of social reading platforms: 
 
