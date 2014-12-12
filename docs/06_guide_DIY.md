@@ -30,9 +30,7 @@ For a better understanding of the following explanation of what an EPUB is and h
 
 Decompressing an EPUB file will reveal its internal folder (or directory) structure. Examining this structure will help us understand how an EPUB is put together. As explained above, the EPUB is a compressed ZIP archive. Start by decompressing or 'unzipping' the EPUB file using the built-in archive utility of your computer operating system, or archiving/compression software such as The Unarchiver (Mac), WinZip (Windows), etc. The unzipped contents should look like this: 
 
-<!-- image missing or wrongly named
-![EPUB layout](images/InD_InD_08_epublayout.png "EPUB layout")
--->
+![EPUB layout](images/08_epublayout.png "EPUB layout")
 
 The *META-INF* and *OEBPS* directories and the *mimetype* file are required components, and are an important part of what constitutes an EPUB: 
 

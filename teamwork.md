@@ -9,14 +9,12 @@
 * will go over images when next version is ready (Thursday/Friday)
 
 ## Margreet
-* working in glossary
+* working in chapter 6
 
 ## Loes & Kimmy
 
 ## Joe
-* doing: editing chapter 9 including summary, with many changes to the text
+* doing: editing chapter 8 including summary, with many changes to the text
 * will do: replace text with image in chapter 5, together with kimmy
-* will do: edit appendices, with many changes to the text
-* will do: implement edits by florian and amy
-* will do: revise edits by margreet
+* will do: edit chapter 9 and appendices, with many changes to the text
 
