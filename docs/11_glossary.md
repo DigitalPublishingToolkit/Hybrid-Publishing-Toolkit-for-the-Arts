@@ -233,6 +233,9 @@ Kobo produces a range of handheld devices and software for e-reading. It also ha
 #####LaTeX 
 A document markup language used in scientific documents, often used to render mathematical notations, for example. 
 
+#####Layout
+The overall design of a page, spread, or book, including elements such as page and type size, typeface, and the arrangement of titles and page numbers.
+
 #####LCD (Liquid Crystal Display) 
 A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders. 
 
