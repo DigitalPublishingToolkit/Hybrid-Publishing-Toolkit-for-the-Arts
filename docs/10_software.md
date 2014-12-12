@@ -1,4 +1,4 @@
-# 10 Software Catalogue 
+# 10 Software catalogue 
 
 A catalogue of the Free and Open Source software both used and written in the Hybrid Publishing Toolkit project with links to the relevant sources. 
 

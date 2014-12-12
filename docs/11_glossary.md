@@ -1,4 +1,4 @@
-# 10 Glossary of Technical Terms 
+# 10 Glossary of technical terms 
 
 ### A 
 
