@@ -1,7 +1,7 @@
-#04 Technologies for electronic reading 
+﻿#04 Technologies for electronic reading 
 
 <div class="summary"> 
-- Users can choose from a multitude of hardware e-reader devices and software e-reading applications. 
+- Users can choose from a multitude of hardware e-reader devices and software e-reader applications. 
 - The possible combinations of software and hardware are complex and virtually unlimited. 
 - EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook formats for its line of **Kindle** devices. 
 </div> 
@@ -65,7 +65,7 @@ Adobe Digital Editions (ADE) is an ebook reader and management tool which can re
 There are several web platforms for reading EPUBs online, but their popularity is difficult to estimate. A project called Bookworm, developed by Threepress in 2008, was taken over by O'Reilly Labs in early 2009 and eventually shut down in 2012. [^bookworm-oreilly] The website now describes Bookworm as an 'interesting and useful experiment' and attributes the closure to dramatic changes in the ebook ecosystem over the past few years. Booki.sh, another project, is still online and offers a complete library of ebooks which can be viewed and stored online. [^bookish] However it does not appear to be operating commercially, and the ability to purchase books was removed in June 2013. [^bookish-blog] 
 
 ###Browser applications 
-Besides web applications, there are also several browser extensions which allow users to read EPUBs in their web browser. However these extensions can best be understood as a convenient way of quickly viewing or previewing ebooks, rather than full-fledged e-reading applications. 
+Besides web applications, there are also several browser extensions which allow users to read EPUBs in their web browser. However these extensions can best be understood as a convenient way of quickly viewing or previewing ebooks, rather than full-fledged e-reader applications. 
 
 ####Readium 
 Readium is a project by various publishers and technology companies aiming to provide a reference system, a collection of best practices, for rendering EPUB3 publications. [^readium-goals] Readium offers a range of tools for online and offline use, mainly geared towards software developers. One of these tools is a browser extension [^readium-extension] for the Google Chrome web browser, allowing users to view an EPUB document inside the browser window. 
