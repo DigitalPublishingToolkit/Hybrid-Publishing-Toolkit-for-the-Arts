@@ -90,6 +90,8 @@ Data is information in a form that can be processed by a computer. It is usually
 #####Database 
 A set of structured data from which one can select specific records or a collection of records, often in a computer-readable and -accessible format. 
 
+#####Datasets
+A dataset (or data set) is a collection of data.
 
 #####Decompress 
 See **Compressed files** 
