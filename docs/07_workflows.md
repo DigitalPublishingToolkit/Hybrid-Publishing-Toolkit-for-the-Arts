@@ -77,13 +77,13 @@ As mentioned above, we recommend the use of the markup language Markdown as part
 
 ####Introduction: advantages and limitations 
 
-John Gruber, the creator and main developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).' [^gruber] In other words, Markdown is a way of formatting plain text using human-readable formatting symbols, rather than HTML-style tags such as <b\> for bold or <h1\> to define a top-level heading. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
+John Gruber, the creator and main developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain-text format, then convert it to structurally valid XHTML (or HTML).' [^gruber] In other words, Markdown is a way of formatting plain text using human-readable formatting symbols, rather than HTML-style tags such as <b\> for bold or <h1\> to define a top-level heading. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
 
 ![Markdown](images/Markdown.png "Markdown.") 
 
 In this example, the tag '\#' defines a top-level heading, '\#\#' a second-level heading, '\_' italic text, '\*\*' bold text, and '\>' a block quote. Markdown also provides tags for defining lists, embedded images, and links. The popular extended version **MultiMarkdown** provides further support for footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. Using simple Open Source conversion applications such as Pandoc, text formatted using Markdown can be automatically converted to well-structured HTML, EPUB, PDF, RTF or other document formats, requiring no manual adjustments. 
 
-Markdown is a product of **Internet** culture. It uses ad-hoc formatting signs commonly used in e-mail and chat platforms, and further popularized on blogging platforms, to provide a standardized, human-readable, user-friendly and well-structured document format, suitable for long-term storage and as a basic source for conversions to contemporary and future document formats. While its formatting **syntax** is simple, it is also both strict and unambiguous enough to allow multiple writers and editors to work on a single document without unnecessary confusion. Another advantage of Markdown is that it can be written and edited in any software application capable of processing basic text: unlike the proprietary file formats of Microsoft Word or other word processors, Markdown can be opened using a simple text editor. 
+Markdown is a product of Internet culture. It uses ad-hoc formatting signs commonly used in e-mail and chat platforms, and further popularized on blogging platforms, to provide a standardized, human-readable, user-friendly and well-structured document format, suitable for long-term storage and as a basic source for conversions to contemporary and future document formats. While its formatting **syntax** is simple, it is also both strict and unambiguous enough to allow multiple writers and editors to work on a single document without unnecessary confusion. Another advantage of Markdown is that it can be written and edited in any software application capable of processing basic text: unlike the proprietary file formats of Microsoft Word or other word processors, Markdown can be opened using a simple text editor. 
 
 Why do we recommend Markdown in particular? For certain publishing projects - for example, handbooks or books derived from wikis, it may be worth considering alternatives to Markdown, such as *reStructuredText*. There are, however, two reasons why we recommend Markdown as a practical tool for electronic and mixed-media publishing: 
 
@@ -101,7 +101,7 @@ XML is designed for creating structured documents with a clear separation betwee
 
 The main reason for this is that the broad versatility of XML adds several layers of complexity. Markdown on the other hand can easily be used by non-technical users while still providing good structure and better document conversion into HTML, EPUB and many other formats than Microsoft Word and similar word processing applications. 
 
-Technically speaking, Markdown provides some of the same features and advantages as XML does, namely separation of content structure from visual layout and painless conversion into multiple output formats. Particularly for those just getting started with digital or hybrid publishing, Markdown is an excellent format because the technical features it lacks compared to XML are generally are not necessary for this goal. 
+Technically speaking, Markdown provides some of the same features and advantages as XML does, namely separation of content structure from visual layout and painless conversion into multiple output formats. However, unlike XML, it can not be extended with custom, self-defined markup tags. Still, and particularly for those just getting started with digital or hybrid publishing, Markdown should be more than adequate in almost all circumstances. 
 
 #####Word processing / editing applications for Markdown 
 
@@ -137,9 +137,9 @@ We recommend working with Pandoc in combination with Markdown. Both tools were u
 
 #####A note on limitations 
 
-A major downside of Markdown is that it exists in several variants, each with its own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant MultiMarkdown which includes syntax for footnotes, tables, citations, cross-references, image captions and document metadata. It is also fully supported by pandoc. 
+A major downside of Markdown is that it exists in several variants, each with its own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant MultiMarkdown which includes syntax for footnotes, tables, citations, cross-references, image captions and document metadata. It is also fully supported by Pandoc. 
 
-Another downside is that Markdown allows some formatting to be marked in alternative ways (for example, \_underlines\_ or \*asterisks\* both produce italic text) which can introduce inconsistency in a collaboratively edited document. However. as mentioned earlier, Pandoc can be used for eliminating such inconsistencies by converting from Markdown to Markdown. 
+Another downside is that Markdown allows some formatting to be marked in alternative ways (for example, \_underlines\_ or \*asterisks\* both produce italic text) which can introduce inconsistency in a collaboratively edited document. However, as mentioned earlier, Pandoc can be used for eliminating such inconsistencies by converting from Markdown to Markdown. 
 
 At the time of writing, in late 2014, a standardization effort of Markdown and its extensions is underway, under the name 'CommonMark'. [^commonmark-controversy] 
 
@@ -152,20 +152,20 @@ The best option is therefore to explicitly define the goals of the publication p
 
 In pure text databases we also have to be careful. On one hand we have the data related to the author's name, affiliation, address, etc. But it becomes a different proposition when illustrations and diagrams are included and perhaps even shared between publications. If this is the case, we might consider a special section in our database that pertains only to illustrations and their descriptions. The same is true for bibliographical references and the collection of hyperlinks used in the text. Therefore we would advise that various objects such as image or text entities are provided with as many consistent metadata (field descriptors) as possible. 
 
-[^iAWriter]: iA Writer, <a href="http://www.iawriter.com/mac/">http://www.iawriter.com/mac/</a>. 
+[^iAWriter]: iA Writer, http://www.iawriter.com/mac/. 
 [^EPUBStraighttothePoint]: Elizabeth Castro has provided a thorough guide for InDesign-to-EPUB publication in her book *EPUB Straight to the Point*, San Francisco: Peachpit Press, 2010. 
-[^Pandoc]: *Pandoc a universal document converter*, <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>. 
-[^UberWriter]: UberWriter, <a href="http://uberwriter.wolfvollprecht.de/">http://uberwriter.wolfvollprecht.de/</a>. 
-[^MdCharm]: MdCharm, <a href="http://www.mdcharm.com/">http://www.mdcharm.com/</a>. 
-[^Mou]: Mou, <a href="http://25.io/mou/">http://25.io/mou/</a>. 
-[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, <a href="http://macdown.uranusjr.com/">http://macdown.uranusjr.com/</a>. 
-[^ByWord]:ByWord 2, <a href="http://bywordapp.com/">http://bywordapp.com/</a>. 
-[^Scrivener]: Scrivener 2, <a href="http://www.literatureandlatte.com/scrivener.php">http://www.literatureandlatte.com/scrivener.php</a>. 
-[^MarkdownPad]: MarkdownPad, <a href="http://markdownpad.com/">http://markdownpad.com/</a>. 
-[^MultiMarkdown]: MultiMarkdown, <a href="http://fletcherpenney.net/multimarkdown/">http://fletcherpenney.net/multimarkdown/</a>. 
-[^Calibre]: *Calibre ebook management*, <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
-[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, <a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/">http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/</a>. 
-[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. <a href="https://github.com/IDPF/epubcheck">https://github.com/IDPF/epubcheck</a>. 
+[^Pandoc]: *Pandoc a universal document converter*, http://www.johnmacfarlane.net/pandoc/. 
+[^UberWriter]: UberWriter, http://uberwriter.wolfvollprecht.de/. 
+[^MdCharm]: MdCharm, http://www.mdcharm.com/. 
+[^Mou]: Mou, http://25.io/mou/. 
+[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, http://macdown.uranusjr.com/. 
+[^ByWord]:ByWord 2, http://bywordapp.com/. 
+[^Scrivener]: Scrivener 2, http://www.literatureandlatte.com/scrivener.php. 
+[^MarkdownPad]: MarkdownPad, http://markdownpad.com/. 
+[^MultiMarkdown]: MultiMarkdown, http://fletcherpenney.net/multimarkdown/. 
+[^Calibre]: *Calibre ebook management*, http://calibre-ebook.com/. 
+[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/. 
+[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. https://github.com/IDPF/epubcheck. 
 [^pandoc-convert: An overview can be found on the Digital Publishing Toolkit Software Showcase, 
- <a href="http://pandoc.networkcultures.org/">http://pandoc.networkcultures.org/</a> or go directly to <a href="http://pandoc.networkcultures.org/hybrid.html">http://pandoc.networkcultures.org/hybrid.html</a>. 
+ http://pandoc.networkcultures.org/ or go directly to http://pandoc.networkcultures.org/hybrid.html. 
 [^gruber] John Gruber, *Markdown: Introduction*, daringfireball.net/projects/markdown/. 

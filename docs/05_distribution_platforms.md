@@ -1,18 +1,18 @@
 #05 Distribution platforms 
 
 <div class="summary"> 
-- Electronic book distribution currently takes place through ebook stores, online reading platforms, social reading platforms, print-on-demand and self-publishing services, pirate download platforms and artist's ebook projects. 
+- Electronic book distribution currently takes place through ebook stores, online reading platforms, social reading platforms, print-on-demand and self-publishing services, pirate download platforms and artists' ebook projects. 
 - These platforms differ in their scope of content, their business strategies and the reading technologies they support. 
 - The choice of one or more distribution platforms therefore also determines design choices for an ebook. 
 </div> 
 
 ##Ebook stores
 
-There are many channels for the distribution of ebooks. Perhaps surprisingly, traditional retailers generally play no more than a marginal role in selling electronic publications. A notable exception is Barnes & Noble with its range of NOOK devices and dedicated ebook store. Major players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
+There are many channels for the distribution of ebooks. Surprisingly, traditional retailers generally play no more than a marginal role in selling electronic publications. A notable exception is Barnes & Noble with its range of NOOK devices and dedicated ebook store. Major players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
 
 These ebook stores typically charge a percentage for each publication sold, usually no less than 30% of the retail price. [^apple-press-percentage],[^guardian-amazon-hachette] With the exception of Google, most of the major retailers sell their ebooks in a way that is closely integrated with their own branded e-reader hardware (Kindle, iPad, NOOK, etc.). For example, publications purchased on Amazon's Kindle are immediately downloaded to the device, rather than having to connect the device to a computer and then transfer the downloaded purchases manually. 
 
-Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing **program** supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing] 
+Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing program supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing] 
 
 ##Online reading platforms
 
@@ -57,7 +57,6 @@ Lulu is the biggest print-on-demand service which offers publishing free of cost
 **Characteristics** 
 
 * Available in six languages: English, French, Spanish, German, Italian and Dutch 
-* One of the main independent services 
 * Used in 225 countries and territories 
 * 1.8 million publications 
 * 20,000 new publications each month 
@@ -79,7 +78,7 @@ Lulu is the biggest print-on-demand service which offers publishing free of cost
 * Prices can vary considerably even for the same publication, particularly due to postal costs 
 * Minimum and maximum number of pages 
 * Only a number of specific print dimensions (width x height) are allowed
-* **Interface** and help section are not very user-friendly 
+* Interface and help section are not very user-friendly 
 
 **Revenue model** 
 
@@ -141,7 +140,12 @@ The Espresso Book Machine (EBM) [^Espresso-Book-Machine] is a direct-to-consumer
 
 ###Options in the Netherlands 
 
-* CB's print on demand service [^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
+* CB's print on demand service [^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the 
+* 
+* 
+* 
+* 
+* s offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
 * Boekscout [^Boekscout] - Is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
 
 ##Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
@@ -154,13 +158,13 @@ Sites like The Pirate Bay offer every imaginable type of digital media for downl
 
 ####General ebook sites 
 
-Besides sites such as Project Gutenberg, [^Project-Gutenberg] where users can legally download copyright-free ebooks, there are many websites where ebooks are shared illegally. The most simple ebook pirate sites offer every kind of book - very much like a large general-audience bookstore or Amazon's online bookstores. This type of site, which is in fact little more than a simple search engine with downloadable content such as ebooks, is particularly popular in Russia. At the time of writing, library.ru was the model for this type of site; after its forced closure, the vacuum was soon filled by other sites such as bookfi.org. [^bookfi.org] Another example worth mentioning here is the online library libgen.info. [^libgen.info] 
+Besides sites such as Project Gutenberg, [^Project-Gutenberg] where users can legally download copyright-free ebooks, there are many websites where ebooks are shared illegally. The most simple ebook pirate sites offer every kind of book - very much like a large general-audience bookstore or Amazon's online bookstores. This type of site, which is in fact little more than a simple search engine with downloadable content such as ebooks, is particularly popular in Russia. At the time of writing, library.ru was the model for this type of site. After its forced closure, the vacuum was soon filled by other sites such as bookfi.org. [^bookfi.org] Another example worth mentioning here is the online library libgen.info. [^libgen.info] 
 
 ####Specialized sites 
 
 Some websites which operate outside (or in 'gray zones') of copyright law are in fact art projects. In the 1990s the website 'textz.com', created by the Berlin-based artist Sebastian Luetgert, was the first website to offer books on culture, politics and media theory as simple, freely downloadable text files (incidentally, the name 'textz' was a pun on 'warez', a slang term for illegally copied software). Later, other websites such as AAAAARG [^aaaaarg.org] and Monoskop [^Monoskop] provided thematically linked collections of freely downloadable books on art, culture and media studies, with the stated goal of stimulating reading and discussion groups, or of offering a carefully hand-selected library according to the specific tastes of the website's owner. 
 
-The most well-known of these is UbuWeb, [^Ubuweb] an encyclopedia website with downloadable audio, video and plain-text versions of avant-garde art recordings, films and books. Most of the books fall in the category of small-edition artist's books and are presented here with the permission of the artists in question, who are not so concerned with potential loss of revenue since most of the works are officially out of print and never made any money even when they were commercially available. 
+The most well-known of these is UbuWeb, [^Ubuweb] an website offering an encyclopedic scope of downloadable audio, video and plain-text versions of avant-garde art recordings, films and books. Most of the books fall in the category of small-edition artists' books and are presented here with the permission of the artists in question, who are not so concerned with potential loss of revenue since most of the works are officially out of print and never made any money even when they were commercially available. 
 
 All these websites are operated much like small specialized bookstores - even though they don't sell anything. However they demonstrate the viability of an approach which is the complete opposite of that of mainstream businesses such as Amazon and bookfi.org - namely, offering a relatively small collection of personally selected publications. If the website enjoys a strong reputation, as in the case of UbuWeb, AAAAARG or Monoskop, users will regularly return to the site, and download and read works by authors they have never even heard of, simply based on the fact that the work is available on a site they trust. 
 
@@ -171,7 +175,7 @@ What online booksellers could learn from these websites:
 
 ##Artist and designer-run projects: Badlands Unlimited, KYUR8, artistsebooks.org 
 
-In recent years there have been efforts to set up small presses and book download stores focusing exclusively on artist's and designer's books: for example the writer, artist and publisher James Bridle (who coined the term 'new aesthetics') created *Artists' eBbooks*, a website featuring freely downloadable EPUB files by experimental writers and artists. [^artistsebooks.org] Another example is the more commercially oriented online press Badlands Unlimited, an initiative of the American contemporary artist and designer Paul Chan, which sells artist-made visual electronic books, available only in Apple's proprietary format for the iPad tablet and iBooks platform. 
+In recent years there have been efforts to set up small presses and book download stores focusing exclusively on artists' and designers' books: for example the writer, artist and publisher James Bridle (who coined the term 'new aesthetics') created *Artists' eBbooks*, a website featuring freely downloadable EPUB files by experimental writers and artists. [^artistsebooks.org] Another example is the more commercially oriented online press Badlands Unlimited, an initiative of the American contemporary artist and designer Paul Chan, which sells artist-made visual electronic books, available only in Apple's proprietary format for the iPad tablet and iBooks platform. 
 
 The iPhone/iPad app KYUR8 ('curate') invites artists to quickly assemble their own electronic visual magazine using page templates and photo collections taken from the user's cell phone. Other examples include [gauss-pdf.com](http://www.gauss-pdf.com), a publisher of digital and printed works and [trollthread.tumblr.com](http://trollthread.tumblr.com), a collective of poets with publications available for download in PDF or for purchase through print on demand. 
 
@@ -199,6 +203,6 @@ Of course, none of these projects can be considered serious competition to mains
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>. 
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>. 
 [^Ubuweb]: UbuWeb, <a href="http://www.ubu.com">http://www.ubu.com</a>. 
-[^Issuu]: Issuu, <a href="http://www.issuu.com">http://www.issuu.com</a>. 
-[^Scribd]: Scribd, <a href="http://www.scribd.com">http://www.scribd.com</a>. 
-[^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>.
+[^Issuu]: Issuu, http://www.issuu.com. 
+[^Scribd]: Scribd, http://www.scribd.com. 
+[^artistsebooks.org]: http://artistsebooks.org.

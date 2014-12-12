@@ -19,16 +19,16 @@ This chapter consists of four sections:
 
 ##Do-it-yourself EPUB from scratch 
 
-The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do include material from other locations or websites, an EPUB is 'self-contained'. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, by hand, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
+The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do embed material located elsewhere in the Internet, an EPUB is 'self-contained' and made for offline reading. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, or manually, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
 
-An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. A such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and **decompress** an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'. [^epub-zipping-process] 
+An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. As such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and decompress an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'. [^epub-zipping-process] 
 
-For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's **GitHub** page (a direct link can be found in the footnote). [^rudimentary-epub] 
+For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's GitHub page (a direct link can be found in the footnote). [^rudimentary-epub] 
 
 
 ###Structure of an EPUB package 
 
-Decompressing an EPUB file will reveal its internal **folder** (or directory) structure. Examining this structure will help us understand how an EPUB is put together. As explained above, the EPUB is a compressed ZIP archive. Start by decompressing or 'unzipping' the EPUB file using the built-in archive utility of your computer operating system, or archiving/compression software such as The Unarchiver (Mac), WinZip (Windows), etc. The unzipped contents should look like this: 
+Decompressing an EPUB file will reveal its internal folder (or directory) structure. Examining this structure will help us understand how an EPUB is put together. As explained above, the EPUB is a compressed ZIP archive. Start by decompressing or 'unzipping' the EPUB file using the built-in archive utility of your computer operating system, or archiving/compression software such as The Unarchiver (Mac), WinZip (Windows), etc. The unzipped contents should look like this: 
 
 ![EPUB layout](images/08_epublayout.png "EPUB layout")
 
@@ -40,11 +40,11 @@ The *META-INF* and *OEBPS* directories and the *mimetype* file are required comp
 
 * *Mimetype* is a file which contains a single line describing the EPUB file as 'application/epub+zip'; this file allows e-readers to check whether the file is actually an EPUB which they can read. 
 
-These three components form the basic structure of an EPUB, and are required in order for the file to be a valid EPUB. For a formal specification of EPUB3, see the overview at idpf.org which defines the semantics and conformance requirements for EPUB publications. [^idpf.org] 
+These three components form the basic structure of an EPUB, and are required in order for the file to be a valid EPUB. [^idpf.org] 
 
 ###Creating your own EPUB 
 
-Most of the elements of an EPUB can be produced manually in a **text editor**. Text editors are used for editing plain-text files such as HTML files, and should not to be confused with word processors such as Microsoft Word or Apple's Pages (though it is of course entirely possible to create and edit text files using a word processor). Popular text editors include BBEdit, TextWrangler or TextMate for Mac, or NotePad++ and PSPad for Windows. The following is a step-by-step description of the process of creating a very simple EPUB. 
+Most of the elements of an EPUB can be manually typed in a **text editor**. Text editors are used for editing plain-text files such as HTML files, and should not to be confused with word processors such as Microsoft Word or Apple's Pages (though it is of course entirely possible to create and edit text plain-files using a word processor). Popular text editors include BBEdit, TextWrangler or TextMate for Mac, or NotePad++ and PSPad for Windows. The following is a step-by-step description of the process of creating a very simple EPUB. 
 
 ####Creating the required files and directories 
 
@@ -53,7 +53,7 @@ Now that we've seen the internal structure of an EPUB by unzipping it, we can al
 1. Create a subfolder in the *Documents* folder and name it *Example*; 
 2. Create two more subdirectories under the one you've just created, one called *META-INF* and the other called *OEBPS*; 
 3. Using a text editor, create a plain-text file and type (or copy-paste) the line 'application/epub+zip' (without quotation marks) in this file; 
-4. Save this plain-text file and name it *mimetype* (without a **file extension**). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
+4. Save this plain-text file and name it *mimetype* (without a file extension). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
 
 Now there are the two directories and one text file, just as we saw when we decompressed the EPUB which we used as an example. 
 
@@ -121,7 +121,7 @@ Finally, the 'spine' section lists all the HTML or XHTML pages present in the pu
 
 ####The content 
 
-As mentioned in the introduction of this section, an important part of an EPUB consists of a collection of HTML files, often connected through hyperlinks. The process of creating the pages of an EPUB is similar to that of building a website, but with the particular limitations of e-readers in mind - limited support for rich media, color, etc. (see also Chapter 4: Technologies for electronic reading <!-- internal link to chapter 4-->). Pages should be written in XHTML, a variant of HTML that was created to make HTML more 'extensible' and increase its interoperability with other **data** formats. Cascading Style Sheets (CSS) may freely be used, although many e-readers will ignore at least some of the style definitions. 
+As mentioned in the introduction of this section, an important part of an EPUB consists of a collection of HTML files, often connected through hyperlinks. The process of creating the pages of an EPUB is similar to that of building a website, but with the particular limitations of e-readers in mind - limited support for rich media, color, etc. (see also Chapter 4: Technologies for electronic reading <!-- internal link to chapter 4-->). Pages should be written in XHTML, a variant of HTML that was created to make HTML more 'extensible' and increase its interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, although many e-readers will ignore at least some of the style definitions. 
 
 ####Packaging 
 
@@ -162,7 +162,7 @@ First we must define the styles, then apply them, and finally make sure they are
 
 ####Creating styles 
 
-1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the **icon** in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.
+1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the icon in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.
 ![image](images/InD_Styles_1_new.png) 
 2. Give the style a name. 
 ![image](images/InD_Styles_2_New_Paragraph_Style.png) 
@@ -207,7 +207,7 @@ Tips:
 
 InDesign places images in the layout in one of three ways: inline, **anchored** or independent: 
 
-- Inline images are placed or pasted directly in the text. When exported, they are rasterized (rendered as **pixels** or dots); thus if any inline object contains text, this text will also be rasterized. The image is then included in the flow of the text in which it was placed. Inline images cannot have text wrapped around them. 
+- Inline images are placed or pasted directly in the text. When exported, they are rasterized (rendered as pixels or dots); thus if any inline object contains text, this text will also be rasterized. The image is then included in the flow of the text in which it was placed. Inline images cannot have text wrapped around them. 
 - Anchored images are linked to a particular location in the text; when exported to EPUB they will appear at that location. Anchored images may have text wrapped around them, and are exported as floating objects in an EPUB. Text contained in anchored objects is not rasterized. However it will sometimes be resized incorrectly by the e-reader device or application. 
 - Independent images are placed alongside text and other objects, without any explicit link between the two. InDesign exports text and independent image objects sequentially according to their location on the page, from the top down and from left to right. Since an entire text flow is exported before any other objects on the same page, independent images may appear much further in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel (accessed through Window > Articles). 
 
@@ -243,7 +243,7 @@ There are two main types of links: links which specify both the destination and 
 
 ###Creating internal links within a book 
 
-1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New **Hyperlink** Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
+1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New Hyperlink Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
 ![Image](images/InD_hyperlink_destination_1.png) 
 ![Image](images/InD_hyperlink_destination_2.png) 
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
@@ -262,7 +262,7 @@ Cross-references are links in which the link text is automatically generated bas
 4. Under Destination, specify the desired Document. Then, from the list on the left-hand side, choose the type of paragraph you wish to link to. 
 ![Image](images/InD_cross_references.png) 
 All paragraphs formatted with that particular style will show up in the list on the right-hand side, allowing you to choose the paragraph you want the cross-reference to link to. 
-5. Select a Format for the Cross-Reference, and click OK. 
+5. Select a Cross-Reference Format, and click OK. 
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
 ![Image](images/InD_cross_references_2.png) 
 
@@ -275,7 +275,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 
 1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. The New Table of Contents Style dialog box will now appear. 
 ![Image](images/InD_TOC_1_new.png) 
-2. Fill in a the Title, for example 'Contents'. This will be used for the heading above the generated table of contents. Then choose which paragraph style to apply to that heading. 
+2. Fill in the Title, for example 'Contents'. This will be used for the heading above the generated table of contents. Then choose which paragraph style to apply to that heading. 
 3. Choose which types of paragraph will be used to populate the table of contents, such as headings or chapter names. 
 4. Click More Options on the upper right-hand side of the dialog box (if this option is already selected, the option Fewer Options will appear instead). 
 5. In the area titled Style, choose which style to apply to each type of element in the table of contents. It's a good idea to create special styles for these elements. 
@@ -308,7 +308,7 @@ InDesign gives you two opportunities to add metadata: in the File Info dialog bo
 ###Cover 
 The final step before exporting to EPUB is to create and add a cover image for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to visually preview the cover at a very small ('icon') size. Of course the resolution of the image should also be high enough to look good at full-screen size as well. Most ebook stores require images that are at least 1000 pixels on the shortest side. 
 
-1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the **JPEG** format. 
+1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the JPEG format. 
 ![Image](images/InD_SaveCover.png) 
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
@@ -326,7 +326,7 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 7. If the book has an ISBN, enter it in the Identifier field. 
 ![Image](images/InD_Metadata_Export.png) 
 8. All the other fields besides the Date field should be automatically populated with data entered earlier in the File Info dialog box. You can add any missing information now. InDesign uses the information in the Date field for the EPUB2 element 'dc:date', but will use the actual date and time to automatically fill in this information in a format compatible with EPUB3. In other words, you don't have to enter anything in the Date field. 
-9. There are many other export options: for controlling how images and text are exported, for adding **JavaScript** and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
+9. There are many other export options: for controlling how images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
 ![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
 
@@ -385,7 +385,7 @@ Calibre can be used to:
 * synchronize the user's ebook library with e-reader devices; 
 * edit ebooks in HTML source code, with a live preview in a graphical user interface. 
 
-Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc provides better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
+Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc produces better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
 
 At the time of writing, the easiest and least expensive method of hybrid publishing is to convert the source text to Markdown, manually edit the Markdown into a well-structured document, use Pandoc to convert Markdown to EPUB, and import the EPUB into Calibre for final adjustments and conversion into other ebook formats (including Amazon Kindle). 
 
@@ -397,24 +397,24 @@ These applications usually integrate (as custom plug-ins) with a previously inst
 
 ###Other possibilities 
 
-For publications which require consistent design and uniform **interactivity** across devices, a reflowable document will probably not be the best solution. Therefore various publishers have developed their own (mobile) applications, such as The Guardian's iOS [^guardian-ios] version of its newspaper, the 'amplified' ebooks series by Penguin, [^penguin-amplified] or the children's books published by Purple Carrot Books. [^purple-carrot-publication] These solutions offer detailed control over interactivity as well as consistency of design, but at the extra cost of hiring a specialist (or even a team of specialists) to engineer the application. Transferring an EPUB to another device is fairly easy; however, publishing specifically for many platforms is by no means straightforward, due to the relatively closed nature of mobile operating systems. For example, an application designed specifically for the iPhone/iPad iOS **Software Development Kit (SDK)** will likely require a lot of technical modifications before it can run on the Android platform. 
+For publications which require consistent design and uniform interactivity across devices, a reflowable document will probably not be the best solution. Therefore various publishers have developed their own (mobile) applications, such as The Guardian's iOS [^guardian-ios] version of its newspaper, the 'amplified' ebooks series by Penguin, [^penguin-amplified] or the children's books published by Purple Carrot Books. [^purple-carrot-publication] These solutions offer detailed control over interactivity as well as consistency of design, but at the extra cost of hiring a specialist (or even a team of specialists) to engineer the application. Transferring an EPUB to another device is fairly easy; however, publishing specifically for many platforms is by no means straightforward, due to the relatively closed nature of mobile operating systems. For example, an application designed specifically for the iPhone/iPad iOS **Software Development Kit (SDK)** will practically require a rewrite from scratch, even in a different programming language, before it can run on the Android platform. 
 
 Finally, why not simply publish essays, articles or even whole books on a website? The abundance of blogs and other publishing platforms shows that this is indeed a viable form of publishing. Monetizing is less straightforward: most websites generate income by showing the user advertisements or sponsored articles. Paid membership is also a model used by some websites, such as the Dutch news platform *De Correspondent*. [^de-correspondent] One of the major downsides is that the content will only be available online, and cannot be easily transferred as a single unit of information the way an EPUB or PDF can. 
 
-[^plain-text]: *Beowulf by J. Lesslie Hall*, <a href="http://www.gutenberg.org/ebooks/16328">http://www.gutenberg.org/ebooks/16328</a>. 
-[^calibre]: Calibre, <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
-[^pandoc-installation-page]: *Installing pandoc*, <a href="http://www.johnmacfarlane.net/pandoc/installing.html">http://www.johnmacfarlane.net/pandoc/installing.html</a>. 
-[^epub-zipping-process]: More information on how to automate the EPUB zipping process can be found here: *EPUB Zip/Unzip AppleScript application for Mac OS X*, <a href="http://www.mobileread.com/forums/showthread.php?t=55681">http://www.mobileread.com/forums/showthread.php?t=55681</a>. 
-[^rudimentary-epub]: Example EPUB, <a href="https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub">https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub</a>. 
-[^idpf.org]: *EPUB Publications 3.0.1. Recommended Specification 26 June 2014*, <a href="http://www.idpf.org/epub/301/spec/epub-publications.html">http://www.idpf.org/epub/301/spec/epub-publications.html</a>. 
-[^epub-standard]: EPUB Open Container Format (OCF) 3.0, <a href="http://www.idpf.org/epub/30/spec/epub30-ocf.html">http://www.idpf.org/epub/30/spec/epub30-ocf.html</a>. 
-[^epub-validator]:EPUB Validator (beta), <a href="http://validator.idpf.org">http://validator.idpf.org</a>. 
-[^desktop-application]: pagina EPUB-Checker (Freeware), <a href="http://www.pagina-online.de/produkte/epub-checker/">http://www.pagina-online.de/produkte/epub-checker/</a>. 
-[^guardian-ios]: Guardian app for iOS and Android, <a href="http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android">http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android</a>. 
-[^pandoc-convert: An overview can be found on the Digital Publishing Toolkit Software Showcase, <a href="http://pandoc.networkcultures.org/">http://pandoc.networkcultures.org/</a> or go directly to <a href="http://pandoc.networkcultures.org/hybrid.html">http://pandoc.networkcultures.org/hybrid.html</a>. 
-[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), July 2, 2011, <a href="http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php">http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php</a> and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), October 12, 2013, <a href="http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php">http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php</a>. 
-[^purple-carrot-publication]: *The Prisoner of Carrot Castle*, November 19, 2013, <a href="https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo=4">https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4</a>. 
-[^de-correspondent]: *De Correspondent*, <a href="https://decorrespondent.nl">https://decorrespondent.nl</a>. 
-[^pandoc-calibre]: Pandoc: <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>; Calibre ebook management: <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
-[^Sigil]: *Sigil, The EPUB Editor*, <a href="http://code.google.com/p/sigil">http://code.google.com/p/sigil</a>. 
-[^Jutoh]: *Jutoh, epublishing made easy*, <a href="http://www.jutoh.com">http://www.jutoh.com</a>. 
+[^plain-text]: *Beowulf by J. Lesslie Hall*, http://www.gutenberg.org/ebooks/16328. 
+[^calibre]: Calibre, http://calibre-ebook.com/. 
+[^pandoc-installation-page]: *Installing pandoc*, http://www.johnmacfarlane.net/pandoc/installing.html. 
+[^epub-zipping-process]: More information on how to automate the EPUB zipping process can be found here: *EPUB Zip/Unzip AppleScript application for Mac OS X*, http://www.mobileread.com/forums/showthread.php?t=55681. 
+[^rudimentary-epub]: Example EPUB, https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub. 
+[^idpf.org]: The following overview at idpf.org defines the semantics and conformance requirements for EPUB publications: *EPUB Publications 3.0.1. Recommended Specification 26 June 2014*, http://www.idpf.org/epub/301/spec/epub-publications.html. 
+[^epub-standard]: EPUB Open Container Format (OCF) 3.0, http://www.idpf.org/epub/30/spec/epub30-ocf.html. 
+[^epub-validator]:EPUB Validator (beta), http://validator.idpf.org. 
+[^desktop-application]: pagina EPUB-Checker (Freeware), http://www.pagina-online.de/produkte/epub-checker/. 
+[^guardian-ios]: Guardian app for iOS and Android, http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android. 
+[^pandoc-convert: An overview can be found on the Digital Publishing Toolkit Software Showcase, http://pandoc.networkcultures.org/ or go directly to http://pandoc.networkcultures.org/hybrid.html. 
+[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), July 2, 2011, http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), October 12, 2013, http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php. 
+[^purple-carrot-publication]: *The Prisoner of Carrot Castle*, November 19, 2013, https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4. 
+[^de-correspondent]: *De Correspondent*, https://decorrespondent.nl. 
+[^pandoc-calibre]: Pandoc: http://www.johnmacfarlane.net/pandoc/; Calibre ebook management: http://calibre-ebook.com/. 
+[^Sigil]: *Sigil, The EPUB Editor*, http://code.google.com/p/sigil. 
+[^Jutoh]: *Jutoh, epublishing made easy*, http://www.jutoh.com. 
