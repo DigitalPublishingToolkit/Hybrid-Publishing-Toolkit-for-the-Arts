@@ -4,14 +4,14 @@
 - Hybrid print and electronic publishing requires new work methods and workflows. 
 - Low-budget, small-edition, visually-oriented publications that are designed in-house will require more significant changes in work methods than big-budget publications for which the ebook design can be outsourced. 
 - Interactive multimedia is still difficult to realize in books. Yet there are new opportunities for entirely new publication formats (such as books with customized content and micro-books). 
-- This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and **Open Source** tools. 
+- This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and Open Source tools. 
 </div> 
 
 'You must change your life' - borrowing from the philosopher Peter Sloterdijk, this could be the summary of our message to art-oriented and design-oriented publishers, writers, editors and designers who are currently transitioning from traditional book making to electronic publishing or - more typically - **hybrid publishing** of print and electronic formats. Hybrid publishing will sooner or later confront them with the need to re-think traditional publication formats, editorial and production workflows, and distribution. The changes required may well be greater and more extensive than initially expected! 
 
 *Change will be minor for scientific publishers and large publishers* 
 
-Having said that, there are exceptions. Workflow changes can be also minor for publishers who already do all their editorial work in highly structured digital document formats such as **XML** or databases; but this is typically only the case in scientific and technology-oriented publishing. Changes may also be minor for larger publishers who can afford outsourcing. Generating an electronic (digital) publication in parallel to a printed publication is then simply a matter of paying an external service provider, such as a document engineering company or a media design agency, to turn a Microsoft Word or Adobe InDesign file into an **ebook**. This process can be quick if the book is visually simple - such as a novel or a textbook with few illustrations - and economically worthwhile if many ebooks will be sold. 
+Having said that, there are exceptions. Workflow changes can be also minor for publishers who already do all their editorial work in highly structured digital document formats such as **XML** or databases; but this is typically only the case in scientific and technology-oriented publishing. Changes may also be minor for larger publishers who can afford outsourcing. Generating an electronic (digital) publication in parallel to a printed publication is then simply a matter of paying an external service provider, such as a document engineering company or a media design agency, to turn a Microsoft Word or Adobe InDesign **file** into an **ebook**. This process can be quick if the book is visually simple - such as a novel or a textbook with few illustrations - and economically worthwhile if many ebooks will be sold. 
 
 *Change will be major for small, arts-oriented publishers* 
 
@@ -50,11 +50,11 @@ As we said at the beginning of this introduction, 'you must change your life'; t
 
 ## How to use this Toolkit 
 
-The Toolkit aims to provide a practical guide on how to develop electronic publications, for publishers as well as for anyone else interested in this subject matter. The Toolkit will attempt to provide insight into the prerequisite conditions of electronic publishing, to suggest Open Source tools whenever possible, and to allow publishers active in the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way. 
+The Toolkit aims to provide a practical guide on how to develop electronic publications, for publishers as well as for anyone else interested in this subject matter. The Toolkit will attempt to provide insight into the prerequisite conditions of electronic publishing, to suggest **Open Source** tools whenever possible, and to allow publishers active in the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way. 
 
 Furthermore, the Toolkit will help the reader to develop electronic publications - specifically art and design publications, which generally make use of a greater variety of fonts, graphics and **layout** than publications focused exclusively or mainly on text. 
 
-After a basic exploration in Chapter 2 of publishing in general and electronic publishing in particular, in Chapter 3 we provide a general introduction to electronic publishing, sketching out various scenarios on how to develop electronic publications and discussing a number of issues and opportunities in 'going electronic'. In Chapter 4 we focus on the strengths and limitations of various specific types of e-reader hardware and software as well as different file formats, before moving on to describe in Chapter 5 a number of distribution platforms. In Chapter 6 we provide a step-by-step guide to creating your own EPUB. Chapter 7 offers a practical, how-to guide for workflows (both generally structured and specific to each scenario) and finally in Chapter 8 we explore the design of electronic publications for the various scenarios addressed earlier. Finally, in Chapter 9 we look into the future of electronic publishing. The manual also includes a description of the software developed within the different project groups, and a glossary of terms. 
+After a basic exploration in Chapter 2 of publishing in general and electronic publishing in particular, in Chapter 3 we provide a general introduction to electronic publishing, sketching out various scenarios on how to develop electronic publications and discussing a number of issues and opportunities in 'going electronic'. In Chapter 4 we focus on the strengths and limitations of various specific types of **e-reader** hardware and software as well as different file formats, before moving on to describe in Chapter 5 a number of distribution platforms. In Chapter 6 we provide a step-by-step guide to creating your own EPUB. Chapter 7 offers a practical, how-to guide for workflows (both generally structured and specific to each scenario) and finally in Chapter 8 we explore the design of electronic publications for the various scenarios addressed earlier. Finally, in Chapter 9 we look into the future of electronic publishing. The manual also includes a description of the software developed within the different project groups, and a glossary of terms. 
 
 We wish to stress here that the structure of the manual is not as linear as the above outline may suggest. Particularly further on in the manual, some of the terminology may seem confusing at first, but will be explained in more detail later. 
 
@@ -68,6 +68,6 @@ The result is the present publication, as well as a software repository consisti
 
 We are not claiming that all ebooks will follow, or indeed should follow this path. We are simply laying out one of the many directions ebook creators can now take with their publications, by using simple and inexpensive tools, and without having to buy into the industry's glossy promises of multimedia and interactivity. 
 
-[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, http://networkcultures.org/digitalpublishing. 
-[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, http://www.regieorgaan-sia.nl. 
-[^DPT-GitHub]: Digital Publishing Toolkit Github, http://networkcultures.org/digitalpublishing/github/. 
+[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, <a href="http://networkcultures.org/digitalpublishing">http://networkcultures.org/digitalpublishing</a>. 
+[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, <a href="http://www.regieorgaan-sia.nl">http://www.regieorgaan-sia.nl</a>. 
+[^DPT-GitHub]: Digital Publishing Toolkit Github, <a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>. 

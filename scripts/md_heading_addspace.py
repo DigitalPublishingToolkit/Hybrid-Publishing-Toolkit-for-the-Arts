@@ -17,7 +17,7 @@ ADDS AN EMPTY SPACE TO MARKDOWN HEADERS THAT AREN'T FOLLOW BY EMPTY SPACE
 eg: "###3) One-to-database"  --> "### 3) One-to-database"
 
 """
-h
+
 import re, sys, os
 
 input_filename=os.path.abspath(sys.argv[1])
