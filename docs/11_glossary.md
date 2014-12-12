@@ -277,9 +277,8 @@ An extension of **Markdown's** syntax adding tables, footnotes, citations, etc.
 #####Multimedia 
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application. 
 
-### **N** 
 
-### **O** 
+### O 
 
 #####OCR (Optical Character Recognition) 
 OCR software is used conjunction with a scanner to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer. 
@@ -317,7 +316,6 @@ A computer program is a set of instructions for a computer, allowing it to perfo
 #####Protocol 
 In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web server. 
 
-### Q 
 
 ### R 
 
@@ -340,9 +338,12 @@ Server-side scripting is used is a web server technique where a user's request i
 A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms. 
 
 
-
 #####Streaming 
 Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored. 
+
+#####Style sheet
+A style sheet is a sheet summarizing the editorial conventions to be followed in preparing text for publication.
+
 
 #####Syntax 
 The correct 'grammar' and 'spelling' of a programming language. 
@@ -373,8 +374,6 @@ The Unicode worldwide character standard is a character coding system designed t
 #####Unix 
 An operating system widely used on large computer systems in corporations and universities, on which many web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows. 
 
-### V 
-
 
 ### W 
 
@@ -395,7 +394,5 @@ XML is a specification emanating from the World Wide Web Consortium (W3C) that a
 
 #####XHTML (Extensible HyperText Markup Language) 
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
-
-### Y 
 
 
