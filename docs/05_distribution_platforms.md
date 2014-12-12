@@ -12,7 +12,7 @@ There are many channels for the distribution of ebooks. Perhaps surprisingly, tr
 
 These ebook stores typically charge a percentage for each publication sold, usually no less than 30% of the retail price. [^apple-press-percentage],[^guardian-amazon-hachette] With the exception of Google, most of the major retailers sell their ebooks in a way that is closely integrated with their own branded e-reader hardware (Kindle, iPad, NOOK, etc.). For example, publications purchased on Amazon's Kindle are immediately downloaded to the device, rather than having to connect the device to a computer and then transfer the downloaded purchases manually. 
 
-Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing program supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing] 
+Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing **program** supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing] 
 
 ##Online reading platforms
 
@@ -79,7 +79,7 @@ Lulu is the biggest print-on-demand service which offers publishing free of cost
 * Prices can vary considerably even for the same publication, particularly due to postal costs 
 * Minimum and maximum number of pages 
 * Only a number of specific print dimensions (width x height) are allowed
-* Interface and help section are not very user-friendly 
+* **Interface** and help section are not very user-friendly 
 
 **Revenue model** 
 

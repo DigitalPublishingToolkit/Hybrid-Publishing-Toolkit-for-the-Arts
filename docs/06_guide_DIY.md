@@ -21,14 +21,14 @@ This chapter consists of four sections:
 
 The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do include material from other locations or websites, an EPUB is 'self-contained'. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, by hand, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
 
-An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. A such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and decompress an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'. [^epub-zipping-process] 
+An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. A such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and **decompress** an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'. [^epub-zipping-process] 
 
-For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's GitHub page (a direct link can be found in the footnote). [^rudimentary-epub] 
+For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's **GitHub** page (a direct link can be found in the footnote). [^rudimentary-epub] 
 
 
 ###Structure of an EPUB package 
 
-Decompressing an EPUB file will reveal its internal folder (or directory) structure. Examining this structure will help us understand how an EPUB is put together. As explained above, the EPUB is a compressed ZIP archive. Start by decompressing or 'unzipping' the EPUB file using the built-in archive utility of your computer operating system, or archiving/compression software such as The Unarchiver (Mac), WinZip (Windows), etc. The unzipped contents should look like this: 
+Decompressing an EPUB file will reveal its internal **folder** (or directory) structure. Examining this structure will help us understand how an EPUB is put together. As explained above, the EPUB is a compressed ZIP archive. Start by decompressing or 'unzipping' the EPUB file using the built-in archive utility of your computer operating system, or archiving/compression software such as The Unarchiver (Mac), WinZip (Windows), etc. The unzipped contents should look like this: 
 
 ![EPUB layout](images/08_epublayout.png "EPUB layout")
 
@@ -53,7 +53,7 @@ Now that we've seen the internal structure of an EPUB by unzipping it, we can al
 1. Create a subfolder in the *Documents* folder and name it *Example*; 
 2. Create two more subdirectories under the one you've just created, one called *META-INF* and the other called *OEBPS*; 
 3. Using a text editor, create a plain-text file and type (or copy-paste) the line 'application/epub+zip' (without quotation marks) in this file; 
-4. Save this plain-text file and name it *mimetype* (without a file extension). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
+4. Save this plain-text file and name it *mimetype* (without a **file extension**). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
 
 Now there are the two directories and one text file, just as we saw when we decompressed the EPUB which we used as an example. 
 
@@ -121,7 +121,7 @@ Finally, the 'spine' section lists all the HTML or XHTML pages present in the pu
 
 ####The content 
 
-As mentioned in the introduction of this section, an important part of an EPUB consists of a collection of HTML files, often connected through hyperlinks. The process of creating the pages of an EPUB is similar to that of building a website, but with the particular limitations of e-readers in mind - limited support for rich media, color, etc. (see also Chapter 4: Technologies for electronic reading <!-- internal link to chapter 4-->). Pages should be written in XHTML, a variant of HTML that was created to make HTML more 'extensible' and increase its interoperability with other data formats. Cascading Style Sheets (CSS) may freely be used, although many e-readers will ignore at least some of the style definitions. 
+As mentioned in the introduction of this section, an important part of an EPUB consists of a collection of HTML files, often connected through hyperlinks. The process of creating the pages of an EPUB is similar to that of building a website, but with the particular limitations of e-readers in mind - limited support for rich media, color, etc. (see also Chapter 4: Technologies for electronic reading <!-- internal link to chapter 4-->). Pages should be written in XHTML, a variant of HTML that was created to make HTML more 'extensible' and increase its interoperability with other **data** formats. Cascading Style Sheets (CSS) may freely be used, although many e-readers will ignore at least some of the style definitions. 
 
 ####Packaging 
 
@@ -162,7 +162,7 @@ First we must define the styles, then apply them, and finally make sure they are
 
 ####Creating styles 
 
-1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the icon in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.
+1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the **icon** in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.
 ![image](images/InD_Styles_1_new.png) 
 2. Give the style a name. 
 ![image](images/InD_Styles_2_New_Paragraph_Style.png) 
@@ -207,7 +207,7 @@ Tips:
 
 InDesign places images in the layout in one of three ways: inline, **anchored** or independent: 
 
-- Inline images are placed or pasted directly in the text. When exported, they are rasterized (rendered as pixels or dots); thus if any inline object contains text, this text will also be rasterized. The image is then included in the flow of the text in which it was placed. Inline images cannot have text wrapped around them. 
+- Inline images are placed or pasted directly in the text. When exported, they are rasterized (rendered as **pixels** or dots); thus if any inline object contains text, this text will also be rasterized. The image is then included in the flow of the text in which it was placed. Inline images cannot have text wrapped around them. 
 - Anchored images are linked to a particular location in the text; when exported to EPUB they will appear at that location. Anchored images may have text wrapped around them, and are exported as floating objects in an EPUB. Text contained in anchored objects is not rasterized. However it will sometimes be resized incorrectly by the e-reader device or application. 
 - Independent images are placed alongside text and other objects, without any explicit link between the two. InDesign exports text and independent image objects sequentially according to their location on the page, from the top down and from left to right. Since an entire text flow is exported before any other objects on the same page, independent images may appear much further in the EPUB than they did in the print version. The order of exported objects can be adjusted in the Articles panel (accessed through Window > Articles). 
 
@@ -243,7 +243,7 @@ There are two main types of links: links which specify both the destination and 
 
 ###Creating internal links within a book 
 
-1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New Hyperlink Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
+1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New **Hyperlink** Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
 ![Image](images/InD_hyperlink_destination_1.png) 
 ![Image](images/InD_hyperlink_destination_2.png) 
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
@@ -308,7 +308,7 @@ InDesign gives you two opportunities to add metadata: in the File Info dialog bo
 ###Cover 
 The final step before exporting to EPUB is to create and add a cover image for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to visually preview the cover at a very small ('icon') size. Of course the resolution of the image should also be high enough to look good at full-screen size as well. Most ebook stores require images that are at least 1000 pixels on the shortest side. 
 
-1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the JPEG format. 
+1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the **JPEG** format. 
 ![Image](images/InD_SaveCover.png) 
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
@@ -326,7 +326,7 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 7. If the book has an ISBN, enter it in the Identifier field. 
 ![Image](images/InD_Metadata_Export.png) 
 8. All the other fields besides the Date field should be automatically populated with data entered earlier in the File Info dialog box. You can add any missing information now. InDesign uses the information in the Date field for the EPUB2 element 'dc:date', but will use the actual date and time to automatically fill in this information in a format compatible with EPUB3. In other words, you don't have to enter anything in the Date field. 
-9. There are many other export options: for controlling how images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
+9. There are many other export options: for controlling how images and text are exported, for adding **JavaScript** and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
 ![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
 
@@ -397,7 +397,7 @@ These applications usually integrate (as custom plug-ins) with a previously inst
 
 ###Other possibilities 
 
-For publications which require consistent design and uniform interactivity across devices, a reflowable document will probably not be the best solution. Therefore various publishers have developed their own (mobile) applications, such as The Guardian's iOS [^guardian-ios] version of its newspaper, the 'amplified' ebooks series by Penguin, [^penguin-amplified] or the children's books published by Purple Carrot Books. [^purple-carrot-publication] These solutions offer detailed control over interactivity as well as consistency of design, but at the extra cost of hiring a specialist (or even a team of specialists) to engineer the application. Transferring an EPUB to another device is fairly easy; however, publishing specifically for many platforms is by no means straightforward, due to the relatively closed nature of mobile operating systems. For example, an application designed specifically for the iPhone/iPad iOS **Software Development Kit (SDK)** will likely require a lot of technical modifications before it can run on the Android platform. 
+For publications which require consistent design and uniform **interactivity** across devices, a reflowable document will probably not be the best solution. Therefore various publishers have developed their own (mobile) applications, such as The Guardian's iOS [^guardian-ios] version of its newspaper, the 'amplified' ebooks series by Penguin, [^penguin-amplified] or the children's books published by Purple Carrot Books. [^purple-carrot-publication] These solutions offer detailed control over interactivity as well as consistency of design, but at the extra cost of hiring a specialist (or even a team of specialists) to engineer the application. Transferring an EPUB to another device is fairly easy; however, publishing specifically for many platforms is by no means straightforward, due to the relatively closed nature of mobile operating systems. For example, an application designed specifically for the iPhone/iPad iOS **Software Development Kit (SDK)** will likely require a lot of technical modifications before it can run on the Android platform. 
 
 Finally, why not simply publish essays, articles or even whole books on a website? The abundance of blogs and other publishing platforms shows that this is indeed a viable form of publishing. Monetizing is less straightforward: most websites generate income by showing the user advertisements or sponsored articles. Paid membership is also a model used by some websites, such as the Dutch news platform *De Correspondent*. [^de-correspondent] One of the major downsides is that the content will only be available online, and cannot be easily transferred as a single unit of information the way an EPUB or PDF can. 
 
