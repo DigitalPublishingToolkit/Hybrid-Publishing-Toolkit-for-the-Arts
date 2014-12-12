@@ -23,8 +23,7 @@ It is important to remember that publishers who make use of an online reading pl
 The following is an overview of the main characteristics, statistics, strengths and weaknesses, revenue models and publishing guidelines for three major online reading platforms (Issuu [^Issuu], Scribd [^Scribd] and Internet Archive [^Internet-Archive]) as well as two third-party blogs (Medium [^Medium] and WordPress [^WordPress]). 
 
 ![Issuu](images/05_01_onlinereadingplatforms_issuu.png "Issuu") 
-<!-- there is a note in this image: 'Freemium model *' referencing a footnote (see also comment in footnote section at the end of this file) how should the link to the footnote be implemented? Joe -->
-
+ 
 ![Scribd](images/05_01_onlinereadingplatforms_scribd.png "Scribd") 
 
 ![Internet-Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
@@ -151,7 +150,7 @@ As with music and films, 'pirate' platforms haven often been at the avant-garde 
 Commercial providers of digital content can (and do) learn a lot from pirate platforms. For example, Netflix, [^Netflix] the most successful web service for **streaming** films and a growing competitor to paid cable television, has been known to decide which films to show based on the popularity of these films on The Pirate Bay. [^The-Pirate-Bay] 
 
 ####All-purpose download sites 
-Sites like The Pirate Bay offer every imaginable type of digital media for download: films, music, computer games and software, and of course electronic books. The content listed on The Pirate Bay and other sites which make use of the BitTorrent **protocol** tends toward the mainstream: Hollywood films, pop music, and non-fiction and technical handbook literature as well as fantasy and science fiction. Since these sites are widely used and provide up-to-date download statistics, and since their technology (BitTorrent) depends on user participation for downloads to remain available, they provide a great deal of insight into which titles are truly popular among readers, as well as the popularity of ebooks in general. For example, at a particular moment in June 2014, the book *Atlas of Ancient Worlds* had been downloaded more than 2000 times in 48 hours (in comparison, the most popular film - an episode of the TV series *Game of Thrones* - had been downloaded more than 70,000 times). 
+Sites like The Pirate Bay offer every imaginable type of digital media for download: films, music, computer games and software, and of course electronic books. The content listed on The Pirate Bay and other sites which make use of the **BitTorrent** **protocol** tends toward the mainstream: Hollywood films, pop music, and non-fiction and technical handbook literature as well as fantasy and science fiction. Since these sites are widely used and provide up-to-date download statistics, and since their technology (BitTorrent) depends on user participation for downloads to remain available, they provide a great deal of insight into which titles are truly popular among readers, as well as the popularity of ebooks in general. For example, at a particular moment in June 2014, the book *Atlas of Ancient Worlds* had been downloaded more than 2000 times in 48 hours (in comparison, the most popular film - an episode of the TV series *Game of Thrones* - had been downloaded more than 70,000 times). 
 
 ####General ebook sites 
 
@@ -182,8 +181,6 @@ Of course, none of these projects can be considered serious competition to mains
 [^guardian-amazon-hachette]: Juliette Garside, 'Ebook sales: Amazon tells Hachette to give authors more, charge readers less', *The Guardian*, 30 July 2014, <a href="http://www.theguardian.com/books/2014/jul/30/amazon-hachette-ebook-sales-too-expensive">http://www.theguardian.com/books/2014/jul/30/amazon-hachette-ebook-sales-too-expensive</a>. 
 [^apple-publication-guidelines]: *Authors & Book Publishers: Frequently Asked Questions*, <a href="https://www.apple.com/itunes/working-itunes/sell-content/books/book-faq.html">https://www.apple.com/itunes/working-itunes/sell-content/books/book-faq.html</a>. 
 [^kindle-direct-publishing]: *Kindle Direct Publishing: Types of Formats*, <a href="https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ">https://kdp.amazon.com/help?topicId=A2GF0UFHIYG9VQ</a>. 
-[^Freemium]: Freemium <!-- the only reference to this footnote is in an image: 05_01_onlinereadingplatforms_issuu
-how should the link to the footnote be implemented? See also comment next to the image link in the main body text. Joe --> is a pricing strategy in which a product or service (typically a digital product such as software, media, games or web services) is provided free of charge, but money (a premium) is charged for extra features, functionality, or virtual goods. 
 [^Project-Gutenberg]: Project Gutenberg, <a href="http://www.gutenberg.org/">http://www.gutenberg.org/</a>. 
 [^National-and-University-Library-of-Iceland]: National and University Library of Iceland, https://archive.org/details/landsbokasafn. [https://archive.org/details/landsbokasafn](https://archive.org/details/landsbokasafn). 
 [^OpenLibrary]: Open Library is an online catalog that aims to list every book ever published. It provides 'one web page for every book' with extensive bibliographical information, download links (from Internet Archive), and links to online retailers which sell the title. [https://openlibrary.org/](https://openlibrary.org/). 

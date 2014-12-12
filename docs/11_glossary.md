@@ -1,4 +1,4 @@
-﻿# 10 Glossary of Technical Terms 
+# 10 Glossary of Technical Terms 
 
 ### A 
 
@@ -142,7 +142,7 @@ A location on a disc containing *files* and *subfolders* grouped together for or
 #####Formatting 
 The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
 
-#####Freemium 
+#####Freemium model
 A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins. 
 
 ### G 
