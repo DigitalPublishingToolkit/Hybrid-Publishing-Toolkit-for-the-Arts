@@ -6,7 +6,7 @@
 **Images:** [Medamo](http://medamo.nl) and Kimmy Spreeuwenberg<br/> 
 **Print design :** [Medamo](http://medamo.nl) and Kimmy Spreeuwenberg<br/> 
 **EPUB design :** André Castro<br/> 
-**EPUB and print cover design:**  [Medamo](http://medamo.nl) and Kimmy Spreeuwenberg<br/> 
+**Cover design:**  [Medamo](http://medamo.nl) and Kimmy Spreeuwenberg<br/> 
 
  
 **Printer:** Drukkerij Printvisie B.V., Rotterdam<br/> 
