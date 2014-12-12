@@ -43,7 +43,7 @@ All these new possibilities of course will require thorough, and potentially mor
 
 
 [^hist]: Guglielmo Cavallo and Roger Chartier (eds.), *A History of Reading in the West*, Polity Press 1999. 
-[^Project-Gutenberg1]: Project Gutenberg, https://www.gutenberg.org. 
-[^Million-Book-Project]: Million Book Project, https://archive.org/details/millionbooks. 
-[^Google-Books]: Google Books, http://books.google.nl/. 
-[^Open-Content-Alliance]: Open Content Alliance, http://www.opencontentalliance.org.
+[^Project-Gutenberg1]: Project Gutenberg, <a href="https://www.gutenberg.org">https://www.gutenberg.org</a>. 
+[^Million-Book-Project]: Million Book Project, <a href="https://archive.org/details/millionbooks">https://archive.org/details/millionbooks</a>. 
+[^Google-Books]: Google Books, <a href="http://books.google.nl/">http://books.google.nl/</a>. 
+[^Open-Content-Alliance]: Open Content Alliance, <a href="http://www.opencontentalliance.org">http://www.opencontentalliance.org</a>.

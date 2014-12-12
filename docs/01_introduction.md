@@ -68,6 +68,6 @@ The result is the present publication, as well as a software repository consisti
 
 We are not claiming that all ebooks will follow, or indeed should follow this path. We are simply laying out one of the many directions ebook creators can now take with their publications, by using simple and inexpensive tools, and without having to buy into the industry's glossy promises of multimedia and interactivity. 
 
-[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, http://networkcultures.org/digitalpublishing. 
-[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, http://www.regieorgaan-sia.nl. 
-[^DPT-GitHub]: Digital Publishing Toolkit Github, http://networkcultures.org/digitalpublishing/github/. 
+[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, <a href="http://networkcultures.org/digitalpublishing">http://networkcultures.org/digitalpublishing</a>. 
+[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, <a href="http://www.regieorgaan-sia.nl">http://www.regieorgaan-sia.nl</a>. 
+[^DPT-GitHub]: Digital Publishing Toolkit Github, <a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>. 
