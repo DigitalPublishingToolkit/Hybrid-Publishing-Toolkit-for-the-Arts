@@ -48,6 +48,9 @@ A number system used in computing, based on a representation for numbers with on
 #####Bit 
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed. 
 
+#####BitTorrent 
+BitTorrent is a protocol for the practice of peer-to-peer file sharing that is used to distribute large amounts of data over the Internet.
+
 
 #####Blog 
 Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the Web. 
