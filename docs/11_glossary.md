@@ -1,28 +1,28 @@
 # 10 Glossary of technical terms 
 
+
 ### A 
 
 #####Acronym 
-An acronym is a shortened version of a phrase, often taking the first letters. For example, GIGO is the acronym for 'Garbage in garbage out' or WYSIWYG, otherwise known as 'What You See Is What You Get'. 
+An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, WYSIWYG is the acronym for 'What You See Is What You Get'. 
 
 #####Algorithm 
-An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer: a basic algorithm for division. 
-For example there are algorithms worked out for sorting a list efficiently. A computer programmer can buy a book of algorithms so they not need to re-invent the wheel when they have to code for a job that has already been worked out. Having bought the book, they would look up the problem of 'How to sort a list' and a good book would tell them a number of ways to do this. 
+An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
 
 #####Android 
-An Open Source operating system targeted at mobile phones and tablets. It's based on a Linux kernel and Java programming language. As a mobile operating system Android is the most widely used. 
+An Open Source operating system for mobile phones and tablets, based on a Linux kernel and the Java programming language. Android is currently the most widely used operating system for  mobile devices. 
 
 #####Amazon 
-Online retailer of various goods, including print and ebooks, and producer of the Kindle and Kindle Fire e-reading devices. 
+Online retailer of various goods, including print books and ebooks. Amazon also produces the Kindle and Kindle Fire e-reader devices. 
 
-#####App 
-An application (software program) for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
+#####Application or app 
+A software program for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
 
 #####App store 
 An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
 
-#####AZW (Amazon Word) 
-File format used by the Amazon Kindle e-reader. 
+#####AZW (Acronym for Amazon Word) 
+A file format used by the Amazon Kindle e-reader. 
 
 #####Anchor 
 An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink. 
@@ -31,35 +31,34 @@ An anchor is a specific location within a HTML web page that can be jumped to by
 A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion. 
 
 #####API (Application Programming Interface) 
-An interface between the operating system and application programs that specifies how the two communicate with each other. 
+An interface between an operating system and application software that specifies how the two should communicate with each other. 
 
 #####ASCII (American Standard Code for Information Interchange) 
-A standard way to encode upper and lower case letters in the English alphabet, numbers, and special characters using only seven bits, and therefore limited to 128 characters. 
+A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and a number of special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
 
 
 ### B 
 
 #####Bandwidth 
-Literally, the frequency width of a transmission channel in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The greater the bandwidth, the greater the amount of data that can travel in a given time period. 
+Literally, the frequency width of a transmission channel, expressed in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The higher the bandwidth, the greater the amount of data that can travel within a given time period. 
 
 #####Binary 
-A number system used in computing, based on a representation for numbers with only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes, thus the number 9 is represented as 1001. 
+A numeral system used in computing, based on a representation for numbers using only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes. For example, the number 9 is represented as 1001. 
 
 #####Bit 
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed. 
 
 #####BitTorrent 
-BitTorrent is a protocol for the practice of peer-to-peer file sharing that is used to distribute large amounts of data over the Internet.
-
+BitTorrent is a protocol for the practice of peer-to-peer file sharing and is used for distributing large amounts of data over the Internet. 
 
 #####Blog 
-Short for web log; usually a chronological record of thoughts, links, events, or actions posted on the Web. 
+Short for web log; usually a chronological and often personal record of thoughts, web links, events, or actions posted on the Web. 
 
 #####Browser 
-Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of them also builds in their own proprietary codes, whether or not they are approved; differences which create a challenge for web page developers. 
+Software that will load and display a web page. A browser interprets the HTML or XML code from the web page files, executes embedded scripts and programs, provides encryption/decryption for security where needed, displays graphics, plays music and video, and provides links to related pages. Browsers are based on standards developed by the World Wide Web Consortium. The major browser software developers participate in these standards, but each of these developers also builds in their own proprietary codes, whether or not they are approved; such differences create a challenge for web page developers. 
 
 #####Browser extension 
-Plugins to extend or enhance the inner-workings of a web browser. 
+Plugins to extend or enhance the inner workings of a web browser. 
 
 #####Byte 
 A measurement of computer memory or storage capacity. A byte comprises 8 *bits*. 
@@ -67,16 +66,16 @@ A measurement of computer memory or storage capacity. A byte comprises 8 *bits*.
 ### C 
 
 #####Cascading Style Sheets (CSS) 
-Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, so also EPUB). This makes it possible to set up CSS file containing a library of styles that are used throughout a website or publication, thereby facilitating consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
+Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, and by extension also EPUB). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
 
 #####Compatiblity 
-Pieces of hardware and/or software which are capable of being used together are described as *compatible*. 
+Pieces of hardware and/or software which can be used together are described as compatible. 
 
 #####Compressed files 
-Compression is a technique to make a file or a data stream smaller for faster transmission or to take up less storage space. An example is EPUB, a compressed collection of HTML files. Several programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
+Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
 
 #####Computer program 
-A set of instructions that the computer carries out in sequence to perform a given task. Programs are written in English-like programming languages (e.g. C, Pascal, Java, C++) , and are then converted into binary machine instructions via a compiler or an interpreter. 
+A set of instructions that the computer carries out in sequence to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software consists of collections of programs working together to perform assorted tasks. 
 
 #####Content management system (CMS) 
 A software package that makes it possible for non-technical users to publish and manage content (text, images, etc.) on a website. 
