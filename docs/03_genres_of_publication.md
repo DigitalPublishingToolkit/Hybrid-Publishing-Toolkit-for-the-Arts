@@ -1,4 +1,4 @@
-#03 Genres of Publication 
+#03 Genres of publication 
 
 <div class="summary"> 
 - In art and design publishing, the most common genres are: research publications, art/design catalogues, artist's/designer's books, and art/design periodicals. 
