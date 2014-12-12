@@ -20,7 +20,7 @@ Note: an important step preceding the publication process lies in the formulatio
 
 We will now focus on the implementation of the new workflow for small-edition and low-budget publishing houses. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/ "Link to blog post: Hybrid Workflow How-To: Introduction & Editorial Steps")(*Hybrid workflow how-to: introduction & editorial steps*) 
 
-##E-publishing workflows: desktop publishing and Markdown 
+##Electronic publishing workflows: desktop publishing and Markdown 
 
 ###Desktop publishing workflow (from Word to InDesign to electronic book) 
 
