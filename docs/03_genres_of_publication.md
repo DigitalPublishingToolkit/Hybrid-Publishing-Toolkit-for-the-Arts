@@ -56,7 +56,7 @@ As with research publications, modularization offers interesting opportunities f
 - Text is often used in a non-descriptive or non-narrative way. 
 
 **Going electronic: advantages and issues** 
-Since an artist's/designer's book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artist's/designer's book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artist's books, if we exclude the electronic (scanned) reproductions of printed artist's books which can be found on repository websites such as UbuWeb and Monoskop. 
+Since an artist's/designer's book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artist's/designer's book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artist's books, if we exclude the electronic (scanned) reproductions of printed artist's books which can be found on repository websites such as UbuWeb [^ubuweb] and Monoskop [^monoskop]. 
 
 When working on an electronic edition of an existing printed artist's/designer's book, the choice of the file format is crucial. The end result is to a large extent determined by 
 the specifications of each format, and more generally of each medium. Here too, as with art/design catalogues, the quality of images and the relation between text and images is crucial. 
@@ -116,4 +116,5 @@ Particularly for publications which have a more or less fixed layout, database p
 It is important to note that there will never be one single workflow which fits all requirements. However, by making available the relevant metadata, publications can be created in a variety of formats. 
 
 [^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - Shifting Perspectives and Persistent Issues', Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada, 25-27 June 2008, http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf.
-
+[^ubuweb]: UbuWeb, http://www.ubuweb.com.
+[^monoskop]: Monoskop, http://monoskop.org/Monoskop.

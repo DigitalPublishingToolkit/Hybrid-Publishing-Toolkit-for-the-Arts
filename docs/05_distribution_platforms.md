@@ -6,15 +6,15 @@
 - The choice of one or more distribution platforms therefore also determines design choices for an ebook. 
 </div> 
 
-##Ebook stores: Amazon, Apple, Google, Kobo, Sony 
+##Ebook stores
 
-There are many channels for the distribution of ebooks. Perhaps surprisingly, traditional retailers (for example, large bookstores such as Libris or AKO in the Netherlands) generally play no more than a marginal role in selling electronic publications. A notable exception is Barnes & Noble with its range of NOOK devices and dedicated ebook store. Major players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
+There are many channels for the distribution of ebooks. Perhaps surprisingly, traditional retailers generally play no more than a marginal role in selling electronic publications. A notable exception is Barnes & Noble with its range of NOOK devices and dedicated ebook store. Major players in the field include Amazon, Apple, Google, Barnes & Noble and Kobo. 
 
-These ebook stores typically charge a percentage for each publication sold, usually no less than 30% of the retail price. [^apple-press-percentage]^,^[^guardian-amazon-hachette] With the exception of Google, most of the major retailers sell their ebooks in a way that is closely integrated with their own branded e-reader hardware (Kindle, iPad, NOOK, etc.). For example, publications purchased on Amazon's Kindle are immediately downloaded to the device, rather than having to connect the device to a computer and then transfer the downloaded purchases manually. 
+These ebook stores typically charge a percentage for each publication sold, usually no less than 30% of the retail price. [^apple-press-percentage],[^guardian-amazon-hachette] With the exception of Google, most of the major retailers sell their ebooks in a way that is closely integrated with their own branded e-reader hardware (Kindle, iPad, NOOK, etc.). For example, publications purchased on Amazon's Kindle are immediately downloaded to the device, rather than having to connect the device to a computer and then transfer the downloaded purchases manually. 
 
 Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs. [^apple-publication-guidelines] Amazon with its Kindle Direct Publishing program supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents. [^kindle-direct-publishing] 
 
-##Online reading platforms: Issuu, Scribd, Internet Archive, websites/blogs 
+##Online reading platforms
 
 Online reading platforms are browser-based platforms for reading electronic publications. Publications can be presented in a variety of formats. The choice of online platform (and thus of publication format) also has consequences for distribution methods and accessibility. 
 
