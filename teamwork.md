@@ -9,7 +9,7 @@
 * will go over images when next version is ready (Thursday/Friday)
 
 ## Margreet
-
+* has chapter 5 open (12.12.2014 - 08.00uur)
 
 ## Loes & Kimmy
 
