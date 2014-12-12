@@ -1,16 +1,16 @@
 # Colophon 
 
 ### From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
-**Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Miriam Rasch, Margreet Riphagen and Pia Pol<br/> 
+**Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Pia Pol, Miriam Rasch and Margreet Riphagen<br/> 
 **Editing:** Miriam Rasch and Amy Wu<br/> 
 **Images:** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
-**Print design :** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
-**EPUB design :** André Castro<br/> 
-**EPUB and print cover design:**  Loes Sikkes and Kimmy Spreeuwenberg<br/> 
+**Print design:** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
+**EPUB design:** André Castro<br/> 
+**Cover design:** Loes Sikkes and Kimmy Spreeuwenberg<br/> 
 
  
 **Printer:** Drukkerij Printvisie B.V., Rotterdam<br/> 
-**Publisher:** Institute of Network Cultures<br/> 
+**Publisher:** Institute of Network Cultures, Amsterdam<br/> 
 **Supported by:** SIA National Regieorgaan Praktijkgericht Onderzoek 
  
  
@@ -27,7 +27,7 @@ Rhijnspoorplein 1<br/>
 The Netherlands<br/> 
 [http://www.networkcultures.org](http://www.networkcultures.org)<br/> 
 books@networkcultures.org<br/> 
-t: +31 (0)20 59 51 865 
+t: +31 (0)20 595 18 65 
  
  
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
