@@ -139,11 +139,11 @@ Another option when using InDesign is to import files in the ICML file format. T
 
 InDesign can generate both reflowable and fixed-layout EPUB files. Reflowable layout means that the size and positioning of text and images are adjusted according to the screen size as well as the user's individual preferences. Fixed layout means that the text and images are always shown in the same (relative) size and positions on a page, regardless of the screen size or other factors. Fixed-layout text and images are usually reduced in size to fit on smaller screens, often to the point of becoming completely illegible on mobile phones. Finally, reflowable EPUB is supported by a broader range of e-readers and tablets, while fixed layout is supported by only a few. 
 
-<!--- images missing or wrongly named
+<!-- the following 3 images missing or wrongly named -->
 ![image](images/InD_InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
 ![image](images/InD_InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
 ![image](images/InD_InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
--->
+
 ![image](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
 ![image](images/InD_reflowiphone4.png "The text reflows to fit") 
 
@@ -222,9 +222,9 @@ Generally it's a good idea to use anchored images for a layout that will be expo
 ![Image](images/InD_anchor3-group.png) 
 3. Select the image in order to make its controls visible. Click and drag the blue box (near the upper right-hand corner of the image) to the desired location in the text. The blue box now changes to an anchor symbol. 
 ![Image](images/InD_anchor4-dragbluesquare.png) 
-<!--- image missing or wrongly named
+<!--- the following image missing or wrongly named -->
 ![Image](images/InD_anchor5-anchored.png) 
--->
+
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want the text to wrap around the image, select the image and then choose Object > Object Export Options. 
 ![Image](images/InD_anchor6-Object_Export_Options.png) 
