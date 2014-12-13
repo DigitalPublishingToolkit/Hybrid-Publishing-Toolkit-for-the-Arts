@@ -1,7 +1,7 @@
-# 10 Glossary of technical terms 
+#10 Glossary of technical terms 
 
 
-### A 
+###A 
 
 #####Acronym 
 An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, WYSIWYG is the acronym for 'What You See Is What You Get'. 
@@ -37,7 +37,7 @@ A standard way of encoding uppercase and lowercase letters in the English alphab
 A file format used by the Amazon Kindle e-reader. 
 
 
-### B 
+###B 
 
 #####Bandwidth 
 Literally, the frequency width of a transmission channel, expressed in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The higher the bandwidth, the greater the amount of data that can travel within a given time period. 
@@ -64,7 +64,7 @@ Plugins to extend or enhance the inner workings of a web browser.
 A measurement of computer memory or storage capacity. A byte comprises 8 *bits*. 
 
 
-### C 
+###C 
 
 #####Cascading Style Sheets (CSS) 
 Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, and by extension also EPUB). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
@@ -82,7 +82,7 @@ A set of instructions that the computer carries out in sequence to perform a giv
 A software package that makes it possible for non-technical users to publish and manage content (text, images, etc.) on a website. 
 
 
-### D 
+###D 
 
 #####Data 
 Data is information in a form that can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates. 
@@ -94,7 +94,7 @@ A set of structured data from which one can select specific records or a collect
 A dataset (or data set) is a collection of data. 
 
 #####Decompress 
-See **Compressed files** 
+See **compressed files** 
 
 #####Desktop Publishing (DTP) 
 The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress. 
@@ -106,13 +106,13 @@ In the context of mobile computing, an electronic handheld apparatus such as a s
 Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3, EPUB, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
 
 #####Directory 
-See **Folder** 
+See **folder** 
 
 #####Dots per inch (DPI) 
 A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce much higher resolutions. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, say 1200x1200, but you may also see 1200x2400, which means that the number of horizontal dots is different from the number of vertical dots. 
 
 
-### E 
+###E 
 
 #####Ebook 
 A digital publication which can be read by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
@@ -127,7 +127,7 @@ Electrophoretic paper, a display technology consisting of electrostatically char
 A device capable of reading digital texts in various formats, notably EPUB and AZW. 
 
 
-### F 
+###F 
 
 #####File 
 A file is an object for storing information in an electronic system such as a computer. A file can contain text and formatting created with a word processor, an image, a video, a computer program, etc. Each file has a name that can be used to locate it and describe its contents, and is stored in a certain location, known as a folder or directory. 
@@ -148,7 +148,7 @@ The process of applying styling (bold, italic, etc.) to text. Another meaning ca
 A revenue model in which the basic product or service (typically a digital product such as software, media, games or web services) is provided free of charge, but money (a premium) is charged for extra features, functionality, or virtual goods. 
 
 
-### G 
+###G 
 
 #####GitHub 
 A digital platform for code review, code management and collaboration for Open Source and private projects. 
@@ -157,34 +157,34 @@ A digital platform for code review, code management and collaboration for Open S
 Software that allows human users to interact with a computer or other digital device in a visual way, as opposed to text-based command-line interfaces. A GUI features graphical elements such as icons, windows and mouse pointers. By manipulating these elements, the user can run programs and carry out other operations such as copying information, deleting files, etc. 
 
 #####Graphics Interchange Format (GIF) 
-A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **Animated GIF**. 
+A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **animated GIF**. 
 
 
-### H 
+###H 
 
 #####HTML (Hypertext Markup Language) 
-A **markup** standard used mainly for creating pages on the World Wide Web. HTML allows the author to define the layout of the page, to add audio-visual material, and to insert **hypertext** links, etc. HTML is a markup language based on the older standard SGML, which stands for Standardized General Markup Language. 
+A **markup** standard used mainly for creating pages on the **World Wide Web**. HTML allows the author or designer to define the layout and formatting of the page, add audio-visual material, insert **hypertext** links, etc. HTML is based on the older standard SGML, which stands for Standardized General Markup Language. 
 
 #####HTTP (Hypertext Transfer Protocol) 
-The transfer method (protocol) used on the World Wide Web for transmitting and receiving web pages. 
+The transfer method (protocol) used on the **World Wide Web** for transmitting and receiving web pages. 
 
 #####Hybrid Publishing 
-Hybrid publishing is the publishing of one and the same publication in several different media, including print and electronic, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
+Hybrid publishing is the publishing of one single publication in several different print and electronic media, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
 
 #####Hyperlink 
-A hyperlink can be a sequence of letters or an image on a web page a leading to another part of the page, a different page on the same website, or to a completely different website when clicked upon. The word is a contraction of hypertext and link. 
+A hyperlink (hypertext link) is a method of referencing data used extensively in media such as web pages and ebooks. By clicking on the hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **hypertext**. 
 
 #####Hypertext 
-A system for the non-sequential presentation of text, the fundamental concept of the World Wide Web, whereby the user can jump from one part of a text to another, from one web page to another, or from one website to another, by clicking on highlighted (and usually underlined) hyperlinks. The concept of hypertext predates the Web by many years. 
+A system for the non-sequential presentation of text, and arguably the fundamental underlying principle of the **World Wide Web**. See also **hyperlink**. The concept of hypertext predates the Web by many years. 
 
 
-### I 
+###I 
 
 #####iBooks 
-A program enabling the user to read and buy ebooks, developed by Apple for iOS and OS X. 
+A software application which allows users to purchase, read and manage ebooks. Developed by Apple for its **iOS** and Mac OS X **operating systems**. 
 
 #####Icon 
-A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files, e.g. a picture of a painter's palette might represent a program used for drawing and editing pictures, and a picture of a book with a question mark on its cover might represent the text of a manual or a help file. 
+A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files. For example, a picture of a painter's palette may be used to represent software used for drawing and editing pictures, and a picture of a book with a question mark on its cover may represent the text of a user manual or a help file. 
 
 #####Incompatiblity 
 See **Compatibility** 
@@ -193,19 +193,16 @@ See **Compatibility**
 Used to describe the ways in which software accepts and responds to user input. 
 
 #####Interface 
-An interface is a connection between two systems. It can be hardware or software and may take the form of a plug, cable or socket, or all three. For example where a printer or scanner is connected to a computer, it is a hardware interface. There are also software interfaces that enable one program to link with another, passing across data and variables. The term interface, also known as user interface, also describes the software that is used to enable human beings to communicate with a computer. 
+An interface is a hardware or software connection between two systems, or between a system and a human user. For example, the physical hardware interface between a computer and a printer, or the software interface for transferring data and commands between two software programs or applications. The software and hardware interface that allows a human user to communicate with a computer is also known as a user interface. See also **graphical user interface**. 
 
 #####Internet 
-The Internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with an service provider. Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers. 
+The Internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with a service provider. Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers. 
 
 #####iOS 
-Mobile operating system, originally called iPhone OS before June 2010, which runs on iPhone, iPad, iPod Touch and Apple TV. 
-
-#####iPad 
-Tablet computer introduced by Apple, controlled by touch gestures. 
+Mobile operating system, originally called iPhone OS until June 2010, which runs on the iPhone, iPad, iPod Touch and Apple TV. 
 
 
-### J 
+###J 
 
 #####JavaScript 
 JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate web pages. JavaScript is not the same as Java, a high level programming language. 
@@ -214,7 +211,7 @@ JavaScript is a scripting language originally developed by Netscape mainly for u
 A file format used for storing images. The JPEG/JPG format uses a palette of millions of colors and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. 
 
 
-### K 
+###K 
 
 #####KF8 
 KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW. 
@@ -226,7 +223,7 @@ Kindle is a set of handheld devices and software capable of reading ebooks, part
 Kobo produces a range of handheld devices and software for e-reading. It also has its own storefront where ebooks (mainly EPUBs) may be bought. 
 
 
-### L 
+###L 
 
 #####LaTeX 
 A document markup language used in scientific documents, often used to render mathematical notations, for example. 
@@ -241,7 +238,7 @@ A technology used for producing a type of flat panel computer display screen, wh
 Unix-type operating system. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is Open Source and hence freely available to everyone. Also see **Unix**. 
 
 
-### M 
+###M 
 
 #####Markdown 
 A **markup language** using common symbols like #, * and _ to denote various style attributes. 
@@ -274,7 +271,7 @@ An extension of **Markdown's** syntax adding tables, footnotes, citations, etc.
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application. 
 
 
-### O 
+###O 
 
 #####OCR (Optical Character Recognition) 
 OCR software is used conjunction with a scanner to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer. 
@@ -286,7 +283,7 @@ The practice of allowing access to the source of product and the process through
 Software which manages the computer's hardware and provides a collection of tools and services used by computer programs within the operating system. Well known operating systems include Windows, Linux, Mac OS X and mobile operating systems like Android and iOS. 
 
 
-### P 
+###P 
 
 #####PDA 
 A handheld device providing services like an agenda, contacts and web browsing. Since the introduction of smartphones, the manufacturing of PDAs has been largely discounted. 
@@ -313,7 +310,7 @@ A computer program is a set of instructions for a computer, allowing it to perfo
 In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web server. 
 
 
-### R 
+###R 
 
 #####Reflowable 
 A reflowable document is a type of electronic document that can adapt its presentation to the output device. 
@@ -325,7 +322,7 @@ A measure of the number of pixels or small dots displayed on a computer display 
 An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files. 
 
 
-### S 
+###S 
 
 #####Server-side scripting 
 Server-side scripting is used is a web server technique where a user's request is fulfilled by running a script directly on the web server to generate dynamic web pages. 
@@ -343,7 +340,7 @@ A style sheet is a sheet summarizing the editorial conventions to be followed in
 The correct 'grammar' and 'spelling' of a **markup language**, command line, programming language, etc. 
 
 
-### T 
+###T 
 
 #####Tablet 
 A tablet is compact portable computer that makes use of a touchscreen instead of a keyboard for typing and running applications. Apple's iPad is a typical example of a tablet computer. 
@@ -361,7 +358,7 @@ A file format for storing raster graphics, commonly used in print design.
 Tumblr is a micro blogging system, as well as a social networking site. Mainly used for sharing images. 
 
 
-### U 
+###U 
 
 #####Unicode 
 The Unicode worldwide character standard is a character coding system designed to support the interchange, processing, and display of the written texts of the diverse languages of the modern world. In addition, it supports classical and historical texts of many written languages. 
@@ -370,7 +367,7 @@ The Unicode worldwide character standard is a character coding system designed t
 An operating system widely used on large computer systems in corporations and universities, on which many web servers are hosted. A PC version of Unix, called Linux, is becoming increasingly popular as an alternative to Windows. 
 
 
-### W 
+###W 
 
 #####Word processor 
 Probably the most widely used computer application, success as Microsoft Word, Apples' Pages, and Open Source software OpenOffice. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing web pages. 
@@ -382,11 +379,10 @@ Usually referred to simply as the Web. This is the most powerful and fastest gro
 A concept used to describe the notion that the appearance of text and images onscreen, corresponds more or less directly with the way the finished product (web page, printed document, etc.) will appear. 
 
 
-### X 
+###X 
 
 #####XHTML (Extensible HyperText Markup Language) 
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 #####XML (Extensible Markup Language) 
 XML is a specification emanating from the World Wide Web Consortium (W3C) that allows web designers to create their own language for displaying documents on the Web. XML is an extension to the standard language for creating web pages, HTML, and makes it possible to create websites containing more complex interactivity. 
-
