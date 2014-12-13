@@ -4,19 +4,16 @@
 ###A 
 
 #####Acronym 
-An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, WYSIWYG is the acronym for 'What You See Is What You Get'. 
-
-#####Algorithm 
-An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
+An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, **WYSIWYG** is the acronym for 'What You See Is What You Get'. 
 
 #####Amazon 
-Online retailer of various goods, including print books and ebooks. Amazon also produces the Kindle and Kindle Fire e-reader devices. 
+A well-known online retailer of various goods, including print books and **ebooks**. **Amazon** also produces the **Kindle** and Kindle Fire **e-reader** devices. 
 
 #####Anchor 
-An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink. 
+An anchor is a specific location within a **HTML** web page that can be jumped to by clicking on a hyperlink. 
 
 #####Android 
-An Open Source operating system for mobile phones and tablets, based on a Linux kernel and the Java programming language. Android is currently the most widely used operating system for  mobile devices. 
+An **Open Source** operating system for mobile phones and tablets, based on a Linux kernel and the Java programming language. Android is currently the most widely used operating system for  mobile devices. 
 
 #####Animated GIF (Graphics Interchange Format) 
 A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion. 
@@ -34,7 +31,7 @@ An online store where mobile applications may be bought or obtained for free. Ev
 A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and a number of special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
 
 #####AZW (Acronym for Amazon Word) 
-A file format used by the Amazon Kindle e-reader. 
+A file format used by **Amazon** for its **Kindle** range of **e-reader** devices and software applications. See also **KF8** and **MOBI**.
 
 
 ###B 
@@ -67,13 +64,13 @@ A measurement of computer memory or storage capacity. A byte comprises 8 *bits*.
 ###C 
 
 #####Cascading Style Sheets (CSS) 
-Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, and by extension also EPUB). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
+Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (**HTML** and **XML**, and by extension also **EPUB**). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
 
 #####Compatiblity 
 Pieces of hardware and/or software which can be used together are described as compatible. 
 
 #####Compressed files 
-Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
+Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is **EPUB**, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
 
 #####Computer program 
 A set of instructions that the computer carries out in sequence to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software consists of collections of programs working together to perform assorted tasks. 
@@ -103,10 +100,10 @@ The practice of designing printed matter on a personal computer, often using sof
 In the context of mobile computing, an electronic handheld apparatus such as a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
 
 #####Digital Rights Management (DRM) 
-Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3, EPUB, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
+Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3s, **EPUBs**, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
 
 #####Directory 
-See **folder** 
+See **folder**. 
 
 #####Dots per inch (DPI) 
 A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce much higher resolutions. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, say 1200x1200, but you may also see 1200x2400, which means that the number of horizontal dots is different from the number of vertical dots. 
@@ -115,16 +112,16 @@ A measure of the quality of output, i.e. the number of dots per square inch prod
 ###E 
 
 #####Ebook 
-A digital publication which can be read by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
+A digital publication which can be read by **e-readers** and other handheld devices as well as desktop computers. There are various ebook formats such as **EPUB** and **AZW**. 
 
 #####EPUB (Electronic Publication) 
-An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content. 
+An **ebook** format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content. 
 
 #####E-paper 
 Electrophoretic paper, a display technology consisting of electrostatically charged particles that are made to turn either black or white according to the polarity of the charge. Electricity is only used for refreshing ('turning') the page, thereby considerably reducing power consumption and making the technology ideal for reading long texts. The display is not backlit like the LCD screens used in tablets, smartphones and personal computers, therefore it must be illuminated externally like actual paper. The upside is that it can be read in broad daylight without any loss of image quality. Since the refresh rate is much slower than LCD screens, the technology does not allow for videos or animations. 
 
 #####E-reader 
-A device capable of reading digital texts in various formats, notably EPUB and AZW. 
+A device capable of reading digital texts in various formats, notably **EPUB** and **AZW**. 
 
 
 ###F 
@@ -157,7 +154,7 @@ A digital platform for code review, code management and collaboration for Open S
 Software that allows human users to interact with a computer or other digital device in a visual way, as opposed to text-based command-line interfaces. A GUI features graphical elements such as icons, windows and mouse pointers. By manipulating these elements, the user can run programs and carry out other operations such as copying information, deleting files, etc. 
 
 #####Graphics Interchange Format (GIF) 
-A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **animated GIF**. 
+A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **animated GIF**. See also **JPEG**.
 
 
 ###H 
@@ -172,7 +169,7 @@ The transfer method (protocol) used on the **World Wide Web** for transmitting a
 Hybrid publishing is the publishing of one single publication in several different print and electronic media, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
 
 #####Hyperlink 
-A hyperlink (hypertext link) is a method of referencing data used extensively in media such as web pages and ebooks. By clicking on the hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **hypertext**. 
+A hyperlink (hypertext link) is a method of referencing data used extensively in media such as web pages and **ebooks**. By clicking on the hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **hypertext**. 
 
 #####Hypertext 
 A system for the non-sequential presentation of text, and arguably the fundamental underlying principle of the **World Wide Web**. See also **hyperlink**. The concept of hypertext predates the Web by many years. 
@@ -181,7 +178,7 @@ A system for the non-sequential presentation of text, and arguably the fundament
 ###I 
 
 #####iBooks 
-A software application which allows users to purchase, read and manage ebooks. Developed by Apple for its **iOS** and Mac OS X **operating systems**. 
+A software application which allows users to purchase, read and manage **ebooks**. Developed by Apple for its **iOS** and Mac OS X **operating systems**. 
 
 #####Icon 
 A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files. For example, a picture of a painter's palette may be used to represent software used for drawing and editing pictures, and a picture of a book with a question mark on its cover may represent the text of a user manual or a help file. 
@@ -205,37 +202,37 @@ Mobile operating system, originally called iPhone OS until June 2010, which runs
 ###J 
 
 #####JavaScript 
-JavaScript is a scripting language originally developed by Netscape mainly for use as code within a web page. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing CSS format settings within its page. JavaScript library providing a set of convenience methods for programmers in order to dynamically manipulate web pages. JavaScript is not the same as Java, a high level programming language. 
+JavaScript is a scripting language originally developed by Netscape, mainly for use as executable code within web pages. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing **CSS** format settings within the web page. JavaScript is not the same as Java, which is a high-level programming language. 
 
 #####JPEG or JPG (Joint Photographic Experts Group) 
-A file format used for storing images. The JPEG/JPG format uses a palette of millions of colors and is primarily intended for photographic images. The internal compression **algorithm** of the JPEG/JPG format, unlike the GIF format, actually throws out superfluous information, which is why JPEG/JPG files containing photographic images end up smaller than GIF files containing photographic images. 
+A file format used for storing images. The JPEG format uses a palette of millions of colors and is primarily intended for photographs and full-color artworks. Unlike the GIF format, the JPEG format is a 'lossy' format, meaning that data is compressed according to a mathematical model involving a trade-off between file size and image quality. For full-color images, the JPEG format in practice yields better results, yet with smaller file sizes, than the **GIF** format. 
 
 
 ###K 
 
 #####KF8 
-KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also AZW. 
+KF8 is the latest **ebook** format used by **Amazon** for its **Kindle** hardware. See also **AZW** and **MOBI**. 
 
 #####Kindle 
-Kindle is a set of handheld devices and software capable of reading ebooks, particularly Amazons AZW file format. The Kindle product range is manufactured and developed by Amazon. Kindle Fire is the multifunctional, full color tablet in this same range. 
+**Amazon**'s Kindle is a range of handheld **e-reader** devices and companion software applications for reading **ebooks**, particularly in **Amazon**'s proprietary **AZW**, **KF8** and **MOBI** ebook formats. The more recent Kindle Fire is not so much an e-reader as a full-fledged, small-sized tablet. 
 
 #####Kobo 
-Kobo produces a range of handheld devices and software for e-reading. It also has its own storefront where ebooks (mainly EPUBs) may be bought. 
+Kobo is a compamy that produces a range of handheld **e-reader** devices and software. It also has its own storefront where users can purchase **ebooks** (mainly in the **EPUB** format). 
 
 
 ###L 
 
 #####LaTeX 
-A document markup language used in scientific documents, often used to render mathematical notations, for example. 
+A document markup language used mainly in scientific documents. LaTeX is particularly useful for rendering typographically complex mathematical formulas. 
 
 #####Layout
-The overall design of a page, spread, or book, including elements such as page and type size, typeface, and the arrangement of titles and page numbers.
+The overall visual design of a document. In the case of printed matter, layout includes elements such as page dimensions and margins, font type and size, **markup** formatting, the placement of various elements within the page, and various other elements such as headings and page numbers. In the case of **reflowable** documents such as **ebooks**, the layout must be adapted to take into account the fact that different devices or applications will render the layout in different ways. 
 
 #####LCD (Liquid Crystal Display) 
-A technology used for producing a type of flat panel computer display screen, which is replacing the older type of Cathode Ray Tube display screen. A more advanced form of technology for producing flat panel display screens is known as TFT (Thin Film Transistor). LCD and TFT screens are also used in digital cameras and camcorders. 
+The technology used for producing the flat-panel display screens found on most contemporary computers, tablets and smartphones as well as other devices such as digital cameras. Currently, a 'new improved' technology known as TFT LCD (Thin Film Transistor LCD) is gradually becoming the industry standard. <!-- Florian maybe you can check this, I don't really know enough about this. Joe  -->
 
 #####Linux 
-Unix-type operating system. Linux was originally created by Linus Torvalds with the assistance of developers around the world. The Source Code for Linux is Open Source and hence freely available to everyone. Also see **Unix**. 
+A popular **Unix**-type **operating system**. Linux was originally created by Linus Torvalds with the assistance of many developers worldwide. The Source Code for Linux is **Open Source** and thus freely available to everyone. 
 
 
 ###M 
@@ -250,10 +247,10 @@ A markup language like HTML or Markdown allows users to wrap text in tags denoti
 Standardized descriptors of data in a particular document (author, creation date, etc.) 
 
 #####MOBI 
-An ebook file format developed by Mobipocket and the basis of Amazon's first AZW ebooks. 
+An **ebook** file format developed by Mobipocket and the basis of Amazon's first AZW ebooks. See also **AZW** and **KF8**. 
 
 #####Mobipocket 
-A French company incorporated in March 2000 that produced Mobipocket Reader software, an e-reader for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform. 
+A French company incorporated in March 2000 that produced Mobipocket Reader software, an **e-reader** for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform. 
 
 #####Monitor 
 The screen on which output from a computer is displayed. Also referred to as display screen. 
