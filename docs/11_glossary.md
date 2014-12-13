@@ -90,7 +90,7 @@ Data is information in a form that can be processed by a computer. It is usually
 A set of structured data from which one can select specific records or a collection of records, often in a computer-readable and -accessible format. 
 
 #####Datasets
-A dataset (or data set) is a collection of data.
+A dataset (or data set) is a collection of data. 
 
 #####Decompress 
 See **Compressed files** 
@@ -99,21 +99,21 @@ See **Compressed files**
 The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress. 
 
 #####Device 
-An electronic handheld apparatus like a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
+In the context of mobile computing, an electronic handheld apparatus such as a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
 
 #####Digital Rights Management (DRM) 
-Technology used by publishers to control the usage of copyright protected digital material. The practice is controversial as it often hampers paying customers in freely interacting with digital goods (MP3, EPUB, games, etc.). Transferring items with DRM to other devices or using them without an active Internet connection often proves to be difficult. 
+Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3, EPUB, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
 
 #####Directory 
 See **Folder** 
 
 #####Dots per inch (DPI) 
-A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce many more dots per square inch. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, e.g. 1200 x 1200, but you may also see 1200 x 2400, which means that the number of horizontal dots is different from the number of vertical dots. 
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce much higher resolutions. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, say 1200x1200, but you may also see 1200x2400, which means that the number of horizontal dots is different from the number of vertical dots. 
 
 ### E 
 
 #####Ebook 
-Digital publications of different kinds and formats, which can be read by e-readers, desktop computers and handheld devices. 
+A digital publication which can be read by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
 
 #####EPUB (Electronic Publication) 
 An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content. 
@@ -122,33 +122,29 @@ An ebook format developed by the International Digital Publishing Forum (IDPF). 
 A device capable of reading digital texts in various formats, notably EPUB and AZW. 
 
 #####E-paper 
-Electrophoretic paper, a system in which small particles are electrostatically charged in such a way they can become black or white and remain so. Hence, electricity is in fact only used by refreshing the page, which reduces the power consumption considerably and hence makes it an ideal technology for long reading. Like paper, the presentation does not allow motion pictures or animations. 
-
+Electrophoretic paper, a display technology consisting of electrostatically charged particles that are made to turn either black or white according to the polarity of the charge. Electricity is only used for refreshing ('turning') the page, thereby considerably reducing power consumption and making the technology ideal for reading long texts. The display is not backlit like the LCD screens used in tablets, smartphones and personal computers, therefore it must be illuminated externally like actual paper. The upside is that it can be read in broad daylight without any loss of image quality. Since the refresh rate is much slower than LCD screens, the technology does not allow for videos or animations. 
 
 
 ### F 
 
 #####File 
-'File' can be used to describe many different things: a computer program, a document file created with a word processor, an image file, an audio file, a video file, etc. A file has a name that describes what it is, and is stored in a certain place. 
+A file is an object for storing information in an electronic system such as a computer. A file can contain text and formatting created with a word processor, an image, a video, a computer program, etc. Each file has a name that can be used to locate it and describe its contents, and is stored in a certain location, known as a folder or directory. 
 
 #####File extension 
-A method used by many operating systems including Windows and Mac OS is to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension might be linked to more than one program. Many formats still use three-character extensions even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions. 
-
-#####File format 
-A file format is a standard way that information is encoded for storage in a computer file. It specifies how bits are used to encode information in a digital storage medium. File formats may be either proprietary or free and may be either unpublished or open. A specific file format demands specific programs to read and it can have its own **file permissions**. 
+A method used by many operating systems including Windows and Mac OS X to determine the format of a file based on the end of its name: the letters following the final period. This portion of the filename is known as the filename extension. For example, HTML documents are identified by names that end with .html (or .htm), and GIF images by .gif. In the past, names were limited to an eight-character identifier and a three-character extension. There are only a limited number of three-letter extensions, so a given extension may apply to more than one format. Many formats still use three-character extensions, even though modern operating systems and application programs no longer have this limitation. There is no standard list of extensions. 
 
 #####File permissions 
-Files stored on a computer usually have *permissions* governing which users are allowed to read, amend or execute them. This is particularly important in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, e.g. documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers. 
+Files stored on a computer usually have 'permissions' defining which users are allowed to read, amend or (in the case of a program file) execute them. This is important for example in a school, college or university network environment, where teachers and lecturers may have the permission to amend certain files, for example documents that they have created, but students are only allowed to read them. File permissions are usually determined by network managers. 
 
 #####Folder 
-A location on a disc containing *files* and *subfolders* grouped together for organizational purposes. The term is used synonymously with directory, which has become a less common term since the introduction of operating systems with graphical user interfaces. Subfolders are sometimes referred to as 'child folders' of the 'parent folder'. The topmost folder on a computer, which is the parent of all folders on the disc, is known as the 'root folder' and usually has the pathname C:\\\\ 
-<!-- \\ used to display \ in Markdown --> 
+A location on a disc containing *files* and *subfolders* grouped together for organizational purposes. The term is used synonymously with 'directory', which has become a less common term since the introduction of operating systems with graphical user interfaces. Subfolders are sometimes referred to as 'child folders' of the 'parent folder'. The topmost folder on a computer, which is the parent of all folders on the disc, is known as the 'root folder'. 
 
 #####Formatting 
-The process of applying styling (bold, italic, etc.) to sentences and paragraphs. Another meaning can be: the process of preparing a writeable disc for use. 
+The process of applying styling (bold, italic, etc.) to text. Another meaning can be: the process of preparing a writeable disc for use. 
 
-#####Freemium model
-A revenue model whereby the base product is free of charge, but can be extended with paid options or plugins. 
+#####Freemium 
+A revenue model in which the basic product or service (typically a digital product such as software, media, games or web services) is provided free of charge, but money (a premium) is charged for extra features, functionality, or virtual goods. 
+
 
 ### G 
 
