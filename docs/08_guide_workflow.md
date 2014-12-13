@@ -90,7 +90,7 @@ In the specific case of art and design catalogues, the following changes to the 
 Some practical tips: 
 
 * Save text in the Markdown format, and make use of images in the highest resolution. 
-* Use a tool like Pandoc to convert the Markdown document to EPUB and to any of the other file formats you will need once the source document has been consolidated. Test the EPUB file with several e-reader devices and applications, unpack (unzip) it and adjust the HTML and CSS if necessary, and then repack (zip) it into EPUB when these customizations are done. 
+* Use a tool like Pandoc to convert the Markdown document to EPUB and to any of the other file formats you will need once the source document has been consolidated. Test the EPUB file with several e-reader devices and applications, unpack (decompress) it and adjust the HTML and CSS if necessary, and then repack (compress) it into EPUB when these customizations are done. 
 
 The step-by-step guides in the previous chapters provide a detailed description of how to use these tools. 
 
