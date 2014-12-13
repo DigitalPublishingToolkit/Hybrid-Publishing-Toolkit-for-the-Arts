@@ -48,89 +48,9 @@ Examples of social reading platforms:
 
 There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu [^Lulu] and the Espresso Book Machine [^Espresso-Book-Machine]. 
 
-###Lulu.com 
 ![Lulu](images/05_01_onlinereadingplatforms_LULU.png "Lulu") 
-<!-- the following text will be replaced by the image above -->
-
-Lulu is the biggest print-on-demand service which offers publishing free of cost, based on a model of shared profit. [https://lulu.com](https://lulu.com) 
-
-**Characteristics** 
-
-* Available in six languages: English, French, Spanish, German, Italian and Dutch 
-* Used in 225 countries and territories 
-* 1.8 million publications 
-* 20,000 new publications each month 
-* 1.1 million authors 
-* Mostly for self-publishing 
-* Mostly for publishing books 
-* Lulu also offers an ebook publishing service 
-
-**Strengths and weaknesses** 
-
-*Strengths:* 
-
-* Ability to set your own price 
-* Possible distribution through Amazon, Barnes & Noble, and Apple's **iBookstore** (ebooks only) 
-* Free ISBN is available 
-
-*Weaknesses:* 
-
-* Prices can vary considerably even for the same publication, particularly due to postal costs 
-* Minimum and maximum number of pages 
-* Only a number of specific print dimensions (width x height) are allowed
-* Interface and help section are not very user-friendly 
-
-**Revenue model** 
-
-* Authors/publishers get 80% of the profit of a publication, Lulu gets 20% 
-
-**How to print** 
-
-* Create an account 
-* You will need two PDFs: one for the cover and spine, another for the rest of the book 
-* Choose your format, paper, etc.
-* You can provide your own ISBN number, or have Lulu assign an ISBN to the publication 
-* If you don't have a cover yet, you can use a browser-based editor to design one 
-* Upload the PDFs and publish your work 
-* Choose your preferred methods of distribution 
-
-###Espresso Book Machine 
 
 ![Espresso-Book-Machine](images/05_01_onlinereadingplatforms_EspressoMachine.png "Espresso Book Machine")
-<!-- the following text will be replaced by the image above -->
-
-The Espresso Book Machine (EBM) [^Espresso-Book-Machine] is a direct-to-consumer print-on-demand machine that prints, collates, covers, and binds a single copy of a book in a few minutes. It can be found at different locations, for example in physical bookstores. 
-
-**Characteristics** 
-
-* Input is PDF 
-* A book can be stored in a database, allowing other customers at other locations to purchase a copy 
-* Can also print copyright-free books from Google Books 
-* Price is roughly equivalent to that of a regular book 
-
-**Strengths and weaknesses** 
-
-*Strengths:* 
-
-* Print as few or as many copies as desired 
-* The book is immediately printed on the spot 
-* Green technology 
-
-*Weaknesses:* 
-
-* The Espresso Book Machine is tied to a location and for now mostly available across the United States, with two locations in the Netherlands (American Book Center in Amsterdam and The Hague), and various other locations worldwide 
-* Options vary per location 
-* Limitations in paper, color, size 
-
-**Revenue Model** 
-
-* The bookstore where the Espresso Book Machine is located gets a small consignment fee for each printed book; self-publishers can set their own price 
-
-**How to print** 
-
-* You will need two PDFs: one for the cover and spine, another for the rest of the book 
-* Sign the affidavit stating you own the rights to the book 
-* Choose your preferred methods of distribution 
 
 ###International options 
 * Kobo Writing Life [^Kobo-Writing-Life] - Allows authors and publishers to self-publish digital content in 160+ countries. The Kobo Writing Life website can be used to publish ebooks and to track sales. 
