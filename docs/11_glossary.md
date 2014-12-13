@@ -4,16 +4,16 @@
 ###A 
 
 #####Acronym 
-An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, **WYSIWYG** is the acronym for 'What You See Is What You Get'. 
+An acronym is a shortened version of a phrase, often based on the first letter of each word. For example, WYSIWYG is the acronym for 'What You See Is What You Get'. 
 
 #####Amazon 
-A well-known online retailer of various goods, including print books and **ebooks**. **Amazon** also produces the **Kindle** and Kindle Fire **e-reader** devices. 
+A well-known online retailer of various goods, including print books and ebooks. Amazon also produces the Kindle and Kindle Fire e-reader devices. 
 
 #####Anchor 
-An anchor is a specific location within a **HTML** web page that can be jumped to by clicking on a hyperlink. 
+An anchor is a specific location within a HTML web page that can be jumped to by clicking on a hyperlink. 
 
 #####Android 
-An **Open Source** operating system for mobile phones and tablets, based on a Linux kernel and the Java programming language. Android is currently the most widely used operating system for  mobile devices. 
+An Open Source operating system for mobile phones and tablets, based on a Linux kernel and the Java programming language. Android is currently the most widely used operating system for  mobile devices. 
 
 #####Animated GIF (Graphics Interchange Format) 
 A graphic file that consists of two or more images shown in a timed sequence to give the effect of motion. 
@@ -22,7 +22,7 @@ A graphic file that consists of two or more images shown in a timed sequence to 
 An interface between an operating system and application software that specifies how the two should communicate with each other. 
 
 #####Application or app 
-A software program for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
+A software program, or integrated collection or programs, for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
 
 #####App store 
 An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
@@ -30,8 +30,8 @@ An online store where mobile applications may be bought or obtained for free. Ev
 #####ASCII (American Standard Code for Information Interchange) 
 A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and a number of special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
 
-#####AZW (Acronym for Amazon Word) 
-A file format used by **Amazon** for its **Kindle** range of **e-reader** devices and software applications. See also **KF8** and **MOBI**.
+#####AZW (Amazon Word) 
+A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**.
 
 
 ###B 
@@ -64,18 +64,18 @@ A measurement of computer memory or storage capacity. A byte comprises 8 *bits*.
 ###C 
 
 #####Cascading Style Sheets (CSS) 
-Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (**HTML** and **XML**, and by extension also **EPUB**). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
+Cascading Style Sheets are a feature that enables a range of styles for headings, body text, bullet points, links etc., to be specified for hypertext documents (HTML and XML, and by extension also EPUB). This makes it possible to set up a CSS file containing a library of styles that are used throughout a website or publication, thereby making it easier to ensure consistency. If a style needs to be changed throughout a website it only needs to be changed once in the CSS file and then it will be applied automatically. 
 
-#####Compatiblity 
+#####Compatibility 
 Pieces of hardware and/or software which can be used together are described as compatible. 
 
 #####Compressed files 
-Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is **EPUB**, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
+Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
 
 #####Computer program 
-A set of instructions that the computer carries out in sequence to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software consists of collections of programs working together to perform assorted tasks. 
+A set of instructions that the computer carries out in sequence to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software applications consist of collections of programs working together to perform assorted tasks. 
 
-#####Content management system (CMS) 
+#####Content Management System (CMS) 
 A software package that makes it possible for non-technical users to publish and manage content (text, images, etc.) on a website. 
 
 
@@ -91,7 +91,7 @@ A set of structured data from which one can select specific records or a collect
 A dataset (or data set) is a collection of data. 
 
 #####Decompress 
-See **compressed files** 
+See **Compressed files**. 
 
 #####Desktop Publishing (DTP) 
 The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress. 
@@ -100,28 +100,28 @@ The practice of designing printed matter on a personal computer, often using sof
 In the context of mobile computing, an electronic handheld apparatus such as a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
 
 #####Digital Rights Management (DRM) 
-Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3s, **EPUBs**, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
+Technology used by publishers to regulate the usage of copyright-protected digital materials (MP3s, EPUBs, games, etc.). The practice of adding DRM to media is controversial, as it often makes it harder for paying customers to freely interact with the digital goods they have purchased. For example, files cannot in general be freely transferred to other devices. Also, accessing these files without an active Internet connection often proves difficult. 
 
 #####Directory 
-See **folder**. 
+See **Folder**. 
 
-#####Dots per inch (DPI) 
-A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce much higher resolutions. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, say 1200x1200, but you may also see 1200x2400, which means that the number of horizontal dots is different from the number of vertical dots. 
+#####Dots Per Inch (DPI) 
+A measure of the quality of output, i.e. the number of dots per square inch produced by a printer or scanner, also referred to as its resolution. A resolution of at least 300 dpi is considered reasonable for the production of high-quality output by a printer and 1200 dpi by a scanner, but modern printers and scanners can produce much higher resolutions. The resolution of a scanner may also be expressed by two numbers. These are mostly the same, say 1200x1200, but you may also see 1200x2400, which means that the number of horizontal dots is different from the number of vertical dots. See also **Resolution**. 
 
 
 ###E 
 
 #####Ebook 
-A digital publication which can be read by **e-readers** and other handheld devices as well as desktop computers. There are various ebook formats such as **EPUB** and **AZW**. 
+A digital publication which can be read by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
 
 #####EPUB (Electronic Publication) 
-An **ebook** format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate **reflowable** content. 
+An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content. 
 
 #####E-paper 
 Electrophoretic paper, a display technology consisting of electrostatically charged particles that are made to turn either black or white according to the polarity of the charge. Electricity is only used for refreshing ('turning') the page, thereby considerably reducing power consumption and making the technology ideal for reading long texts. The display is not backlit like the LCD screens used in tablets, smartphones and personal computers, therefore it must be illuminated externally like actual paper. The upside is that it can be read in broad daylight without any loss of image quality. Since the refresh rate is much slower than LCD screens, the technology does not allow for videos or animations. 
 
 #####E-reader 
-A device capable of reading digital texts in various formats, notably **EPUB** and **AZW**. 
+A device capable of reading digital texts in various formats, notably EPUB and AZW. 
 
 
 ###F 
@@ -154,43 +154,43 @@ A digital platform for code review, code management and collaboration for Open S
 Software that allows human users to interact with a computer or other digital device in a visual way, as opposed to text-based command-line interfaces. A GUI features graphical elements such as icons, windows and mouse pointers. By manipulating these elements, the user can run programs and carry out other operations such as copying information, deleting files, etc. 
 
 #####Graphics Interchange Format (GIF) 
-A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **animated GIF**. See also **JPEG**.
+A file format used for storing simple graphics. GIF files use a palette of up to 256 colors, which makes them a good choice for logos, line drawings, icons, etc., but unsuitable for photographs and full-color artworks. The more colors of the palette are used, the larger the GIF file will be. GIF files are commonly used for storing images on the Web and are also suitable for storing animated (moving) images, see **Animated GIF**. See also **JPEG**.
 
 
 ###H 
 
 #####HTML (Hypertext Markup Language) 
-A **markup** standard used mainly for creating pages on the **World Wide Web**. HTML allows the author or designer to define the layout and formatting of the page, add audio-visual material, insert **hypertext** links, etc. HTML is based on the older standard SGML, which stands for Standardized General Markup Language. 
+A markup standard used mainly for creating pages on the World Wide Web. HTML allows the author or designer to define the layout and formatting of the page, add audio-visual material, insert hypertext links, etc. HTML is based on the older standard SGML, which stands for Standardized General Markup Language. 
 
 #####HTTP (Hypertext Transfer Protocol) 
-The transfer method (protocol) used on the **World Wide Web** for transmitting and receiving web pages. 
+The transfer method (protocol) used on the World Wide Web for transmitting and receiving web pages. 
 
 #####Hybrid Publishing 
 Hybrid publishing is the publishing of one single publication in several different print and electronic media, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
 
 #####Hyperlink 
-A hyperlink (hypertext link) is a method of referencing data used extensively in media such as web pages and **ebooks**. By clicking on the hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **hypertext**. 
+A hyperlink (hypertext link) is a method of referencing data used extensively in media such as web pages and ebooks. By clicking on the hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **Hypertext**. 
 
 #####Hypertext 
-A system for the non-sequential presentation of text, and arguably the fundamental underlying principle of the **World Wide Web**. See also **hyperlink**. The concept of hypertext predates the Web by many years. 
+A system for the non-sequential presentation of text, and arguably the fundamental underlying principle of the World Wide Web. The concept of hypertext predates the Web by many years. See also **Hyperlink**. 
 
 
 ###I 
 
 #####iBooks 
-A software application which allows users to purchase, read and manage **ebooks**. Developed by Apple for its **iOS** and Mac OS X **operating systems**. 
+A software application which allows users to purchase, read and manage ebooks. Developed by Apple for its iOS and Mac OS X operating systems. 
 
 #####Icon 
-A small symbol or picture used in a **graphical user interface (GUI)**. The icons on the computer screen represent programs or files. For example, a picture of a painter's palette may be used to represent software used for drawing and editing pictures, and a picture of a book with a question mark on its cover may represent the text of a user manual or a help file. 
+A small symbol or picture used in a graphical user interface (GUI). The icons on the computer screen represent programs or files. For example, a picture of a painter's palette may be used to represent software used for drawing and editing pictures, and a picture of a book with a question mark on its cover may represent the text of a user manual or a help file. 
 
-#####Incompatiblity 
-See **Compatibility** 
+#####Incompatibility 
+See **Compatibility**. 
 
 #####Interactivity 
 Used to describe the ways in which software accepts and responds to user input. 
 
 #####Interface 
-An interface is a hardware or software connection between two systems, or between a system and a human user. For example, the physical hardware interface between a computer and a printer, or the software interface for transferring data and commands between two software programs or applications. The software and hardware interface that allows a human user to communicate with a computer is also known as a user interface. See also **graphical user interface**. 
+An interface is a hardware or software connection between two systems, or between a system and a human user. For example, the physical hardware interface between a computer and a printer, or the software interface for transferring data and commands between two software programs or applications. The software and hardware interface that allows a human user to communicate with a computer is also known as a user interface. See also **Graphical user interface**. 
 
 #####Internet 
 The Internet, or simply 'the Net', is a computer network connecting millions of computers all over the world. It provides communications to governments, businesses, universities, schools, and homes. Any modern computer can be connected to the Internet using existing communications systems. Schools and universities normally access the Internet via their own educational networks, but private individuals usually have to take out a subscription with a service provider. Although the Internet is in fact a network of networks, it appears to users as a network of individual computers. The Internet dates back to the group of interconnected networks that evolved from the ARPANET of the late 60s and early 70s. It has grown from a handful of interconnected networks into a huge network of millions of computers. 
@@ -202,22 +202,22 @@ Mobile operating system, originally called iPhone OS until June 2010, which runs
 ###J 
 
 #####JavaScript 
-JavaScript is a scripting language originally developed by Netscape, mainly for use as executable code within web pages. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing **CSS** format settings within the web page. JavaScript is not the same as Java, which is a high-level programming language. 
+JavaScript is a scripting language originally developed by Netscape, mainly for use as executable code within web pages. JavaScript is very popular for common tasks such as validating data entry forms within a web page before they are submitted to the server. JavaScript can also alter the way a page looks by dynamically changing CSS format settings within the web page. JavaScript is not the same as Java, which is a high-level programming language. 
 
 #####JPEG or JPG (Joint Photographic Experts Group) 
-A file format used for storing images. The JPEG format uses a palette of millions of colors and is primarily intended for photographs and full-color artworks. Unlike the GIF format, the JPEG format is a 'lossy' format, meaning that data is compressed according to a mathematical model involving a trade-off between file size and image quality. For full-color images, the JPEG format in practice yields better results, yet with smaller file sizes, than the **GIF** format. 
+A file format used for storing images. The JPEG format uses a palette of millions of colors and is primarily intended for photographs and full-color artworks. Unlike the GIF format, the JPEG format is a 'lossy' format, meaning that data is compressed according to a mathematical model involving a trade-off between file size and image quality. For full-color images, the JPEG format in practice yields better results, yet with smaller file sizes, than the GIF format. 
 
 
 ###K 
 
 #####KF8 
-KF8 is the latest **ebook** format used by **Amazon** for its **Kindle** hardware. See also **AZW** and **MOBI**. 
+KF8 is the latest ebook format used by Amazon for its Kindle hardware. See also **AZW** and **MOBI**. 
 
 #####Kindle 
-**Amazon**'s Kindle is a range of handheld **e-reader** devices and companion software applications for reading **ebooks**, particularly in **Amazon**'s proprietary **AZW**, **KF8** and **MOBI** ebook formats. The more recent Kindle Fire is not so much an e-reader as a full-fledged, small-sized tablet. 
+Amazon's Kindle is a range of handheld e-reader devices and companion software applications for reading ebooks, particularly in Amazon's proprietary AZW, KF8 and MOBI ebook formats. The more recent Kindle Fire is not so much an e-reader as a full-fledged, small-sized tablet. 
 
 #####Kobo 
-Kobo is a compamy that produces a range of handheld **e-reader** devices and software. It also has its own storefront where users can purchase **ebooks** (mainly in the **EPUB** format). 
+Kobo is a company that produces a range of handheld e-reader devices and software. It also has its own storefront where users can purchase ebooks (mainly in the EPUB format). 
 
 
 ###L 
@@ -226,44 +226,50 @@ Kobo is a compamy that produces a range of handheld **e-reader** devices and sof
 A document markup language used mainly in scientific documents. LaTeX is particularly useful for rendering typographically complex mathematical formulas. 
 
 #####Layout
-The overall visual design of a document. In the case of printed matter, layout includes elements such as page dimensions and margins, font type and size, **markup** formatting, the placement of various elements within the page, and various other elements such as headings and page numbers. In the case of **reflowable** documents such as **ebooks**, the layout must be adapted to take into account the fact that different devices or applications will render the layout in different ways. 
+The overall visual design of a document. In the case of printed matter, layout includes elements such as page dimensions and margins, font type and size, markup formatting, the placement of various elements within the page, and various other elements such as headings and page numbers. In the case of reflowable documents such as ebooks, the layout must be adapted to take into account the fact that different devices or applications will render the layout in different ways. 
 
 #####LCD (Liquid Crystal Display) 
 The technology used for producing the flat-panel display screens found on most contemporary computers, tablets and smartphones as well as other devices such as digital cameras. Currently, a 'new improved' technology known as TFT LCD (Thin Film Transistor LCD) is gradually becoming the industry standard. <!-- Florian maybe you can check this, I don't really know enough about this. Joe  -->
 
 #####Linux 
-A popular **Unix**-type **operating system**. Linux was originally created by Linus Torvalds with the assistance of many developers worldwide. The Source Code for Linux is **Open Source** and thus freely available to everyone. 
+A popular Unix-type operating system. Linux was originally created by Linus Torvalds with the assistance of many developers worldwide. The Source Code for Linux is Open Source and thus freely available to everyone. 
 
 
 ###M 
 
 #####Markdown 
-A **markup language** using common symbols like #, * and _ to denote various style attributes. 
+A simple markup language which uses common symbols such as #, * and _ to define various style attributes. See also the more powerful extension **MultiMarkdown**. 
+
+#####Markup
+A standard system of codes inserted in a text-based document to define formatting instructions (such as bold, italics, etc.), structuring instructions (such as chapters, headings, references, etc.) and various other elements such as images, hyperlinks, etc. These elements will be processed by software in order to properly render the document as intended by the author or designer. 
 
 #####Markup language 
-A markup language like HTML or Markdown allows users to wrap text in tags denoting certain kinds of instructions for an interpreter/parser. Say one wraps a word in HTML in '<strong></strong>' tags, an interpreter (e.g. a web browser) will render that particular word as bold. 
+A clearly defined system of markup elements. As with human languages, each markup language has its own rules of grammar and syntax. 
 
 #####Metadata 
 Standardized descriptors of data in a particular document (author, creation date, etc.) 
 
 #####MOBI 
-An **ebook** file format developed by Mobipocket and the basis of Amazon's first AZW ebooks. See also **AZW** and **KF8**. 
+An ebook file format developed by Mobipocket, and the basis of Amazon's first AZW ebooks. See also **AZW** and **KF8**. 
 
 #####Mobipocket 
-A French company incorporated in March 2000 that produced Mobipocket Reader software, an **e-reader** for some personal digital assistants (PDA), wireless telephones and desktop operating systems. The technology was later bought by Amazon for its Kindle platform. 
+A French company founded in 2000 that produced Mobipocket Reader, an e-reader software application that ran on some personal digital assistants (PDAs), wireless telephones and desktop operating systems. The technology was later purchased by Amazon for its Kindle platform. 
 
 #####Monitor 
-The screen on which output from a computer is displayed. Also referred to as display screen. 
+The screen on which the output from a computer is displayed. Also referred to as display screen. 
 
 #####Monochrome 
-Monochrome describes paintings, drawings, design, or photographs in one color or shades of one color. A monochromatic object or image has only colors in shades of limited colors or hues. 
+Monochrome images are either in one color (black and white) or shades of one color (grayscale).  
+
+#####MP3 (MPEG-1 or MPEG-2 Audio Layer III)
+A common audio encoding compression format for digital audio. Though MP3 was developed in the 1990s, it has not (yet) been superseded  by newer and technically superior compression formats such as MP4 AAC. 
 
 #####MP4 / MPEG-4 
-Subdivision of the MPEG or MPG file format, a standard file format for storing movies and high-quality audio files digitally (the latter in MP3). There are two basic types of MP4: MP4 AAC (Advanced Audio Coding) and MP4 AVC (Advanced Video Coding). The MP4 AAC file format is used to store audio files in a more manageable size without affecting the quality. MP4 AAC's best known use is as the default audio format of Apple's iPhone, iPod and the iTunes media player. The MP4 AVC file format is used to store video files in a more manageable size without affecting the quality. It is also increasingly being used for storing video on iPods and similar portable devices. 
+A common encoding format for digital video (MP4 AVC) and audio (MP4 AAC). The MP4 AAC audio format is best known as the default audio format for Apple's iPod, iPhone and iPad devices, as well as its iTunes storefront and media player. The MP4 AVC video format is increasingly popular for storing video on mobile devices. 
 
 #####MultiMarkdown 
-An extension of **Markdown's** syntax adding tables, footnotes, citations, etc. 
-
+An extension of the markup language Markdown, with additional support for footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. 
+ 
 #####Multimedia 
 The integration of two or more types of information (text, images, audio, video, animation, etc.) in a single application. 
 
@@ -271,40 +277,40 @@ The integration of two or more types of information (text, images, audio, video,
 ###O 
 
 #####OCR (Optical Character Recognition) 
-OCR software is used conjunction with a scanner to convert printed text into digital format. For example, a page from a printed book can be placed on the scanner and the OCR software will be used by the scanner to detect the individual words from which it is made up and then convert them into a form that can be stored on a computer. 
+OCR software is used in conjunction with a scanner to convert pages of printed text into a digital format such as ASCII or Unicode. 
 
 #####Open Source 
-The practice of allowing access to the source of product and the process through which the product has been developed. Open Source software is the most well-known exponent of this practice. 
+Originally, the term 'Open Source' was used to describe a development model based on universal access to the human-readable 'source code' of software, in contrast with the prevalent industry practice of protecting this code as a trade secret and distributing only the 'executable' machine code which could not be deciphered by casual users. More recently the term is increasingly being used to describe similar practices in other fields such as design, engineering and even medicine. 
 
 #####Operating system (OS) 
-Software which manages the computer's hardware and provides a collection of tools and services used by computer programs within the operating system. Well known operating systems include Windows, Linux, Mac OS X and mobile operating systems like Android and iOS. 
+Software that manages the computer's hardware and software resources, provides collections of tools and services used by software applications, and regulates the user interface. Well-known operating systems include Windows, Linux, Mac OS X as well as mobile operating systems such as Android and iOS. 
 
 
 ###P 
 
-#####PDA 
-A handheld device providing services like an agenda, contacts and web browsing. Since the introduction of smartphones, the manufacturing of PDAs has been largely discounted. 
+#####PDA (Personal Digital Assistant)
+A handheld device featuring information management functions such as an agenda, a list of contacts and web browsing. PDAs became obsolete with the introduction of smartphones. 
 
 #####PDF (Portable Document Format) 
-A file type created by Adobe that allows fully formatted documents to be transmitted across the Internet and viewed on any computer that has Adobe Reader software - a proprietary software viewing program available for free at the Adobe website. Businesses and educational institutions often use PDF-formatted files to display the original look of their brochures or for publishing a complete magazine in electronic format. Using the full Adobe Acrobat Pro software package, it is possible to create a high-quality piece of artwork or a brochure which preserves the look of the original, complete with fonts, colors, images, and formatting. Documents in PDF format can be published on the Web without having to be converted into HTML, but are static and thus not reflowable. 
+PDF was originally developed by Adobe Systems as a format for sharing documents across otherwise incompatible operating systems and platforms while ensuring consistency of all layout elements. Since 2008, PDF is an open standard. PDF files can be viewed on any device that has appropriate software installed (such as the free but proprietary Adobe Reader). PDF is a fixed-layout (as opposed to reflowable) document format. 
 
 #####Pixel 
-A contraction of picture element. What you see on a computer display screen is made up of thousands of colored pixels or small dots. See also **resolution**. 
+All text and images on a display screen are made up of a grid of thousands (or even millions) of small colored dots known as pixels. The term 'pixel' is derived from 'picture element'. See also **Resolution**. 
 
 #####Plain text 
-Text without any visual characteristics, so without bolding, italics, clickable links etc. 
+Text without any visual formatting such as bold, italic, font types and sizes, clickable hyperlinks, etc. 
 
 #####Platform 
-Generic term used in various contexts to denote technology which acts as a foundation for other technology to build upon - an operating system can be considered a platform. Also used as an alternative term for a computer system, including both the hardware and the software. Essentially this term describes something that is used to build something else. The term *platform-independent* - used to describe software - means that the software can be run on any computer. 
+A generic term used in various contexts to describe technology which serves as a foundation upon which other technology can be built. For example, an operating system can be considered a platform, or the term can apply more broadly to a combination of hardware and software. Platform-independent software is software that can (theoretically) be run on any computer. 
 
-#####Print on demand (POD) 
-Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the amount one needs it. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. POD has also changed the publishing industry by reducing the need for traditional publishing houses, allowing authors to self-publish at very low costs. Print on demand is sometimes called publish on demand. 
+#####Print On Demand (POD) 
+Print on demand (POD) is a digital printing technology in which a book or other publication is printed in the exact amount of copies required at the moment. The POD model in this sense deviates from traditional printing, where large quantities of books are produced in initial print runs to reduce costs prior to distribution. The emergence of POD has had a huge impact on the publishing industry by allowing authors to self-publish at very low costs. Print on demand is sometimes also called publish on demand. 
 
 #####Program 
-A computer program is a set of instructions for a computer, allowing it to performing certain tasks. 
+See **Computer program**.
 
 #####Protocol 
-In Internet terminology protocol usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web server. 
+In Internet terminology, a protocol usually refers to a set of rules that define an exact format for communication between systems. For example, the HTTP protocol defines the format for communication between web browsers and web servers. 
 
 
 ###R 
@@ -334,7 +340,7 @@ Playing audio or video in real time from a website. In order to play streaming m
 A style sheet is a sheet summarizing the editorial conventions to be followed in preparing text for publication.
 
 #####Syntax 
-The correct 'grammar' and 'spelling' of a **markup language**, command line, programming language, etc. 
+The correct 'grammar' and 'spelling' of a markup language, command line, programming language, etc. 
 
 
 ###T 
@@ -367,7 +373,7 @@ An operating system widely used on large computer systems in corporations and un
 ###W 
 
 #####Word processor 
-Probably the most widely used computer application, success as Microsoft Word, Apples' Pages, and Open Source software OpenOffice. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing web pages. 
+Probably the most widely used computer application, success as Microsoft Word, Apple's Pages, and Open Source software OpenOffice. Modern word processors allow the user to create fine-looking documents including images, tables, photographs, and even sound and video recordings if they are to be viewed on screen rather than from the printed page. In many respects they are similar to desktop publishing applications. Word processors normally include a spellchecker, a grammar checker, a style checker and a thesaurus, as well as tools for writing in HTML, the coding language used for producing web pages. 
 
 #####WWW (World Wide Web) 
 Usually referred to simply as the Web. This is the most powerful and fastest growing Internet service. The World Wide Web was the brainchild of Tim Berners-Lee, who in 1989 invented the HTML coding language that is the basis of the Web. The Web became a public service in 1993. It is a huge collection of resources of information, including learning materials, which is accessed by means of a computer program known as a browser. The World Wide Web is only part of the Internet, but many people treat both terms as synonyms. 
@@ -378,7 +384,7 @@ A concept used to describe the notion that the appearance of text and images ons
 
 ###X 
 
-#####XHTML (Extensible HyperText Markup Language) 
+#####XHTML (Extensible Hypertext Markup Language) 
 A markup language mainly used to produce websites. It generally has the same characteristics as HTML, but has a stricter syntax which allow it to be easily read by an XML-parser. 
 
 #####XML (Extensible Markup Language) 
