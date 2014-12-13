@@ -312,6 +312,8 @@ See **Computer program**.
 #####Protocol 
 In Internet terminology, a protocol usually refers to a set of rules that define an exact format for communication between systems. For example, the HTTP protocol defines the format for communication between web browsers and web servers. 
 
+<!-- note to Florian: I have not yet made it further than here --->
+
 
 ###R 
 
