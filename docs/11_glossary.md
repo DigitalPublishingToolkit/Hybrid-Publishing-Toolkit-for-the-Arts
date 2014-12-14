@@ -25,25 +25,25 @@ An interface between an operating system and application software that specifies
 A software program, or integrated collection or programs, for mobile or desktop operating systems. Mobile apps are often distributed through an app store (Google Play store, Apple App Store). 
 
 #####App store 
-An online store where mobile applications may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
+An online store where applications (usually for mobile devices) may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
 
 #####ASCII (American Standard Code for Information Interchange) 
-A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and a number of special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
+A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and some special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
 
 #####AZW (Amazon Word) 
-A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**.
+A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**. 
 
 
 ###B 
 
 #####Bandwidth 
-Literally, the frequency width of a transmission channel, expressed in hertz, kilohertz, megahertz, etc. Often used as an expression of the amount of data that can be sent through a circuit. The higher the bandwidth, the greater the amount of data that can travel within a given time period. 
+Literally, the frequency width of a transmission channel, expressed in hertz, kilohertz, megahertz, etc. Often used to express the amount of data that can be sent through a circuit. The higher the bandwidth, the greater the amount of data that can travel within a given time period. 
 
 #####Binary 
 A numeral system used in computing, based on a representation for numbers using only two digits (0 and 1). Computers use this because they can only recognize these two values, 1 or 0. This is simulated electronically by using a device, such as a switch, which is either on (1) or off (0). All numbers are represented by combinations of ones and zeroes. For example, the number 9 is represented as 1001. 
 
 #####Bit 
-Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed. 
+Contraction of 'binary digit'. A bit is the smallest measurement unit of computer memory or data transmission speed. 
 
 #####BitTorrent 
 BitTorrent is a protocol for the practice of peer-to-peer file sharing and is used for distributing large amounts of data over the Internet. 
@@ -58,7 +58,7 @@ Software that will load and display a web page. A browser interprets the HTML or
 Plugins to extend or enhance the inner workings of a web browser. 
 
 #####Byte 
-A measurement of computer memory or storage capacity. A byte comprises 8 *bits*. 
+A measurement of computer memory or storage capacity. A byte comprises 8 bits. 
 
 
 ###C 
@@ -70,10 +70,10 @@ Cascading Style Sheets are a feature that enables a range of styles for headings
 Pieces of hardware and/or software which can be used together are described as compatible. 
 
 #####Compressed files 
-Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. Various software programs will compress and decompress files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
+Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. There are various software programs for compressing and decompressing files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
 
 #####Computer program 
-A set of instructions that the computer carries out in sequence to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software applications consist of collections of programs working together to perform assorted tasks. 
+A set of instructions carried out in sequence by the computer to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software applications consist of collections of programs working together to perform various tasks. 
 
 #####Content Management System (CMS) 
 A software package that makes it possible for non-technical users to publish and manage content (text, images, etc.) on a website. 
@@ -82,19 +82,19 @@ A software package that makes it possible for non-technical users to publish and
 ###D 
 
 #####Data 
-Data is information in a form that can be processed by a computer. It is usually distinguished from a *computer program*, which is a set of instructions that a computer carries out. Data can be text or sets of figures on which a computer program operates. 
+In the context of computing, data is information stored in a form that can be processed by computer software. 
 
 #####Database 
-A set of structured data from which one can select specific records or a collection of records, often in a computer-readable and -accessible format. 
+A structured collection of data, often in a format that can be processed by a computer. 
 
 #####Dataset
-A dataset (or data set) is a collection of data. 
+A collection of data, often as part of a database. 
 
 #####Decompress 
 See **Compressed files**. 
 
 #####Desktop Publishing (DTP) 
-The practice of designing printed matter on a personal computer, often using software like Adobe InDesign or QuarkXPress. 
+The practice of designing printed matter on a personal computer, often using software such as Adobe InDesign or QuarkXPress. 
 
 #####Device 
 In the context of mobile computing, an electronic handheld apparatus such as a smartphone, tablet, phablet, personal digital assistant (PDA) or portable gaming device (PlayStation Portable, Nintendo DS, PlayStation Vita). 
@@ -112,7 +112,7 @@ A measure of the quality of output, i.e. the number of dots per square inch prod
 ###E 
 
 #####Ebook 
-A digital publication which can be read by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
+A digital publication that can be displayed by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
 
 #####EPUB (Electronic Publication) 
 An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content. 
@@ -123,6 +123,7 @@ Electrophoretic paper, a display technology consisting of electrostatically char
 #####E-reader 
 A device capable of reading digital texts in various formats, notably EPUB and AZW. 
 
+<!--- I made it to here on the second pass. Joe -->
 
 ###F 
 
@@ -244,7 +245,7 @@ A simple markup language which uses common symbols such as #, * and _ to define 
 A standard system of codes inserted in a text-based document to define formatting instructions (such as bold, italics, etc.), structuring instructions (such as chapters, headings, references, etc.) and various other elements such as images, hyperlinks, etc. These elements will be processed by software in order to properly render the document as intended by the author or designer. 
 
 #####Markup language 
-A clearly defined system of markup elements. As with human languages, each markup language has its own rules of grammar and syntax. 
+A clearly defined system of markup elements. As with human languages, each markup language has its own rules of vocabulary and syntax. 
 
 #####Metadata 
 Standardized descriptors of data in a particular document (author, creation date, etc.) 
@@ -312,38 +313,38 @@ See **Computer program**.
 #####Protocol 
 In Internet terminology, a protocol usually refers to a set of rules that define an exact format for communication between systems. For example, the HTTP protocol defines the format for communication between web browsers and web servers. 
 
-<!-- note to Florian: I have not yet made it further than here --->
-
 
 ###R 
 
 #####Reflowable 
-A reflowable document is a type of electronic document that can adapt its presentation to the output device. 
+A reflowable document is a type of electronic document in which the layout and presentation can be automatically adapted for each particular output device, as well as the individual user's preferences. For example, an EPUB is a reflowable document. 
 
 #####Resolution 
-A measure of the number of pixels or small dots displayed on a computer display screen, printer or scanner. One normally talks in terms of the quality of resolution, using the expression low-resolution, medium-resolution and high-resolution. The resolution of a computer display screen is normally expressed as two numbers representing the horizontal and vertical resolution, i.e. dots across each line of the screen and down each line of the screen: e.g. 640 x 480, 1024 x 768, etc. The resolution of a printer is normally referred to by the number of dots per inch (dpi) - i.e. square inch. 
+A measure of the number of pixels or small dots that can be displayed by a computer display screen, printer or scanner. The resolution of a computer display screen is often expressed as two numbers, one for the horizontal and the other for the vertical resolution: 640x480, 1024x768, 1920x1080, etc. The resolution of a printer is normally expressed as the number of dots per inch (dpi). See also **DPI**. See also **Pixel**. 
 
 #####Rich Text Format (RTF) 
-An alternative way of storing a document created with a Microsoft Word-processor. RTF formatted files can be moved relatively easily between different computer systems. RTF files preserve most of the formatting contained in doc-formatted files. 
+An alternative way of storing a document created with Microsoft Word. RTF files can be transferred relatively easily across different computer platforms, while preserving most of the formatting of Microsoft Word .doc and .docx files. 
 
 
 ###S 
 
 #####Server-side scripting 
-Server-side scripting is used is a web server technique where a user's request is fulfilled by running a script directly on the web server to generate dynamic web pages. 
+Server-side scripting is a web server technique in which web pages are generated dynamically on web server in response to an individual user's request or behavior. 
 
 #####Software Development Kit (SDK) 
-A collection of documented tools and services for developers in order to create applications for certain operating systems or web platforms. 
+A collection of tools and services made available to developers in order to create applications for a specific operating system or web platform. 
 
 #####Streaming 
-Playing audio or video in real time from a website. In order to play streaming multimedia files you need a specific plug-in program that links in with your browser and plays the file as it is transmitted rather than downloading it to your computer first. Streaming requires a broadband connection to the Internet since multimedia files are not stored on your computer but played in a continuous stream direct from the computer where they are stored. 
+Playing audio or video in real time from a website, in a continuous stream while it is being transmitted, rather than downloading and storing it on the user's computer. In order to stream multimedia files the user usually needs to install specific plug-in software which is integrated with the web browser. High-resolution streaming requires a broadband connection. 
 
 #####Style sheet
-A style sheet is a sheet summarizing the editorial conventions to be followed in preparing text for publication.
+A list of definitions linking formatting concepts such as 'bold', 'heading', or 'paragraph' to specific display representations. The use of style sheets makes it possible to easily change the presentation for different output formats. See also **Cascading Style Sheets**. 
 
 #####Syntax 
 The correct 'grammar' and 'spelling' of a markup language, command line, programming language, etc. 
 
+
+<!-- note to Florian: I have not yet made it further than here --->
 
 ###T 
 
