@@ -25,6 +25,7 @@ A standardized way for two software **applications** to talk to each other and u
 A computer program. The word "app" was originally a marketing term invented by Apple to take the fear out of the installation of third-party software on the iPhone. Nowadays, the word is most commonly used for software programs running on mobile or desktop operating systems that downloaded and installed from an app store (such as Google Play store and Apple App Store). 
 
 #####App store 
+<<<<<<< HEAD
 An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, **Amazon** Appstore, Windows Phone Store and BlackBerry App World. 
 
 #####ASCII (American Standard Code for Information Interchange) 
@@ -32,18 +33,35 @@ The standard encoding of English plain text files since 1963. ASCII is limited t
 
 #####AZW (Amazon Word) 
 A file format used by **Amazon** for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**.
+=======
+An online store where applications (usually for mobile devices) may be bought or obtained for free. Every major mobile operating system also has its own storefront for mobile apps - App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
+
+#####ASCII (American Standard Code for Information Interchange) 
+A standard way of encoding uppercase and lowercase letters in the English alphabet, as well as numbers and some special characters. ASCII uses only seven bits and is therefore limited to 128 characters. 
+
+#####AZW (Amazon Word) 
+A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 
 ###B 
 
 #####Bandwidth 
+<<<<<<< HEAD
 The physical transmission capacity of a communication channel. Often used as an expression of the maximum amount of **data** that can be sent via a certain network connection. The higher the bandwidth, the greater the amount of data that can be transmitted within a given time period. Bandwidth is therefore crucial, among others, for video streaming (where playback would stop if the bandwidth is too low to transmit data fast enough).
+=======
+Literally, the frequency width of a transmission channel, expressed in hertz, kilohertz, megahertz, etc. Often used to express the amount of data that can be sent through a circuit. The higher the bandwidth, the greater the amount of data that can travel within a given time period. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Binary 
 A numeral system based on only two values - in computing, zero and one. (For example, the binary representation of the number 9 is 1001.)
 
 #####Bit 
+<<<<<<< HEAD
 Contraction of *binary digit*. A bit is the smallest measurement unit of computer memory or data transmission speed - e.g., either a zero or a one. The binary code "1001"  therefore consists of four bits.
+=======
+Contraction of 'binary digit'. A bit is the smallest measurement unit of computer memory or data transmission speed. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####BitTorrent 
 BitTorrent is the most popular Internet technology for file sharing and downloading large amounts of data (such as movies). It works on a so-called peer-to-peer principle, which means that everyone who downloads a file simultaneously uploads it to fellow downloaders. This way, **bandwidth** is shared among the downloaders, and no central download server is necessary. 
@@ -58,7 +76,12 @@ The software with which people access and read web sites. A web browser loads pa
 Plugins (additional software modules) to extend or enhance the inner workings of a web browser, for example, by supporting the display additional file or media types.
 
 #####Byte 
+<<<<<<< HEAD
 A measurement of computer memory or storage capacity. A byte is simply 8 *bits*. There is no scientific reason why eight bits should be called a "byte" - it's simply an engineering convention.
+=======
+A measurement of computer memory or storage capacity. A byte comprises 8 bits. 
+
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 ###C 
 
@@ -69,10 +92,17 @@ Cascading Style Sheets are a **markup** language for formatting electronic text 
 Pieces of hardware and/or software which work together are called compatible. (Conversely, if they do not work together, they are incompatible. For example, **Android** and **iOS** are incompatible because Android *apps* do not work under **iOS** and vice versa.)
 
 #####Compressed files 
+<<<<<<< HEAD
 Compression is a technique for shrinking the size of a file or a data stream. As a result, its transmission can be faster, and it will take up less storage space on a **device**. For example, digital video is heavily compressed, otherwise it would not fit on a DVD and could not be streamed over Internet connections. Another example is **EPUB**, which consists a compressed sets of HTML files. Various software programs will compress and decompress a set files into single-file archives, such as PKZIP, WinZip, 7zip, Stuffit, GNU gzip/tar, and many more. Files with the following extensions are almost always compressed file collections: epub, gz, rar and zip. 
 
 #####Computer program 
 The terms computer program, computer software and application/app are interchangeable. Programs tell a computer what to do. They are written in programming languages (such as C, C++, Java, Python) whose notation is a mixture of English-language commands and mathematical-logical expressions. 
+=======
+Compression is a technique for making a file or a data stream smaller for faster transmission, or to take up less storage space. An example is EPUB, which is a compressed collection of HTML files. There are various software programs for compressing and decompressing files, such as PKZIP, WinZip, Stuffit, GNU gzip, and many more. Files with the following extensions are almost always compressed files: arc, arj, epub, gz, lha, lhz, taz, tgz, Z, zip, and zoo. 
+
+#####Computer program 
+A set of instructions carried out in sequence by the computer to perform a given task. Programs are usually written in English-like programming languages (e.g. C, Pascal, Java, C++), and are then converted into binary machine instructions by special software known as a compiler or an interpreter. Almost all modern software applications consist of collections of programs working together to perform various tasks. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Content Management System (CMS) 
 A computer program that makes it easy to publish and manage content (text, images, etc.) on a website without having to write **HTML** files by hand. Practically all blogs and all shopping web sites, for example, are based on content management systems. Most content management systems internally use a **databases** to store their information (such as: blog articles, sales items). Content management systems automatically generate all pages of a web site "on the fly", whenever readers access them, from their database contents.
@@ -80,6 +110,7 @@ A computer program that makes it easy to publish and manage content (text, image
 ###D 
 
 #####Data 
+<<<<<<< HEAD
 In computing, data simply is any kind of information that is stored and processed on a computer. One generally separates data from *computer programs*: programs process data (for example: a graphics program that manipulates an image), and data conversely is processed by programs. A computer, in the end, is nothing more than a machine that processes data through computer programs.
 
 #####Database 
@@ -87,12 +118,25 @@ An organized, structured collection of information: common examples are address 
 
 #####Dataset
 A dataset (or data set) is just what the word says: a collection of data - typically, a number of entries extracted from a database based on a specific search criterium. (For example: From an address database of all residents of Amsterdam, one could extract a dataset of all residents living in a particular neighborhood, and store it in a new file.)
+=======
+In the context of computing, data is information stored in a form that can be processed by computer software. 
+
+#####Database 
+A structured collection of data, often in a format that can be processed by a computer. 
+
+#####Dataset
+A collection of data, often as part of a database. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Decompress 
 See **Compressed files**. 
 
 #####Desktop Publishing (DTP) 
+<<<<<<< HEAD
 The design of printed matter on a personal computer using graphical What-You-See-Is-What-You-Get (WYSIWYG) software like Adobe InDesign or Quark XPress. The **graphical user interface** DTP software visually imitates the analog layout desks that graphic and editorial designers used in pre-digital times.
+=======
+The practice of designing printed matter on a personal computer, often using software such as Adobe InDesign or QuarkXPress. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Device 
 In the context of mobile computing, an electronic handheld gadget such as a smartphone, tablet, phablet (large screen smartphone) or portable gaming device. 
@@ -110,7 +154,11 @@ A measure of visual resolution in the number of dots per square inch on a displa
 ###E 
 
 #####Ebook 
+<<<<<<< HEAD
 A digital publication which can be read on e-readers and other handheld devices as well as desktop computers. As opposed to digital online publications (such as news web sites and blogs), most ebooks are meant for offline reading and individual collecting. There are various ebook formats such as EPUB and AZW, but most of them are based on web design technologies (such as HTML and CSS). 
+=======
+A digital publication that can be displayed by e-readers and other handheld devices as well as desktop computers. There are various ebook formats such as EPUB and AZW. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####EPUB (Electronic Publication) 
 An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB has been designed to accommodate reflowable content, e.g. to have layouts without predefined page dimensions that can dynamically adapt to any screen format. EPUB is an open standard and the most commonly used and supported file format for electronic books.
@@ -121,6 +169,7 @@ Or electronic paper: a display technology that resembles printed paper more than
 #####E-reader 
 A device capable of displaying digital texts in various formats, notably EPUB. Many e-readers also support the PDF format. 
 
+<!--- I made it to here on the second pass. Joe -->
 
 ###F 
 
@@ -245,7 +294,11 @@ A simple **markup** language for plain text files which uses common, easily read
 Symbols/codes inserted in a text document to define additional attributes. These attributes can be, for example, formatting instructions (such as bold, italics, etc.), structuring instructions (such as chapters, headings, references, etc.) or **metadata**. On the basis of the information contained in the markup code, software programs can format the text document for a specific output medium (such as a screen or print).
 
 #####Markup language 
+<<<<<<< HEAD
 A defined set or system of markup codes that amounts to a document format. Markup languages are typically created for specific purposes: **HTML** for formatting web pages, **LaTeX** for scientific typesetting, for example.
+=======
+A clearly defined system of markup elements. As with human languages, each markup language has its own rules of vocabulary and syntax. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Metadata 
 Literally: data about data. Metadata contains more general descriptions of the data contained in a particular document.  For example: if a book is data, then a library index card for that book is its metadata.
@@ -313,11 +366,15 @@ See **Computer program**.
 #####Protocol 
 In computing, a protocol is the technical standard according to which two systems communicate with each other. For example, the **HTTP** protocol defines the format for communication between web browsers and web servers. (Or to use an old media example: frequency modulation (FM) is the technical protocol for most radio transmissions.) 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 ###R 
 
 #####Reflowable 
+<<<<<<< HEAD
 A reflowable document is a document without a predefined page layout that can dynamically adapt its page dimensions - and dynamically re-breaks pages - to any display dimensions. This concept is also known as "responsive design". It means, for example, that an ebook appears as 50 A5-size pages on a tablet, but as 100 A6-size pages on an e-reader. This also means that the designer has no more control over the final page layout.
 
 #####Resolution 
@@ -325,11 +382,21 @@ The smaller a **pixel**, the higher the visual resolution of any display. See **
 
 #####Rich Text Format (RTF) 
 A document format established for Microsoft Word in 1987. Contrary to common assumptions, RTF is not an open standard and does not solve compatibility problems between word processing formats.
+=======
+A reflowable document is a type of electronic document in which the layout and presentation can be automatically adapted for each particular output device, as well as the individual user's preferences. For example, an EPUB is a reflowable document. 
+
+#####Resolution 
+A measure of the number of pixels or small dots that can be displayed by a computer display screen, printer or scanner. The resolution of a computer display screen is often expressed as two numbers, one for the horizontal and the other for the vertical resolution: 640x480, 1024x768, 1920x1080, etc. The resolution of a printer is normally expressed as the number of dots per inch (dpi). See also **DPI**. See also **Pixel**. 
+
+#####Rich Text Format (RTF) 
+An alternative way of storing a document created with Microsoft Word. RTF files can be transferred relatively easily across different computer platforms, while preserving most of the formatting of Microsoft Word .doc and .docx files. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 
 ###S 
 
 #####Server-side scripting 
+<<<<<<< HEAD
 Server-side scripting means that a web page is not simply a conventional file that gets transferred from a web server to a web *browser* - but that a computer programs runs on the which dynamically generates the page, for example from a **database**. Server-side scripting is the basis of all **content management systems**. The corresponding  to server-side scripting is **Javascript** where a computer program is not run on the web server, but in the web browser.
 
 #####Software Development Kit (SDK) 
@@ -340,9 +407,23 @@ Direct audio or video playback from a website, without having to download a file
 
 #####Style sheet
 In book and journal publishing, a style sheet is an instruction document for authors that tells them which editorial conventions they need to followed in preparing their manuscript for publication. In graphic design, style sheets also refer to design templates, see **Cascading Style Sheets**.
+=======
+Server-side scripting is a web server technique in which web pages are generated dynamically on web server in response to an individual user's request or behavior. 
+
+#####Software Development Kit (SDK) 
+A collection of tools and services made available to developers in order to create applications for a specific operating system or web platform. 
+
+#####Streaming 
+Playing audio or video in real time from a website, in a continuous stream while it is being transmitted, rather than downloading and storing it on the user's computer. In order to stream multimedia files the user usually needs to install specific plug-in software which is integrated with the web browser. High-resolution streaming requires a broadband connection. 
+
+#####Style sheet
+A list of definitions linking formatting concepts such as 'bold', 'heading', or 'paragraph' to specific display representations. The use of style sheets makes it possible to easily change the presentation for different output formats. See also **Cascading Style Sheets**. 
+>>>>>>> 465f9081dd855ebeba4eab618367725598cb337c
 
 #####Syntax 
 In computing, syntax means the correct notation of a markup or programming language. It is easy to produce "syntax errors" in these languages because computers do not understand ambiguity; one accidental typo in a complex computer program source will therefore stop the program from working altogether.
+
+<!-- note to Florian: I have not yet made it further than here --->
 
 ###T 
 
