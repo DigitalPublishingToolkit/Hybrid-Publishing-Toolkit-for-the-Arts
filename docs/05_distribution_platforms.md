@@ -123,6 +123,6 @@ Of course, none of these projects can be considered serious competition to mains
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>. 
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>. 
 [^Ubuweb]: UbuWeb, <a href="http://www.ubu.com">http://www.ubu.com</a>. 
-[^Issuu]: Issuu, http://www.issuu.com. 
-[^Scribd]: Scribd, http://www.scribd.com. 
-[^artistsebooks.org]: http://artistsebooks.org.
+[^Issuu]: Issuu, <a href="http://www.issuu.com">http://www.issuu.com</a>. 
+[^Scribd]: Scribd, <a href="http://www.scribd.com">http://www.scribd.com</a>. 
+[^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>.

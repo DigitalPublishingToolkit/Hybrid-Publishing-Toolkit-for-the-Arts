@@ -84,7 +84,7 @@ New genres of publication will continue to emerge as a result of the ongoing dig
 ##Three levels of electronic publishing 
 Independently of the different genres listed above, we can distinguish three levels of electronic publishing. The scope of electronic publishing ranges from the simple conversion of a paper book, to an electronic publication (for example, a PDF of the print edition as an ebook), to full-scale electronic publications which incorporate advanced digital formats such as video, or are published as 'native apps' (applications developed for a particular platform or device). When we consider the different genres of publishing from this perspective, the role and use of **metadata** also becomes an important factor. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/ "Link to blog post: Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document")(*Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document*) 
 
-Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)]( http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/ "Link to blog post: From Print to What?")(*From print to what?*) 
+Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)]( <a href="http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/">http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/</a> "Link to blog post: From Print to What?")(*From print to what?*) 
 
 **1. One-to-one**: the book is considered as a specific product or project where text authors, illustrators, artists, photographers and designers work together to create the book, which then is published as a single edition. The print book can also be converted or adapted into an ebook. 
 
@@ -115,7 +115,7 @@ Particularly for publications which have a more or less fixed layout, database p
 
 It is important to note that there will never be one single workflow which fits all requirements. However, by making available the relevant metadata, publications can be created in a variety of formats. 
 
-[^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - Shifting Perspectives and Persistent Issues', Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada, 25-27 June 2008, http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf.
-[^ubuweb]: UbuWeb, http://www.ubuweb.com.
-[^monoskop]: Monoskop, http://monoskop.org/Monoskop.
+[^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - Shifting Perspectives and Persistent Issues', Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada, 25-27 June 2008, <a href="http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf">http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf</a>.
+[^ubuweb]: UbuWeb, <a href="http://www.ubuweb.com">http://www.ubuweb.com</a>.
+[^monoskop]: Monoskop, <a href="http://monoskop.org/Monoskop">http://monoskop.org/Monoskop</a>.
 

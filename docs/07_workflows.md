@@ -152,19 +152,19 @@ The best option is therefore to explicitly define the goals of the publication p
 
 In pure text databases we also have to be careful. On one hand we have the data related to the author's name, affiliation, address, etc. But it becomes a different proposition when illustrations and diagrams are included and perhaps even shared between publications. If this is the case, we might consider a special section in our database that pertains only to illustrations and their descriptions. The same is true for bibliographical references and the collection of hyperlinks used in the text. Therefore we would advise that various objects such as image or text entities are provided with as many consistent metadata (field descriptors) as possible. 
 
-[^iAWriter]: iA Writer, http://www.iawriter.com/mac/. 
+[^iAWriter]: iA Writer, <a href="http://www.iawriter.com/mac/">http://www.iawriter.com/mac/</a>. 
 [^EPUBStraighttothePoint]: Elizabeth Castro has provided a thorough guide for InDesign-to-EPUB publication in her book *EPUB Straight to the Point*, San Francisco: Peachpit Press, 2010. 
-[^Pandoc]: *Pandoc a universal document converter*, http://www.johnmacfarlane.net/pandoc/. 
-[^UberWriter]: UberWriter, http://uberwriter.wolfvollprecht.de/. 
-[^MdCharm]: MdCharm, http://www.mdcharm.com/. 
-[^Mou]: Mou, http://25.io/mou/. 
-[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, http://macdown.uranusjr.com/. 
-[^ByWord]:ByWord 2, http://bywordapp.com/. 
-[^Scrivener]: Scrivener 2, http://www.literatureandlatte.com/scrivener.php. 
-[^MarkdownPad]: MarkdownPad, http://markdownpad.com/. 
-[^MultiMarkdown]: MultiMarkdown, http://fletcherpenney.net/multimarkdown/. 
-[^Calibre]: *Calibre ebook management*, http://calibre-ebook.com/. 
-[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/. 
-[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. https://github.com/IDPF/epubcheck. 
-[^pandoc-convert]: An overview can be found on the Digital Publishing Toolkit Software Showcase, http://pandoc.networkcultures.org/ or go directly to http://pandoc.networkcultures.org/hybrid.html. 
+[^Pandoc]: *Pandoc a universal document converter*, <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>. 
+[^UberWriter]: UberWriter, <a href="http://uberwriter.wolfvollprecht.de/">http://uberwriter.wolfvollprecht.de/</a>. 
+[^MdCharm]: MdCharm, <a href="http://www.mdcharm.com/">http://www.mdcharm.com/</a>. 
+[^Mou]: Mou, <a href="http://25.io/mou/">http://25.io/mou/</a>. 
+[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, <a href="http://macdown.uranusjr.com/">http://macdown.uranusjr.com/</a>. 
+[^ByWord]:ByWord 2, <a href="http://bywordapp.com/">http://bywordapp.com/</a>. 
+[^Scrivener]: Scrivener 2, <a href="http://www.literatureandlatte.com/scrivener.php">http://www.literatureandlatte.com/scrivener.php</a>. 
+[^MarkdownPad]: MarkdownPad, <a href="http://markdownpad.com/">http://markdownpad.com/</a>. 
+[^MultiMarkdown]: MultiMarkdown, <a href="http://fletcherpenney.net/multimarkdown/">http://fletcherpenney.net/multimarkdown/</a>. 
+[^Calibre]: *Calibre ebook management*, <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
+[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, <a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/">http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/</a>. 
+[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. <a href="https://github.com/IDPF/epubcheck">https://github.com/IDPF/epubcheck</a>. 
+[^pandoc-convert]: An overview can be found on the Digital Publishing Toolkit Software Showcase, <a href="http://pandoc.networkcultures.org/">http://pandoc.networkcultures.org/</a> or go directly to <a href="http://pandoc.networkcultures.org/hybrid.html">http://pandoc.networkcultures.org/hybrid.html</a>. 
 [^gruber]: John Gruber, *Markdown: Introduction*, daringfireball.net/projects/markdown/. 
