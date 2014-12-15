@@ -19,4 +19,6 @@
 
 ## Joe
 * doing: edit glossary which was rewitten by florian
+* will do: edit 13_Backcover_text.md rewritten by florian
+* will do: review and edit changes by Margreet and Florian to 09_futurology.md
 * will do: check consistency of glossary and terms in bold in the text, together with andre
