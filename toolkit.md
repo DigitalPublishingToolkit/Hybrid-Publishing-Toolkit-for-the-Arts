@@ -130,9 +130,9 @@ The result is the present publication, as well as a software repository consisti
 
 We are not claiming that all ebooks will follow, or indeed should follow this path. We are simply laying out one of the many directions ebook creators can now take with their publications, by using simple and inexpensive tools, and without having to buy into the industry's glossy promises of multimedia and interactivity. 
 
-[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, http://networkcultures.org/digitalpublishing. 
-[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, http://www.regieorgaan-sia.nl. 
-[^DPT-GitHub]: Digital Publishing Toolkit Github, http://networkcultures.org/digitalpublishing/github/. 
+[^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, <a href="http://networkcultures.org/digitalpublishing">http://networkcultures.org/digitalpublishing</a>. 
+[^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, <a href="http://www.regieorgaan-sia.nl">http://www.regieorgaan-sia.nl</a>. 
+[^DPT-GitHub]: Digital Publishing Toolkit Github, <a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>. 
 
 
 #2 The basics 
@@ -179,10 +179,10 @@ All these new possibilities will require thorough, and potentially more labor-in
 
 
 [^hist]: Guglielmo Cavallo and Roger Chartier (eds.), *A History of Reading in the West*, Polity Press 1999. 
-[^Project-Gutenberg1]: Project Gutenberg, https://www.gutenberg.org. 
-[^Million-Book-Project]: Million Book Project, https://archive.org/details/millionbooks. 
-[^Google-Books]: Google Books, http://books.google.nl/. 
-[^Open-Content-Alliance]: Open Content Alliance, http://www.opencontentalliance.org.
+[^Project-Gutenberg1]: Project Gutenberg, <a href="https://www.gutenberg.org">https://www.gutenberg.org</a>. 
+[^Million-Book-Project]: Million Book Project, <a href="https://archive.org/details/millionbooks">https://archive.org/details/millionbooks</a>. 
+[^Google-Books]: Google Books, <a href="http://books.google.nl/">http://books.google.nl/</a>. 
+[^Open-Content-Alliance]: Open Content Alliance, <a href="http://www.opencontentalliance.org">http://www.opencontentalliance.org</a>.
 [^bible]: A historical illustration of this problem, and a possible solution, is the numbering of chapters and verses in the Bible, allowing readers to refer to the same passage even though they may be using different editions, or even different languages. 
 
 
@@ -272,7 +272,7 @@ New genres of publication will continue to emerge as a result of the ongoing dig
 ##Three levels of electronic publishing 
 Independently of the different genres listed above, we can distinguish three levels of electronic publishing. The scope of electronic publishing ranges from the simple conversion of a paper book, to an electronic publication (for example, a PDF of the print edition as an ebook), to full-scale electronic publications which incorporate advanced digital formats such as video, or are published as 'native apps' (applications developed for a particular platform or device). When we consider the different genres of publishing from this perspective, the role and use of **metadata** also becomes an important factor. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/ "Link to blog post: Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document")(*Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document*) 
 
-Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)]( http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/ "Link to blog post: From Print to What?")(*From print to what?*) 
+Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)]( <a href="http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/">http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/</a> "Link to blog post: From Print to What?")(*From print to what?*) 
 
 **1. One-to-one**: the book is considered as a specific product or project where text authors, illustrators, artists, photographers and designers work together to create the book, which then is published as a single edition. The print book can also be converted or adapted into an ebook. 
 
@@ -303,9 +303,9 @@ Particularly for publications which have a more or less fixed layout, database p
 
 It is important to note that there will never be one single workflow which fits all requirements. However, by making available the relevant metadata, publications can be created in a variety of formats. 
 
-[^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - Shifting Perspectives and Persistent Issues', Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada, 25-27 June 2008, http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf.
-[^ubuweb]: UbuWeb, http://www.ubuweb.com.
-[^monoskop]: Monoskop, http://monoskop.org/Monoskop.
+[^Kircz]: Anita de Waard and Joost Kircz, 'Modeling Scientific Research Articles - Shifting Perspectives and Persistent Issues', Proceedings of the 12th International Conference on Electronic Publishing held in Toronto, Canada, 25-27 June 2008, <a href="http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf">http://elpub.scix.net/data/works/att/234_elpub2008.content.pdf</a>.
+[^ubuweb]: UbuWeb, <a href="http://www.ubuweb.com">http://www.ubuweb.com</a>.
+[^monoskop]: Monoskop, <a href="http://monoskop.org/Monoskop">http://monoskop.org/Monoskop</a>.
 
 
 
@@ -449,7 +449,7 @@ Online reading platforms are browser-based platforms for reading electronic publ
 
 It is important to remember that publishers who make use of an online reading platform are effectively dependent on the platform provider. If the platform changes its technology or terms of service, or simply goes out of business, the publisher has no recourse, except possibly to find another platform. On the other hand, ebook stores which offer downloadable files provide the publisher with much more control and freedom in this respect. 
 
-The following is an overview of the main characteristics, statistics, strengths and weaknesses, revenue models and publishing guidelines for three major online reading platforms (Issuu[^Issuu], Scribd[^Scribd] and Internet Archive[^Internet-Archive]) as well as two third-party blogs (Medium[^Medium] and WordPress[^WordPress]). 
+The following is an overview of the main characteristics, statistics, strengths and weaknesses, revenue models and publishing guidelines for three major online reading platforms (Issuu,[^Issuu] Scribd[^Scribd] and Internet Archive[^Internet-Archive]) as well as two third-party blogs (Medium[^Medium] and WordPress[^WordPress]). 
 
 ![Issuu](images/05_01_onlinereadingplatforms_issuu.png "Issuu") 
  
@@ -552,9 +552,9 @@ Of course, none of these projects can be considered serious competition to mains
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>. 
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>. 
 [^Ubuweb]: UbuWeb, <a href="http://www.ubu.com">http://www.ubu.com</a>. 
-[^Issuu]: Issuu, http://www.issuu.com. 
-[^Scribd]: Scribd, http://www.scribd.com. 
-[^artistsebooks.org]: http://artistsebooks.org.
+[^Issuu]: Issuu, <a href="http://www.issuu.com">http://www.issuu.com</a>. 
+[^Scribd]: Scribd, <a href="http://www.scribd.com">http://www.scribd.com</a>. 
+[^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>.
 
 
 #6 Guide: How to make a simple EPUB 
@@ -959,23 +959,23 @@ For publications which require consistent design and uniform interactivity acros
 
 Finally, why not simply publish essays, articles or even whole books on a website? The abundance of blogs and other publishing platforms shows that this is indeed a viable form of publishing. Monetizing is less straightforward: most websites generate income by showing the user advertisements or sponsored articles. Paid membership is also a model used by some websites, such as the Dutch news platform *De Correspondent*.[^de-correspondent] One of the major downsides is that the content will only be available online, and cannot be easily transferred as a single unit of information the way an EPUB or PDF can. 
 
-[^plain-text]: *Beowulf by J. Lesslie Hall*, http://www.gutenberg.org/ebooks/16328. 
-[^calibre]: Calibre, http://calibre-ebook.com/. 
-[^pandoc-installation-page]: *Installing pandoc*, http://www.johnmacfarlane.net/pandoc/installing.html. 
-[^epub-zipping-process]: More information on how to automate the EPUB zipping process can be found here: *EPUB Zip/Unzip AppleScript application for Mac OS X*, http://www.mobileread.com/forums/showthread.php?t=55681. 
-[^rudimentary-epub]: Example EPUB, https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub. 
-[^idpf.org]: The following overview at idpf.org defines the semantics and conformance requirements for EPUB publications: *EPUB Publications 3.0.1. Recommended Specification 26 June 2014*, http://www.idpf.org/epub/301/spec/epub-publications.html. 
-[^epub-standard]: EPUB Open Container Format (OCF) 3.0, http://www.idpf.org/epub/30/spec/epub30-ocf.html. 
-[^epub-validator]:EPUB Validator (beta), http://validator.idpf.org. 
-[^desktop-application]: pagina EPUB-Checker (Freeware), http://www.pagina-online.de/produkte/epub-checker/. 
-[^guardian-ios]: Guardian app for iOS and Android, http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android. 
-[^pandoc-convert: An overview can be found on the Digital Publishing Toolkit Software Showcase, http://pandoc.networkcultures.org/ or go directly to http://pandoc.networkcultures.org/hybrid.html. 
-[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), July 2, 2011, http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), October 12, 2013, http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php. 
-[^purple-carrot-publication]: *The Prisoner of Carrot Castle*, November 19, 2013, https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4. 
-[^de-correspondent]: *De Correspondent*, https://decorrespondent.nl. 
-[^pandoc-calibre]: Pandoc: http://www.johnmacfarlane.net/pandoc/; Calibre ebook management: http://calibre-ebook.com/. 
-[^Sigil]: *Sigil, The EPUB Editor*, http://code.google.com/p/sigil. 
-[^Jutoh]: *Jutoh, epublishing made easy*, http://www.jutoh.com. 
+[^plain-text]: *Beowulf by J. Lesslie Hall*, <a href="http://www.gutenberg.org/ebooks/16328">http://www.gutenberg.org/ebooks/16328</a>. 
+[^calibre]: Calibre, <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
+[^pandoc-installation-page]: *Installing pandoc*, <a href="http://www.johnmacfarlane.net/pandoc/installing.html">http://www.johnmacfarlane.net/pandoc/installing.html</a>. 
+[^epub-zipping-process]: More information on how to automate the EPUB zipping process can be found here: *EPUB Zip/Unzip AppleScript application for Mac OS X*, <a href="http://www.mobileread.com/forums/showthread.php?t=55681">http://www.mobileread.com/forums/showthread.php?t=55681</a>. 
+[^rudimentary-epub]: Example EPUB, <a href="https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub">https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts/raw/master/examples/Example.epub</a>. 
+[^idpf.org]: The following overview at <a href="http://idpf.org">idpf.org</a> defines the semantics and conformance requirements for EPUB publications: *EPUB Publications 3.0.1. Recommended Specification 26 June 2014*, <a href="http://www.idpf.org/epub/301/spec/epub-publications.html">http://www.idpf.org/epub/301/spec/epub-publications.html</a>. 
+[^epub-standard]: EPUB Open Container Format (OCF) 3.0, <a href="http://www.idpf.org/epub/30/spec/epub30-ocf.html">http://www.idpf.org/epub/30/spec/epub30-ocf.html</a>. 
+[^epub-validator]:EPUB Validator (beta), <a href="http://validator.idpf.org">http://validator.idpf.org</a>. 
+[^desktop-application]: pagina EPUB-Checker (Freeware), <a href="http://www.pagina-online.de/produkte/epub-checker/">http://www.pagina-online.de/produkte/epub-checker/</a>. 
+[^guardian-ios]: Guardian app for iOS and Android, <a href="http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android">http://www.theguardian.com/global/ng-interactive/2014/may/29/-sp-the-guardian-app-for-ios-and-android</a>. 
+[^pandoc-convert]: An overview can be found on the Digital Publishing Toolkit Software Showcase, <a href="http://pandoc.networkcultures.org/">http://pandoc.networkcultures.org/</a> or go directly to <a href="http://pandoc.networkcultures.org/hybrid.html">http://pandoc.networkcultures.org/hybrid.html</a>. 
+[^penguin-amplified]: For example: Jack Kerouac's *On the Road* (A Penguin Books Amplified Edition), July 2, 2011, <a href="http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php">http://www.penguin.com/static/pages/features/amplified_editions/on_the_road.php</a> and Ayn Rand's *Atlas Shrugged* (An NAL Amplified Edition), October 12, 2013, <a href="http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php">http://www.penguin.com/static/pages/features/amplified_editions/atlas_shrugged.php</a>. 
+[^purple-carrot-publication]: *The Prisoner of Carrot Castle*, November 19, 2013, <a href="https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo=4">https://itunes.apple.com/us/app/the-prisoner-of-carrot-castle/id499981407?mt=8&ign-mpt=uo%3D4</a>. 
+[^de-correspondent]: *De Correspondent*, <a href="https://decorrespondent.nl">https://decorrespondent.nl</a>. 
+[^pandoc-calibre]: Pandoc: <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>; Calibre ebook management: <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
+[^Sigil]: *Sigil, The EPUB Editor*, <a href="http://code.google.com/p/sigil">http://code.google.com/p/sigil</a>. 
+[^Jutoh]: *Jutoh, epublishing made easy*, <a href="http://www.jutoh.com">http://www.jutoh.com</a>. 
 
 
 #7 Towards a hybrid workflow based on Markdown 
@@ -1033,7 +1033,7 @@ Often, such inconsistencies in a Word document will only become visible after th
 
 We recommend two ways of working with Word + Pandoc. 
 
-1. Conversion from Word to EPUB using Pandoc directly from the Terminal (Mac) / Command Prompt (Windows), or using the browser-based converter developed for this Toolkit.[^pandoc-convert] This should only be done only at the very end of the editorial process, because after this conversion no further editorial changes can be applied to the Word document. A graphic designer can quite easily transform the converted document into the final electronic publication (for example, by modifying the typographic design to make it suitable for e-readers, by scaling and optimizing images for screen reading, by adding bibliographical metadata, etc.). 
+1. Conversion from Word to EPUB using Pandoc directly from the Terminal (Mac) / Command Prompt (Windows), or using the browser-based converter developed for this Toolkit.[^pandoc-convert2] This should only be done only at the very end of the editorial process, because after this conversion no further editorial changes can be applied to the Word document. A graphic designer can quite easily transform the converted document into the final electronic publication (for example, by modifying the typographic design to make it suitable for e-readers, by scaling and optimizing images for screen reading, by adding bibliographical metadata, etc.). 
 
 2. Conversion from Word to Markdown using Pandoc. Since Pandoc can also convert files *to* the Markdown format, this is often the preferable option, especially for complex publishing projects. The resulting Markdown file can then be used as the 'master file' for conversions to various other file formats (such as EPUB, or HTML for publishing on a website). The advantage of converting to Markdown is that any formatting glitch in the Word document will now become clearly visible. For example, a heading formatted manually will be converted as \*\*heading\*\* while a heading formatted with the proper style definition will be converted as \#heading. This makes it much easier to clean up the internal formatting of the document and produce a 'clean' master file for all subsequent document conversions. The EPUB generated from this Markdown file will in most cases be much better structured than an EPUB directly generated from the Word file, making the subsequent work to be performed by the designer much easier. It is also possible to customize the Pandoc conversion by defining style templates. This in turn may make it possible, depending on the type and complexity of the publication, to automatically generate a complete and well-formatted EPUB from the Markdown files without even having to hire a designer. 
 
@@ -1132,23 +1132,22 @@ The best option is therefore to explicitly define the goals of the publication p
 
 In pure text databases we also have to be careful. On one hand we have the data related to the author's name, affiliation, address, etc. But it becomes a different proposition when illustrations and diagrams are included and perhaps even shared between publications. If this is the case, we might consider a special section in our database that pertains only to illustrations and their descriptions. The same is true for bibliographical references and the collection of hyperlinks used in the text. Therefore we would advise that various objects such as image or text entities are provided with as many consistent metadata (field descriptors) as possible. 
 
-[^iAWriter]: iA Writer, http://www.iawriter.com/mac/. 
+[^iAWriter]: iA Writer, <a href="http://www.iawriter.com/mac/">http://www.iawriter.com/mac/</a>. 
 [^EPUBStraighttothePoint]: Elizabeth Castro has provided a thorough guide for InDesign-to-EPUB publication in her book *EPUB Straight to the Point*, San Francisco: Peachpit Press, 2010. 
-[^Pandoc]: *Pandoc a universal document converter*, http://www.johnmacfarlane.net/pandoc/. 
-[^UberWriter]: UberWriter, http://uberwriter.wolfvollprecht.de/. 
-[^MdCharm]: MdCharm, http://www.mdcharm.com/. 
-[^Mou]: Mou, http://25.io/mou/. 
-[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, http://macdown.uranusjr.com/. 
-[^ByWord]:ByWord 2, http://bywordapp.com/. 
-[^Scrivener]: Scrivener 2, http://www.literatureandlatte.com/scrivener.php. 
-[^MarkdownPad]: MarkdownPad, http://markdownpad.com/. 
-[^MultiMarkdown]: MultiMarkdown, http://fletcherpenney.net/multimarkdown/. 
-[^Calibre]: *Calibre ebook management*, http://calibre-ebook.com/. 
-[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/. 
-[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. https://github.com/IDPF/epubcheck. 
-[^pandoc-convert: An overview can be found on the Digital Publishing Toolkit Software Showcase, 
- http://pandoc.networkcultures.org/ or go directly to http://pandoc.networkcultures.org/hybrid.html. 
-[^gruber] John Gruber, *Markdown: Introduction*, daringfireball.net/projects/markdown/. 
+[^Pandoc]: *Pandoc a universal document converter*, <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>. 
+[^UberWriter]: UberWriter, <a href="http://uberwriter.wolfvollprecht.de/">http://uberwriter.wolfvollprecht.de/</a>. 
+[^MdCharm]: MdCharm, <a href="http://www.mdcharm.com/">http://www.mdcharm.com/</a>. 
+[^Mou]: Mou, <a href="http://25.io/mou/">http://25.io/mou/</a>. 
+[^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, <a href="http://macdown.uranusjr.com/">http://macdown.uranusjr.com/</a>. 
+[^ByWord]:ByWord 2, <a href="http://bywordapp.com/">http://bywordapp.com/</a>. 
+[^Scrivener]: Scrivener 2, <a href="http://www.literatureandlatte.com/scrivener.php">http://www.literatureandlatte.com/scrivener.php</a>. 
+[^MarkdownPad]: MarkdownPad, <a href="http://markdownpad.com/">http://markdownpad.com/</a>. 
+[^MultiMarkdown]: MultiMarkdown, <a href="http://fletcherpenney.net/multimarkdown/">http://fletcherpenney.net/multimarkdown/</a>. 
+[^Calibre]: *Calibre ebook management*, <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
+[^commonmark-controversy]: Jeff Atwood, 'Standard Markdown is now Common Markdown', *Coding Horror*, 5 Sep 2014, <a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/">http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/</a>. 
+[^EpubCheck]: EpubCheck is a tool for validating IDPF EPUB files, version 2.0 and later. <a href="https://github.com/IDPF/epubcheck">https://github.com/IDPF/epubcheck</a>. 
+[^pandoc-convert2]: An overview can be found on the Digital Publishing Toolkit Software Showcase, <a href="http://pandoc.networkcultures.org/">http://pandoc.networkcultures.org/</a> or go directly to <a href="http://pandoc.networkcultures.org/hybrid.html">http://pandoc.networkcultures.org/hybrid.html</a>. 
+[^gruber]: John Gruber, *Markdown: Introduction*, daringfireball.net/projects/markdown/. 
 
 
 #8 Guide: Hybrid publishing for each genre 
@@ -1174,7 +1173,7 @@ The following points, which apply to all genres, should be clearly defined at th
 When it comes to choosing a publication format, the following general recommendations should be kept in mind: 
 
 * EPUB is a good choice for ebooks, less so for periodicals. EPUB potentially combines the advantages of PDF (single-file distribution) with HTML (reflowable/screen size-independent design, small file sizes, modularity/reusability, automation). 
-* At the time of writing, HTML5 is theoretically the 'ideal' format. It is increasingly used in multimedia journalism (a good example is the report 'Snow Fall' published in the *New York Times* in December 2012 <!-- link to: http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek --> ). However this poses three important problems for publishers: the format is not supported by ebook stores such as iBooks and Kobo; it lacks the rich metadata support of EPUB; and it requires technical workarounds in order to allow for single-file distribution. 
+* At the time of writing, HTML5 is theoretically the 'ideal' format. It is increasingly used in multimedia journalism (a good example is the report 'Snow Fall' published in the *New York Times* in December 2012 <!-- link to: <a href="http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek">http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek</a> --> ). However this poses three important problems for publishers: the format is not supported by ebook stores such as iBooks and Kobo; it lacks the rich metadata support of EPUB; and it requires technical workarounds in order to allow for single-file distribution. 
 * PDF is the easiest format to integrate in existing workflows, but since it is essentially meant for print, it too has disadvantages when it comes to electronic publishing. It is a fixed-layout format, meaning that it does not dynamically reflow to adapt to different screen dimensions; it provides only rudimentary multimedia support; and the files can quickly become too large for the purposes intended. 
 
 ##Research publication 
@@ -1277,7 +1276,7 @@ When creating an electronic artists'/designers' book, the editorial and design w
 
 ##Art/design periodical 
 
-Periodicals such as yearbooks and magazines are an important part of the art and culture publishing scene. Examples of influential electronic art periodicals include OPEN <!-- link to http://www.openthemagazine.com/ --> and e-flux <!-- link to http://www.e-flux.com/ -->. The spectrum includes everything from non-commercial websites or PDF publications, to academic and public magazines, to commercial websites and app store subscription models. At the moment, digital magazine publishing is in a process of gradually transitioning from traditional to new workflows. On a scale from traditional to new, offering a magazine as a downloadable PDF file is the most traditional solution, while turning a magazine into a website (running on a content management system such as WordPress) is the least traditional. All of these technical solutions are now finally mature after two decades of online news publishing. WordPress would be our standard recommendation for small-to-medium scale online news and journal publishing, since it is a highly developed, user-friendly, customizable and furthermore Open Source system. The main problem for publishing electronic periodicals is no longer the technology but rather the revenue model. 
+Periodicals such as yearbooks and magazines are an important part of the art and culture publishing scene. Examples of influential electronic art periodicals include OPEN <!-- link to <a href="http://www.openthemagazine.com/">http://www.openthemagazine.com/</a> --> and e-flux <!-- link to <a href="http://www.e-flux.com/">http://www.e-flux.com/</a> -->. The spectrum includes everything from non-commercial websites or PDF publications, to academic and public magazines, to commercial websites and app store subscription models. At the moment, digital magazine publishing is in a process of gradually transitioning from traditional to new workflows. On a scale from traditional to new, offering a magazine as a downloadable PDF file is the most traditional solution, while turning a magazine into a website (running on a content management system such as WordPress) is the least traditional. All of these technical solutions are now finally mature after two decades of online news publishing. WordPress would be our standard recommendation for small-to-medium scale online news and journal publishing, since it is a highly developed, user-friendly, customizable and furthermore Open Source system. The main problem for publishing electronic periodicals is no longer the technology but rather the revenue model. 
 
 Aside from revenue, the main editorial question is: should the publication still be considered as *one* medium, or is it better to give up entirely on the traditional system of periodical appearance in bundled issues? Alternatively, the model could be a continuously updated website (similar to a news website or a blog), or with a focus on providing single articles rather than bundled issues, based on search engine hits, social media recommendations, etc. The difference between a 'blog' and a 'magazine', however, is becoming increasingly difficult to define. 
 
@@ -1292,10 +1291,10 @@ We distinguish between two major types of workflow, the first based on a print p
 * Web-based workflow: The magazine is a self-published website. There are many ways of building websites, but the easiest Open Source, free solution is to use a content management system like WordPress with a custom design template for your own publication. This allows you to have a responsive design that adapts to all available reading devices. An additional technical benefit is that this workflow allows you to have a structured database of everything ever published on the site, which is easy to use as a basis for exporting to custom publications such as downloadable ebooks, InDesign layout for print yearbooks, PDFs, a tablet app, etc. 
 
 [^bookworks]: Carrión, Ulises. *The New Art of Making Books*, Aegean Editions, 2001. 
-[^e-zines]: The Textfile Directory, http://www.textfiles.com/directory.html. 
-[^electronic-literature-organization]: Electronic Literature Organization, http://eliterature.org. 
-[^elmcip]: Electronic Literature Knowledge Base, http://elmcip.net/knowledgebase. 
-[^PDF/A]: PDF/A stands for *archival PDF* and is an ISO standard originally formulated by Adobe in collaboration with non-profit organizations in the field of information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles must be fully embedded in a document, http://en.wikipedia.org/?title=PDF/A. 
+[^e-zines]: The Textfile Directory, <a href="http://www.textfiles.com/directory.html">http://www.textfiles.com/directory.html</a>. 
+[^electronic-literature-organization]: Electronic Literature Organization, <a href="http://eliterature.org">http://eliterature.org</a>. 
+[^elmcip]: Electronic Literature Knowledge Base, <a href="http://elmcip.net/knowledgebase">http://elmcip.net/knowledgebase</a>. 
+[^PDF/A]: PDF/A stands for *archival PDF* and is an ISO standard originally formulated by Adobe in collaboration with non-profit organizations in the field of information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles must be fully embedded in a document, <a href="http://en.wikipedia.org/?title=PDF/A">http://en.wikipedia.org/?title=PDF/A</a>. 
 [^other-formats]: Used as a medium of artistic experimentation among by various artists and designers, including net artists since the 1990s, and also by the conceptual poet and UbuWeb founder Kenneth Goldsmith. 
 
 
@@ -1345,7 +1344,7 @@ The electronic publishing models which we have focused on in this Toolkit, using
 
 Faced with on one hand all these new possibilities for self-publishing and self-curating, and on the other hand the rise and consolidation of huge commercial monopolies, the art and craftsmanship of publishing will have no choice but to reinvent and rebuild itself. Through this Toolkit, we hope to contribute to at least one of the building blocks of this process. 
 
-[^books]: *Digital sales outstrip bricks and mortar in US*, (http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us). 
+[^books]: *Digital sales outstrip bricks and mortar in US*, (<a href="http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us">http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us</a>). 
 [^vanc]: Take for example the 528 page (and 10.8 x 17.48 cm) thick anthology *What will be / Ce qui sera / Lo que será Almanac* on the international Surrealist movement, with more than 170 contributors from 25 countries: essays, poems, images, manifestos, a debate on Surrealist editions, a chronology of 50 years of Surrealism from 1964 to 2014. Downloading such a book is problematic due to the need of a complete structured index and advanced search options. Printing it locally is almost impossible because of its small fixed-page size. Buying it at lulu.com gives readers a print-on-demand book on standard glossy paper which is certainly not in line with the Surrealist tradition. 
 [^stoop]: Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 1 - reading long information rich texts', *New Library World*, Vol. 114, Issue 7/8, pp. 284-300, 2013. [Copy of final accepted draft: ](http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf). 'Part 2 - comparing different text structures on paper and on screen', *New Library World*, Vol. 114, Issue 9/10, pp. 371-383, 2013. [Copy of final accepted draft: ](http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf). 
 [^warwick]: See also Henry Warwick, [*Radical Tactics of the Offline LIbrary*](http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/), Network Notebooks No. 07, Amsterdam; Institute of Network Cultures, 2014.
@@ -1462,7 +1461,7 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 <!-- ###ReFoot.js -->
 
 
-[^wp-api]:A JSON-based REST API for WordPress, https://github.com/WP-API/WP-API. 
+[^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
 
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
 
@@ -1861,38 +1860,6 @@ A version of HTML built on the basis of XML. It generally has the same markup as
 
 #####XML (Extensible Markup Language) 
 XML is markup language for constructing markup languages. It provides, in other words, a syntax in which specific markup languages can be built. (Based on XML, one could for example define a specific markup language for restaurant menus, for work schedules, or for poetry books, each of them containing self-defined custom tags.) A markup language constructed with XML, for example, is XHTML. EPUB internally uses the XML-compliant "Open Packaging Format" for cataloguing the different source files (text chapters, images etc.) used in an ebook.
-
-
-
-#12 Appendix 
-
-##Keyword index 
-
-##Bibliography 
-
-##Link list 
-<!--???: mirrored linking --> 
-
-##Instructions used in the preparation of this document 
-<!-- ???: Does this become a part of the final publication as appendix? --> 
-
-##[Instructions for placing images](images/_image_instructions.html) 
-
-
-
-[bp](http://digitalpublishingtoolkit.org/2014/09/inc-project-update-hybrid-publishing-workflow-test/)
-
-
-
-# Back cover text
-Electronic publishing has become a vital part of contemporary arts and design. Periodicals like the _e-flux journal_, art and design blogs, Internet libraries like _Ubu Web_ are widely read and discussed. 
-
-At the same time, traditional models of art book publishing become less and less viable. To which extent - and how - can artists, writers, designers and publishers use electronic book technology as an alternative? And what needs to be done for print and electronic editions of the same publication? 
-
-This guide is meant for everyone working in art and design publishing - and presupposes no digital technology expertise. It contains hands-on practical advice and tools, focusing on working solutions for low-budget, small edition publishing. 
-
-Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include catalogues, research publications and artists' books.
-
 
 
 

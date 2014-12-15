@@ -1,9 +1,7 @@
-
 # [Colophon](docs/00_colophon.md)
 
-# [01 Introduction](docs/01_introduction.md)
-<!--status: Joost adds a few things, then it's ready for copy edit.-->
 
+# [01 Introduction](docs/01_introduction.md)
 ## Industry promises versus reality
 ## What this Toolkit provides
 ## Whom is this Toolkit written for
@@ -12,84 +10,58 @@
 
 
 # [02 The Basics](docs/02_the_basics.md)
-<!--status: ready for copy-edit-->
-
-## What is a text?
-## What are some electronic possibilities 
-## Summing up
-
+## Layout and structure of a text
+## Possibilities offered by electronic publishing 
  
 # [03 Genres of publication](docs/03_genres_of_publication.md) 
-<!--status: ready for copy-edit-->
+## Five genres 
+## Three levels of electronic publishing 
 
-## 1) Research publication
-## 2) Art/design catalogue
-## 3) Art/designer book
-## 4) Art/designer periodical
-## 5) New genres of publication
-## 3 levels of electronic publishing
-
-# [04 Ereading technologies ](docs/04_ereading_technologies.md)
-<!--status: thorough reading by Pia and Margreet-->
-## File formats 
+# [04 Technologies for electronic reading ](docs/04_ereading_technologies.md)
 ## Reader hardware 
 ## Reader software 
+## File formats 
 
 # [05 Distribution platforms](docs/05_distribution_platforms.md) 
-<!--status: needs work (Marc, Miriam); visuals needed for statistics etc. Ask Silvio to read over.-->
+## Ebook stores
+## Online reading platforms
+## Print on demand (POD) 
+## Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
+## Artist and designer-run projects: Badlands Unlimited, KYUR8, artistsebooks.org 
+## Ebook stores: Amazon, Apple, Google, Kobo, Sony
+## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog
+## Print-on-demand 
+## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru 
+## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks
 
-## Ebook stores: Amazon, Apple, Google, Kobo, Sony <!--Marc-->
-## Online reading platforms: Scribd, Issuu, Internet Archive, website/blog <!--Miriam-->
-## Print-on-demand <!--Miriam-->
-## Pirate platforms: AAAAARG, Monoskop, Pirate Bay, library.ru <!--Florian-->
-## Artist-/designer-run projects: Badlands, KYUR8, artists ebooks <!--Florian-->
 
 # [06 Guide: How to make a simple EPUB](docs/06_guide_DIY.md) 
-<!--status: ask input from Florian -->
+## Do-it-yourself EPUB from scratch 
+## Do-it-yourself EPUB using InDesign 
+## Do-it-yourself EPUB using Pandoc 
+## Using Calibre and custom plug-ins 
 
-## Direct conversion
-## Do it yourself EPUB from scratch
 
-
-
-# [07 Towards a Hybrid Workflow Based on Markdown](docs/07_workflows.md) 
-<!--status: needs work and cutting-->
-
-## E-publishing workflows: desktop publishing, XML, Markdown 
+# [07 Towards a hybrid workflow based on Markdown](docs/07_workflows.md) 
+## Electronic publishing workflows: desktop publishing and Markdown
 ## Database publishing 
 
 
-
-
-
-
-
-
-# [08 Guide: / E-publications per genre](docs/08_guide_workflow.md) 
-<!--status: work needed-->
-
-## Research publication <!--INC project, Miriam-->
-## Art/design catalogue <!--Stedelijk project, Loes & Barbera-->
-## Artist/designer book <!--Florian shorten/rewrite-->
-## Art/design periodical <!--Open online, Margreet-->
-
-
-
-
-
-
+# [08 Guide: Hybrid publishing for each genre](docs/08_guide_workflow.md) 
+## General considerations 
+## Research publication 
+## Art/design catalogue 
+## Artists' and designers' book 
+## Art/design periodical 
 
 
 # [09 Futurology](docs/09_futurology.md) 
-<!--status: work needed--><!--Michael, Silvio, Florian, Joost, Arjen, Kimmy-->
-## What we can expect
-## Reading technology 
-## Reading culture 
-## Publishing culture
+## Technology 
+## Reading and book culture 
+## The future of publishing culture? 
+
 
 # [10 Software Catalogue](docs/10_software.md) 
-<!--status: -->
-
 ## BIS Publishers
 ## INC
 ## NAI/010 Publishers
@@ -97,18 +69,5 @@
 
 
 # [Glossary of technical terms](docs/11_glossary.md)
-<!--status: pending, add unknown words when you see them-->
 
 
-
-# [Appendix](docs/12_appendix.md)
-
-## Keyword index 
-## Bibliography 
-## Link list <!--mirrored linking -->
-## Instructions used in the preparation of this document
-<!-- Does this become a part of the final publication as appendix? -->
-## Instructions for placing images
-
-
-# [Backcover](docs/13_Backcover_text.md)
