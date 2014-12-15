@@ -103,7 +103,7 @@ The main reason for this is that the broad versatility of XML adds several layer
 
 Technically speaking, Markdown provides some of the same features and advantages as XML does, namely separation of content structure from visual layout and painless conversion into multiple output formats. However, unlike XML, it can not be extended with custom, self-defined markup tags. Still, and particularly for those just getting started with digital or hybrid publishing, Markdown should be more than adequate in almost all circumstances. 
 
-#####Word processing / editing applications for Markdown 
+####Word processing / editing applications for Markdown 
 
 **Mac** 
 
@@ -127,7 +127,7 @@ Technically speaking, Markdown provides some of the same features and advantages
 - [UberWriter](http://uberwriter.wolfvollprecht.de) [^UberWriter], this editor also includes built-in support for Pandoc. 
 - [MdCharm](http://www.mdcharm.com) [^MdCharm], supports MultiMarkdown. 
 
-#####Document conversion programs 
+####Document conversion programs 
 
 - MultiMarkdown [^MultiMarkdown]: the original application converts MultiMarkdown files into HTML, PDF, and OpenDocument (for later conversion to RTF or Microsoft Word). Open Source, runs on Linux, Mac OS X and Windows. 
 - Pandoc [^Pandoc]: similar in functionality to MultiMarkdown, but much more powerful. Pandoc reads more input formats (including HTML and reStructuredText) and can output HTML5, XHTML, **LaTeX**, RTF, Word, EPUB2 and EPUB3, PDF and many more. Typographical templates for the conversion can be easily customized. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/08/30/docx-to-markdown-using-calibre-and-pandoc/ "Link to blog post: Docx to Markdown using Calibre and Pandoc") (*Docx to Markdown using Calibre and Pandoc*) 
@@ -135,7 +135,7 @@ Technically speaking, Markdown provides some of the same features and advantages
 
 We recommend working with Pandoc in combination with Markdown. Both tools were used extensively in creating this publication. 
 
-#####A note on limitations 
+####A note on limitations 
 
 A major downside of Markdown is that it exists in several variants, each with its own extensions of the basic Markdown syntax. In the context of this Toolkit, we recommend the widespread variant MultiMarkdown which includes syntax for footnotes, tables, citations, cross-references, image captions and document metadata. It is also fully supported by Pandoc. 
 
