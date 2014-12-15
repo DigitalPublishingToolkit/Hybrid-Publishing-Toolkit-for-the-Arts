@@ -65,7 +65,7 @@ There may also be different editorial criteria for the content in a hybrid workf
 
 * Different style of writing: 'writing for the web' vs. 'writing for print'. 
 * The inclusion of interactive material, audio and video, as well as additional or other images for print. 
-* Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")(*Style Guide for Hybrid Publishing*) 
+* Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing") 
 
 ##Art/design catalogue 
 
