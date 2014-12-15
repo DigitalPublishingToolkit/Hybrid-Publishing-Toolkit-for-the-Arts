@@ -1,6 +1,10 @@
 # Back cover text
-<!--We read and publish increasingly more on electronic devices. What used to be a trend in sciences, news media and mainstream book publishing has now also reached contemporary arts and design - where paper books are turning into collectible design objects while everyone reads media like e-flux or downloads from UbuWeb. Often, the traditional model of art book publishing is no longer viable. Many are looking into electronic publishing as an alternative but are unfamiliar with its practicalities. --> 
+Electronic publishing has become a vital part of contemporary arts and design. Periodicals like the _e-flux journal_, art and design blogs, Internet libraries like _Ubu Web_ are widely read and discussed. 
 
-This Toolkit gives authors, editors, artists, designers and publishers working in art and design publishing all they need to know about hybrid print and electronic publishing, with an emphasis on books. Based on real-world scenarios including catalogues, research publications and artists' books, it gives pragmatic advice and step-by-step instructions based on working, accessible technologies and practices - with a focus on what is doable and sensible now, on opportunities as well as current limitations. 
+At the same time, traditional models of art book publishing become less and less viable. To which extent - and how - can artists, writers, designers and publishers use electronic book technology as an alternative? And what needs to be done for print and electronic editions of the same publication? 
+
+This guide is meant for everyone working in art and design publishing - and presupposes no digital technology expertise. It contains hands-on practical advice and tools, focusing on working solutions for low-budget, small edition publishing. 
+
+Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include catalogues, research publications and artists' books.
 
 
