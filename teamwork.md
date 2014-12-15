@@ -8,6 +8,8 @@
 * will do: code blocks in 06 GUIDE (by hand, no script)
 * will do: resolve missing images - let Loes know 
 
+## Florian
+* doing: rewriting 13_Backcover_text.md
 
 ## Miriam
 
