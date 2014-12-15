@@ -57,13 +57,6 @@ The [GNU Make](http://www.gnu.org/software/make/) program helps to automate work
 [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/) 
 
 
-###MacDown 
-
-[MacDown](http://macdown.uranusjr.com/) is a text application for Mac OS X that makes it easy to write **Markdown** text. It offers a split-screen view with an automatic live translation of Markdown to HTML. 
-
-[http://macdown.uranusjr.com/](http://macdown.uranusjr.com/) 
-
-
 ###mmd-meta-validation 
 
 A simple validation tool for checking metadata in a **Markdown** file. 
@@ -87,7 +80,7 @@ Our project for nai010 Publishers included two technical components. The first i
 
 ###PHPePub 
 
-For Valiz Publishers, an online EPUB generator was developed based on **CakePHP** and a set of Open Source software modules, notably Asbjørn Grandt's PHPePub. [^phpepub] The project was developed with relatively low-cost and low-feature [^low-feature-explanation] web hosting in mind. Notable features include support for endnotes and a **WYSIWYG** editor based on HTML5's 'content-editable' mechanism. The platform allows publishers to author and generate EPUBs suitable for distribution in various bookstores. 
+For Valiz Publishers, an online EPUB generator was developed based on **CakePHP** and a set of Open Source software modules, notably Asbjørn Grandt's PHPePub.[^phpepub] The project was developed with relatively low-cost and low-feature[^low-feature-explanation] web hosting in mind. Notable features include support for endnotes and a **WYSIWYG** editor based on HTML5's 'content-editable' mechanism. The platform allows publishers to author and generate EPUBs suitable for distribution in various bookstores. 
 
 [https://github.com/Grandt/PHPePub](https://github.com/Grandt/PHPePub) 
 
@@ -109,6 +102,6 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 <!-- ###ReFoot.js -->
 
 
-[^wp-api]:A JSON-based REST API for WordPress, https://github.com/WP-API/WP-API. 
+[^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
 
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
