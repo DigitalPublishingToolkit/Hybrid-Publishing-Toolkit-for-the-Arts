@@ -57,13 +57,6 @@ The [GNU Make](http://www.gnu.org/software/make/) program helps to automate work
 [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/) 
 
 
-###MacDown 
-
-[MacDown](http://macdown.uranusjr.com/) is a text application for Mac OS X that makes it easy to write **Markdown** text. It offers a split-screen view with an automatic live translation of Markdown to HTML. 
-
-[http://macdown.uranusjr.com/](http://macdown.uranusjr.com/) 
-
-
 ###mmd-meta-validation 
 
 A simple validation tool for checking metadata in a **Markdown** file. 
