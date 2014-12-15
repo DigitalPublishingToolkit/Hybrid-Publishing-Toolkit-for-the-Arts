@@ -1,4 +1,4 @@
-#05 Distribution platforms 
+#5 Distribution platforms 
 
 <div class="summary"> 
 - Electronic book distribution currently takes place through ebook stores, online reading platforms, social reading platforms, print-on-demand and self-publishing services, pirate download platforms and artists' ebook projects. 

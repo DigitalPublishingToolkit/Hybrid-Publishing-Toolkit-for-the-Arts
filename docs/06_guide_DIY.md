@@ -1,4 +1,4 @@
-#06 Guide: How to make a simple EPUB 
+#6 Guide: How to make a simple EPUB 
 
 <div class="summary"> 
 - An EPUB file can be seen as a self-contained website with some metadata files, packed together in a zip archive. 
@@ -24,7 +24,6 @@ The process of creating an EPUB from scratch is similar to that of developing a 
 An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. As such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and decompress an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'. [^epub-zipping-process] 
 
 For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's GitHub page (a direct link can be found in the footnote). [^rudimentary-epub] 
-
 
 ###Structure of an EPUB package 
 

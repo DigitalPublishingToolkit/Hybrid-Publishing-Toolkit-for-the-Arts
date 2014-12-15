@@ -1,4 +1,4 @@
-#04 Technologies for electronic reading 
+#4 Technologies for electronic reading 
 
 <div class="summary"> 
 - Users can choose from a multitude of hardware e-reader devices and software e-reader applications. 

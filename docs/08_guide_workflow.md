@@ -1,4 +1,4 @@
-#08 Guide: Hybrid publishing for each genre 
+#8 Guide: Hybrid publishing for each genre 
 
 <div class="summary"> 
 - Research publications can be converted or adapted to electronic publishing in a relatively straightforward manner. This often involves working with document conversion software. 

@@ -1,4 +1,4 @@
-# 09 Futurology 
+#9 Futurology 
 
 <div class="summary"> 
 - Customization and curation seem to be key concepts in electronic publishing for the future. 
@@ -13,7 +13,7 @@ Throughout the 20th century, new art forms and mass media have often been closel
 
 Is it possible then to make a few general statements about the future of electronic publishing? We can distinguish some real trends, though of course predictions are always questionable in a field so prone to fashions and hypes. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/?p=921 "Link to blog post: Book review. The End of Ebooks. 20 Visionaries on the Future of Digital Reading")(*The End of Ebooks. 20 Visionaries on the Future of Digital Reading*) 
 
-## Technology 
+##Technology 
 Reading novels and other conventional texts on e-reader devices is already a common practice, and the technology is clearly an industry success. Publishers report ever-increasing sales of ebooks. It is quite possible that someday soon, sales of electronic publications will surpass those of paper publications. [^books] 
 
 At the same time, the market for e-reading devices is increasingly showing signs of saturation. Early mass producers of monochrome e-readers such as Sony have dropped out of this market, so that the further development of these devices is left to smaller companies such as Kobo. This may to a large extent be a result of the popularity of tablets and smartphones. Since smartphones are sold with increasingly large screens, we are already seeing signs of a convergence between these two types of devices. It is quite possible to read comfortably from a large smartphone, with the added advantage that people already carry their phones on them, always and everywhere. Generally speaking, and beyond the relatively narrow field of ebooks, it is fair to assume that at least in Western and East Asian countries, most people spend more time reading on electronic devices than they do on print. 
@@ -28,7 +28,7 @@ The impact and value of digital libraries, with their extensive collections and 
 
 But where will these electronic libraries be stored, and who will control access to them? The 'cloud' is entirely dependent on a permanent supply of electricity, on a dense and fast Internet infrastructure, and on hardware/software platform consistency. Who will guarantee that the cloud, containing all your books and other data, will be perpetually maintained, kept open and accessible - let alone unfiltered and free from surveillance and censorship? 
 
-## Reading and book culture 
+##Reading and book culture 
 In reading culture and book retail, we can already see a shift from buying and owning individual ebooks towards all-you-can-read subscription models. Just like the music and film industries before them (with Spotify and Netflix respectively), the publishing industry is moving towards flat-rate subscription packages. In the U.S., Oyster Books offers a 'streaming service' for books, while Amazon has recently launched its Kindle Unlimited program, with access to 600,000 ebooks for a monthly fee of $10. [^oyster] Such services have major drawbacks: libraries become unreliable since their books are no longer owned by their readers, and are therefore subject to unpredictable modifications or even outright deletion. Such electronic books will no longer be stored on people's devices, but accessed through an application and from a remote server. Both the application and the server, however, may very well disappear overnight. The same economic pressures that are currently forcing the industry to lower the price of ebooks, may well end up disempowering readers. 
 
 The commerce of publishing will also be increasingly advertisement-driven. Statistical data-mining of consumer habits, as already practiced by Facebook, Google and Amazon, will of course influence consumers' choices. This model is likely to become the norm once subscription models are widely adopted. Then user statistics and 'big data' will be at the heart of the publishing industry's business models. 
@@ -37,7 +37,7 @@ Flat-rate ebook subscriptions will eventually pose a serious threat to today's p
 
 How will people read in the future? Do people read ebooks from the beginning to the end, or do they casually browse them - or merely keep them as searchable items in a personal electronic library? Do they read PDF versions of books and articles on display screens, or do they first print them on paper? How much content is read only by internet bots and search engines? Will attention spans decrease (the age-old criticism of any new medium)? Or will long, complex texts and printed books become fashionable again in a more mature technological environment? It is very possible that in the course of time, users will adjust to the new reading technologies, and have no trouble digesting long and complex texts from the displays of their mobile devices. 
 
-## The future of publishing culture? 
+##The future of publishing culture? 
 Already today, increasing numbers of writers and artists self-publish their works. The role of publishers as book producers is rapidly becoming a thing of the past. However, at a certain point of overproduction and oversaturation, publishers may redefine their role to become aggregators and curators. A new publishing house like Zero Books (featuring authors who mostly belong to a small, carefully selected group of critical theory bloggers) demonstrates that this model already works today. In the meantime, sales platforms like Amazon have become too large to provide a competitive level of selection and curatorship; even their statistics-driven customer personalization has proven a failure in this respect. 
 
 The electronic publishing models which we have focused on in this Toolkit, using technologies such as EPUB, may in some cases appear counter-intuitive to today's digital media culture: why create what are essentially offline websites in ZIP files, in this age of 'cloud computing' and an 'always-on' culture in which we are constantly connected and networked? The ephemeral nature of networked media seems incompatible with the desire to personally curate, collect and preserve what otherwise may soon be lost. And this is precisely what accounts for much of the appeal of stubborn offline technologies such as EPUB files, as we discovered during the course of our project. [^warwick] 

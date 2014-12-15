@@ -1,4 +1,4 @@
-#07 Towards a hybrid workflow based on Markdown 
+#7 Towards a hybrid workflow based on Markdown 
 
 <div class="summary"> 
 - Hybrid publishing gives the best results based on a single source document which can then be converted to different output formats (InDesign document, EPUB, website, etc.). 
@@ -59,7 +59,7 @@ We recommend two ways of working with Word + Pandoc.
 
 We would advise against using Pandoc to convert back and forth between Word and EPUB. If the Word document is subject to further editorial changes, then the conversion to EPUB (as in the first scenario) should be done again, as would any work already done by the designer on the previously exported EPUB file. Therefore, if possible the editorial changes should be implemented directly in the EPUB or Markdown file. 
 
-### Cleaning up Markdown 
+###Cleaning up Markdown 
 
 Since Markdown is not a word processing application but a document format, it does not provide functions such as automatic renumbering of footnotes and list items. In fact, such numbers don't matter since everything will be renumbered during the document conversion anyway. 
 

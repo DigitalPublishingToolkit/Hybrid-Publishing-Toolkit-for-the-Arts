@@ -1,4 +1,4 @@
-#01 Introduction 
+#1 Introduction 
 
 <div class="summary"> 
 - Hybrid print and electronic publishing requires new work methods and workflows. 
@@ -23,7 +23,7 @@ For art and design publishers, the challenge of 'going electronic' with their pu
 - Small publishers are under a great deal of pressure to keep project costs low, often due to smaller budgets. However, the need to publish in multiple forms (print and electronic) will inevitably increase costs, unless one does as much work as possible in a way that is not dependent on the medium; 
 - In order to make the investment in an electronic publication durable, electronic publications must be sustainable: they should not require constant investment in technical maintenance and version updates. 
 
-## Industry promises vs. reality 
+##Industry promises vs. reality 
 
 There is a stark contrast between the fanciful promises of the computer industry and the often harsh reality of the new digital medium. On one hand, publishers, editors, designers and artists tend to overestimate the interactive and **multimedia** possibilities of electronic publishing. These extra possibilities do exist, but in most cases bring with them higher development costs and remain specific to one particular technical platform. 
 
@@ -34,21 +34,21 @@ Various types of electronic publications may be subject to different kinds of ch
 The possibilities for change can go beyond the rethinking of existing publishing formats, eventually even redefining what a book actually is. 
 
 
-## What this Toolkit provides 
+##What this Toolkit provides 
 
 'Going electronic' - or going hybrid - requires changing the way you work during the publishing process, from delivered manuscript to final publication. The software tools currently in use, from **word processors** such as Microsoft Word to **desktop publishing** suites such as Adobe InDesign, were created for the world of analog print and desktop publishing. Although it is entirely possible to create electronic publications from Microsoft Word documents [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a Docx directly to EPUB using Calibre")(*Converting a Docx directly to EPUB using Calibre*) or InDesign documents [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6")(*Notes on EPUB Development in Adobe InDesign CS6*), which are likely to be the standard format used in existing publishing workflows, in most cases this will be a painful, slow, inefficient and expensive process. This Toolkit focuses instead on do-it-yourself (DIY) technical alternatives. Firstly because the Toolkit is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers; secondly because it is aimed at those who wish to keep the design process in their own hands. 
 
 This Toolkit focuses particularly (but not exclusively) on EPUB3 as an electronic publication format, and on **Markdown** as a word processing format, because of the specific needs of small-edition publishers in the field of art and design: low costs, ease of use, sustainability, and platform independence. The recommendations stem from our practical experience in collaborating on electronic publication projects with four Dutch art, design and research publishers: BIS Publishers, Valiz, nai010 Publishers and the Institute of Network Cultures. 
 
 
-## Who is this Toolkit written for 
+##Who is this Toolkit written for 
 
 You may be a publisher, a designer, or someone who is just starting out with making books. You probably identify with, or work in, the arts. You may be hoping to find answers, gain knowledge, pick up some tips, and consult various resources. This Toolkit intends to provide all of that. The overall focus is on pragmatic solutions for publishers within the sector of art and culture. No prior knowledge of creating an ebook is required. Having said that, a familiarity with various computer software applications is certainly helpful, as is the willingness to learn, and an inquisitive curiosity to look beyond this guide for specific answers. This publication is not meant as a complete tutorial on how to create an electronic publication; rather, it intends to provide the reader with basic guidance on how to make a first attempt at creating such a publication. 
 
 As we said at the beginning of this introduction, 'you must change your life'; therefore, you may experience something of a culture shock as you read through this document. If electronic publishing is to be merely an afterthought in the production chain and the product portfolio, the amount of change may be relatively small. However, if electronic publishing is to become just as important as print, the change may be quite radical. In other words, if you are seriously interested in electronic publishing, you must be willing to change your current way of working, and to gradually familiarize yourself with the less mainstream alternatives offered here. 
 
 
-## How to use this Toolkit 
+##How to use this Toolkit 
 
 The Toolkit aims to provide a practical guide on how to develop electronic publications, for publishers as well as for anyone else interested in this subject matter. The Toolkit will attempt to provide insight into the prerequisite conditions of electronic publishing, to suggest Open Source tools whenever possible, and to allow publishers active in the art and culture sector to navigate the diverse and complex landscape of digital publishing in a more informed way. 
 
@@ -58,7 +58,7 @@ After a basic exploration in Chapter 2 of publishing in general and electronic p
 
 We wish to stress here that the structure of the manual is not as linear as the above outline may suggest. Particularly further on in the manual, some of the terminology may seem confusing at first, but will be explained in more detail later. 
 
-## Who worked on this Toolkit 
+##Who worked on this Toolkit 
 
 This publication is an outcome of the two-year research and development project *Digital Publishing Toolkit* funded by the Dutch Stichting Innovatie Alliantie (SIA) as part of its [^DPT-blog] RAAK-MKB [^RAAK-MKB] program for innovation in small and medium-sized businesses. The project was based on the following research question: *In what way can a platform be created with new tools for Open Source publishing that will allow publishers in the sector of art and culture to produce interactive e-publications themselves?* 
 

@@ -1,4 +1,4 @@
-#02 The basics 
+#2 The basics 
 
 <div class="summary"> 
 - Throughout the historical development of writing, characters beyond the basic alphabet have played an increasingly important role, starting with blank spaces between words, then punctuation marks, and later markup for formatting. 
