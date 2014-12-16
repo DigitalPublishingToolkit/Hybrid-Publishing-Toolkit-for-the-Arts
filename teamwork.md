@@ -11,8 +11,7 @@
 ## Miriam
 
 ## Margreet
-* working in chapter 4
-* 
+* working in chapter 5 
 
 ## Loes & Kimmy
 
