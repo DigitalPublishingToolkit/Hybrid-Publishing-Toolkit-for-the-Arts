@@ -103,7 +103,7 @@ More recently, artists' and designers' (print) books have grown from a niche phe
 ### Workflows 
 
 <!-- the following image missing or wrong filename -->
-![Periodical Approach](images/08_pub_artist_designer.png "Artist / designer books") 
+![Periodical Approach](images/08_pub_artist_designer_02.png "Artist / designer books")
 
 Since the artists' book is not a defined genre, there is no such thing as a standard methodology or workflow. The whole spectrum of the medium can be used and experimented with. On the other hand, many contemporary artists, designers and media activists actively experiment with electronic publishing as a 'poor' (i.e. simple low-tech) medium of social sharing rather than a 'rich' visual and tactile medium; this is particularly the case in the context of artists' pirate book-sharing projects. 
 
