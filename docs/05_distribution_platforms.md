@@ -60,12 +60,7 @@ There are many services which offer **print-on-demand** publishing; a simple Goo
 
 ###Options in the Netherlands 
 
-* CB's print on demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the 
-* 
-* 
-* 
-* 
-* s offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
+* CB's print on demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
 * Boekscout[^Boekscout] - Is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
 
 ##Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
@@ -125,4 +120,10 @@ Of course, none of these projects can be considered serious competition to mains
 [^Ubuweb]: UbuWeb, <a href="http://www.ubu.com">http://www.ubu.com</a>. 
 [^Issuu]: Issuu, <a href="http://www.issuu.com">http://www.issuu.com</a>. 
 [^Scribd]: Scribd, <a href="http://www.scribd.com">http://www.scribd.com</a>. 
-[^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>.
+[^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>. 
+[^Internet-Archive]: Internet Archive, <a href="https://www.archive.org">https://www.archive.org</a>. 
+[^Medium]: Medium, <a href="https://medium.com">https://medium.com</a>. 
+[^WordPress]: WordPress, <a href="https://www.archive.org">https://www.archive.org</a>. 
+[^Lulu]: Lulu, <a href="https://www.lulu.com">https://www.lulu.com</a>. 
+
+

@@ -65,7 +65,7 @@ There may also be different editorial criteria for the content in a hybrid workf
 
 * Different style of writing: 'writing for the web' vs. 'writing for print'. 
 * The inclusion of interactive material, audio and video, as well as additional or other images for print. 
-* Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing") 
+* Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing")(*Style Guide for Hybrid Publishing*) 
 
 ##Art/design catalogue 
 
@@ -103,7 +103,7 @@ More recently, artists' and designers' (print) books have grown from a niche phe
 ### Workflows 
 
 <!-- the following image missing or wrong filename -->
-![Periodical Approach](images/08_pub_artist_designer.png "Artist / designer books") 
+![Periodical Approach](images/08_pub_artist_designer_02.png "Artist / designer books") 
 
 Since the artists' book is not a defined genre, there is no such thing as a standard methodology or workflow. The whole spectrum of the medium can be used and experimented with. On the other hand, many contemporary artists, designers and media activists actively experiment with electronic publishing as a 'poor' (i.e. simple low-tech) medium of social sharing rather than a 'rich' visual and tactile medium; this is particularly the case in the context of artists' pirate book-sharing projects. 
 
@@ -144,3 +144,5 @@ We distinguish between two major types of workflow, the first based on a print p
 [^elmcip]: Electronic Literature Knowledge Base, <a href="http://elmcip.net/knowledgebase">http://elmcip.net/knowledgebase</a>. 
 [^PDF/A]: PDF/A stands for *archival PDF* and is an ISO standard originally formulated by Adobe in collaboration with non-profit organizations in the field of information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles must be fully embedded in a document, <a href="http://en.wikipedia.org/?title=PDF/A">http://en.wikipedia.org/?title=PDF/A</a>. 
 [^other-formats]: Used as a medium of artistic experimentation among by various artists and designers, including net artists since the 1990s, and also by the conceptual poet and UbuWeb founder Kenneth Goldsmith. 
+[^roth-book-art]: Electronic reproduction of Dieter Roth's sculptural book objects, <a href="http://www.moma.org/visit/calendar/exhibitions/129">http://www.moma.org/visit/calendar/exhibitions/129</a>. 
+[^ruscha-books]: Ed Ruscha’s conceptual-visual artists’ books, <a href="http://www.artnet.com/artists/ed-ruscha/">http://www.artnet.com/artists/ed-ruscha/</a>. 

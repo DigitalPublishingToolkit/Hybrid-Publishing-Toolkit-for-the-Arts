@@ -63,14 +63,14 @@ Next we will create the file *container.xml*, the XML file (located in the *META
 1. Again using a text editor, create a new plain-text file and save it to the *META-INF* folder with the name *container.xml*; 
 2. The file *container.xml* contains a simple structure definition written in XML. Below is a complete version of the XML, followed by an explanation of its separate components. (The technical explanations are not essential to understanding the text and may be skipped.) 
 
-` 
- <?xml version="1.0" encoding="UTF-8"?> 
- <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
- 	<rootfiles> 
- 	<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
- 	</rootfiles> 
- </container> 
-` 
+
+        <?xml version="1.0" encoding="UTF-8"?> 
+         <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"> 
+         	<rootfiles> 
+         	<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
+         	</rootfiles> 
+         </container> 
+ 
 
 The first line is a declaration statement, which should always be present in XML files. This is followed by a 'container' tag indicating that the publication is based on the *Open Container Format* as specified by the EPUB standard.[^epub-standard] Next, the 'rootfiles' tag indicates a collection of rootfiles: these are the possible starting points where the e-reader can begin processing the content. In this case the rootfiles statement contains only one entry, called 'rootfile'; this tag has two attributes, 'full-path' and 'media-type'. The first attribute is the path to an inventory file (in this case *content.opf*) containing metadata describing the publication and its content. Finally, 'media-type' is a restatement of the EPUB's mimetype. 
 
@@ -82,39 +82,39 @@ The most important part of this document is the information in quotes following 
 
 The .opf (Open Packaging Format) file is an important part of the structure of an EPUB. It is located in the *OEBPS* folder and contains the metadata necessary to accurately describe the publication. It can also contain the linear reading order which, in combination with the contents of *toc.ncx*, may be used by e-readers to build navigation menus or a table of contents. The .opf file is too long to be included verbatim in the present document, but the most important sections are referenced below. An example of a complete .opf file can be found in the rudimentary example EPUB, in the *OEBPS* folder and under the name *Example.opf*. 
 
-` 
- <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
- 	xmlns:opf="http://www.idpf.org/2007/opf" 
- 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
- 	<dc:title>Example EPUB</dc:title> 
- 	<dc:language>en</dc:language> 
- 	<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
- 	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
- 	... 
- </metadata> 
-` 
+
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     	xmlns:opf="http://www.idpf.org/2007/opf" 
+     	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+     	<dc:title>Example EPUB</dc:title> 
+     	<dc:language>en</dc:language> 
+     	<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
+     	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
+     	... 
+     </metadata> 
+ 
 
 The 'metadata' section contains a description of the publication: title, author, publisher, etc. Most of these entries are identical to what librarians use for cataloguing publications. Parts of the metadata section are used by e-readers to organize ebook collections. 
 
-` 
- <manifest> 
- 	<item href="styles.css" id="css1" media-type="text/css"/> 
- 	<item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
- 	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
- 	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
- 	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
- 	<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
- </manifest> 
-` 
+ 
+    <manifest> 
+     	<item href="styles.css" id="css1" media-type="text/css"/> 
+     	<item href="cover.png" id="cover" media-type="image/png" properties="cover-image"/> 
+     	<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" /> 
+     	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
+     	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
+     	<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
+     </manifest> 
+ 
 
 The 'manifest' section lists all the resources used in the EPUB package, with the exception of subdirectories, the *mimetype* file, the contents of the *META-INF* folder, and the .opf file itself. Manually producing a manifest section can be extremely time-consuming for large EPUBs, as the list of resources used in the publication is bound to be long. Every resource has a unique 'id' and should be referenced by a relative path in the 'href' attribute and described in the 'media-type' attribute. The entry with the *cover.png* is of special interest, as its 'properties' attribute specifies that the image may be used by e-readers as a cover image for the publication, for example in collection overviews. 
 
-` 
- <spine toc="ncx"> 
- 	<itemref idref="chapter1" /> 
- 	<itemref idref="chapter2" /> 
- </spine> 
-` 
+ 
+    <spine toc="ncx"> 
+     	<itemref idref="chapter1" /> 
+     	<itemref idref="chapter2" /> 
+     </spine> 
+ 
 
 Finally, the 'spine' section lists all the HTML or XHTML pages present in the publication; the order of this list indicates to the e-reader the linear reading order of the publication. The 'spine' section contains only HTML or XHTML pages, no images or other content. The 'toc' attribute refers to the 'id' attribute of the 'toc.ncx' file already described in the 'manifest' section. 
 
@@ -134,16 +134,19 @@ And your EPUB is ready!
 
 InDesign is an excellent tool for creating and managing print projects. It also includes a powerful EPUB production tool which has steadily improved over time. InDesign's omnipresence and importance in print design make it an obvious choice for projects that have both print and electronic outputs. InDesign is so powerful that it will be useful even if print isn't part of the equation - though cost considerations may preclude its use if print is not going to be a requirement. Below we will describe step-by-step how to create an EPUB with custom layout using InDesign. 
 
-Another option when using InDesign is to import files in the ICML file format. There are a number of tools for converting text files from various formats to ICML. The files can then be used to create print PDFs and EPUBs from the same InDesign document. For a step-by-step description of this process, please go to the Toolkit blog. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ "Link to blog post: Markdown to InDesign with Pandoc (via ICML)") 
+Another option when using InDesign is to import files in the ICML file format. There are a number of tools for converting text files from various formats to ICML. The files can then be used to create print PDFs and EPUBs from the same InDesign document. For a step-by-step description of this process, please go to the Toolkit blog. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/08/markdown-to-indesign-with-pandoc-via-icml/ "Link to blog post: Markdown to InDesign with Pandoc (via ICML)")(*Markdown to InDesign with Pandoc (via ICML)*) 
 
 InDesign can generate both reflowable and fixed-layout EPUB files. Reflowable layout means that the size and positioning of text and images are adjusted according to the screen size as well as the user's individual preferences. Fixed layout means that the text and images are always shown in the same (relative) size and positions on a page, regardless of the screen size or other factors. Fixed-layout text and images are usually reduced in size to fit on smaller screens, often to the point of becoming completely illegible on mobile phones. Finally, reflowable EPUB is supported by a broader range of e-readers and tablets, while fixed layout is supported by only a few. 
 
 <!-- the following 3 images missing or wrongly named -->
-![image](images/InD_InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
-![image](images/InD_InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
-![image](images/InD_InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
+![image](images/InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
+
+![image](images/InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
+
+![image](images/InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
 
 ![image](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
+
 ![image](images/InD_reflowiphone4.png "The text reflows to fit") 
 
 InDesign's features for print layouts - such as master pages, control of headers and footers, and precise positioning of text, images and other elements - are ignored in reflowable EPUB documents. However reflowable EPUB does permit choosing settings such as (initial) font size, leading, font type, spacing before and after paragraphs, whether a paragraph should begin on a new page, etc. Keep in mind however that individual users are often able to partially or completely override these settings in their e-reader devices or applications. 
@@ -161,10 +164,14 @@ First we must define the styles, then apply them, and finally make sure they are
 
 ####Creating styles 
 
-1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the icon in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.
+1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the icon in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.  
+
 ![image](images/InD_Styles_1_new.png) 
+
 2. Give the style a name. 
+
 ![image](images/InD_Styles_2_New_Paragraph_Style.png) 
+
 3. Select any additional options. The right-hand side of the dialog box will show different options, depending on the category selected on the left-hand side.  
 
 Tips: 
@@ -175,15 +182,20 @@ Tips:
 ####Applying styles 
 
 1. Click anywhere in the paragraph to which you want to apply the style.
+
 ![image](images/InD_Styles_3_cursor.png) 
+
 2. Choose the desired style from the Paragraph Styles panel.
+
 ![image](images/InD_Styles_4_apply.png) 
+
 3. Repeat steps 1 and 2 for all paragraphs in the document.
 
 Tips: 
 
 - You can apply a basic style to all paragraphs at once by choosing Select All and then choosing a basic style such as Body or Normal, after which you can individually apply the less frequent heading, caption and other paragraph styles to the relevant paragraphs. 
 - If you have imported a document with large quantities of existing bold or italic text, you can automatically apply a character style using the search and replace function. 
+
 ![Image](images/InD_Styles_5_Find_change.png) 
 
 ####Mapping styles to tags 
@@ -192,13 +204,16 @@ Though InDesign can perform this step automatically, for more control you can sp
 
 1. Choose Edit All Export Tags from the Paragraph Styles panel menu. 
 2. In the dialog box that appears, verify that each style in the Style column is mapped to the appropriate CSS in the Tag column. It's a good idea, for example, for heading paragraphs in your book to be exported as 'h1', 'h2', etc., and also for each style to have its own 'Class'. 
+
 ![Image](images/InD_Styles_8_add_class.png) 
 
 Tips: 
 
 - If you import XML documents, you can have InDesign automatically map specific XML tags to the desired paragraph styles (which later will be mapped to the proper EPUB CSS tags as shown above). 
 - You can also map a style to a tag by selecting Export Tagging in the Paragraph Style and Character Style dialog boxes. 
+
 ![Image](images/InD_Styles_7_pstyle_options_edit_tags.png) 
+
 - Earlier versions of InDesign were not so good at exporting all of a document's styles to CSS. The most recent version InDesign CC offers a substantial improvement in this respect. 
 - Besides (or in addition to) the formatting from the styles provided by InDesign, you can apply your own CSS in the 'EPUB - Reflowable Layout Export Options' dialog box (see the Export Options section of this step-by-step guide). 
 
@@ -215,24 +230,35 @@ InDesign places images in the layout in one of three ways: inline, **anchored** 
 Generally it's a good idea to use anchored images for a layout that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB, and also allows the text to wrap around the image. 
 
 1. Place an image on the pasteboard. 
+
 ![Image](images/InD_anchor-1.png) 
+
 2. If desired, you can create a caption, apply a style to the caption, and then group the caption with the image. 
+
 ![Image](images/InD_anchor-2.png) 
+
 ![Image](images/InD_anchor3-group.png) 
+
 3. Select the image in order to make its controls visible. Click and drag the blue box (near the upper right-hand corner of the image) to the desired location in the text. The blue box now changes to an anchor symbol. 
+
 ![Image](images/InD_anchor4-dragbluesquare.png) 
+
 <!--- the following image missing or wrongly named -->
-![Image](images/InD_anchor5-anchored.png) 
+![Image](images/InD_anchor5-anchored2.png) 
 
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want the text to wrap around the image, select the image and then choose Object > Object Export Options. 
+
 ![Image](images/InD_anchor6-Object_Export_Options.png) 
-	a. Select the 'EPUB and HTML' options tab. 
-	b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu. 
-	c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field. 
+
+a. Select the 'EPUB and HTML' options tab. 
+b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu. 
+c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field. 
+
 ![Image](images/InD_anchor7-textwrap.png) 
 
 You can also use this option to adjust how the image appears in the print edition. 
+
 ![Image](images/InD_anchor8-printadjust.png) 
 
 ###Links and cross-references 
@@ -243,13 +269,18 @@ There are two main types of links: links which specify both the destination and 
 ###Creating internal links within a book 
 
 1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New Hyperlink Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
+
 ![Image](images/InD_hyperlink_destination_1.png) 
+
 ![Image](images/InD_hyperlink_destination_2.png) 
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
 3. Choose Text Anchor from the 'Link To' pull-down menu, then select the name of the document in which the destination Text Anchor can be found, and select the name of the Text Anchor. 
+
 ![Image](images/InD_hyperlink_destination_3.png) 
+
 4. It's also a good idea to apply a style so that you can format all the links later. 
 5. Click OK to create the link. 
+
 ![Image](images/InD_hyperlink_destination_4.png) 
 
 ###Creating cross-references 
@@ -259,10 +290,13 @@ Cross-references are links in which the link text is automatically generated bas
 2. To view the Cross-References panel, choose Window > Type & Tables > Cross-References. 
 3. Choose Insert Cross-Reference from the panel menu. 
 4. Under Destination, specify the desired Document. Then, from the list on the left-hand side, choose the type of paragraph you wish to link to. 
+
 ![Image](images/InD_cross_references.png) 
+
 All paragraphs formatted with that particular style will show up in the list on the right-hand side, allowing you to choose the paragraph you want the cross-reference to link to. 
 5. Select a Cross-Reference Format, and click OK. 
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
+
 ![Image](images/InD_cross_references_2.png) 
 
 ###Tables of contents 
@@ -273,20 +307,26 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 ####Creating a Table of Contents Style 
 
 1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. The New Table of Contents Style dialog box will now appear. 
+
 ![Image](images/InD_TOC_1_new.png) 
+
 2. Fill in the Title, for example 'Contents'. This will be used for the heading above the generated table of contents. Then choose which paragraph style to apply to that heading. 
 3. Choose which types of paragraph will be used to populate the table of contents, such as headings or chapter names. 
 4. Click More Options on the upper right-hand side of the dialog box (if this option is already selected, the option Fewer Options will appear instead). 
 5. In the area titled Style, choose which style to apply to each type of element in the table of contents. It's a good idea to create special styles for these elements. 
 6. In the Page Number menu box, choose No Page Number, since page numbers are not necessary in an ebook. 
+
 ![Image](images/InD_TOC_options.png) 
+
 7. Click OK to save the Table of Contents Style. This is the first step for creating both a navigational and an in-document table of contents. 
 
 ####Generating the in-document table of contents 
 
 1. Once you've created a Table of Contents Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs formatted in the styles you have selected. 
 2. Use the 'loaded' pointer to place the table of contents at the desired location in the document. 
+
 ![Image](images/InD_TOC_indocument.png) 
+
 You are not required to place the table of contents at the beginning of the book, or indeed to include it all. 
 3. You will learn how to generate the navigational table of contents in the Export Options section of this step-by-step guide. 
 
@@ -301,40 +341,50 @@ Metadata is information about your book, including the title of the publication,
 InDesign gives you two opportunities to add metadata: in the File Info dialog box, and when you export your file to EPUB. The two sets of information overlap but are not identical. Empty fields will be filled in with data from the other set of information. 
 
 1. To add metadata to your file, go to File > File Info. 
+
 ![Image](images/InD_Metadata_1.png) 
+
 2. You can add additional metadata as you export the document to EPUB as discussed further below. 
 
 ###Cover 
 The final step before exporting to EPUB is to create and add a cover image for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to visually preview the cover at a very small ('icon') size. Of course the resolution of the image should also be high enough to look good at full-screen size as well. Most ebook stores require images that are at least 1000 pixels on the shortest side. 
 
 1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the JPEG format. 
+
 ![Image](images/InD_SaveCover.png) 
+
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
 ###Checklist and export options 
 Before finally exporting to EPUB, first make sure that all formatting has been applied using styles, that all images are properly placed and anchored, that you have defined all the necessary links and cross-references, that you have defined a Table of Contents Style, that you have specified all the necessary and desired metadata, and that you have created a high-resolution cover image that can also be viewed adequately at small sizes. 
 
 1. Select File > Export, then fill in a filename and destination, and select EPUB (Reflowable) from the Format pull-down menu. 
+
 ![Image](images/InD_Export_1.png) 
+
 2. Click Save. The 'EPUB - Reflowable Layout Export Options' dialog box appears with eight separate panels of options. 
 3. In the General panel, choose EPUB 3.0 from the Version pull-down menu to ensure that your document complies with the latest standards. 
+
 ![Image](images/InD_Export_2.png) 
+
 4. Select the Choose Image option from the Cover pull-down menu; then navigate to the folder where you have saved the JPEG cover image you created earlier, and select that file. If you select the Rasterize Front Page option from the Cover pull-down menu instead, InDesign will create a snapshot of the first page of your book and use that image for the cover. 
 5. Select the option Multi Level (TOC Style) from the Navigation TOC pull-down menu; then choose the TOC Style that you created earlier in the New Table of Contents Style dialog box. 
 6. On the left-hand side of the dialog box, select the Metadata panel. 
 7. If the book has an ISBN, enter it in the Identifier field. 
+
 ![Image](images/InD_Metadata_Export.png) 
+
 8. All the other fields besides the Date field should be automatically populated with data entered earlier in the File Info dialog box. You can add any missing information now. InDesign uses the information in the Date field for the EPUB2 element 'dc:date', but will use the actual date and time to automatically fill in this information in a format compatible with EPUB3. In other words, you don't have to enter anything in the Date field. 
 9. There are many other export options: for controlling how images and text are exported, for adding JavaScript and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
+
 ![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
 
 ###Testing and validating 
 Be sure to test the EPUB file with as many e-reader devices and applications as possible. You can use the application Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to the Kindle format so that you can test it on actual Kindle devices. Finally, it's always a good idea to validate your EPUB documents before releasing them.[^epub-validator] 
 
 ##Do-it-yourself EPUB using Pandoc 
-Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. <!-- internal link needed--> 
-[![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")
+Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (*Hybrid Workflow How-To: Making Automated Workflows, Part 1*) [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")(*Hybrid Workflow How-To: Making Automated Workflows, Part 2*) 
 
 In this guide we will use the Old English epic poem *Beowulf* as a working example. The text is available from the Project Gutenberg website in a variety of formats (including EPUB). The 'plain text' version is the complete text of the poem in a single file with no styling whatsoever (no fonts, font sizes, formatting such as bold or italic, etc.). We will use this text to show how a simple conversion to EPUB can be done. Before starting, first download and install Pandoc.[^pandoc-installation-page] Pandoc is a 'command-line' program, as opposed to a **graphical user interface** environment, so once the software is installed you will not see a desktop icon with which to 'open' it. In the following step-by-step guide we will explain how to use the tool. 
 
@@ -417,3 +467,4 @@ Finally, why not simply publish essays, articles or even whole books on a websit
 [^pandoc-calibre]: Pandoc: <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>; Calibre ebook management: <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
 [^Sigil]: *Sigil, The EPUB Editor*, <a href="http://code.google.com/p/sigil">http://code.google.com/p/sigil</a>. 
 [^Jutoh]: *Jutoh, epublishing made easy*, <a href="http://www.jutoh.com">http://www.jutoh.com</a>. 
+[^magplus]: Mag + Mobile Publishing, <a href="https://www.magplus.com">https://www.magplus.com</a>.
