@@ -1,10 +1,10 @@
 # Back cover text
-Electronic publishing has become a vital part of contemporary arts and design. Periodicals like the _e-flux journal_, art and design blogs, Internet libraries like _Ubu Web_ are widely read and discussed. 
+Electronic publishing has become an essential medium for the field of contemporary arts and design. While traditional models of art book publishing are becoming less and less viable for artists, writers, designers and publishers, periodicals like the _e-flux journal_, art and design blogs, and Internet libraries such as _UbuWeb_ are widely read and discussed. 
 
-At the same time, traditional models of art book publishing become less and less viable. To which extent - and how - can artists, writers, designers and publishers use electronic book technology as an alternative? And what needs to be done for print and electronic editions of the same publication? 
+Is electronic book technology really the way forward for these types of publications? Or does the answer lie in some hybrid form of publication, in which both print and electronic editions of the same basic content can be published in a parallel or complementary fashion?  And perhaps more importantly, what are the changes in workflow and design mentality that will need to be implemented in order to allow for such hybrid publications? 
 
-This guide is meant for everyone working in art and design publishing - and presupposes no digital technology expertise. It contains hands-on practical advice and tools, focusing on working solutions for low-budget, small edition publishing. 
+This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital technology, or indeed traditional publishing technology, is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. 
 
-Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include catalogues, research publications and artists' books.
+Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists'/designer's books. 
 
 
