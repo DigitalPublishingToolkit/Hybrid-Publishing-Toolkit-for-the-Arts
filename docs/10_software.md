@@ -1,4 +1,4 @@
-#10 Software catalogue 
+﻿#10 Software catalogue 
 
 A catalogue of the Free and Open Source software, both used and written in the Hybrid Publishing Toolkit project, with links to the relevant sources. 
 
@@ -40,7 +40,7 @@ A small program written in the **Python** programming language to generate a tab
 
 ###ICML 
 
-ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application **pandoc**, **Markdown** files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on **Make** and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
+ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application **Pandoc**, **Markdown** files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on **Make** and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
 
 
 ###Make 

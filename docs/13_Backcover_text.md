@@ -1,5 +1,5 @@
 # Back cover text
-Electronic publishing has become an essential medium for the field of contemporary arts and design. While traditional models of art book publishing are becoming less and less viable for artists, writers, designers and publishers, periodicals like the _e-flux journal_, art and design blogs, and internet libraries such as _UbuWeb_ are widely read and discussed. 
+Electronic publishing has become an essential medium for the field of contemporary arts and design. While traditional models of art book publishing are becoming less and less viable for artists, writers, designers and publishers, periodicals like the *e-flux journal*, art and design blogs, and internet libraries such as *UbuWeb* are widely read and discussed. 
 
 Is electronic book technology really the way forward for these types of publications? Or does the answer lie in some hybrid form of publication, in which both print and electronic editions of the same basic content can be published in a parallel or complementary fashion?  And perhaps more importantly, what are the changes in workflow and design mentality that will need to be implemented in order to allow for such hybrid publications? 
 
