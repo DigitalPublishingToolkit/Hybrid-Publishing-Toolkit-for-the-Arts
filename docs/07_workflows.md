@@ -81,7 +81,7 @@ John Gruber, the creator and main developer of Markdown, describes Markdown on h
 
 ![Markdown](images/Markdown.png "Markdown.") 
 
-In this example, the tag '\#' defines a top-level heading, '\#\#' a second-level heading, '\_' italic text, '\*\*' bold text, and '\>' a block quote. Markdown also provides tags for defining lists, embedded images, and links. The popular extended version **MultiMarkdown** provides further support for footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. Using simple Open Source conversion applications such as Pandoc, text formatted using Markdown can be automatically converted to well-structured HTML, EPUB, PDF, RTF or other document formats, requiring no manual adjustments. 
+In this example, the tag '\#' defines a top-level heading, '\#\#' a second-level heading, '\_' italic text, '\*\*' bold text, and '\>' a block quote. Markdown also provides tags for defining lists, embedded images, and links. The popular extended version **MultiMarkdown** provides further support for footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. Using simple Open Source conversion applications such as Pandoc, text formatted using Markdown can be automatically converted to well-structured HTML, EPUB, PDF, **RTF** or other document formats, requiring no manual adjustments. 
 
 Markdown is a product of internet culture. It uses ad-hoc formatting signs commonly used in e-mail and chat platforms, and further popularized on blogging platforms, to provide a standardized, human-readable, user-friendly and well-structured document format, suitable for long-term storage and as a basic source for conversions to contemporary and future document formats. While its formatting **syntax** is simple, it is also both strict and unambiguous enough to allow multiple writers and editors to work on a single document without unnecessary confusion. Another advantage of Markdown is that it can be written and edited in any software application capable of processing basic text: unlike the proprietary file formats of Microsoft Word or other word processors, Markdown can be opened using a simple text editor. 
 
@@ -114,8 +114,8 @@ Technically speaking, Markdown provides some of the same features and advantages
 
 *Paid* 
 
-- [ByWord](http://bywordapp.com)[^ByWord], a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
-- [iA Writer](http://www.iawriter.com/mac/)[^iAWriter], a program similar to ByWord. The program runs on Mac, iPhone and iPad. 
+- [Byword](http://bywordapp.com)[^Byword], a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
+- [iA Writer](http://www.iawriter.com/mac/)[^iAWriter], a program similar to Byword. The program runs on Mac, iPhone and iPad. 
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php)[^Scrivener], a word processing application popular among professional writers, available for Mac OS X and Windows. Fully supports MultiMarkdown internally. 
 
 **Windows** 
@@ -159,7 +159,7 @@ In pure text databases we also have to be careful. On one hand we have the data 
 [^MdCharm]: MdCharm, <a href="http://www.mdcharm.com/">http://www.mdcharm.com/</a>. 
 [^Mou]: Mou, <a href="http://25.io/mou/">http://25.io/mou/</a>. 
 [^MacDown]: *MacDown, The Open Source Markdown editor for OS X*, <a href="http://macdown.uranusjr.com/">http://macdown.uranusjr.com/</a>. 
-[^ByWord]:ByWord 2, <a href="http://bywordapp.com/">http://bywordapp.com/</a>. 
+[^Byword]:Byword 2, <a href="http://bywordapp.com/">http://bywordapp.com/</a>. 
 [^Scrivener]: Scrivener 2, <a href="http://www.literatureandlatte.com/scrivener.php">http://www.literatureandlatte.com/scrivener.php</a>. 
 [^MarkdownPad]: MarkdownPad, <a href="http://markdownpad.com/">http://markdownpad.com/</a>. 
 [^MultiMarkdown]: MultiMarkdown, <a href="http://fletcherpenney.net/multimarkdown/">http://fletcherpenney.net/multimarkdown/</a>. 

@@ -25,7 +25,7 @@ A standardized way for software applications to communicate with each other and 
 See **Software**. The word 'app' was originally a marketing term invented by Apple to win over resistance against installing third-party software on the iPhone. Nowadays, the word is most commonly used for (usually relatively small) software applications running on mobile or desktop operating systems and which are downloaded and installed from an app store. 
 
 #####App store 
-An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry App World. 
+An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry World. 
 
 #####ASCII (American Standard Code for Information Interchange) 
 The standard encoding format for plain-text files in English since 1963. ASCII is limited to 128 characters and therefore excludes diacritic (accented) characters and non-European writing systems. For written text, ASCII has therefore been superseded by Unicode (which can store characters of practically every writing system). ASCII text remains the standard format for programming and markup languages. See also **Unicode**. 
