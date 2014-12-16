@@ -23,7 +23,7 @@ We use American spelling
 * e-paper
 * iBook
 * EPUBreader (Firefox add-on)
-* Pandoc and Calibre (though they themselves write it with a lowercase first letter, this in practice makes teh etxt harder to read)
+* Pandoc and Calibre (though they themselves write it with a lowercase first letter, this in practice makes the text harder to read)
 
 -- avoid 'epub' if refering to the general kind of electronic publication and instead use *electronic publication(s)* if possible. 
 
