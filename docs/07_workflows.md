@@ -154,7 +154,7 @@ In pure text databases we also have to be careful. On one hand we have the data 
 
 [^iAWriter]: iA Writer, <a href="http://www.iawriter.com/mac/">http://www.iawriter.com/mac/</a>. 
 [^EPUBStraighttothePoint]: Elizabeth Castro has provided a thorough guide for InDesign-to-EPUB publication in her book *EPUB Straight to the Point*, San Francisco: Peachpit Press, 2010. 
-[^Pandoc]: *Pandoc a universal document converter*, <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>. 
+[^pandoc]: *Pandoc a universal document converter*, <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>. 
 [^UberWriter]: UberWriter, <a href="http://uberwriter.wolfvollprecht.de/">http://uberwriter.wolfvollprecht.de/</a>. 
 [^MdCharm]: MdCharm, <a href="http://www.mdcharm.com/">http://www.mdcharm.com/</a>. 
 [^Mou]: Mou, <a href="http://25.io/mou/">http://25.io/mou/</a>. 

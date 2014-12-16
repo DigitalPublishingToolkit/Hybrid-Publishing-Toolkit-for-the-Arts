@@ -102,3 +102,4 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 [^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
 
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
+[^phpepub]: Asbjørn Grandt's PHPePub, <a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>.

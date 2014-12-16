@@ -468,3 +468,4 @@ Finally, why not simply publish essays, articles or even whole books on a websit
 [^pandoc-calibre]: Pandoc: <a href="http://www.johnmacfarlane.net/pandoc/">http://www.johnmacfarlane.net/pandoc/</a>; Calibre ebook management: <a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>. 
 [^Sigil]: *Sigil, The EPUB Editor*, <a href="http://code.google.com/p/sigil">http://code.google.com/p/sigil</a>. 
 [^Jutoh]: *Jutoh, epublishing made easy*, <a href="http://www.jutoh.com">http://www.jutoh.com</a>. 
+[^magplus]: Mag + Mobile Publishing, <a href="https://www.magplus.com">https://www.magplus.com</a>.

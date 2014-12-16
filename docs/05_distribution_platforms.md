@@ -359,4 +359,9 @@ Of course, none of these projects can be considered serious competition to mains
 [^Issuu]: Issuu, <a href="http://www.issuu.com">http://www.issuu.com</a>. 
 [^Scribd]: Scribd, <a href="http://www.scribd.com">http://www.scribd.com</a>. 
 [^artistsebooks.org]: <a href="http://artistsebooks.org">http://artistsebooks.org</a>.
+[^Internet-Archive]: Internet Archive, <a href="https://www.archive.org">https://www.archive.org</a>.
+[^Medium]: Medium, <a href="https://medium.com">https://medium.com</a>.
+[^WordPress]: WordPress, <a href="https://www.archive.org">https://www.archive.org</a>.
+[^Lulu]: Lulu, <a href="https://www.lulu.com">https://www.lulu.com</a>.
+
 >>>>>>> FETCH_HEAD
