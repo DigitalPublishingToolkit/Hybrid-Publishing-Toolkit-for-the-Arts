@@ -114,4 +114,3 @@ The file formats described above are all *reflowable* documents: their presentat
 [^epub-seller-kobo]: *Het begint met Kobo Writing Life*, <a href="http://nl.kobo.com/writinglife">http://nl.kobo.com/writinglife</a>. 
 [^epub-google-play]: *Google Play, Books Partner Center*, <a href="https://play.google.com/books/publish/signup#settings">https://play.google.com/books/publish/signup#settings</a>. 
 [^epub-seller-barnes]: *Frequently Asked Questions About NOOK Press*, <a href="https://www.nookpress.com/support/faq">https://www.nookpress.com/support/faq</a>. 
-[^comic-book-archive]: Comic book archive,  http://fileformats.archiveteam.org/wiki/Comic_Book_Archive.
