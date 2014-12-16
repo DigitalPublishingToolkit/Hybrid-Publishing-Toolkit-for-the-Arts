@@ -45,10 +45,10 @@ A numeral system based on only two values, zero and one. For example, the binary
 Contraction of 'binary digit'. A bit is the smallest measurement unit of computer memory or processing, or data transmission speed. The binary code '1001', for example, consists of four bits. See also **Binary** and **Byte**. 
 
 #####BitTorrent 
-BitTorrent is the most popular Internet technology for file sharing and downloading large amounts of data (such as movies). It works according to a principle known as 'peer-to-peer', which means that everyone who is downloading a file is simultaneously uploading it to fellow downloaders. This way, bandwidth is shared among the downloaders, and no central download server is necessary. 
+BitTorrent is the most popular internet technology for file sharing and downloading large amounts of data (such as movies). It works according to a principle known as 'peer-to-peer', which means that everyone who is downloading a file is simultaneously uploading it to fellow downloaders. This way, bandwidth is shared among the downloaders, and no central download server is necessary. 
 
 #####Blog 
-Short for 'web log'; usually a chronological and often personal record of thoughts, web links, events or actions, posted on the Web. The difference between blogs and news/opinion websites is becoming increasingly blurry. 
+Short for 'web log'; usually a chronological and often personal record of thoughts, web links, events or actions, posted on the web. The difference between blogs and news/opinion websites is becoming increasingly blurry. 
 
 #####Browser 
 The software used by people for accessing and viewing websites. A web browser loads pages from servers, translates their internal HTML code into formatted text, displays graphics, plays music and video, and provides links to related pages. Web browsers are based on the file format and network standards of the World Wide Web, which are defined by the World Wide Web Consortium. In practice, however, browser manufacturers extend or deviate from those standards, which can lead to compatibility problems in web design. 
@@ -68,7 +68,7 @@ Cascading Style Sheets are a markup language for formatting electronic text with
 Pieces of hardware and/or software which work together are called compatible. Conversely, if they do not work together, they are incompatible. For example, Android and iOS are incompatible because Android apps do not work under iOS and vice versa. 
 
 #####Compressed files 
-Compression is a technique for shrinking the size of a file or a data stream. As a result it can be transmitted faster, and will take up less storage space on a device. For example, digital video is heavily compressed, otherwise it would not fit on a DVD and could not be streamed over Internet connections. Another example is EPUB, which consists of a compressed collection of HTML files. Various software applications such as PKZIP, WinZip, 7zip, Stuffit, GNU gzip/tar, and many others, can compress a set of files into single-file archives, and decompress the archive back to separate files. Files with the following extensions are almost always compressed file collections: epub, tar.gz/tgz, rar and zip. 
+Compression is a technique for shrinking the size of a file or a data stream. As a result it can be transmitted faster, and will take up less storage space on a device. For example, digital video is heavily compressed, otherwise it would not fit on a DVD and could not be streamed over internet connections. Another example is EPUB, which consists of a compressed collection of HTML files. Various software applications such as PKZIP, WinZip, 7zip, Stuffit, GNU gzip/tar, and many others, can compress a set of files into single-file archives, and decompress the archive back to separate files. Files with the following extensions are almost always compressed file collections: epub, tar.gz/tgz, rar and zip. 
 
 #####Computer program 
 The terms computer program, software, application and app are often used more or less interchangeably. A program tells a computer or mobile device what to do. Programs are usually written in 'high-level' programming languages (such as C, C++, Java, Python) which are a mixture of English-language commands and mathematical-logical expressions. See also **Software**. 
@@ -97,7 +97,7 @@ The design of printed matter on a personal computer using graphical What-You-See
 In the context of mobile computing, a device is an electronic handheld gadget such as a smartphone, tablet, phablet (large-screen smartphone) or portable gaming device. 
 
 #####Digital Rights Management (DRM) 
-Technology used by publishers to restrict the usage and copying of copyright-protected digital materials (audio and video files, e-books, games, etc.). The practice of adding DRM to media is controversial, as it often obstructs paying customers from making full use of the digital goods they have purchased. For example, most files with DRM cannot be freely transferred between two devices owned by the same user. Also, it is often not possible to even access these files without an active Internet connection. Finally, DRM is a major obstacle for long-term storage and accessibility of digital media. 
+Technology used by publishers to restrict the usage and copying of copyright-protected digital materials (audio and video files, e-books, games, etc.). The practice of adding DRM to media is controversial, as it often obstructs paying customers from making full use of the digital goods they have purchased. For example, most files with DRM cannot be freely transferred between two devices owned by the same user. Also, it is often not possible to even access these files without an active internet connection. Finally, DRM is a major obstacle for long-term storage and accessibility of digital media. 
 
 #####Dots Per Inch (DPI) 
 A measure of visual resolution, expressed as the number of dots per square inch on a display. For digital print the industry standard is 300-600 dpi, for offset print 600-1200 dpi. Electronic screens traditionally had resolutions of 72-100 dpi, but the most recent generations of tablets and smartphones feature screen resolutions of 300-600 dpi. See also **Resolution**. 
@@ -139,7 +139,7 @@ A revenue model in which the basic product or service (typically software, media
 ###G 
 
 #####GitHub 
-A freemium web hosting service for user-run Git repositories. Git, an Open Source software application for collaborative editing over the Internet, is described in our software catalogue. 
+A freemium web hosting service for user-run Git repositories. Git, an Open Source software application for collaborative editing over the internet, is described in our software catalogue. 
 
 #####Graphical User Interface (GUI) 
 Software that allows human users to use a computer or other digital device in a visual-tactile way, as opposed to text-based command-line interfaces, and typically creating the 'look and feel' of a tangible physical instrument. A GUI features graphical elements such as menus, icons, pointers, check boxes, knobs, dials and sliders. By clicking and dragging these elements, the user can run and control software programs and carry out other operations such as copying information, deleting files, etc. 
@@ -165,7 +165,7 @@ Hybrid publishing, also known as multi-channel publishing, means the publishing 
 A hyperlink (hypertext link) is a clickable cross-reference between electronic documents. By clicking a hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **Hypertext**. 
 
 #####Hypertext 
-A system for the non-linear organization of text, and arguably the fundamental underlying principle of the World Wide Web. The concept of hypertext predates the Web by many years. See also **Hyperlink**. 
+A system for the non-linear organization of text, and arguably the fundamental underlying principle of the World Wide Web. The concept of hypertext predates the web by many years. See also **Hyperlink**. 
  
 ###I 
 
@@ -185,7 +185,7 @@ In the context of computer engineering, the ways in which software accepts and r
 An interface is a hardware or software connection between two systems, or between a system and a human user. For example, the USB interface between a computer and a printer, or the software interface for exchanging data between two software programs. The software and hardware that allows a human user to communicate with a computer is also known as a user interface. See also **API** and **Graphical user interface**. 
 
 #####Internet 
-The Internet is the global computer network connecting billions of computers all over the world (through the network protocol TCP/IP). The Internet dates back to a group of interconnected computer networks in U.S. universities in the late 1960s and early 1970s. Contrary to popular belief, the World Wide Web (with its hypertext pages) is *not* the Internet, but just one service running on top of it. (Others include e-mail, BitTorrent, and voice-over-IP services such as Skype.) 
+The internet is the global computer network connecting billions of computers all over the world (through the network protocol TCP/IP). The internet dates back to a group of interconnected computer networks in U.S. universities in the late 1960s and early 1970s. Contrary to popular belief, the World Wide Web (with its hypertext pages) is *not* the internet, but just one service running on top of it. (Others include e-mail, BitTorrent, and voice-over-IP services such as Skype.) 
 
 #####iOS 
 Apple's mobile operating system for the iPhone, iPad, iPod Touch and Apple TV. 
@@ -287,7 +287,7 @@ All text and images on a display screen are made up of a grid of thousands (or e
 Text without any visual formatting (such as bold, italic, font types and sizes, clickable hyperlinks, etc.). ASCII is the oldest and still most common plain-text format. 
 
 #####Platform 
-A generic term to describe technology that serves as a foundation for other technology. For example, the Internet is a platform for other network services, and operating systems are platforms for other software applications. (Platform-independent software can, theoretically, run on any computer.) 
+A generic term to describe technology that serves as a foundation for other technology. For example, the internet is a platform for other network services, and operating systems are platforms for other software applications. (Platform-independent software can, theoretically, run on any computer.) 
 
 #####Print On Demand (POD) 
 Print on demand (POD) is a digital printing technology in which a book or other publication is not printed in an edition of several hundred or thousand copies, but in individual copies 'on demand' based on a single customer's order. The emergence of POD has had a significant impact on the publishing industry, as it allowed authors for the first time to self-publish at a very low cost. Print on demand is sometimes also called publishing on demand. 
@@ -321,7 +321,7 @@ Structured sets of instructions to be performed by a computer or handheld device
 A collection of tools and services for software developers who wish to program applications for one particular operating system or platform. SDKs are usually created by the vendors of those systems: for example, both iOS and Android have their own specific SDKs. 
 
 #####Streaming 
-Direct audio or video playback from a website, without having to download the whole file first. Today, the most common streaming formats are MP3 and MPEG-4. Streaming requires a broadband connection to the Internet, with good bandwidth. See also **bandwidth**.
+Direct audio or video playback from a website, without having to download the whole file first. Today, the most common streaming formats are MP3 and MPEG-4. Streaming requires a broadband connection to the internet, with good bandwidth. See also **bandwidth**.
 
 #####Style sheet 
 In book and journal publishing, a style sheet is an instruction document for authors that tells them which editorial conventions they need to follow while preparing their manuscript for publication. In graphic design, style sheets also refer to design templates. See **Cascading Style Sheets**. 
@@ -352,7 +352,7 @@ Tumblr is a blogging service (with its own content management system) owned by Y
 Unicode is today's standard format for encoding plain text. Unlike its predecessor ASCII which is limited to the English alphabet, Unicode supports almost all writing systems. For example, classical texts of many historical written languages (such as Sanskrit) can be written in Unicode. 
 
 #####Unix 
-Unix is a computer operating system originally developed by the telephone company AT&T in the early 1970s. It was the first widely-used operating system that allowed multiple users to work simultaneously on the same computer. Many core technologies of the Internet are derived from Unix development, and most Internet servers today run modern versions of Unix (mainly Linux). Besides Linux, Mac OS X is fully Unix-compatible, while iOS and Android are based on Unix technology. 
+Unix is a computer operating system originally developed by the telephone company AT&T in the early 1970s. It was the first widely-used operating system that allowed multiple users to work simultaneously on the same computer. Many core technologies of the internet are derived from Unix development, and most internet servers today run modern versions of Unix (mainly Linux). Besides Linux, Mac OS X is fully Unix-compatible, while iOS and Android are based on Unix technology. 
  
 ###W 
 
@@ -360,7 +360,7 @@ Unix is a computer operating system originally developed by the telephone compan
 Since the invention of personal computers, word processors have been among the most widely used computer software. Today's word processors like Microsoft Word and OpenOffice/LibreOffice have in fact become hybrids between text editors and desktop publishing software. However, since they work according to the WYSIWYG paradigm, the use of word processor documents in markup-oriented hybrid publishing workflows is problematic. 
  
 #####WWW (World Wide Web) 
-Often referred to simply as the Web, the WWW has become so popular that most people no longer distinguish it from the Internet as a whole. The World Wide Web was created in the early 1990s as a hypertext electronic publishing system for the Internet. (Before the World Wide Web, the standard Internet services were e-mail, discussion groups [Usenet], chat [IRC] and file downloads [FTP].) The WWW makes use of the HTML and CSS file formats as well as the HTTP network protocol, and is accessed via web browsers. 
+Often referred to simply as the web, the WWW has become so popular that most people no longer distinguish it from the internet as a whole. The World Wide Web was created in the early 1990s as a hypertext electronic publishing system for the internet. (Before the World Wide Web, the standard internet services were e-mail, discussion groups [Usenet], chat [IRC] and file downloads [FTP].) The WWW makes use of the HTML and CSS file formats as well as the HTTP network protocol, and is accessed via web browsers. 
 
 #####WYSIWYG (What You See Is What You Get) 
 A concept introduced with graphical user interfaces and desktop publishing in the 1980s. It means that while designing a document on a computer, it will look on the screen exactly as it will later look in print. 
@@ -368,7 +368,7 @@ A concept introduced with graphical user interfaces and desktop publishing in th
 ###X 
 
 #####XHTML (Extensible Hypertext Markup Language) 
-A version of HTML based on XML. It generally has the same markup as HTML, but a stricter syntax that conforms to XML rules. XHTML was supposed to supersede standard HTML for the Web, but has not been widely adopted. Instead, the competing format HTML5 has become the new standard. 
+A version of HTML based on XML. It generally has the same markup as HTML, but a stricter syntax that conforms to XML rules. XHTML was supposed to supersede standard HTML for the web, but has not been widely adopted. Instead, the competing format HTML5 has become the new standard. 
 
 #####XML (Extensible Markup Language) 
 XML is a markup language for constructing markup languages. It provides, in other words, a syntax according to which specific markup languages can be built. (Based on XML, one could for example define a specific markup language for restaurant menus, for work schedules, or for poetry books, each of them containing self-defined customized tags.) An example of a markup language constructed with XML is XHTML. EPUB internally uses the XML-compliant 'Open Packaging Format' for cataloguing the different source files (text chapters, images etc.) used in an ebook. 

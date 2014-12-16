@@ -1,4 +1,4 @@
-#4 Technologies for electronic reading 
+﻿#4 Technologies for electronic reading 
 
 <div class="summary"> 
 - Users can choose from a multitude of hardware e-reader devices and software e-reader applications. 
@@ -30,7 +30,7 @@ For the purposes of viewing electronic publications, smartphones can be consider
 Though ebooks can certainly be read on a laptop or personal computer, this may be ergonomically less natural for the user than reading on a handheld device. The drawbacks of increased eye fatigue and limited battery life are the same as with tablets. 
 
 ##Reader software 
-Various applications for PCs, tablets and smartphones support an extended subset of the EPUB standard, allowing for extra features such as customized fonts, layout styling, etc. In the following section we will examine the most important applications for electronic reading on mobile devices, desktop and laptop computers, and the Web. We distinguish between four 'ecologies', each with its own devices, distribution platforms and software: Apple's iOS, Google's Android, Amazon's Kindle and Kobo. 
+Various applications for PCs, tablets and smartphones support an extended subset of the EPUB standard, allowing for extra features such as customized fonts, layout styling, etc. In the following section we will examine the most important applications for electronic reading on mobile devices, desktop and laptop computers, and the web. We distinguish between four 'ecologies', each with its own devices, distribution platforms and software: Apple's iOS, Google's Android, Amazon's Kindle and Kobo. 
 
 ![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
 
