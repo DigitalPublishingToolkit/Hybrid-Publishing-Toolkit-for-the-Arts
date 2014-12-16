@@ -69,7 +69,7 @@ Next we will create the file *container.xml*, the XML file (located in the *META
          	<rootfiles> 
          	<rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/> 
          	</rootfiles> 
-         </container>
+         </container> 
  
 
 The first line is a declaration statement, which should always be present in XML files. This is followed by a 'container' tag indicating that the publication is based on the *Open Container Format* as specified by the EPUB standard.[^epub-standard] Next, the 'rootfiles' tag indicates a collection of rootfiles: these are the possible starting points where the e-reader can begin processing the content. In this case the rootfiles statement contains only one entry, called 'rootfile'; this tag has two attributes, 'full-path' and 'media-type'. The first attribute is the path to an inventory file (in this case *content.opf*) containing metadata describing the publication and its content. Finally, 'media-type' is a restatement of the EPUB's mimetype. 
@@ -91,7 +91,7 @@ The .opf (Open Packaging Format) file is an important part of the structure of a
      	<dc:identifier id="BookId">http://digitalpublishingtoolkit.org/ExampleEPUB.html</dc:identifier> 
      	<meta property="dcterms:modified">2014-03-28T14:11:50Z</meta> 
      	... 
-     </metadata>
+     </metadata> 
  
 
 The 'metadata' section contains a description of the publication: title, author, publisher, etc. Most of these entries are identical to what librarians use for cataloguing publications. Parts of the metadata section are used by e-readers to organize ebook collections. 
@@ -104,7 +104,7 @@ The 'metadata' section contains a description of the publication: title, author,
      	<item id="chapter2" href="Page-01.html" media-type="application/xhtml+xml" /> 
      	<item properties="nav" id="toc" href="toc.html" media-type="application/xhtml+xml" /> 
      	<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> 
-     </manifest>
+     </manifest> 
  
 
 The 'manifest' section lists all the resources used in the EPUB package, with the exception of subdirectories, the *mimetype* file, the contents of the *META-INF* folder, and the .opf file itself. Manually producing a manifest section can be extremely time-consuming for large EPUBs, as the list of resources used in the publication is bound to be long. Every resource has a unique 'id' and should be referenced by a relative path in the 'href' attribute and described in the 'media-type' attribute. The entry with the *cover.png* is of special interest, as its 'properties' attribute specifies that the image may be used by e-readers as a cover image for the publication, for example in collection overviews. 
@@ -113,7 +113,7 @@ The 'manifest' section lists all the resources used in the EPUB package, with th
     <spine toc="ncx"> 
      	<itemref idref="chapter1" /> 
      	<itemref idref="chapter2" /> 
-     </spine>
+     </spine> 
  
 
 Finally, the 'spine' section lists all the HTML or XHTML pages present in the publication; the order of this list indicates to the e-reader the linear reading order of the publication. The 'spine' section contains only HTML or XHTML pages, no images or other content. The 'toc' attribute refers to the 'id' attribute of the 'toc.ncx' file already described in the 'manifest' section. 
@@ -194,7 +194,7 @@ Tips:
 Tips: 
 
 - You can apply a basic style to all paragraphs at once by choosing Select All and then choosing a basic style such as Body or Normal, after which you can individually apply the less frequent heading, caption and other paragraph styles to the relevant paragraphs. 
-- If you have imported a document with large quantities of existing bold or italic text, you can automatically apply a character style using the search and replace function.
+- If you have imported a document with large quantities of existing bold or italic text, you can automatically apply a character style using the search and replace function. 
 
 ![Image](images/InD_Styles_5_Find_change.png) 
 
@@ -229,7 +229,7 @@ InDesign places images in the layout in one of three ways: inline, **anchored** 
 
 Generally it's a good idea to use anchored images for a layout that will be exported to EPUB. This gives you more control over where the image appears in the exported EPUB, and also allows the text to wrap around the image. 
 
-1. Place an image on the pasteboard.
+1. Place an image on the pasteboard. 
 
 ![Image](images/InD_anchor-1.png) 
 
@@ -249,15 +249,15 @@ Generally it's a good idea to use anchored images for a layout that will be expo
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want the text to wrap around the image, select the image and then choose Object > Object Export Options. 
 
-![Image](images/InD_anchor6-Object_Export_Options.png)
+![Image](images/InD_anchor6-Object_Export_Options.png) 
 
-a. Select the 'EPUB and HTML' options tab.
-b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu.
-c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field.  
+a. Select the 'EPUB and HTML' options tab. 
+b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu. 
+c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field. 
 
 ![Image](images/InD_anchor7-textwrap.png) 
 
-You can also use this option to adjust how the image appears in the print edition.
+You can also use this option to adjust how the image appears in the print edition. 
 
 ![Image](images/InD_anchor8-printadjust.png) 
 
@@ -385,7 +385,7 @@ Be sure to test the EPUB file with as many e-reader devices and applications as 
 
 ##Do-it-yourself EPUB using Pandoc 
 Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. <!-- internal link needed--> 
-[![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2")
+[![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2") 
 
 In this guide we will use the Old English epic poem *Beowulf* as a working example. The text is available from the Project Gutenberg website in a variety of formats (including EPUB). The 'plain text' version is the complete text of the poem in a single file with no styling whatsoever (no fonts, font sizes, formatting such as bold or italic, etc.). We will use this text to show how a simple conversion to EPUB can be done. Before starting, first download and install Pandoc.[^pandoc-installation-page] Pandoc is a 'command-line' program, as opposed to a **graphical user interface** environment, so once the software is installed you will not see a desktop icon with which to 'open' it. In the following step-by-step guide we will explain how to use the tool. 
 
