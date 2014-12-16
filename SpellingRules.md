@@ -11,7 +11,8 @@ We use American spelling
 * E-paper
 * iBook
 * EPUBreader (Firefox add-on)
-
+* Pandoc and Calibre
+ 
 -- avoid 'epub' if refering to the general kind of electronic publication and instead use *Electronic publication(s)* if possible. 
 
 
@@ -22,8 +23,10 @@ We use American spelling
 * e-paper
 * iBook
 * EPUBreader (Firefox add-on)
+* Pandoc and Calibre (though they themselves write it with a lowercase first letter, this in practice makes teh etxt harder to read)
 
 -- avoid 'epub' if refering to the general kind of electronic publication and instead use *electronic publication(s)* if possible. 
+
 
 ###Document/format names:
 
