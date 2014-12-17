@@ -1,4 +1,4 @@
-﻿#10 Software catalogue 
+#10 Software catalogue 
 
 A catalogue of the Free and Open Source software, both used and written in the Hybrid Publishing Toolkit project, with links to the relevant sources. 
 
@@ -100,6 +100,5 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 
 
 [^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
-
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
 [^phpepub]: Asbjørn Grandt's PHPePub, <a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>.

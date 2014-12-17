@@ -1404,7 +1404,7 @@ Faced with on one hand all these new possibilities for self-publishing and self-
 [^warwick]: See also Henry Warwick, [*Radical Tactics of the Offline LIbrary*](http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/), Network Notebooks No. 07, Amsterdam; Institute of Network Cultures, 2014.
 
 
-﻿#10 Software catalogue 
+#10 Software catalogue 
 
 A catalogue of the Free and Open Source software, both used and written in the Hybrid Publishing Toolkit project, with links to the relevant sources. 
 
@@ -1506,7 +1506,6 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 
 
 [^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
-
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
 [^phpepub]: Asbjørn Grandt's PHPePub, <a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>.
 
