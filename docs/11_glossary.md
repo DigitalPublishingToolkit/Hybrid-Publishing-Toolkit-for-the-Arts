@@ -16,22 +16,22 @@ An anchor is a specific location within a HTML web page or other hypertext docum
 Google's operating system for mobile phones and tablets, based on the Linux kernel and the Java programming language. Android is currently the most widely used operating system for mobile devices (including smartphones and tablets). 
 
 #####Animated GIF (Graphics Interchange Format) 
-A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. 
-
-#####API (Application Programming Interface) 
-A standardized way for software applications to communicate with each other and use each other's resources. APIs are used in software development; end users normally do not see them. 
-
-#####Application or app 
-See **Software**. The word 'app' was originally a marketing term invented by Apple to win over resistance against installing third-party software on the iPhone. Nowadays, the word is most commonly used for (usually relatively small) software applications running on mobile or desktop operating systems and which are downloaded and installed from an app store. 
+A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. See also **GIF**. 
 
 #####App store 
 An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry World. 
 
-#####ASCII (American Standard Code for Information Interchange) 
-The standard encoding format for plain-text files in English since 1963. ASCII is limited to 128 characters and therefore excludes diacritic (accented) characters and non-European writing systems. For written text, ASCII has therefore been superseded by Unicode (which can store characters of practically every writing system). ASCII text remains the standard format for programming and markup languages. See also **Unicode**. 
+#####Application or app 
+See **Software**. The word 'app' was originally a marketing term invented by Apple to win over resistance against installing third-party software on the iPhone. Nowadays, the word is most commonly used for (usually relatively small) software applications running on mobile or desktop operating systems and which are downloaded and installed from an app store. 
 
-#####AZW (Amazon Word) 
-A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**. 
+#####Application Programming Interface (API) 
+A standardized way for software applications to communicate with each other and use each other's resources. APIs are used in software development; end users normally do not see them. 
+
+#####ASCII 
+American Standard Code for Information Interchange: the standard encoding format for plain-text files in English since 1963. ASCII is limited to 128 characters and therefore excludes diacritic (accented) characters and non-European writing systems. For written text, ASCII has therefore been superseded by Unicode (which can store characters of practically every writing system). ASCII text remains the standard format for programming and markup languages. See also **Unicode**. 
+
+#####AZW 
+Presumably an **acronym** for 'Amazon Word'. A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also **KF8** and **MOBI**. 
  
 ###B 
 
@@ -42,7 +42,7 @@ The physical transmission capacity of a communication channel. Often used as an 
 A numeral system based on only two values, zero and one. For example, the binary representation of the number 9 is 1001. Because of the straightforward implementation of binary numbers in electronic circuits, all computing devices are ultimately based on this numeral system. 
 
 #####Bit 
-Contraction of 'binary digit'. A bit is the smallest measurement unit of computer memory or processing, or data transmission speed. The binary code '1001', for example, consists of four bits. See also **Binary** and **Byte**. 
+Contraction of 'binary digit'. A bit is the smallest measurement unit of computer memory or processing, or data transmission speed. The binary code '1001', for example, consists of four bits. See also **Binary**. 
 
 #####BitTorrent 
 BitTorrent is the most popular internet technology for file sharing and downloading large amounts of data (such as movies). It works according to a principle known as 'peer-to-peer', which means that everyone who is downloading a file is simultaneously uploading it to fellow downloaders. This way, bandwidth is shared among the downloaders, and no central download server is necessary. 
@@ -56,9 +56,6 @@ The software used by people for accessing and viewing websites. A web browser lo
 #####Browser extension 
 Plug-ins (additional software modules) which extend or enhance the inner workings of a web browser, for example, by supporting the display of additional file types or media types. 
 
-#####Byte 
-A measurement of computer memory, storage capacity or data transmission speed. A byte is equal to 8 bits; this is simply a convention. See also **Bit**. 
-
 ###C 
 
 #####Cascading Style Sheets (CSS) 
@@ -69,9 +66,6 @@ Pieces of hardware and/or software which work together are called compatible. Co
 
 #####Compressed files 
 Compression is a technique for shrinking the size of a file or a data stream. As a result it can be transmitted faster, and will take up less storage space on a device. For example, digital video is heavily compressed, otherwise it would not fit on a DVD and could not be streamed over internet connections. Another example is EPUB, which consists of a compressed collection of HTML files. Various software applications such as PKZIP, WinZip, 7zip, Stuffit, GNU gzip/tar, and many others, can compress a set of files into single-file archives, and decompress the archive back to separate files. Files with the following extensions are almost always compressed file collections: epub, tar.gz/tgz, rar and zip. 
-
-#####Computer program 
-The terms computer program, software, application and app are often used more or less interchangeably. A program tells a computer or mobile device what to do. Programs are usually written in 'high-level' programming languages (such as C, C++, Java, Python) which are a mixture of English-language commands and mathematical-logical expressions. See also **Software**. 
 
 #####Content Management System (CMS) 
 Software that makes it possible to publish and manage content (text, images, etc.) on a website without having to manually create HTML files. For example, practically all blogs and all shopping websites are based on content management systems. Most content management systems use internal databases to store their information (such as blog articles or sales items). Content management systems automatically generate a web page 'on the fly' from their database contents when the page is requested by a user. See also **Server-side scripting**. 
@@ -87,9 +81,6 @@ An organized, structured collection of information: common examples are address 
 #####Dataset 
 A dataset (or data set) is, as the word suggests, a collection of data - typically, a number of entries extracted from a database based on specific search criteria. For example: from an address database of all residents of Amsterdam, one could extract a dataset of all residents living in a particular neighborhood, and store the results in a new file. 
 
-#####Decompress 
-See **Compressed files**. 
-
 #####Desktop Publishing (DTP) 
 The design of printed matter on a personal computer using graphical What-You-See-Is-What-You-Get (WYSIWYG) software such as Adobe InDesign or QuarkXPress. DTP software uses a graphical user interface to visually simulate the analog layout desks used in pre-digital times by graphic and editorial designers. 
 
@@ -99,16 +90,13 @@ In the context of mobile computing, a device is an electronic handheld gadget su
 #####Digital Rights Management (DRM) 
 Technology used by publishers to restrict the usage and copying of copyright-protected digital materials (audio and video files, e-books, games, etc.). The practice of adding DRM to media is controversial, as it often obstructs paying customers from making full use of the digital goods they have purchased. For example, most files with DRM cannot be freely transferred between two devices owned by the same user. Also, it is often not possible to even access these files without an active internet connection. Finally, DRM is a major obstacle for long-term storage and accessibility of digital media. 
 
-#####Dots Per Inch (DPI) 
-A measure of visual resolution, expressed as the number of dots per square inch on a display. For digital print the industry standard is 300-600 dpi, for offset print 600-1200 dpi. Electronic screens traditionally had resolutions of 72-100 dpi, but the most recent generations of tablets and smartphones feature screen resolutions of 300-600 dpi. See also **Resolution**. 
- 
 ###E 
 
 #####Ebook 
 A digital publication which can be read on e-readers and other handheld devices, as well as desktop computers. Unlike online digital publications (such as news websites and blogs), most ebooks are meant for offline reading and individual collecting. There are various ebook formats such as EPUB and AZW, most of which are based on web design technologies such as HTML and CSS. 
 
-#####EPUB (Electronic Publication) 
-An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB is an open standard and the most commonly used and supported file format for electronic books. EPUB was designed to accommodate reflowable content. See also **Reflowable**. 
+#####EPUB 
+Acronym for Electronic Publication. An ebook format developed by the International Digital Publishing Forum (IDPF). EPUB is an open standard and the most commonly used and supported file format for electronic books. EPUB was designed to accommodate reflowable content. See also **Reflowable**. 
 
 #####E-paper 
 Electronic paper, a display technology designed to resemble printed paper rather than the LCD displays used on most other computing devices. E-paper consists of a grid of tiny electronic 'ink' particles that can be switched from black to white. Electricity is only needed for refreshing ('turning') the page; for the display itself, no electricity or battery power is needed. Since it is not backlit like an LCD, the display must be illuminated externally like conventional paper; the upside is that it can be read in broad daylight without any loss of image quality. Since the refresh rate is much slower than LCD screens, the technology does not allow for videos or animations. See also **LCD**. 
@@ -123,9 +111,6 @@ A file is an object containing data and metadata, and stored on a computer, serv
 
 #####Filename extension 
 A filename extension typically consists of three or four letters at the end of a filename, preceded by a dot (such as: .html, .mp4, .jpg, etc.). Filename extensions are used by many operating systems including Windows and Mac OS X to indicate the type of a file. 
-
-#####File permissions 
-On computer operating systems that allow for different user accounts on one computer (such as Linux, Mac OS X and Windows), each file has its own access permissions: metadata that defines which users are allowed to read, edit or (in the case of a software program file) execute that particular file. This is especially important on web servers: file permissions ensure that specific users can edit files on a website, while all other users can only read these files. 
 
 #####Folder 
 On most operating systems, files are grouped and hierarchically organized in folders. The term 'folder' is used synonymously with 'directory'. Folders can be hierarchically organized in a tree-like structure, so that one folder contains a number of other folders, each of which may contain yet more folders, etc. Subfolders are sometimes referred to as 'child folders' of the 'parent folder'. 
@@ -293,7 +278,7 @@ A generic term to describe technology that serves as a foundation for other tech
 Print on demand (POD) is a digital printing technology in which a book or other publication is not printed in an edition of several hundred or thousand copies, but in individual copies 'on demand' based on a single customer's order. The emergence of POD has had a significant impact on the publishing industry, as it allowed authors for the first time to self-publish at a very low cost. Print on demand is sometimes also called publishing on demand. 
 
 #####Program 
-See **Computer program**. 
+The terms program, software, application and app are often used more or less interchangeably. A program tells a computer or mobile device what to do. Programs are usually written in 'high-level' programming languages (such as C, C++, Java, Python) which are a mixture of English-language commands and mathematical-logical expressions. See also **Software**. 
 
 #####Protocol 
 In computing and networking, a protocol is a technical standard according to which two systems communicate with each other. For example, the HTTP protocol defines the format for communication between web browsers and web servers. (Or, to use an 'old media' example: frequency modulation (FM) is the technical protocol for most radio transmissions.) 
@@ -304,7 +289,7 @@ In computing and networking, a protocol is a technical standard according to whi
 A reflowable document is a document without a predefined page layout, in which the page dimensions are dynamically and automatically adapted (including page breaks) to each screen size and screen aspect ratio. This means, for example, that an ebook may appear as 50 A5-size pages on a tablet, but as 100 A6-size pages on an e-reader. This also means that the designer no longer has control of the final page layout. The concept is also known as 'responsive design'. 
 
 #####Resolution 
-The smaller a pixel, the higher the visual resolution of any display. See **DPI**. 
+The smaller a pixel, the higher the visual resolution of any display. Resolution is commonly expressed as the number of dots per square inch (dpi) of a printed output or display. For digital print the industry standard is 300-600 dpi, for offset print 600-1200 dpi. Electronic screens traditionally had resolutions of 72-100 dpi, but the most recent generations of tablets and smartphones feature screen resolutions of 300-600 dpi. See also **Pixel**. 
 
 #####Rich Text Format (RTF) 
 A document format established in 1987 as an alternative format for Microsoft Word documents. Contrary to common belief, RTF is not an open standard and does not solve compatibility problems between word processing formats. 

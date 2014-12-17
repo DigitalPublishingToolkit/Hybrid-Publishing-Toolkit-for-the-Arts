@@ -21,7 +21,7 @@ This chapter consists of four sections:
 
 The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do embed material located elsewhere in the **internet**, an EPUB is 'self-contained' and made for offline reading. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, or manually, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
 
-An EPUB file is in fact a ZIP archive, but with the file extension '.epub' instead of '.zip'. As such, it is a compressed collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and **decompress** an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'.[^epub-zipping-process] 
+An EPUB file is in fact a ZIP archive, but with the **filename extension** '.epub' instead of '.zip'. As such, it is a **compressed** collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and decompress an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'.[^epub-zipping-process] 
 
 For a better understanding of the following explanation of what an EPUB is and how to create one, we suggest downloading a working example of a rudimentary EPUB, which can be found on Toolkit project's **GitHub** page (a direct link can be found in the footnote).[^rudimentary-epub] 
 
@@ -52,7 +52,7 @@ Now that we've seen the internal structure of an EPUB by unzipping it, we can al
 1. Create a subfolder in the *Documents* folder and name it *Example*; 
 2. Create two more subdirectories under the one you've just created, one called *META-INF* and the other called *OEBPS*; 
 3. Using a text editor, create a plain-text file and type (or copy-paste) the line 'application/epub+zip' (without quotation marks) in this file; 
-4. Save this plain-text file and name it *mimetype* (without a file extension). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
+4. Save this plain-text file and name it *mimetype* (without a filename extension). Save it in the same folder (named *Example*) as the two subdirectories created in step 2. This way the e-reader device or application can see that these elements together constitute an EPUB. 
 
 Now there are the two directories and one text file, just as we saw when we decompressed the EPUB which we used as an example. 
 
