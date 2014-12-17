@@ -56,14 +56,14 @@ toolkit.md: TOC.md $(sources)
 	# scripts/expand_toc.py TOC.md --section-pages --filter scripts/chapter.sh > $@
 	scripts/expand_toc.py TOC.md --no-toc > $@
 
-toolkit.epub: toolkit.md metadata.xml styles.css images/cover.png
+toolkit.epub: toolkit.md metadata.xml styles.css docs/images/cover.png
 	cd docs && pandoc \
 		--from markdown \
 		--to epub3 \
 		--self-contained \
 		--epub-chapter-level=2 \
 		--epub-stylesheet=../styles.epub.css \
-		--epub-cover-image=../images/cover.png \
+		--epub-cover-image=images/cover.png \
 		--epub-metadata=../metadata.xml \
 		--epub-embed-font=../lib/UbuntuMono-B.ttf \
 		--epub-embed-font=../lib/OpenSans-Bold.ttf \

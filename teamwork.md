@@ -2,8 +2,9 @@
 (so we don't replicate work or step on each-other's feet )
 
 ## Andre
-* will do: code blocks in 06 GUIDE (by hand, no script)
-* will do: resolve missing images - let Loes know 
+* will do: Make bold glossary terms, in their 1st occurance in body text
+* will do: edit metadata file
+* will do: start working on EPUB's CSS
 
 ## Florian
 
