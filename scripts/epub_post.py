@@ -67,19 +67,18 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
 
 
 temp_ls=os.listdir("temp/")
-
+temp_ls.sort()
 
 for f in temp_ls: # 2.1: loop content files
-    if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml
+    if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
         print 'Processing:', filename
         # 2.2 Parse each file
         xhtml = open("temp/"+f, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-
         replace_fn_links(xhtml_parsed, './/li/p/a')
         addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
-        figure(xhtml_parsed, './/figure') 
+#        figure(xhtml_parsed, './/figure') 
 
         html = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n' + ET.tostring(xhtml_parsed, method="xml", encoding="utf-8")
         edited = open(filename, 'w') #write
