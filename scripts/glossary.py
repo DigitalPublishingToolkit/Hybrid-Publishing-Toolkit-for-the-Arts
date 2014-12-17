@@ -46,8 +46,8 @@ def find_unbold_term_in_text(term, gloss_file, search_dir):
                     if term in text:
                     # if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
                         title = (xhtml_parsed.find('.//title')).text
-                        msg = 'FOUND unbold glossary term: "{}" in file {}, section "{}"'.format(term,f,title)
-#                        msg = term +"; "+ title
+#                        msg = 'FOUND unbold glossary term: "{}" in file {}, section "{}"'.format(term,f,title)
+                        msg = term #+"; "+ title
                         print msg
                         return term, title
                         break
@@ -119,77 +119,77 @@ temp_dir_ls=os.listdir(temp_dir)
 
 
 # files inside unziped EPUB (temp_dir)
-glossary=find_chapter("10 Glossary of Technical Terms", temp_dir_ls)
+glossary=find_chapter("11 Glossary of technical terms", temp_dir_ls)
 gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
 gloss_terms = gloss_tree.findall('.//section[@class="level5"]') # find glossary terms
 
-
-# loop through all glossary terms and find them in body text
-for gloss_el in gloss_terms:
-    gloss_term_list = strip_glossary_term(gloss_el)
-    for term in gloss_term_list:
-        print 'Glossary Term:', term
-        found_term = find_term_in_text(term=term,
-                                       gloss_file=gloss_file,
-                                       search_dir=temp_dir_ls)
-        if found_term is not None:
-            text_term_el = found_term[0]
-            text_tree = found_term[1]
-            text_file = found_term[2]
-
-            # add glossary reference hyperlink
-            wrap_term_anchor(parent=text_term_el, 
-                      element='a', 
-                      myclass='glossref', 
-                      myid='glossref_'+gloss_el.get('id'), 
-                      href=gloss_file+'#'+gloss_el.get('id'), 
-                      section = 'body'
-            )
-            save_html(temp_dir, text_file, text_tree ) # save chapter file
-
-            # add glossary term hyperlink
-            add_child(parent=(gloss_el.findall('.//h5'))[0], 
-                      element='a', 
-                      myclass='glossterm', 
-                      myid='glossterm_'+gloss_el.get('id'), 
-                      href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
-                      text=u"back",
-                      section = 'glossary'
-            ) 
-
-save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
-
-# Step 3: zip epub
-epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
-#epub.writestr("mimetype", "application/epub+zip")
-
-def fileList(source):
-    matches = []
-    for root, dirnames, filenames in os.walk(source):
-        for filename in filenames:
-            matches.append(os.path.join(root, filename))
-    return matches
-
-dirlist=fileList(temp_dir)
-
-for name in dirlist:
-    path = name[5:] # removes temp/
-    epub.write(name, path, zipfile.ZIP_DEFLATED)
-epub.close()
-
-# Step 4: clean up: rm temp zipname
-shutil.rmtree(temp_dir)
-
-print
-print "** Hyperlinks to Glossary were inserted without errors **"
-
-
-# # finding unbolded glossary terms
+# CREATE HYPERLINK FROM AND TO GLOSSARY TERM 
+# # loop through all glossary terms and find them in body text
 # for gloss_el in gloss_terms:
-#     gloss_term = strip_glossary_term(gloss_el) 
-# #    print 'Glossary Term:', gloss_term
-#     find_unbold_term_in_text(term=gloss_term, 
-#                              gloss_file=gloss_file, 
-#                              search_dir=temp_dir_ls)
+#     gloss_term_list = strip_glossary_term(gloss_el)
+#     for term in gloss_term_list:
+#         print 'Glossary Term:', term
+#         found_term = find_term_in_text(term=term,
+#                                        gloss_file=gloss_file,
+#                                        search_dir=temp_dir_ls)
+#         if found_term is not None:
+#             text_term_el = found_term[0]
+#             text_tree = found_term[1]
+#             text_file = found_term[2]
+
+#             # add glossary reference hyperlink
+#             wrap_term_anchor(parent=text_term_el, 
+#                       element='a', 
+#                       myclass='glossref', 
+#                       myid='glossref_'+gloss_el.get('id'), 
+#                       href=gloss_file+'#'+gloss_el.get('id'), 
+#                       section = 'body'
+#             )
+#             save_html(temp_dir, text_file, text_tree ) # save chapter file
+
+#             # add glossary term hyperlink
+#             add_child(parent=(gloss_el.findall('.//h5'))[0], 
+#                       element='a', 
+#                       myclass='glossterm', 
+#                       myid='glossterm_'+gloss_el.get('id'), 
+#                       href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
+#                       text=u"back",
+#                       section = 'glossary'
+#             ) 
+#
+# save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
+#
+# # Step 3: zip epub
+# epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
+# #epub.writestr("mimetype", "application/epub+zip")
+
+# def fileList(source):
+#     matches = []
+#     for root, dirnames, filenames in os.walk(source):
+#         for filename in filenames:
+#             matches.append(os.path.join(root, filename))
+#     return matches
+
+# dirlist=fileList(temp_dir)
+
+# for name in dirlist:
+#     path = name[5:] # removes temp/
+#     epub.write(name, path, zipfile.ZIP_DEFLATED)
+# epub.close()
+
+# # Step 4: clean up: rm temp zipname
+# shutil.rmtree(temp_dir)
+
+# print
+# print "** Hyperlinks to Glossary were inserted without errors **"
+
+
+# finding unbolded glossary terms
+for gloss_el in gloss_terms:
+    gloss_term = (strip_glossary_term(gloss_el)[0] ).encode('utf-8')
+    print 'Glossary Term:', gloss_term
+    # find_unbold_term_in_text(term=gloss_term, 
+    #                          gloss_file=gloss_file, 
+    #                          search_dir=temp_dir_ls)

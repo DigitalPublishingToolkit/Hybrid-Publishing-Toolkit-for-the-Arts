@@ -26,7 +26,7 @@ A web application for creating and editing EPUBs, written in **CakePHP**.
 
 ###expand_toc.py 
 
-A small program written in the **Python** programming language to generate a table of contents for an EPUB that has been created from a **Markdown** document file. 
+A small program written in the Python programming language to generate a table of contents for an EPUB that has been created from a Markdown document file. 
 
 [https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader/blob/master/scripts/expand_toc.py](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader/blob/master/scripts/expand_toc.py) 
 
@@ -40,7 +40,7 @@ A small program written in the **Python** programming language to generate a tab
 
 ###ICML 
 
-ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application **Pandoc**, **Markdown** files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on **Make** and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
+ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application **Pandoc**, Markdown files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on **Make** and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
 
 
 ###Make 
@@ -59,7 +59,7 @@ The [GNU Make](http://www.gnu.org/software/make/) program helps to automate work
 
 ###mmd-meta-validation 
 
-A simple validation tool for checking metadata in a **Markdown** file. 
+A simple validation tool for checking metadata in a Markdown file. 
 
 [https://github.com/DigitalPublishingToolkit/mmd-meta-validation](https://github.com/DigitalPublishingToolkit/mmd-meta-validation) 
 
