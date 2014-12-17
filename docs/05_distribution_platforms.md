@@ -46,7 +46,7 @@ Examples of social reading platforms:
 
 ##Print on demand (POD) 
 
-There are many services which offer **print on demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine[^Espresso-Book-Machine]. 
+There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine[^Espresso-Book-Machine]. 
 
 ![Lulu](images/05_01_onlinereadingplatforms_LULU.png "Lulu") 
 
@@ -60,7 +60,7 @@ There are many services which offer **print on demand** publishing; a simple Goo
 
 ###Options in the Netherlands 
 
-* CB's print on demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
+* CB's print-on-demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
 * Boekscout[^Boekscout] - Is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
 
 ##Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
