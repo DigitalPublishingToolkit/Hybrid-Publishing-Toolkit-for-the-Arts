@@ -46,7 +46,7 @@ Examples of social reading platforms:
 
 ##Print on demand (POD) 
 
-There are many services which offer **print on demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine[^Espresso-Book-Machine]. 
+There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine[^Espresso-Book-Machine]. 
 
 ![Lulu](images/05_01_onlinereadingplatforms_LULU.png "Lulu") 
 
