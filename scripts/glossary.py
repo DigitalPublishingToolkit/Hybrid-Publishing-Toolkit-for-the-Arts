@@ -57,16 +57,22 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
     xhtmls.sort()
     for f in xhtmls: #try matching glossary term with term in body text
         xhtml_parsed = parse_html(temp_dir, f)
-        p_strong = xhtml_parsed.findall('.//p/strong') # glossay terms in text are iside <p>...<strong>TERM</strong>
+        p_strong = xhtml_parsed.findall('.//strong') # glossay terms in text are iside <p>...<strong>TERM</strong>
         if p_strong:
             for content in p_strong:          
                 if content.text is not None:
                     text = (content.text).encode('UTF-8')
                     if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                   
 #                    if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
-                        print 'MATCH TEXT:', text, '-', 'TERM:', term     ## Step 3.3: TEXT LINK: Add link to glossary_term                          
+                        print 'MATCHED TERM - {} -  IN TEXT'.format(text)
+                        ## Step 3.3: TEXT LINK: Add link to glossary_term
                         return content, xhtml_parsed, f
                         break
+
+def glossary_term(item): 
+    h5 = item.find('./h5')
+    h5_text = h5.text
+    return h5_text
 
 def strip_glossary_term(item): #remove whatever is inside parenthesis
     h5 = item.find('./h5')
@@ -124,42 +130,66 @@ gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
 gloss_terms = gloss_tree.findall('.//section[@class="level5"]') # find glossary terms
+gloss_terms_except = {
+'Application or app': 'applications',
+'Animated GIF (Graphics Interchange Format)': 'Animated GIF',
+'Bit': 'bits',
+'Browser extension': 'browser',
+'Compressed files': 'compressed',
+'Database': 'databases',
+'Dataset': 'datasets',
+'Device': 'devices',
+'Folder': 'folders',
+} #terms that are found in the main text under a different syntax
+
 
 # CREATE HYPERLINK FROM AND TO GLOSSARY TERM 
 # loop through all glossary terms and find them in body text
 for gloss_el in gloss_terms:
-    gloss_term_list = strip_glossary_term(gloss_el)
-    for term in gloss_term_list:
-        print 'Glossary Term:', term
-        found_term = find_term_in_text(term=term,
-                                       gloss_file=gloss_file,
-                                       search_dir=temp_dir_ls)
-        if found_term is not None:
-            text_term_el = found_term[0]
-            text_tree = found_term[1]
-            text_file = found_term[2]
+    term = glossary_term(gloss_el)
 
-            # add glossary reference hyperlink
-            wrap_term_anchor(parent=text_term_el, 
-                      element='a', 
-                      myclass='glossref', 
-                      myid='glossref_'+gloss_el.get('id'), 
-                      href=gloss_file+'#'+gloss_el.get('id'), 
-                      section = 'body'
-            )
-            save_html(temp_dir, text_file, text_tree ) # save chapter file
 
-            # add glossary term hyperlink
-            add_child(parent=(gloss_el.findall('.//h5'))[0], 
-                      element='a', 
-                      myclass='glossterm', 
-                      myid='glossterm_'+gloss_el.get('id'), 
-                      href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
-                      text=u"back",
-                      section = 'glossary'
-            ) 
+#    gloss_term_list = strip_glossary_term(gloss_el)
+#    for term in gloss_term_list:
 
-save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
+    print 'Original glossary Term:', term
+    if term in gloss_terms_except:
+        term = gloss_terms_except[term]
+
+    print 'Search Glossary Term:', term
+    found_term = find_term_in_text(term=term,
+                                   gloss_file=gloss_file,
+                                   search_dir=temp_dir_ls)
+    if found_term is not None:
+        text_term_el = found_term[0]
+        text_tree = found_term[1]
+        text_file = found_term[2]
+
+        # add glossary reference hyperlink
+        wrap_term_anchor(parent=text_term_el, 
+                  element='a', 
+                  myclass='glossref', 
+                  myid='glossref_'+gloss_el.get('id'), 
+                  href=gloss_file+'#'+gloss_el.get('id'), 
+                  section = 'body'
+        )
+        save_html(temp_dir, text_file, text_tree ) # save chapter file
+
+        # add glossary term hyperlink
+        add_child(parent=(gloss_el.findall('.//h5'))[0], 
+                  element='a', 
+                  myclass='glossterm', 
+                  myid='glossterm_'+gloss_el.get('id'), 
+                  href=text_file+'#'+('glossref_'+gloss_el.get('id')), 
+                  text=u"back",
+                  section = 'glossary'
+        ) 
+
+    else:
+        print 'TERM - {} - NOT FOUND'.format(term)
+    save_html(temp_dir, gloss_file, gloss_tree ) # save GLOSSARY FILE
+    print 
+
 
 # Step 3: zip epub
 epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
