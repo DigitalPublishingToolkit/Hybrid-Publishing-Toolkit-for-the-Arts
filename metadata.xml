@@ -1,5 +1,58 @@
-<dc:title>THE HYBRID PUBLISHING TOOLKIT FOR THE ARTS, A GUIDE FROM PRINT TO E-BOOKS</dc:title>
-<dc:rights>Creative Commons Attribution Share Alike 3.0</dc:rights>
-<dc:publisher>Institute of Network Culture / Creating 010</dc:publisher>
-<dc:date>November 28, 2014</dc:date>
+<dc:identifier id="epub-id-1">urn:isbn:978-90-822345-4-1</dc:identifier>
+<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
+<dc:title id="epub-title-1">From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts</dc:title>
+<meta refines="#epub-title-1" property="title-type">main</meta>
+<dc:publisher>Institute of Network Cultures</dc:publisher>    
+<dc:date id="epub-date">December 2014</dc:date>
 <dc:language>en-US</dc:language>
+<dc:creator id="epub-creator-1">Marc de Bruijn</dc:creator>
+<meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-2">Liz Castro</dc:creator>
+<meta refines="#epub-creator-2" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-3">Florian Cramer</dc:creator>
+<meta refines="#epub-creator-3" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-4">Joost Kircz</dc:creator>
+<meta refines="#epub-creator-4" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-5">Silvio Lorusso</dc:creator>
+<meta refines="#epub-creator-5" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-6">Michael Murtaugh</dc:creator>
+<meta refines="#epub-creator-6" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-7">Pia Pol</dc:creator>
+<meta refines="#epub-creator-7" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-8">Miriam Rasch</dc:creator>
+<meta refines="#epub-creator-8" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-9">Margreet Riphagen</dc:creator>
+<meta refines="#epub-creator-9" property="role" scheme="marc:relators">aut</meta>
+<dc:contributor id="epub-contributor-1">Joe Monk</dc:contributor>
+<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-2">Miriam Rasch</dc:contributor>
+<meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-3">Florian Cramer</dc:contributor>
+<meta refines="#epub-contributor-3" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-4">Amy Wu</dc:contributor>
+<meta refines="#epub-contributor-4" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-5">Medamo</dc:contributor>
+<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
+<dc:contributor id="epub-contributor-6">Kimmy Spreeuwenberg</dc:contributor>
+<meta refines="#epub-contributor-6" property="role" scheme="marc:relators">dsr</meta>
+<dc:contributor id="epub-contributor-7">André Castro</dc:contributor>
+<meta refines="#epub-contributor-7" property="role" scheme="marc:relators">dsr</meta>
+<dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+<dc:subject></dc:subject>
+<dc:description>
+Electronic publishing has become an essential medium for the field of contemporary arts and design. While traditional models of art book publishing are becoming less and less viable for artists, writers, designers and publishers, periodicals like the <i>e-flux journal</i>, art and design blogs, and internet libraries such as <i>UbuWeb</i> are widely read and discussed. 
+
+Is electronic book technology really the way forward for these types of publications? Or does the answer lie in some hybrid form of publication, in which both print and electronic editions of the same basic content can be published in a parallel or complementary fashion?  And perhaps more importantly, what are the changes in workflow and design mentality that will need to be implemented in order to allow for such hybrid publications? 
+
+This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital technology, or indeed traditional publishing technology, is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. 
+
+Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists'/designer's books. 
+</dc:description>
+
+
+
+
+
+
+
+
