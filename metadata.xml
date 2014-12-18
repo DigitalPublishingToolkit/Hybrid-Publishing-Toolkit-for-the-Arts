@@ -5,6 +5,8 @@
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
 <dc:date id="epub-date">December 2014</dc:date>
 <dc:language>en-US</dc:language>
+<dc:creator id="epub-creator-0">DPP Collective</dc:creator>
+<meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
 <dc:creator id="epub-creator-1">Marc de Bruijn</dc:creator>
 <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
 <dc:creator id="epub-creator-2">Liz Castro</dc:creator>

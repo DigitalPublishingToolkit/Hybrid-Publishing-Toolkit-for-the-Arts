@@ -135,7 +135,7 @@ A file format invented in the 1980s and used for simple graphics. GIF files use 
 ###H 
 
 #####HTML (Hypertext Markup Language) 
-A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: <tag\>. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
+A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: `<tag\>`. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
 
 #####HTML5 
 The most recent version of the HTML format. HTML5 adds various new features, notably support for the multimedia (audio and video) capabilities of the World Wide Web. Through the adoption of HTML5, web designers hope to render obsolete the use of browser plug-ins for interactive multimedia websites. 

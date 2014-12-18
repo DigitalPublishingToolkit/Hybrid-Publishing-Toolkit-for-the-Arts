@@ -28,9 +28,9 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 ![Internet-Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
 
-![^Medium](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
+![Medium](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
 
-![^WordPress](images/05_01_onlinereadingplatforms_Wordpress.png "WordPress") 
+![WordPress](images/05_01_onlinereadingplatforms_Wordpress.png "WordPress") 
 
 ###Social reading platforms 
 

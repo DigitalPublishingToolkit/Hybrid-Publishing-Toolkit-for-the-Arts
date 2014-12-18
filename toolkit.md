@@ -2,7 +2,7 @@
 
 ###From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
 **Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Pia Pol, Miriam Rasch and Margreet Riphagen<br/> 
-**Editors:** Joe Monk, Miriam Rasch, Florian Cramer and Amy Wu<br/> 
+**Editors:** Florian Cramer, Joe Monk, Miriam Rasch, and Amy Wu<br/> 
 **Images:** Medamo and Kimmy Spreeuwenberg<br/> 
 **Print design:** Medamo and Kimmy Spreeuwenberg<br/> 
 **EPUB design:** André Castro<br/> 
@@ -425,7 +425,7 @@ The file formats described above are all *reflowable* documents: their presentat
 [^epub-seller-kobo]: *Het begint met Kobo Writing Life*, <a href="http://nl.kobo.com/writinglife">http://nl.kobo.com/writinglife</a>. 
 [^epub-google-play]: *Google Play, Books Partner Center*, <a href="https://play.google.com/books/publish/signup#settings">https://play.google.com/books/publish/signup#settings</a>. 
 [^epub-seller-barnes]: *Frequently Asked Questions About NOOK Press*, <a href="https://www.nookpress.com/support/faq">https://www.nookpress.com/support/faq</a>. 
-[^comic-book-archive]: Comic book archive,  http://fileformats.archiveteam.org/wiki/Comic_Book_Archive.
+[^comic-book-archive]: Comic book archive,  <a href="http://fileformats.archiveteam.org/wiki/Comic_Book_Archive">http://fileformats.archiveteam.org/wiki/Comic_Book_Archive</a>.
 
 
 
@@ -459,9 +459,9 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 ![Internet-Archive](images/05_01_onlinereadingplatforms_internetarchive.png "Internet Archive") 
 
-![^Medium](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
+![Medium](images/05_01_onlinereadingplatforms_Medium.png "Medium") 
 
-![^WordPress](images/05_01_onlinereadingplatforms_Wordpress.png "WordPress") 
+![WordPress](images/05_01_onlinereadingplatforms_Wordpress.png "WordPress") 
 
 ###Social reading platforms 
 
@@ -1648,7 +1648,7 @@ A file format invented in the 1980s and used for simple graphics. GIF files use 
 ###H 
 
 #####HTML (Hypertext Markup Language) 
-A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: <tag\>. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
+A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: `<tag\>`. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
 
 #####HTML5 
 The most recent version of the HTML format. HTML5 adds various new features, notably support for the multimedia (audio and video) capabilities of the World Wide Web. Through the adoption of HTML5, web designers hope to render obsolete the use of browser plug-ins for interactive multimedia websites. 
