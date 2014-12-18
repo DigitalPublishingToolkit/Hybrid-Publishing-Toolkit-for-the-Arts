@@ -93,7 +93,7 @@ The file formats described above are all *reflowable* documents: their presentat
 [^sales-figures-phone]: *Gartner Says Annual Smartphone Sales Surpassed Sales of Feature Phones for the First Time in 2013*, <a href="http://www.gartner.com/newsroom/id/2665715">http://www.gartner.com/newsroom/id/2665715</a>. 
 [^kobo-debian]: MobileRead, *Any interest in Kobo Desktop for Linux?*, 5 March 2010, <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>. 
 [^ebook]: *Converting a Docx directly to EPUB using Calibre*, <a href="http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/">http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/</a>. 
-[^calibre-file-formats]: <a href="http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from">http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from</a>. 
+[^calibre-file-formats]: Ebooks manual Calibre, <a href="http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from">http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from</a>. 
 [^ade-readers]: *Digital Editions Supported Devices*, <a href="http://blogs.adobe.com/digitalpublishing/supported-devices">http://blogs.adobe.com/digitalpublishing/supported-devices</a>. 
 [^bookworm-oreilly]: *Bookworm, "an experimental platform for storing and reading ePub-format books online," is closed as of March 31, 2012*, <a href="http://oreilly.com/bookworm">http://oreilly.com/bookworm</a>. 
 [^bookish]: Booki.sh, <a href="https://booki.sh">https://booki.sh</a>. 
