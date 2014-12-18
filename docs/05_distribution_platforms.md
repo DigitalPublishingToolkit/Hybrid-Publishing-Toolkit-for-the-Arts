@@ -14,9 +14,9 @@ These ebook stores typically charge a percentage for each publication sold, usua
 
 Each retailer requires publishers to upload files in a specific format or formats. Apple for example only supports EPUB or publications made using iBooks Author, and doesn't allow PDFs.[^apple-publication-guidelines] Amazon with its Kindle Direct Publishing program supports a broader range of formats, including AZW, EPUB, PDF and even Microsoft Word documents.[^kindle-direct-publishing] 
 
-##Online reading platforms
+##Online reading platforms 
 
-Online reading platforms are browser-based platforms for reading electronic publications. Publications can be presented in a variety of formats. The choice of online platform (and thus of publication format) also has consequences for distribution methods and accessibility. 
+Online reading platforms are browser-based platforms for reading electronic publications. Publications can be presented in a variety of formats. The choice of online platform (and thus of publication format) also has consequences for distribution methods and accessibility. Platforms make use of a variety of business and revenue models (generating revenue for the author/publisher as well as for the platform itself) such as subscriptions, **freemium** models, consigment fees, shared revenue on sales, etc. 
 
 It is important to remember that publishers who make use of an online reading platform are effectively dependent on the platform provider. If the platform changes its technology or terms of service, or simply goes out of business, the publisher has no recourse, except possibly to find another platform. On the other hand, ebook stores which offer downloadable files provide the publisher with much more control and freedom in this respect. 
 

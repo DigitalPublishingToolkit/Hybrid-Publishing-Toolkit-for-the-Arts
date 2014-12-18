@@ -2,7 +2,7 @@
 
 ###From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
 **Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Pia Pol, Miriam Rasch and Margreet Riphagen<br/> 
-**Editors:** Florian Cramer, Joe Monk, Miriam Rasch, and Amy Wu<br/> 
+**Editors:** Joe Monk, Miriam Rasch, Florian Cramer and Amy Wu<br/> 
 **Images:** Medamo and Kimmy Spreeuwenberg<br/> 
 **Print design:** Medamo and Kimmy Spreeuwenberg<br/> 
 **EPUB design:** André Castro<br/> 

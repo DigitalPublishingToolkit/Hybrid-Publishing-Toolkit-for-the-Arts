@@ -75,7 +75,7 @@ An important part of the appeal of a periodical is its physical presence. It can
 
 In terms of archiving, 'going electronic' also provides a number of opportunities and challenges for art/design periodicals. New articles can refer to older ones, and even integrate parts of these older articles. The periodical as such becomes a repository and therefore a breeding ground for new work. 
 
-The advantages are mostly the same as with the other genres listed: increased possibilities for extending content (**interactivity**, video etc.); lower distribution costs; outreach to a larger audience; and modularity. However, storage and download/update speeds can present a challenge, as described earlier. 
+The advantages are mostly the same as with the other genres listed: increased possibilities for extending content (interactivity, video etc.); lower distribution costs; outreach to a larger audience; and modularity. However, storage and download/update speeds can present a challenge, as described earlier. 
 
 ###5) New genres 
 New genres of publication will continue to emerge as a result of the ongoing digitization of the publishing industry. These could fall outside of what we would normally consider a 'book': for example, short pamphlets, poems, essays, sketches, or - in the world of digital media - apps, a series of tweets, a **blog**, etc. Interactive approaches, similar to adventure games, where the reader is able to control the narrative or to build or customize the publication, have also been imagined and developed since the late 1980s. Up until now, this type of electronic publication (usually known as 'hyperfiction' or 'e-literature') has remained a marginal phenomenon, but one should not exclude the possibility of a resurgence in new contexts. 

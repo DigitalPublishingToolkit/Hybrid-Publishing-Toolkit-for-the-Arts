@@ -16,7 +16,7 @@ An anchor is a specific location within a HTML web page or other hypertext docum
 Google's operating system for mobile phones and tablets, based on the Linux kernel and the Java programming language. Android is currently the most widely used operating system for mobile devices (including smartphones and tablets). 
 
 #####Animated GIF (Graphics Interchange Format) 
-A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. See also [**GIF**](#graphical-user-interface-gui). 
+A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. 
 
 #####App store 
 An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry World. 
@@ -110,7 +110,7 @@ A device capable of displaying digital texts in various formats, notably EPUB, o
 A file is an object containing data and metadata, and stored on a computer, server or mobile device. A file can contain a text, an image, a video, a software program, etc. On most computer systems, files are organized within hierarchies of folders. 
 
 #####Filename extension 
-A filename extension typically consists of three or four letters at the end of a filename, preceded by a dot (such as: .html, .mp4, .jpg, etc.). Filename extensions are used by many operating systems including Windows and Mac OS X to indicate the type of a file. 
+A filename extension typically consists of three or four letters at the end of a filename, preceded by a dot (such as: .html, .mp4, .jpg/.jpeg, etc.). Filename extensions are used by many operating systems including Windows and Mac OS X to indicate the type of a file. 
 
 #####Folder 
 On most operating systems, files are grouped and hierarchically organized in folders. The term 'folder' is used synonymously with 'directory'. Folders can be hierarchically organized in a tree-like structure, so that one folder contains a number of other folders, each of which may contain yet more folders, etc. Subfolders are sometimes referred to as 'child folders' of the 'parent folder'. 
@@ -129,9 +129,6 @@ A freemium web hosting service for user-run Git repositories. Git, an Open Sourc
 #####Graphical User Interface (GUI) 
 Software that allows human users to use a computer or other digital device in a visual-tactile way, as opposed to text-based command-line interfaces, and typically creating the 'look and feel' of a tangible physical instrument. A GUI features graphical elements such as menus, icons, pointers, check boxes, knobs, dials and sliders. By clicking and dragging these elements, the user can run and control software programs and carry out other operations such as copying information, deleting files, etc. 
 
-#####Graphics Interchange Format (GIF) 
-A file format invented in the 1980s and used for simple graphics. GIF files use a limited palette of up to 256 colors which makes the format unsuitable for photographs and full-color artworks. Despite its age and limitations, the GIF format has survived because of its suitability for simple graphics such as logos, as well as animated (moving) images, see [**Animated GIF**](#animated-gif-graphics-interchange-format). See also [**JPEG**](#jpeg-or-jpg-joint-photographic-experts-group). 
- 
 ###H 
 
 #####HTML (Hypertext Markup Language) 
@@ -139,9 +136,6 @@ A file format and markup standard used mainly for web pages. HTML consists of AS
 
 #####HTML5 
 The most recent version of the HTML format. HTML5 adds various new features, notably support for the multimedia (audio and video) capabilities of the World Wide Web. Through the adoption of HTML5, web designers hope to render obsolete the use of browser plug-ins for interactive multimedia websites. 
-
-#####HTTP (Hypertext Transfer Protocol) 
-The network protocol (or transport code) used on the World Wide Web for transmitting and receiving web pages. A user accessing a website typically requests HTML pages; the web browser software sends this request via HTTP to the web server hosting the page, after which the web server sends the page via HTTP to the web browser. 
 
 #####Hybrid Publishing 
 Hybrid publishing, also known as multi-channel publishing, means the publishing of a single publication in several different print and electronic media, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
@@ -160,14 +154,8 @@ A software application which allows users to purchase, read and manage ebooks. D
 #####Icon 
 A small symbol or picture used in a graphical user interface (GUI). The icons on the computer screen visually represent software programs or data files. For example, a picture of a painter's palette may be used to represent software used for drawing and editing pictures, and a picture of a book with a question mark on its cover may represent the text of a user manual or a help file. 
 
-#####Incompatibility 
-See [**Compatibility**](#compatibility). 
-
 #####Interactivity 
 In the context of computer engineering, the ways in which software accepts and responds to user input. In other words, a system is considered 'interactive' if it reacts to human input. 
-
-#####Interface 
-An interface is a hardware or software connection between two systems, or between a system and a human user. For example, the USB interface between a computer and a printer, or the software interface for exchanging data between two software programs. The software and hardware that allows a human user to communicate with a computer is also known as a user interface. See also [**API**](#application-programming-interface-api) and [**Graphical user interface**](#graphical-user-interface-gui). 
 
 #####Internet 
 The internet is the global computer network connecting billions of computers all over the world (through the network protocol TCP/IP). The internet dates back to a group of interconnected computer networks in U.S. universities in the late 1960s and early 1970s. Contrary to popular belief, the World Wide Web (with its hypertext pages) is *not* the internet, but just one service running on top of it. (Others include e-mail, BitTorrent, and voice-over-IP services such as Skype.) 
@@ -180,8 +168,8 @@ Apple's mobile operating system for the iPhone, iPad, iPod Touch and Apple TV.
 #####JavaScript 
 JavaScript is a relatively simple, special-purpose programming language for running small programs directly on web pages, within the web browser. JavaScript is very popular for common tasks such as checking whether all fields of a web form have been filled in, or for building websites that behave like software applications (such as web mail services). Despite its name, JavaScript is unrelated to the more complex programming language Java. 
 
-#####JPEG or JPG (Joint Photographic Experts Group) 
-A file format used for digital images. The JPEG format is primarily intended for photographs and full-color artworks. Unlike the GIF format, the JPEG format has a rich color palette of millions of colors, but it also compresses data through reduction of visual details, resulting in a (often barely visible) loss of image quality. For full-color images, the JPEG format nevertheless yields better results, with smaller file sizes, than the GIF format. 
+#####JPEG  
+Acronym for Joint Photographic Experts Group, and also known as JPG. JPEG is a file format used for digital images, and particularly suitable for photographs and full-color artworks. The JPEG format has a rich color palette of millions of colors, but it also compresses data through reduction of visual details, resulting in a loss of image quality. In practice however, this loss of quality is often invisible to the human eye. 
  
 ###K 
 
@@ -202,8 +190,8 @@ A document markup language in use since the 1980s, mainly for typesetting scient
 #####Layout 
 The overall visual design of a document. In the case of printed matter, layout includes elements such as page dimensions and margins, font type and size, markup formatting, the placement of various elements within the page, and various other elements such as headings and page numbers. In the case of reflowable documents such as ebooks, the layout is dynamically adapted to each screen size and screen aspect ratio. 
 
-#####LCD (Liquid Crystal Display) 
-The technology used for producing the flat-panel color display screens found on most contemporary computers, tablets and smartphones, as well as a variety of other devices. TFT (Thin Film Transistor) LCD displays are the most common type of display today, so that the term 'TFT' is often used interchangeably with 'LCD'. See also [**E-paper**](#e-paper). 
+#####LCD 
+Acronym for Liquid Crystal Display. The technology used for producing the flat-panel color display screens found on most contemporary computers, tablets and smartphones, as well as a variety of other devices. TFT (Thin Film Transistor) LCD displays are the most common type of display today, so that the term 'TFT' is often used interchangeably with 'LCD'. See also [**E-paper**](#e-paper). 
 
 #####Linux 
 A popular Open Source, Unix-compatible operating system. Linux is named after its creator Linus Torvalds, who still supervises its development by many developers worldwide. Most web servers today run Linux. Google's Android operating system is also based on Linux. 
@@ -234,11 +222,11 @@ The screen on which the output from a computer is displayed. Also referred to as
 #####Monochrome 
 Monochrome images are either in one color (black and white) or shades of one color (grayscale). 
 
-#####MP3 (MPEG-1 or MPEG-2 Audio Layer III) 
-A common compression format for digital audio. MP3 shrinks audio files to a fraction of their original size. The technology was developed in the 1990s and has not (yet) been superseded by newer and technically superior compression formats such as MP4 AAC. 
+#####MP3 
+Acronym for 'MPEG-1 or MPEG-2 Audio Layer III'. A common compression format for digital audio. MP3 shrinks audio files to a fraction of their original size. The technology was developed in the 1990s and has not (yet) been superseded by newer and technically superior compression formats such as MP4 AAC. 
 
-#####MP4 / MPEG-4 
-A common compression format for digital video (MP4 AVC) and audio (MP4 AAC). The MP4 AAC audio format is the default audio format for Apple's iPod, iPhone and iPad devices and iTunes store. MP4 AVC is currently the standard video compression format for BluRay, digital TV, internet video (on YouTube, Vimeo, Netflix, etc.), mobile devices and consumer video cameras. 
+#####MP4  
+Also known as MPEG-4. A common compression format for digital video (MP4 AVC) and audio (MP4 AAC). The MP4 AAC audio format is the default audio format for Apple's iPod, iPhone and iPad devices and iTunes store. MP4 AVC is currently the standard video compression format for BluRay, digital TV, internet video (on YouTube, Vimeo, Netflix, etc.), mobile devices and consumer video cameras. 
 
 #####MultiMarkdown 
 An extension of the markup language Markdown, with additional support for footnotes, tables, mathematical formulas, cross-references, bibliographies and definition lists. 
@@ -248,13 +236,13 @@ The integration of two or more media (text, images, audio, video, animation, etc
 
 ###O 
 
-#####OCR (Optical Character Recognition) 
+#####Optical Character Recognition (OCR) 
 OCR software automatically recognizes printed text (or even handwriting) in scanned or photographed images and converts it into digital text files. 
 
 #####Open Source 
 Open Source originally refers to software that can be freely used, copied, adapted and modified. In order to allow modification, Open Source software provides users and developers not only with the installable software, but also its human-readable 'source' code. (An analogy would be a restaurant where customers can not only order dishes, but are also given the cooking recipes for unrestricted - personal as well as commercial - reuse.) The term has also been used to describe similar practices in fields other than software development, such as design (Open Design), publishing (Open Access), engineering, and even medical research. 
 
-#####Operating system (OS) 
+#####Operating system 
 The most basic piece of software running on a computer. Operating systems generally manage storage and file access as well as network connectivity, and provide a user interface including keyboard/mouse input and screen/audio output. Well-known operating systems include Windows, Linux and Mac OS X, as well as mobile operating systems such as Android and iOS. 
  
 ###P 
