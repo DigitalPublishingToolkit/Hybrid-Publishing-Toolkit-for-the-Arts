@@ -30,13 +30,13 @@ In pragmatic terms, electronic research publishing in the near future will focus
 
 ###Workflows 
 In print research publications, the typical workflow is as follows: 
+
 * An editor works with the author(s) on the manuscript. 
 * Several versions of the manuscript are passed back and forth between several people in different roles (editor, author, copy editor, designer). 
 * The final version of the manuscript is established in a word processor (typically Microsoft Word) or a desktop publishing program (typically Adobe InDesign). 
 * A graphic designer designs the publication in InDesign. 
 * Corrections are made to the print proof and implemented in the InDesign file. 
 * A PDF file of the corrected InDesign file is sent to the printer. 
-
 In Chapter 6 <!-- internal link needed--> we described how to generate an electronic book based on an InDesign project. This requires a meticulous internal structuring of the InDesign document, something that is untypical for the typical workflow in book projects, and for which most graphic designers working with InDesign have not been trained. There is also another way to make use of the possibilities offered by hybrid publishing: rather than designing for print and then adding the electronic book as an afterthought at the end of the process, the publishing process is instead geared towards multiple output formats from the start. 
 
 This new workflow allows for a hybrid output to various media (including print, ebook and web) and is centered on a single editorial and archival file format, a finalized version of the source document from which multiple outputs can be generated. Instead of a Word document which is further modified in InDesign - both of which are less than optimal formats for converting to EPUB - the editorial and archival file will instead be in a format that can easily be converted to InDesign for the print edition and to EPUB, MOBI or web for the electronic publication. As explained earlier in chapters 6 <!-- internal link needed--> and 7, <!-- internal link needed--> the most suitable format for this workflow is Markdown, augmented with the additional MultiMarkdown extension (which allows for footnotes, cross-references and bibliographies), and subsequent conversion to InDesign, EPUB and web, which is then a very straightforward procedure using the Open Source software tool Pandoc. 
