@@ -272,7 +272,7 @@ New genres of publication will continue to emerge as a result of the ongoing dig
 ##Three levels of electronic publishing 
 Independently of the different genres listed above, we can distinguish three levels of electronic publishing. The scope of electronic publishing ranges from the simple conversion of a paper book, to an electronic publication (for example, a PDF of the print edition as an ebook), to full-scale electronic publications which incorporate advanced digital formats such as video, or are published as 'native apps' (applications developed for a particular platform or device). When we consider the different genres of publishing from this perspective, the role and use of **metadata** also becomes an important factor. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/10/09/embedding-a-custom-set-of-metadata-based-on-dublin-core-into-a-multimarkdown-document/ "Link to blog post: Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document")(*Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document*) 
 
-Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/ "Link to blog post: From Print to What?")
+Electronic publishing can be divided into three levels, as described in further detail below: [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/09/25/from-print-to-what/ "Link to blog post: From Print to What?")(*From Print to What?*)
 
 **1. One-to-one**: the book is considered as a specific product or project where text authors, illustrators, artists, photographers and designers work together to create the book, which then is published as a single edition. The print book can also be converted or adapted into an ebook. 
 
@@ -404,7 +404,7 @@ The file formats described above are all *reflowable* documents: their presentat
 [^sales-figures-phone]: *Gartner Says Annual Smartphone Sales Surpassed Sales of Feature Phones for the First Time in 2013*, <a href="http://www.gartner.com/newsroom/id/2665715">http://www.gartner.com/newsroom/id/2665715</a>. 
 [^kobo-debian]: MobileRead, *Any interest in Kobo Desktop for Linux?*, 5 March 2010, <a href="http://www.mobileread.com/forums/showthread.php?t=82378">http://www.mobileread.com/forums/showthread.php?t=82378</a>. 
 [^ebook]: *Converting a Docx directly to EPUB using Calibre*, <a href="http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/">http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/</a>. 
-[^calibre-file-formats]: <a href="http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from">http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from</a>. 
+[^calibre-file-formats]: Ebooks manual Calibre, <a href="http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from">http://manual.calibre-ebook.com/faq.html#what-formats-does-calibre-support-conversion-to-from</a>. 
 [^ade-readers]: *Digital Editions Supported Devices*, <a href="http://blogs.adobe.com/digitalpublishing/supported-devices">http://blogs.adobe.com/digitalpublishing/supported-devices</a>. 
 [^bookworm-oreilly]: *Bookworm, "an experimental platform for storing and reading ePub-format books online," is closed as of March 31, 2012*, <a href="http://oreilly.com/bookworm">http://oreilly.com/bookworm</a>. 
 [^bookish]: Booki.sh, <a href="https://booki.sh">https://booki.sh</a>. 
@@ -1000,7 +1000,7 @@ Calibre advertises itself as 'the one stop solution to all your ebook needs'. An
 
 At the time of writing, the easiest and least expensive method of hybrid publishing is to convert the source text to Markdown, manually edit the Markdown into a well-structured document, use Pandoc to convert Markdown to EPUB, and import the EPUB into Calibre for final adjustments and conversion into other ebook formats (including Amazon Kindle). 
 
-![Calibre Workflow](images/09_calibre.png) 
+
 
 ###Enhancement utilities: Adobe Digital Publishing Suite, Mag+ 
 

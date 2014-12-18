@@ -438,7 +438,7 @@ Calibre advertises itself as 'the one stop solution to all your ebook needs'. An
 
 At the time of writing, the easiest and least expensive method of hybrid publishing is to convert the source text to Markdown, manually edit the Markdown into a well-structured document, use Pandoc to convert Markdown to EPUB, and import the EPUB into Calibre for final adjustments and conversion into other ebook formats (including Amazon Kindle). 
 
-![Calibre Workflow](images/09_calibre.png) 
+
 
 ###Enhancement utilities: Adobe Digital Publishing Suite, Mag+ 
 

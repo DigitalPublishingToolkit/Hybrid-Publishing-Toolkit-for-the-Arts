@@ -47,13 +47,13 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 @font-face {
     font-family: 'Open Sans';
     src: url('OpenSans-Bold.ttf');
-    font-weight: 600;
+    font-weight: 500;
 }
 
 @font-face {
     font-family: 'Open Sans';
     src: url('OpenSans-BoldItalic.ttf');
-    font-weight: 600;
+    font-weight: 500;
     font-style: italic;
 }
 
@@ -111,8 +111,8 @@ h4 {
 }
 
 h5 {
-    font-size: 12pt;
-    line-height: 12pt;
+    font-size: 13pt;
+    line-height: 13pt;
 }
 
 h6 {
@@ -212,3 +212,19 @@ img.fig {
     height: auto;
 }
 
+
+
+div.summary{
+    margin-top:20px;
+    margin-bottom:20px;
+    border: 2px solid #0F0;
+    padding: 10px;
+    font-weight: normal;
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    page-break-after: always;
+    border-radius:20px;
+    font-weight: bold;   
+}
