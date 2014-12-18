@@ -15,7 +15,7 @@ An anchor is a specific location within a HTML web page or other hypertext docum
 #####Android 
 Google's operating system for mobile phones and tablets, based on the Linux kernel and the Java programming language. Android is currently the most widely used operating system for mobile devices (including smartphones and tablets). 
 
-#####Animated GIF  
+#####Animated GIF 
 A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. (GIF is an acroym for Graphics Interchange Format.) 
 
 #####App store 
@@ -168,7 +168,7 @@ Apple's mobile operating system for the iPhone, iPad, iPod Touch and Apple TV.
 #####JavaScript 
 JavaScript is a relatively simple, special-purpose programming language for running small programs directly on web pages, within the web browser. JavaScript is very popular for common tasks such as checking whether all fields of a web form have been filled in, or for building websites that behave like software applications (such as web mail services). Despite its name, JavaScript is unrelated to the more complex programming language Java. 
 
-#####JPEG  
+#####JPEG 
 Acronym for Joint Photographic Experts Group, and also known as JPG. JPEG is a file format used for digital images, and particularly suitable for photographs and full-color artworks. The JPEG format has a rich color palette of millions of colors, but it also compresses data through reduction of visual details, resulting in a loss of image quality. In practice however, this loss of quality is often invisible to the human eye. 
  
 ###K 
@@ -225,7 +225,7 @@ Monochrome images are either in one color (black and white) or shades of one col
 #####MP3 
 Acronym for 'MPEG-1 or MPEG-2 Audio Layer III'. A common compression format for digital audio. MP3 shrinks audio files to a fraction of their original size. The technology was developed in the 1990s and has not (yet) been superseded by newer and technically superior compression formats such as MP4 AAC. 
 
-#####MP4  
+#####MP4 
 Also known as MPEG-4. A common compression format for digital video (MP4 AVC) and audio (MP4 AAC). The MP4 AAC audio format is the default audio format for Apple's iPod, iPhone and iPad devices and iTunes store. MP4 AVC is currently the standard video compression format for BluRay, digital TV, internet video (on YouTube, Vimeo, Netflix, etc.), mobile devices and consumer video cameras. 
 
 #####MultiMarkdown 
@@ -236,21 +236,21 @@ The integration of two or more media (text, images, audio, video, animation, etc
 
 ###O 
 
-#####Optical Character Recognition (OCR) 
-OCR software automatically recognizes printed text (or even handwriting) in scanned or photographed images and converts it into digital text files. 
-
 #####Open Source 
 Open Source originally refers to software that can be freely used, copied, adapted and modified. In order to allow modification, Open Source software provides users and developers not only with the installable software, but also its human-readable 'source' code. (An analogy would be a restaurant where customers can not only order dishes, but are also given the cooking recipes for unrestricted - personal as well as commercial - reuse.) The term has also been used to describe similar practices in fields other than software development, such as design (Open Design), publishing (Open Access), engineering, and even medical research. 
 
 #####Operating system 
 The most basic piece of software running on a computer. Operating systems generally manage storage and file access as well as network connectivity, and provide a user interface including keyboard/mouse input and screen/audio output. Well-known operating systems include Windows, Linux and Mac OS X, as well as mobile operating systems such as Android and iOS. 
  
+#####Optical Character Recognition (OCR) 
+OCR software automatically recognizes printed text (or even handwriting) in scanned or photographed images and converts it into digital text files. 
+
 ###P 
 
 #####PDA (Personal Digital Assistant) 
 A miniature computer/handheld device with standard software applications such as an agenda, address book, notebook and web browsing. PDAs were popular from the 1990s to the mid-2000s, when they were superseded by smartphones. 
 
-#####PDF  
+#####PDF 
 Acronym for Portable Document Format. PDF was developed by Adobe Systems as a file format for ensuring that documents would retain their visual layout and typographic details, and thus be rendered identically, across all operating systems. PDF is generally a read-only format, and not a suitable format for editable documents. It originated in the field of desktop publishing and became the standard file format for master copies of print publications. Since PDF is, for the most part, a fixed-layout (as opposed to reflowable) document format, designed for print, it is less suitable than EPUB as an all-purpose electronic publishing format. Since 2008, PDF has been an open standard. 
 
 #####Pixel 
@@ -297,7 +297,7 @@ A collection of tools and services for software developers who wish to program a
 Direct audio or video playback from a website, without having to download the whole file first. Today, the most common streaming formats are MP3 and MPEG-4. Streaming requires a broadband connection to the internet, with good bandwidth. See also [**bandwidth**](#bandwidth).
 
 #####Style sheet 
-In book and journal publishing, a style sheet is an instruction document for authors that tells them which editorial conventions they need to follow while preparing their manuscript for publication. In graphic design, style sheets also refer to design templates. See [**Cascading Style Sheets**](#cascading-style-sheets-css). 
+In book and journal publishing, a style sheet is an instruction document for authors that tells them which editorial conventions they need to follow while preparing their manuscript for publication. In graphic design, style sheets also refer to design templates. See [**Cascading Style Sheets (CSS)**](#cascading-style-sheets-css). 
 
 #####Syntax 
 In computing, syntax means the correct notation of a markup, command-line or programming language. Since computers cannot interpret ambiguity, 'syntax errors' easily occur in these languages; one small typo in a complex computer program will often stop the program from working altogether. 
