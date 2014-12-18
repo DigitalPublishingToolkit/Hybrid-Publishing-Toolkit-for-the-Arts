@@ -15,8 +15,8 @@ An anchor is a specific location within a HTML web page or other hypertext docum
 #####Android 
 Google's operating system for mobile phones and tablets, based on the Linux kernel and the Java programming language. Android is currently the most widely used operating system for mobile devices (including smartphones and tablets). 
 
-#####Animated GIF (Graphics Interchange Format) 
-A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. 
+#####Animated GIF  
+A graphic file format consisting of two or more image frames shown as moving images in a timed sequence; most often used for endlessly looping mini-films or graphic animations that only last a few seconds. (GIF is an acroym for Graphics Interchange Format.) 
 
 #####App store 
 An online store where applications may be bought or obtained for free. Every major mobile operating system also has its own app store: App Store (Apple), Google Play, Amazon Appstore, Windows Phone Store and BlackBerry World. 
@@ -31,7 +31,7 @@ A standardized way for software applications to communicate with each other and 
 American Standard Code for Information Interchange: the standard encoding format for plain-text files in English since 1963. ASCII is limited to 128 characters and therefore excludes diacritic (accented) characters and non-European writing systems. For written text, ASCII has therefore been superseded by Unicode (which can store characters of practically every writing system). ASCII text remains the standard format for programming and markup languages. See also [**Unicode**](#unicode). 
 
 #####AZW 
-Presumably an [**acronym**](#acronym) for 'Amazon Word'. A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also [**KF8**](#kf8) and [**MOBI**](#mobi). 
+Presumably an acronym for 'Amazon Word'. A file format used by Amazon for its Kindle range of e-reader devices and software applications. See also [**KF8**](#kf8) and [**MOBI**](#mobi). 
  
 ###B 
 
@@ -194,7 +194,7 @@ The overall visual design of a document. In the case of printed matter, layout i
 Acronym for Liquid Crystal Display. The technology used for producing the flat-panel color display screens found on most contemporary computers, tablets and smartphones, as well as a variety of other devices. TFT (Thin Film Transistor) LCD displays are the most common type of display today, so that the term 'TFT' is often used interchangeably with 'LCD'. See also [**E-paper**](#e-paper). 
 
 #####Linux 
-A popular Open Source, Unix-compatible operating system. Linux is named after its creator Linus Torvalds, who still supervises its development by many developers worldwide. Most web servers today run Linux. Google's Android operating system is also based on Linux. 
+A popular Open Source, Unix-compatible operating system. Linux is named after its creator Linus Torvalds, who still supervises its development by many developers worldwide. Most web servers today run Linux. Google's Android operating system is also based on Linux. (Unix, originally developed in the early 1970, is also the foundation of other operating systems such as Mac OS X and iOS.) 
  
 ###M 
 
@@ -250,8 +250,8 @@ The most basic piece of software running on a computer. Operating systems genera
 #####PDA (Personal Digital Assistant) 
 A miniature computer/handheld device with standard software applications such as an agenda, address book, notebook and web browsing. PDAs were popular from the 1990s to the mid-2000s, when they were superseded by smartphones. 
 
-#####PDF (Portable Document Format) 
-PDF was developed by Adobe Systems as a file format for ensuring that documents would retain their visual layout and typographic details, and thus be rendered identically, across all operating systems. PDF is generally a read-only format, and not a suitable format for editable documents. It originated in the field of desktop publishing and became the standard file format for master copies of print publications. Since PDF is, for the most part, a fixed-layout (as opposed to reflowable) document format, designed for print, it is less suitable than EPUB as an all-purpose electronic publishing format. Since 2008, PDF has been an open standard. 
+#####PDF  
+Acronym for Portable Document Format. PDF was developed by Adobe Systems as a file format for ensuring that documents would retain their visual layout and typographic details, and thus be rendered identically, across all operating systems. PDF is generally a read-only format, and not a suitable format for editable documents. It originated in the field of desktop publishing and became the standard file format for master copies of print publications. Since PDF is, for the most part, a fixed-layout (as opposed to reflowable) document format, designed for print, it is less suitable than EPUB as an all-purpose electronic publishing format. Since 2008, PDF has been an open standard. 
 
 #####Pixel 
 All text and images on a display screen are made up of a grid of thousands (or even millions) of small colored dots known as pixels. The term 'pixel' is derived from 'picture element'. See also [**Resolution**](#resolution). 
@@ -279,8 +279,8 @@ A reflowable document is a document without a predefined page layout, in which t
 #####Resolution 
 The smaller a pixel, the higher the visual resolution of any display. Resolution is commonly expressed as the number of dots per square inch (dpi) of a printed output or display. For digital print the industry standard is 300-600 dpi, for offset print 600-1200 dpi. Electronic screens traditionally had resolutions of 72-100 dpi, but the most recent generations of tablets and smartphones feature screen resolutions of 300-600 dpi. See also [**Pixel**](#pixel). 
 
-#####Rich Text Format (RTF) 
-A document format established in 1987 as an alternative format for Microsoft Word documents. Contrary to common belief, RTF is not an open standard and does not solve compatibility problems between word processing formats. 
+#####RTF 
+Acronym for Rich Text Format. A document format established in 1987 as an alternative format for Microsoft Word documents. Contrary to common belief, RTF is not an open standard and does not solve compatibility problems between word processing formats. 
  
 ###S 
 
@@ -313,19 +313,10 @@ Tags are (typically) short strings of text that contain metadata. In electronic 
 #####Text editor 
 Software for writing and editing plain text. Unlike word processors such as Microsoft Word, text editors do not combine text writing and text formatting within one software application. Many text editors provide more powerful text processing functions than word processors, as well as specific assistance for writing in markup and programming languages. 
 
-#####TIFF (Tagged Image File Format) 
-A file format for storing high-quality pixel graphics. Since TIFF images can store a broader color palette than JPEG and GIF, they are commonly used for high-resolution print design. TIFF is not a file format commonly used in electronic publishing, where higher compression and smaller file sizes are more important (in order to save bandwidth). 
-
-#####Tumblr 
-Tumblr is a blogging service (with its own content management system) owned by Yahoo, Inc. 
-
 ###U 
 
 #####Unicode 
 Unicode is today's standard format for encoding plain text. Unlike its predecessor ASCII which is limited to the English alphabet, Unicode supports almost all writing systems. For example, classical texts of many historical written languages (such as Sanskrit) can be written in Unicode. 
-
-#####Unix 
-Unix is a computer operating system originally developed by the telephone company AT&T in the early 1970s. It was the first widely-used operating system that allowed multiple users to work simultaneously on the same computer. Many core technologies of the internet are derived from Unix development, and most internet servers today run modern versions of Unix (mainly Linux). Besides Linux, Mac OS X is fully Unix-compatible, while iOS and Android are based on Unix technology. 
  
 ###W 
 
@@ -335,13 +326,13 @@ Since the invention of personal computers, word processors have been among the m
 #####WWW (World Wide Web) 
 Often referred to simply as the web, the WWW has become so popular that most people no longer distinguish it from the internet as a whole. The World Wide Web was created in the early 1990s as a hypertext electronic publishing system for the internet. (Before the World Wide Web, the standard internet services were e-mail, discussion groups [Usenet], chat [IRC] and file downloads [FTP].) The WWW makes use of the HTML and CSS file formats as well as the HTTP network protocol, and is accessed via web browsers. 
 
-#####WYSIWYG (What You See Is What You Get) 
-A concept introduced with graphical user interfaces and desktop publishing in the 1980s. It means that while designing a document on a computer, it will look on the screen exactly as it will later look in print. 
+#####WYSIWYG 
+Acronym for What You See Is What You Get. A concept introduced with graphical user interfaces and desktop publishing in the 1980s. It means that while designing a document on a computer, it will look on the screen exactly as it will later look in print. 
 
 ###X 
 
-#####XHTML (Extensible Hypertext Markup Language) 
-A version of HTML based on XML. It generally has the same markup as HTML, but a stricter syntax that conforms to XML rules. XHTML was supposed to supersede standard HTML for the web, but has not been widely adopted. Instead, the competing format HTML5 has become the new standard. 
+#####XHTML 
+Acronym for Extensible Hypertext Markup Language. A version of HTML based on XML. It generally has the same markup as HTML, but a stricter syntax that conforms to XML rules. XHTML was supposed to supersede standard HTML for the web, but has not been widely adopted. Instead, the competing format HTML5 has become the new standard. 
 
-#####XML (Extensible Markup Language) 
-XML is a markup language for constructing markup languages. In other words, it provides a syntax according to which specific markup languages can be built. (Based on XML, one could for example define a specific markup language for restaurant menus, for work schedules, or for poetry books, each of them containing self-defined customized tags.) An example of a markup language constructed with XML is XHTML. EPUB internally uses the XML-compliant 'Open Packaging Format' for cataloguing the different source files (text chapters, images etc.) used in an ebook. 
+#####XML 
+Acronym for Extensible Markup Language. XML is a markup language for constructing markup languages. In other words, it provides a syntax according to which specific markup languages can be built. (Based on XML, one could for example define a specific markup language for restaurant menus, for work schedules, or for poetry books, each of them containing self-defined customized tags.) An example of a markup language constructed with XML is XHTML. EPUB internally uses the XML-compliant 'Open Packaging Format' for cataloguing the different source files (text chapters, images etc.) used in an ebook. 

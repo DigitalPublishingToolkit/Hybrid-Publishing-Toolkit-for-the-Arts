@@ -124,7 +124,7 @@ As mentioned in the introduction of this section, an important part of an EPUB c
 
 ####Packaging 
 
-Putting together the EPUB file is quite simple: select the *META-INF* and *OEBPS* directories together with the *mimetype* file, and create a ZIP archive. This may be done by using the built-in archive utility of your computer operating system, or an external program or utility.[^epub-zipping-process] The .zip extension of the archive must then be renamed to .epub. 
+Putting together the EPUB file is quite simple: select the *META-INF* and *OEBPS* directories together with the *mimetype* file, and create a ZIP archive. This may be done by using the built-in archive utility of your computer operating system, or an external **program** or utility.[^epub-zipping-process] The .zip extension of the archive must then be renamed to .epub. 
 
 Because some archive programs create unnecessary (hidden) files inside the archive which might make your EPUB invalid, it's important to 'validate' your EPUB to see if it actually works (although in practice, most e-readers will safely ignore superfluous files and still interpret the document properly). Invalid EPUBs are files that do not conform to the EPUB specification, or have other issues such as incorrect code. Fixing validation errors will minimize (but not eliminate) the chance of e-readers refusing to read an EPUB. Validation of the EPUB can be done online using the EPUB Validator[^epub-validator] or with a specialized desktop application. 
 
