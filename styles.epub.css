@@ -124,7 +124,7 @@ section#glossary-of-technical-terms h3 {
 h4 {
     font-size: 16pt;
     line-height: 16pt;
-    margin-bottom: -16pt;
+    margin-bottom: -12pt;
 }
 
 h5 {
@@ -244,9 +244,20 @@ div.summary{
     margin-right: auto;
     page-break-inside: avoid;
     page-break-after: always;
-    font-weight: bold;   
+    font-weight: bold;    
 }
 
 div.summary li{
     margin-bottom: 12pt;
+}
+
+div#cover-image{
+    text-align:center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
 }
