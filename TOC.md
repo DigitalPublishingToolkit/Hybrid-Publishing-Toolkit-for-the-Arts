@@ -68,6 +68,6 @@
 ## Valiz
 
 
-# [Glossary of technical terms](docs/11_glossary.md)
+# [Glossary](docs/11_glossary.md)
 
 

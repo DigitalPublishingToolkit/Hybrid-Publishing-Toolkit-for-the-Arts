@@ -1,4 +1,4 @@
-#11 Glossary of technical terms 
+#11 Glossary
 
 
 ###A 
@@ -336,3 +336,8 @@ Acronym for Extensible Hypertext Markup Language. A version of HTML based on XML
 
 #####XML 
 Acronym for Extensible Markup Language. XML is a markup language for constructing markup languages. In other words, it provides a syntax according to which specific markup languages can be built. (Based on XML, one could for example define a specific markup language for restaurant menus, for work schedules, or for poetry books, each of them containing self-defined customized tags.) An example of a markup language constructed with XML is XHTML. EPUB internally uses the XML-compliant 'Open Packaging Format' for cataloguing the different source files (text chapters, images etc.) used in an ebook. 
+
+
+<div class="end">
+<img class="end" src="images/logo_end.png" />
+</div>
