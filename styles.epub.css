@@ -57,6 +57,7 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
     font-style: italic;
 }
 
+
 body {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     margin: 2em;
@@ -82,8 +83,8 @@ p {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Ubuntu Mono Bold', monospace;
     font-weight: 300;
-    font-size: 18pt;
-    line-height: 18pt;
+    font-size: 24pt;
+    line-height: 24pt;
     hyphens: none !important;
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
@@ -100,19 +101,36 @@ h1 {
     padding-top: 10px;
 }
 
+h2 {
+    font-size: 22pt;
+    line-height: 22pt;  
+}
+
 h3 {
-    font-size: 16pt;
-    line-height: 16pt;  
+    font-size: 18pt;
+    line-height: 18pt;
+    margin-top: 30pt;
+    margin-bottom: 18pt;
+}
+
+
+
+section#glossary-of-technical-terms h3 {
+    font-size: 22pt;
+    line-height: 22pt;  
+    margin-bottom: 18pt;
 }
 
 h4 {
-    font-size: 14pt;
-    line-height: 14pt;
+    font-size: 16pt;
+    line-height: 16pt;
+    margin-bottom: -16pt;
 }
 
 h5 {
-    font-size: 13pt;
-    line-height: 13pt;
+    font-size: 16pt;
+    line-height: 16pt;
+    margin-bottom: -16pt; 
 }
 
 h6 {
@@ -215,9 +233,9 @@ img.fig {
 
 
 div.summary{
-    margin-top:20px;
+    margin-top:40px;
     margin-bottom:20px;
-    border: 2px solid #0F0;
+    border: 1px solid #0F0;
     padding: 10px;
     font-weight: normal;
     width:75%;
@@ -225,6 +243,9 @@ div.summary{
     margin-right: auto;
     page-break-inside: avoid;
     page-break-after: always;
-    border-radius:20px;
     font-weight: bold;   
+}
+
+div.summary li{
+    margin-bottom: 12pt;
 }
