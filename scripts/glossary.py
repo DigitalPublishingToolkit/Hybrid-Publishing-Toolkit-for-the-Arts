@@ -48,11 +48,14 @@ def find_unbold_term_in_text(term, gloss_file, search_dir):
                         title = (xhtml_parsed.find('.//title')).text
 #                        msg = 'FOUND unbold glossary term: "{}" in file {}, section "{}"'.format(term,f,title)
                         msg = term #+"; "+ title
-                        print msg
+#                        print msg
                         return term, title
                         break
                     
 def find_term_in_text(term, gloss_file, search_dir): #find a match for each glossary term
+    term = term.replace('(','\(')
+    term = term.replace(')','\)')
+
     xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
     xhtmls.sort()
     for f in xhtmls: #try matching glossary term with term in body text
@@ -63,8 +66,7 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
                 if content.text is not None:
                     text = (content.text).encode('UTF-8')
                     if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                   
-#                    if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
-                        print 'MATCHED TERM - {} -  IN TEXT'.format(text)
+                        #print 'MATCHED TERM - {} -  IN TEXT'.format(text)
                         ## Step 3.3: TEXT LINK: Add link to glossary_term
                         return content, xhtml_parsed, f
                         break
@@ -125,21 +127,29 @@ temp_dir_ls=os.listdir(temp_dir)
 
 
 # files inside unziped EPUB (temp_dir)
-glossary=find_chapter("11 Glossary of technical terms", temp_dir_ls)
+glossary=find_chapter("11 Glossary", temp_dir_ls)
 gloss_file = glossary[0]
 gloss_tree = glossary[1]
 colophon_file=(find_chapter("Colophon", temp_dir_ls))[0]
 gloss_terms = gloss_tree.findall('.//section[@class="level5"]') # find glossary terms
 gloss_terms_except = {
 'Application or app': 'applications',
-'Animated GIF (Graphics Interchange Format)': 'Animated GIF',
+'Application Programming Interface (API)': 'application programming interface (API)',
 'Bit': 'bits',
-'Browser extension': 'browser',
+'Browser extension': 'browser extensions',
 'Compressed files': 'compressed',
 'Database': 'databases',
 'Dataset': 'datasets',
 'Device': 'devices',
 'Folder': 'folders',
+'Hyperlink': 'hyperlinks',
+'Markup language': 'markup languages',
+'Monitor': 'monitors',
+'Pixel': 'pixels',
+'Platform': 'platforms',
+'Print On Demand (POD)': 'print-on-demand',
+'Word processor': 'word processors',
+'WWW (World Wide Web)': 'World Wide Web'
 } #terms that are found in the main text under a different syntax
 
 
@@ -152,7 +162,7 @@ for gloss_el in gloss_terms:
 #    gloss_term_list = strip_glossary_term(gloss_el)
 #    for term in gloss_term_list:
 
-    print 'Original glossary Term:', term
+#    print 'Original glossary Term:', term
     if term in gloss_terms_except:
         term = gloss_terms_except[term]
 
