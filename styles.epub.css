@@ -235,7 +235,8 @@ img.fig {
 div.summary{
     margin-top:40px;
     margin-bottom:20px;
-    border: 1px solid #0F0;
+    border-top: 1px solid #0F0;
+    border-bottom: 1px solid #0F0; 
     padding: 10px;
     font-weight: normal;
     width:75%;
