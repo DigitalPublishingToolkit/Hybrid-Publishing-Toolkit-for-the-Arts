@@ -141,10 +141,10 @@ The most recent version of the HTML format. HTML5 adds various new features, not
 Hybrid publishing, also known as multi-channel publishing, means the publishing of a single publication in several different print and electronic media, preferably with a workflow that minimizes the effort of customizing the publication for each medium. 
 
 #####Hyperlink 
-A hyperlink (hypertext link) is a clickable cross-reference between electronic documents. By clicking a hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. See also **Hypertext**. 
+A hyperlink (hypertext link) is a clickable cross-reference between electronic documents. By clicking a hyperlink, the user is led to another part of the document, or to a different document, web page or website. Hyperlinks are usually highlighted and/or underlined so that users can easily recognize them in the text. 
 
 #####Hypertext 
-A system for the non-linear organization of text, and arguably the fundamental underlying principle of the World Wide Web. The concept of hypertext predates the web by many years. See also **Hyperlink**. 
+A system for the non-linear organization of text, and arguably the fundamental underlying principle of the World Wide Web. The concept of hypertext predates the web by many years. 
  
 ###I 
 

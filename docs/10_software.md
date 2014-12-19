@@ -5,21 +5,21 @@ A catalogue of the Free and Open Source software, both used and written in the H
 
 ###CakePHP 
 
-A piece of web developer software that makes it easy to create web-based applications in the programming language **PHP**. 
+A piece of web developer software that makes it easy to create web-based applications in the programming language PHP. 
 
 [http://cakephp.org/](http://cakephp.org/) 
 
 
 ###epubtrailer.py 
 
-A small program written in the **Python** programming language that automatically generates a visual book trailer from an EPUB file, in the form of an animated (GIF) image. 
+A small program written in the Python programming language that automatically generates a visual book trailer from an EPUB file, in the form of an animated (GIF) image. 
 
 [https://github.com/DigitalPublishingToolkit/epubtrailer.py](https://github.com/DigitalPublishingToolkit/epubtrailer.py) 
 
 
 ###EPUBster 
 
-A web application for creating and editing EPUBs, written in **CakePHP**. 
+A web application for creating and editing EPUBs, written in CakePHP. 
 
 [https://github.com/DigitalPublishingToolkit/epubster](https://github.com/DigitalPublishingToolkit/epubster) 
 
@@ -40,7 +40,7 @@ A small program written in the Python programming language to generate a table o
 
 ###ICML 
 
-ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application **Pandoc**, Markdown files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on **Make** and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
+ICML is the file format of [InCopy](https://creative.adobe.com/products/incopy), Adobe's word processor built into InDesign. With the application Pandoc, Markdown files can be easily converted into ICML, preserving the logical structure of the document. The resulting file can then be imported into InDesign and be used as the basis of a print design. See the [related blog post on Make and its use in one of our projects](http://digitalpublishingtoolkit.org/2014/10/markdown-to-indesign-with-pandoc-via-icml/).
 
 
 ###Make 
@@ -52,7 +52,7 @@ The [GNU Make](http://www.gnu.org/software/make/) program helps to automate work
 
 ###Markdown 
 
-[Markdown](http://daringfireball.net/projects/markdown/) is a simple structured text format. It was originally designed to allow writers to use informal, human-readable formatting in blog posts, using writing conventions found in plain-text emails and chats, rather than reader-unfriendly and writer-unfriendly HTML code. Though it [originated from the blogging and coding communities](http://en.wikipedia.org/wiki/Markdown#History), Markdown is gaining popularity and is supported by a wide range of tools and programs (See **Mou** below). This blog post [compares Markdown with HTML](http://digitalpublishingtoolkit.org/2014/04/mark-me-up-mark-me-down/) in the context of one of our own e-book development projects. Most Markdown tools are Open Source / Free Software, and the format is currently in the process of becoming an open [standard](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/). 
+[Markdown](http://daringfireball.net/projects/markdown/) is a simple structured text format. It was originally designed to allow writers to use informal, human-readable formatting in blog posts, using writing conventions found in plain-text emails and chats, rather than reader-unfriendly and writer-unfriendly HTML code. Though it [originated from the blogging and coding communities](http://en.wikipedia.org/wiki/Markdown#History), Markdown is gaining popularity and is supported by a wide range of tools and programs (See Mou below). This blog post [compares Markdown with HTML](http://digitalpublishingtoolkit.org/2014/04/mark-me-up-mark-me-down/) in the context of one of our own e-book development projects. Most Markdown tools are Open Source / Free Software, and the format is currently in the process of becoming an open [standard](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/). 
 
 [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/) 
 
@@ -66,7 +66,7 @@ A simple validation tool for checking metadata in a Markdown file.
 
 ###My Highlights 
 
-Our project for nai010 Publishers included two technical components. The first is a mobile web application, called My Highlights, which allows a user to browse a large collection and create an EPUB based on a personal selection of catalogue texts on art works from the collection of the Stedelijk Museum Amsterdam. The other is a set of plug-ins for the popular web content management system WordPress, extending the functionality of the WordPress JSON REST **application programming interface (API)** (WP-AP)[^wp-api] and facilitating the generation of EPUBs directly from a WordPress database. (The latter is for the most part a packaged version of the **CakePHP** EPUB component that builds on Asbjørn Grandt's PHPePub.)
+Our project for nai010 Publishers included two technical components. The first is a mobile web application, called My Highlights, which allows a user to browse a large collection and create an EPUB based on a personal selection of catalogue texts on art works from the collection of the Stedelijk Museum Amsterdam. The other is a set of plug-ins for the popular web content management system WordPress, extending the functionality of the WordPress JSON REST **application programming interface (API)** (WP-AP)[^wp-api] and facilitating the generation of EPUBs directly from a WordPress database. (The latter is for the most part a packaged version of the CakePHP EPUB component that builds on Asbjørn Grandt's PHPePub.)
 
 [https://github.com/DigitalPublishingToolkit/my-highlights](https://github.com/DigitalPublishingToolkit/my-highlights) 
 
@@ -80,7 +80,7 @@ Our project for nai010 Publishers included two technical components. The first i
 
 ###PHPePub 
 
-For Valiz Publishers, an online EPUB generator was developed based on **CakePHP** and a set of Open Source software modules, notably Asbjørn Grandt's PHPePub.[^phpepub] The project was developed with relatively low-cost and low-feature[^low-feature-explanation] web hosting in mind. Notable features include support for endnotes and a WYSIWYG editor based on HTML5's 'content-editable' mechanism. The platform allows publishers to author and generate EPUBs suitable for distribution in various bookstores. 
+For Valiz Publishers, an online EPUB generator was developed based on CakePHP and a set of Open Source software modules, notably Asbjørn Grandt's PHPePub.[^phpepub] The project was developed with relatively low-cost and low-feature[^low-feature-explanation] web hosting in mind. Notable features include support for endnotes and a WYSIWYG editor based on HTML5's 'content-editable' mechanism. The platform allows publishers to author and generate EPUBs suitable for distribution in various bookstores. 
 
 [https://github.com/Grandt/PHPePub](https://github.com/Grandt/PHPePub) 
 
@@ -101,4 +101,4 @@ For Valiz Publishers, an online EPUB generator was developed based on **CakePHP*
 
 [^wp-api]:A JSON-based REST API for WordPress, <a href="https://github.com/WP-API/WP-API">https://github.com/WP-API/WP-API</a>. 
 [^low-feature-explanation]: E.g. no command-line access, limited possibilities for executing external programs like Pandoc. 
-[^phpepub]: Asbjørn Grandt's PHPePub, <a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>.
+[^phpepub]: Asbjørn Grandt's PHPePub, <a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>. 
