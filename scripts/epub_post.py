@@ -26,22 +26,46 @@ fh.close()
 ## STEP 2:  Do Changes
 
 ### Changes defs
+
+def add_child(parent, element, href, text, section):
+    if section is 'footnote':
+        link_wrap_before = '[' 
+        link_wrap_after = ']'
+
+    child = ET.SubElement(parent, 'span' )
+    child.text = link_wrap_before
+    child.tail = link_wrap_after
+
+    grandchild = ET.SubElement(child, element, {'href': href})
+    grandchild.text = text
+#    grandchild.append('span', )
+
+
 def replace_fn_links(tree, element):
-    print 'replacing footnotes links'
+#    print 'replacing footnotes links'
     for tag in tree.findall(element):
         if tag.text is not None:
             text=(tag.text).encode('utf-8')
             if text == '↩':#'&#8617;':
                 tag.text = 'back'
+                ## to put back inside []
+                # href =  tag.get('href')
+                # add_child(
+                #     parent=tag,
+                #     element='a',
+                #     href=href,
+                #     text='back',
+                #     section='footnote'
+                # )
 
 
 def addclass_bloglink(tree, element): # add class=bloglink to blog icon images
-    print '     adding class=bloglink to bloglinks <img>s'
+#    print '     adding class=bloglink to bloglinks <img>s'
     for tag in tree.findall(element):
         tag.set('class', 'bloglink')
 
 def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
-    print '     adding <div class="fig"> to <figure>'
+#    print '     adding <div class="fig"> to <figure>'
     for tag in tree.findall(element):
         figure = tag.find('./figure')
         img = tag.find('./img')  # find child elements' atrib
@@ -72,7 +96,7 @@ temp_ls.sort()
 for f in temp_ls: # 2.1: loop content files
     if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
-        print 'Processing:', filename
+#        print 'Processing:', filename
         # 2.2 Parse each file
         xhtml = open("temp/"+f, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)

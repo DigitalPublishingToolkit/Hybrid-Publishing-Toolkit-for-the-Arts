@@ -166,7 +166,7 @@ for gloss_el in gloss_terms:
     if term in gloss_terms_except:
         term = gloss_terms_except[term]
 
-    print 'Search Glossary Term:', term
+    print 'Linking Glossary Term:', term
     found_term = find_term_in_text(term=term,
                                    gloss_file=gloss_file,
                                    search_dir=temp_dir_ls)
