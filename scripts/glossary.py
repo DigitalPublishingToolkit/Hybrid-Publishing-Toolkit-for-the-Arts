@@ -3,59 +3,55 @@
 import os, html5lib, re, sys, zipfile, shutil
 from xml.etree import ElementTree as ET
 
-###
-# Adds hyperlink references and back-references to the terms in the EPUBs GLOSSARY.
-###
+"""
+(C) 2014 Andre Castro
 
-print "** Adding hyperlinks to EPUB Glossary **"
+License: [GPL3](http://www.gnu.org/copyleft/gpl.html)
+"""
 
-# defs
+"""
+Script adds hyperlinks between Glossary and main text of toolkit.epub.
+"""
+
+
+
 def add_child(parent, element, myclass, myid, href, text, section):
     if section is 'glossary':
         link_wrap_before = ' [' 
         link_wrap_after = ']'
-
     child = ET.SubElement(parent, 'span' )
     child.text = link_wrap_before
     child.tail = link_wrap_after
-
     grandchild = ET.SubElement(child, element, {'class':myclass, 'href': href, 'id':myid})
     grandchild.text = text
-#    grandchild.append('span', )
 
 def wrap_term_anchor(parent, element, myclass, myid, href, section):
     parent_text = parent.text
     parent.text = ''
     sub = ET.SubElement(parent, 'a', {'class':myclass, 'id':myid, 'href':href})
     sub.text = parent_text
-    #print ET.tostring(parent)
 
 def find_unbold_term_in_text(term, gloss_file, search_dir):
     # def only intended to produce lists of terms in body matter that need to become bold
     # looks for files from Glossary outside <strong>
-    xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
+    xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  
     xhtmls.sort()
     for f in xhtmls: #try matching glossary term with term in body text
         xhtml_parsed = parse_html(temp_dir, f)
-        p = xhtml_parsed.findall('.//p') # glossay terms in text are inside <p>TERM</p>       
+        p = xhtml_parsed.findall('.//p') # glossay terms in text are inside <p>TERM</p>     
         if p:
             for content in p:          
                 if content.text is not None:
                     text = (content.text).encode('utf-8')
                     term = term.encode('utf-8')
                     if term in text:
-                    # if term in text or term in text.capitalize() or term in text.lower():  # BUG: PROBLEMATIC TERMS
                         title = (xhtml_parsed.find('.//title')).text
-#                        msg = 'FOUND unbold glossary term: "{}" in file {}, section "{}"'.format(term,f,title)
-                        msg = term #+"; "+ title
-#                        print msg
                         return term, title
                         break
                     
 def find_term_in_text(term, gloss_file, search_dir): #find a match for each glossary term
     term = term.replace('(','\(')
     term = term.replace(')','\)')
-
     xhtmls = [f for f in search_dir if f[:2]=='ch' and f[-6:]==".xhtml" and f != gloss_file and f != colophon_file ]  # all content, but glossary or colophon
     xhtmls.sort()
     for f in xhtmls: #try matching glossary term with term in body text
@@ -65,11 +61,8 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
             for content in p_strong:          
                 if content.text is not None:
                     text = (content.text).encode('UTF-8')
-                    if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                   
-                        #print 'MATCHED TERM - {} -  IN TEXT'.format(text)
-                        ## Step 3.3: TEXT LINK: Add link to glossary_term
-                        return content, xhtml_parsed, f
-                        break
+                    if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                                        return content, xhtml_parsed, f
+                    # break
 
 def glossary_term(item): 
     h5 = item.find('./h5')
@@ -82,8 +75,7 @@ def strip_glossary_term(item): #remove whatever is inside parenthesis
     reg_noparenthesis= re.compile(r'(.*)\s\(.*?\)')
     h5_term = re.sub(reg_noparenthesis, r'\1', h5_text)
     if ' or ' in h5_term:
-        term_list=h5_term.split(' or ')
-        
+        term_list=h5_term.split(' or ')        
     elif ' / ' in h5_term:    
         term_list=h5_term.split(' / ')
     else:        
@@ -100,7 +92,7 @@ def save_html(content_dir, content_file, tree ):
     doctype = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n'
     html = ET.tostring(tree,  encoding='utf-8', method='xml')
     html = doctype + html
-    xhtml_file = open(content_dir + content_file, "w") # open and parse
+    xhtml_file = open(content_dir + content_file, "w")
     xhtml_file.write(html) 
     xhtml_file.close()
 
@@ -113,7 +105,8 @@ def find_chapter(glossary_title, search_dir):
         if title in glossary_title:
             return(f, xhtml_parsed)
 
-
+print "** Adding hyperlinks to EPUB Glossary **"
+        
 ## unzip epub
 filename = sys.argv[1]
 fh = open(str(filename), 'rb')
@@ -153,19 +146,11 @@ gloss_terms_except = {
 } #terms that are found in the main text under a different syntax
 
 
-# CREATE HYPERLINK FROM AND TO GLOSSARY TERM 
-# loop through all glossary terms and find them in body text
+# create hyperlink from and to glossary term 
 for gloss_el in gloss_terms:
     term = glossary_term(gloss_el)
-
-
-#    gloss_term_list = strip_glossary_term(gloss_el)
-#    for term in gloss_term_list:
-
-#    print 'Original glossary Term:', term
     if term in gloss_terms_except:
         term = gloss_terms_except[term]
-
     print 'Linking Glossary Term:', term
     found_term = find_term_in_text(term=term,
                                    gloss_file=gloss_file,
@@ -224,5 +209,5 @@ epub.close()
 shutil.rmtree(temp_dir)
 
 print
-print "** Hyperlinks to Glossary were inserted without errors **"
+print "** Hyperlinks were inserted to Glossary without errors **"
 

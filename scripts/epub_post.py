@@ -5,16 +5,23 @@ from os.path import join
 from xml.etree import ElementTree as ET
 import html5lib
 import argparse
-#####
-# EDITING TOOLKIT.EPUB AFTER ITS CREATION, TO:
-# * introduce classes to BLOG LINKS
-# *
-###
+"""
+(C) 2014 Andre Castro
 
-## STEP 1: unzip epub
+License: [GPL3](http://www.gnu.org/copyleft/gpl.html)
+"""
+
+"""
+Script enhances the EPUB created from from Pandoc conversion to EPUB3, namely:
+
+* Removes <sub> from footnotes, since these interferes with the iPad response; relies on CSS instead 
+* Replaces back arrows - '↩' - with work 'back'
+* add class='bloglink' to blog icon images - for CSS a:hover
+* makes cover linear inside content.opf <spine>
+
+"""
+
 filename = sys.argv[1]
-
-
 # unzip ePub
 fh = open(str(filename), 'rb')
 z = zipfile.ZipFile(fh)
@@ -24,47 +31,31 @@ for name in z.namelist():
 fh.close()
 temp_dir="temp/"
 os.remove(temp_dir+'mimetype') # delete mimetype (will be added later with epub.writestr)
-## STEP 2:  Do Changes
 
-### Changes defs
 
-def fn_rm_sup(tree, element): #Remove Footnotes <sub>; Usig CSS instead 
+
+def fn_rm_sup(tree, element): # Removes Footnotes <sub>
     for fn in tree.findall(element):
-#        print ET.tostring(fn)
         for child in list(fn):
             if child.tag == 'sup':                
                 number = child.text
-#                print child
-#                child.clear() # STILL LEAVING </sup>
                 fn.remove(child)
                 fn.text=number
 
 
-def replace_fn_links(tree, element):
-#    print 'replacing footnotes links'
+def replace_fn_links(tree, element): #replace back arrows with work "back"
     for tag in tree.findall(element):
         if tag.text is not None:
             text=(tag.text).encode('utf-8')
-            if text == ' ↩':#'&#8617;':
+            if text == '↩':#'&#8617;':
                 tag.text = 'back'
-                ## to put back inside []
-                # href =  tag.get('href')
-                # add_child(
-                #     parent=tag,
-                #     element='a',
-                #     href=href,
-                #     text='back',
-                #     section='footnote'
-                # )
 
 
 def addclass_bloglink(tree, element): # add class=bloglink to blog icon images
-#    print '     adding class=bloglink to bloglinks <img>s'
     for tag in tree.findall(element):
         tag.set('class', 'bloglink')
 
 def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
-#    print '     adding <div class="fig"> to <figure>'
     for tag in tree.findall(element):
         figure = tag.find('./figure')
         img = tag.find('./img')  # find child elements' atrib
@@ -87,7 +78,7 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
         new_fig_tag = ET.fromstring(new_fig)
         tag.extend(new_fig_tag) # insert into figure
 
-def spine(filename):
+def spine(filename): # makes cover linear is <spine>
     tree = ET.parse(filename)
     ET.register_namespace('epub', 'http://www.idpf.org/2007/ops')
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
@@ -102,7 +93,7 @@ def save_html(content_dir, content_file, tree ):
     doctype = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n'
     html = ET.tostring(tree,  encoding='utf-8', method='xml')
     html = doctype + html
-    xhtml_file = open(content_dir + content_file, "w") # open and parse
+    xhtml_file = open(content_dir + content_file, "w") 
     xhtml_file.write(html) 
     xhtml_file.close()
 
@@ -110,13 +101,10 @@ def save_html(content_dir, content_file, tree ):
 temp_ls=os.listdir("temp/")
 temp_ls.sort()
 
-for f in temp_ls: # 2.1: loop content files
-#    print f
+for f in temp_ls: 
     if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
-        #        print 'Processing:', filename
-        # 2.2 Parse each file
-        xhtml = open(filename, "r") # open and parse
+        xhtml = open(filename, "r") 
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
         fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
         replace_fn_links(xhtml_parsed, './/li/p/a')
@@ -129,13 +117,12 @@ for f in temp_ls: # 2.1: loop content files
         
     elif f == 'content.opf':
         filename = "temp/"+f
-        xhtml = open("temp/"+f, "r") # open and parse
+        xhtml = open("temp/"+f, "r")
         tree = spine(filename)
         ET.register_namespace('', 'http://www.idpf.org/2007/opf')
         tree.write(filename, encoding='utf-8', xml_declaration='True' )
 
         
-
 # Step 3: zip epub
 epub = zipfile.ZipFile("FromPrintToEbooks.epub", "w")
 epub.writestr("mimetype", "application/epub+zip")
