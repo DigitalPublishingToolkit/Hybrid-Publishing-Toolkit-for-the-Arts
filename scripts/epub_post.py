@@ -45,7 +45,7 @@ def replace_fn_links(tree, element):
     for tag in tree.findall(element):
         if tag.text is not None:
             text=(tag.text).encode('utf-8')
-            if text == '↩':#'&#8617;':
+            if text == ' ↩':#'&#8617;':
                 tag.text = 'back'
                 ## to put back inside []
                 # href =  tag.get('href')

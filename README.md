@@ -6,13 +6,13 @@ Welcome to the working version of the (digital) publication for the [Digital Pub
 
 
 ## EPUB
-To create the simple EPUB of the publication run:
+Create a simple EPUB of the publication by running:
+
 `make toolkit.epub`
 
-To run a more elaborate (including hyperlinked glossary) EPUB of the publication run:
-`make FromPrintToEbooks.epub`
+Create a more elaborate (including hyperlinked glossary) EPUB by running:
 
-(Last make command requires python's [html5lib](FromPrintToEbooks.epub))
+`make FromPrintToEbooks.epub` (command requires python's [html5lib](FromPrintToEbooks.epub))
 
 
 
