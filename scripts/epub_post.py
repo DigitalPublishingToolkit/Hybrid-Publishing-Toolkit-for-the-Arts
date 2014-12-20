@@ -108,8 +108,8 @@ for f in temp_ls: # 2.1: loop content files
         # 2.2 Parse each file
         xhtml = open(filename, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-#        replace_fn_links(xhtml_parsed, './/li/p/a')
-#        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
+        replace_fn_links(xhtml_parsed, './/li/p/a')
+        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
 #        figure(xhtml_parsed, './/figure')
 
         save_html(
