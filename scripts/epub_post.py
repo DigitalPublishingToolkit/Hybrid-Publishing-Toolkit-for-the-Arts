@@ -22,7 +22,8 @@ for name in z.namelist():
     outpath = "temp"
     z.extract(name, outpath)
 fh.close()
-
+temp_dir="temp/"
+os.remove(temp_dir+'mimetype') # delete mimetype (will be added later with epub.writestr)
 ## STEP 2:  Do Changes
 
 ### Changes defs
@@ -88,6 +89,13 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
         new_fig_tag = ET.fromstring(new_fig)
         tag.extend(new_fig_tag) # insert into figure
 
+def save_html(content_dir, content_file, tree ):
+    doctype = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n'
+    html = ET.tostring(tree,  encoding='utf-8', method='xml')
+    html = doctype + html
+    xhtml_file = open(content_dir + content_file, "w") # open and parse
+    xhtml_file.write(html) 
+    xhtml_file.close()
 
 
 temp_ls=os.listdir("temp/")
@@ -96,22 +104,23 @@ temp_ls.sort()
 for f in temp_ls: # 2.1: loop content files
     if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
-#        print 'Processing:', filename
+        #        print 'Processing:', filename
         # 2.2 Parse each file
-        xhtml = open("temp/"+f, "r") # open and parse
+        xhtml = open(filename, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-        replace_fn_links(xhtml_parsed, './/li/p/a')
-        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
-#        figure(xhtml_parsed, './/figure') 
+#        replace_fn_links(xhtml_parsed, './/li/p/a')
+#        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
+#        figure(xhtml_parsed, './/figure')
 
-        html = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n' + ET.tostring(xhtml_parsed, method="xml", encoding="utf-8")
-        edited = open(filename, 'w') #write
-        edited.write(html)
+        save_html(
+            content_dir=temp_dir,
+            content_file=f,
+            tree=xhtml_parsed )
 
 
 # Step 3: zip epub
 epub = zipfile.ZipFile("toolkit_post.epub", "w")
-#epub.writestr("mimetype", "application/epub+zip")
+epub.writestr("mimetype", "application/epub+zip")
 temp_dir = "temp"
 
 def fileList(source):
@@ -124,7 +133,7 @@ def fileList(source):
 dirlist=fileList(temp_dir)
 
 for name in dirlist:
-    path = name[5:] # removes temp/
+    path = name[5:] # removes 'temp/'
     epub.write(name, path, zipfile.ZIP_DEFLATED)
 epub.close()
 

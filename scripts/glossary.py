@@ -124,7 +124,7 @@ for name in z.namelist():
 fh.close()
 temp_dir="temp/"
 temp_dir_ls=os.listdir(temp_dir)
-
+os.remove(temp_dir+'mimetype') # delete mimetype (will be added later with epub.writestr)
 
 # files inside unziped EPUB (temp_dir)
 glossary=find_chapter("11 Glossary", temp_dir_ls)
@@ -203,7 +203,8 @@ for gloss_el in gloss_terms:
 
 # Step 3: zip epub
 epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
-#epub.writestr("mimetype", "application/epub+zip")
+epub.writestr("mimetype", "application/epub+zip")
+
 
 def fileList(source):
     matches = []
@@ -215,7 +216,7 @@ def fileList(source):
 dirlist=fileList(temp_dir)
 
 for name in dirlist:
-    path = name[5:] # removes temp/
+    path = name[5:] # removes 'temp/'
     epub.write(name, path, zipfile.ZIP_DEFLATED)
 epub.close()
 

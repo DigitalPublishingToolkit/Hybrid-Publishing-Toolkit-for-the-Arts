@@ -103,8 +103,11 @@ toolkit.odf: toolkit.md
 
 # Epub post production - changes and and enhancements to toolkit.epub
 toolkit_post.epub: toolkit.epub
-	python scripts/glossary.py toolkit.epub && \
-	python scripts/epub_post.py toolkit_glossary.epub
+	python scripts/epub_post.py toolkit.epub	
+#	python scripts/glossary.py toolkit.epub #&& \
+#	python scripts/epub_post.py toolkit_glossary.epub
+
+# glossary script is bug free
 
 toolkit.icml: toolkit.icml
 	cd docs && pandoc \
