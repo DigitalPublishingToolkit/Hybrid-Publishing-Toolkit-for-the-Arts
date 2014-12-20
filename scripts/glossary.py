@@ -62,7 +62,7 @@ def find_term_in_text(term, gloss_file, search_dir): #find a match for each glos
                 if content.text is not None:
                     text = (content.text).encode('UTF-8')
                     if re.search(r'^{}$'.format(term), text, re.IGNORECASE):                                        return content, xhtml_parsed, f
-                    # break
+
 
 def glossary_term(item): 
     h5 = item.find('./h5')
