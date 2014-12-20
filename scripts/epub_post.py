@@ -28,18 +28,16 @@ os.remove(temp_dir+'mimetype') # delete mimetype (will be added later with epub.
 
 ### Changes defs
 
-def add_child(parent, element, href, text, section):
-    if section is 'footnote':
-        link_wrap_before = '[' 
-        link_wrap_after = ']'
-
-    child = ET.SubElement(parent, 'span' )
-    child.text = link_wrap_before
-    child.tail = link_wrap_after
-
-    grandchild = ET.SubElement(child, element, {'href': href})
-    grandchild.text = text
-#    grandchild.append('span', )
+def fn_rm_sup(tree, element): #Remove Footnotes <sub>; Usig CSS instead 
+    for fn in tree.findall(element):
+#        print ET.tostring(fn)
+        for child in list(fn):
+            if child.tag == 'sup':                
+                number = child.text
+#                print child
+#                child.clear() # STILL LEAVING </sup>
+                fn.remove(child)
+                fn.text=number
 
 
 def replace_fn_links(tree, element):
@@ -89,6 +87,17 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
         new_fig_tag = ET.fromstring(new_fig)
         tag.extend(new_fig_tag) # insert into figure
 
+def spine(filename):
+    tree = ET.parse(filename)
+    ET.register_namespace('epub', 'http://www.idpf.org/2007/ops')
+    spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
+    manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
+    for child in spine.getchildren():
+        if child.attrib['idref'] == 'cover_xhtml':            
+            child.attrib['linear'] = 'yes'
+    return tree
+
+        
 def save_html(content_dir, content_file, tree ):
     doctype = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n'
     html = ET.tostring(tree,  encoding='utf-8', method='xml')
@@ -102,24 +111,33 @@ temp_ls=os.listdir("temp/")
 temp_ls.sort()
 
 for f in temp_ls: # 2.1: loop content files
+#    print f
     if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
         #        print 'Processing:', filename
         # 2.2 Parse each file
         xhtml = open(filename, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
+        fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
         replace_fn_links(xhtml_parsed, './/li/p/a')
         addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
 #        figure(xhtml_parsed, './/figure')
-
         save_html(
             content_dir=temp_dir,
             content_file=f,
             tree=xhtml_parsed )
+        
+    elif f == 'content.opf':
+        filename = "temp/"+f
+        xhtml = open("temp/"+f, "r") # open and parse
+        tree = spine(filename)
+        ET.register_namespace('', 'http://www.idpf.org/2007/opf')
+        tree.write(filename, encoding='utf-8', xml_declaration='True' )
 
+        
 
 # Step 3: zip epub
-epub = zipfile.ZipFile("toolkit_post.epub", "w")
+epub = zipfile.ZipFile("FromPrintToEbooks.epub", "w")
 epub.writestr("mimetype", "application/epub+zip")
 temp_dir = "temp"
 
@@ -142,5 +160,5 @@ epub.close()
 shutil.rmtree(temp_dir)
 
 print
-print "** toolkit_post.epub was generated without errors **"
+print "** FromPrintToEbooks.epub was generated without errors **"
 

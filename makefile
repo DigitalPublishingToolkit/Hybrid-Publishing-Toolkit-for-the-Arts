@@ -77,6 +77,13 @@ toolkit.epub: toolkit.md metadata.xml styles.css docs/images/cover.png
 		-o ../toolkit.epub \
 		../toolkit.md
 
+# Epub post production - and and enhancements to toolkit.epub
+FromPrintToEbooks.epub: toolkit.epub
+	python scripts/glossary.py toolkit.epub && \
+	python scripts/epub_post.py FromPrintToEbooks.epub
+
+# 
+
 # needs wkhtmltopdf installed http://wkhtmltopdf.org/
 toolkit.pdf: toolkit.md
 	cd docs && pandoc --from markdown \
@@ -100,14 +107,6 @@ toolkit.odf: toolkit.md
 %-trailer.gif: %.epub
 	python scripts/epubtrailer.py $< --width 320 --height 240 --duration=0.5 -o $@
 
-
-# Epub post production - changes and and enhancements to toolkit.epub
-toolkit_post.epub: toolkit.epub
-	python scripts/epub_post.py toolkit.epub	
-#	python scripts/glossary.py toolkit.epub #&& \
-#	python scripts/epub_post.py toolkit_glossary.epub
-
-# glossary script is bug free
 
 toolkit.icml: toolkit.icml
 	cd docs && pandoc \

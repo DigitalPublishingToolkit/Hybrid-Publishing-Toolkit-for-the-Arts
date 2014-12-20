@@ -270,3 +270,9 @@ img {
     width: auto;
     height: auto;
 }
+
+a.footnoteRef {
+vertical-align: super;
+line-height: normal;
+font-size: 0.5em;
+}

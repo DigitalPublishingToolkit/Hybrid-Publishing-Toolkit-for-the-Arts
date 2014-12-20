@@ -202,7 +202,7 @@ for gloss_el in gloss_terms:
 
 
 # Step 3: zip epub
-epub = zipfile.ZipFile("toolkit_glossary.epub", "w")
+epub = zipfile.ZipFile("FromPrintToEbooks.epub", "w")
 epub.writestr("mimetype", "application/epub+zip")
 
 
