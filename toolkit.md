@@ -216,7 +216,7 @@ In the present project we deal with a variety of publication products which we h
 - Often with a standardized structure; 
 - Often with complex referencing (table of contents, footnotes, endnotes, cross-references, citations, bibliography, keyword and name indexes, list of illustrations, glossary). 
 
-**Going electronic: advantages and issues** 
+**Going electronic: advantages and issues**<br/> 
 In the sciences and humanities, discussions on the digital opportunities for research publications mostly focus on the transition from the traditional textbook to new forms of publication which allow for more complex forms of visualization, inclusion of real-time **data**, and computation. However, if one wishes to publish in standard ebook formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities offered by current ebook technologies are in fact quite limited - mainly because the ebook files quickly become too large to be downloaded on mobile devices. The alternative, developing research publications as visual apps, will in most cases not be a viable solution since apps have short lifespans of technical **compatibility**, while research publishing is almost by definition long-term (and long-tail) publishing. 
 
 The first, most obvious advantage of 'going electronic' with research publications is that it makes things easier for users: electronic texts make it possible for researchers, students and other readers to search, copy and paste text in a simple and straightforward way. Also, the **datasets** used in the research can be included within the publication, allowing more serious readers and researchers to engage directly with the research material itself. For publishers, making texts available digitally offers huge advantages in terms of accessibility, particularly on an international level, since distribution of ebooks is not limited by logistical issues of shipment and storage. On the other hand there are also specific problems related to digital research publications. One of these has to do with citation references: without fixed page numbers, there is no standard way of referring to a specific part of the ebook in another publication. This is one reason why scientific ebooks are still often issued as PDFs. 
@@ -229,7 +229,7 @@ The first, most obvious advantage of 'going electronic' with research publicatio
 - Text is secondary (text refers to visuals); 
 - Descriptive texts of various lengths. 
 
-**Going electronic: advantages and issues** 
+**Going electronic: advantages and issues**<br/> 
 Most art/design catalogues are image-based, and here lies the greatest challenge for electronic publishing in this genre. A publication containing many images with high **resolution** and high color fidelity will take a long time to download and will occupy a great deal of storage space on the user's device as well as the publisher's servers. And as download speeds and storage space continue to increase exponentially, there is of course an endless temptation to continue increasing the file size accordingly. 
 
 Possibilities in this direction lie in offering high-quality 'zoomable' images and adding additional material such as video (documentary, animation, etc.), audio (interviews, lectures, etc.) or even 'interactive' media. Also, most tablet computers offer much better color fidelity than the printed page, a fact which can be used to good advantage when offering ebooks optimized specifically for reading on a tablet. A possible problematic issue is that such catalogues often require a fixed page layout: image and text that belong together should appear next to each other; however, changes in size (of the device or of the user's settings) affect the flow of content, so that the images and text will tend to 'drift apart'. 
@@ -244,7 +244,7 @@ As with research publications, modularization offers interesting opportunities f
 - Often difficult or impossible to adapt/convert to other media; 
 - Text is often used in a non-descriptive or non-narrative way. 
 
-**Going electronic: advantages and issues** 
+**Going electronic: advantages and issues**<br/> 
 Since an artists'/designers' book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artists'/designers' book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artists' books, if we exclude the electronic (scanned) reproductions of printed artists' books which can be found on repository websites such as UbuWeb[^ubuweb] and Monoskop[^monoskop]. 
 
 When working on an electronic edition of an existing printed artists'/designers' book, the choice of the file format is crucial. The end result is to a large extent determined by the specifications of each format, and more generally of each medium. Here too, as with art/design catalogues, one of the main concerns is the quality of the images; another is the relation between text and images. 
@@ -259,7 +259,7 @@ In the case of artists' books or pamphlets which are not primarily a reflection 
 - More or less fixed page layout format; 
 - Recurring or periodical publication format (e.g. magazines, series etc.). 
 
-**Going electronic: advantages and issues** 
+**Going electronic: advantages and issues**<br/> 
 An important part of the appeal of a periodical is its physical presence. It can be easily picked up from a newsstand or a table, casually tossed in a bag, and eventually disposed of. Though the digital domain has its own ways of informing or reminding the readers of a publication's existence and presence (for example, through 'push messages' on tablets and smartphones, e-mail notifications, and sharing via social media) this is of course not quite the same thing. 
 
 In terms of archiving, 'going electronic' also provides a number of opportunities and challenges for art/design periodicals. New articles can refer to older ones, and even integrate parts of these older articles. The periodical as such becomes a repository and therefore a breeding ground for new work. 
@@ -467,8 +467,7 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 Social reading, a combination of social networking and reading ebooks, is a relatively new phenomenon with much potential for future developments. A detailed discussion of the topic would lead us beyond the scope of this Toolkit; however, publishers working on electronic publications are advised to keep an eye on developments in social reading. 
 
-Examples of social reading platforms: 
-
+Examples of social reading platforms:<br/>
 - *Goodreads* - 'Goodreads is the world's largest site for readers and book recommendations. Our mission is to help people find and share books they love. Goodreads launched in January 2007.' 
 - *Social Book* - 'Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows readers to add their own commentary to texts, share these ideas with others, follow others' comments, and create communities of interactive readers/writers.' 
 - *Wattpad* - 'Wattpad stories are free. Whether you're online or off, use the devices you already own to carry an entire library wherever you go [...] Join the conversation about the stories you read: message the writer and interact with other people who love the story as much as you.' 
@@ -514,8 +513,7 @@ The most well-known of these is UbuWeb,[^Ubuweb] a website offering an encyclope
 
 All these websites are operated much like small specialized bookstores - even though they don't sell anything. However they demonstrate the viability of an approach which is the complete opposite of that of mainstream businesses such as Amazon and bookfi.org - namely, offering a relatively small collection of personally selected publications. If the website enjoys a strong reputation, as in the case of UbuWeb, AAAAARG or Monoskop, users will regularly return to the site, and download and read works by authors they have never even heard of, simply based on the fact that the work is available on a site they trust. 
 
-What online booksellers could learn from these websites: 
-
+What online booksellers could learn from these websites:<br/>
 * Simplicity combined with encyclopedic scope. No other website except Amazon makes it so easy to find and download electronic books in any genre or language, from bestsellers to obscure out-of-print cult classics. 
 * Simplicity of format. The sites provide mostly PDFs and EPUBs, depending on the format the work was presented in. 
 
