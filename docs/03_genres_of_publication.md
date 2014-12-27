@@ -13,11 +13,11 @@
 ##Five genres 
 In the present project we deal with a variety of publication products which we have categorized into five genres: 
  
-1. Research publication; 
-2. Art/design catalogue; 
-3. Artists'/designers' book; 
-4. Art/design periodical; 
-5. New genres. 
+1. Research publication 
+2. Art/design catalogue 
+3. Artists'/designers' book 
+4. Art/design periodical 
+5. New genres 
 
 ###1) Research publication 
 - Usually text-based; 
@@ -56,7 +56,7 @@ As with research publications, modularization offers interesting opportunities f
 - Text is often used in a non-descriptive or non-narrative way. 
 
 **Going electronic: advantages and issues**<br/> 
-Since an artists'/designers' book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artists'/designers' book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artists' books, if we exclude the electronic (scanned) reproductions of printed artists' books which can be found on repository websites such as UbuWeb[^ubuweb] and Monoskop[^monoskop]. 
+Since an artists'/designers' book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artists'/designers' book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artists' books, if we exclude the electronic (scanned) reproductions of printed artists' books which can be found on repository websites such as UbuWeb[^ubuweb] and Monoskop.[^monoskop] 
 
 When working on an electronic edition of an existing printed artists'/designers' book, the choice of the file format is crucial. The end result is to a large extent determined by the specifications of each format, and more generally of each medium. Here too, as with art/design catalogues, one of the main concerns is the quality of the images; another is the relation between text and images. 
 
