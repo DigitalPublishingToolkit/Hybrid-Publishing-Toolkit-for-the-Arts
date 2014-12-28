@@ -5,9 +5,9 @@
 - The opportunities and challenges of electronic publishing are different for each genre. 
 - Common opportunities include searchability, ease of access and distribution, and modularization of content; common difficulties include layout consistency, page numbering and referencing, and potentially large file sizes. 
 - There are three ways of creating hybrid books: 
-	- one-to-one, where the book is one single product published in different media. 
-	- one-to-many, where the book has different appearances in different media. 
-	- one-to-database, where the book is based on the content of a database which can be used in a number of ways. 
+    - one-to-one, where the book is one single product published in different media. 
+    - one-to-many, where the book has different appearances in different media. 
+    - one-to-database, where the book is based on the content of a database which can be used in a number of ways. 
 </div>
 
 ##Five genres 
