@@ -107,12 +107,12 @@ Technically speaking, Markdown provides some of the same features and advantages
 
 **Mac** 
 
-*Freeware:* 
+Freeware: 
 
 - [Mou](http://www.mouapp.com)[^Mou], with features such as live preview, sync scroll, auto save, auto pair, custom themes, CSS, HTML and PDF export, enhanced CJK support, and more. 
 - [MacDown](http://macdown.uranusjr.com/)[^MacDown], released under the MIT License and with a design and setup influenced by Mou. 
 
-*Paid* 
+Paid: 
 
 - [Byword](http://bywordapp.com)[^Byword], a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
 - [iA Writer](http://www.iawriter.com/mac/)[^iAWriter], a program similar to Byword. The program runs on Mac, iPhone and iPad. 
