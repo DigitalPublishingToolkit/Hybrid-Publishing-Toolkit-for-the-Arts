@@ -439,11 +439,11 @@ Calibre[^calibre] has been described as a 'Swiss army knife' for reading, conver
 
 Calibre can be used to: 
 
-- open and read EPUB files on a personal computer; 
-- import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
-- manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
-- synchronize the user's ebook library with e-reader devices; 
-- edit ebooks in HTML source code, with a live preview in a graphical user interface. 
+- Open and read EPUB files on a personal computer; 
+- Import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
+- Manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
+- Synchronize the user's ebook library with e-reader devices; 
+- Edit ebooks in HTML source code, with a live preview in a graphical user interface. 
 
 Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc produces better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
 
