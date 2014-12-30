@@ -36,7 +36,8 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 Social reading, a combination of social networking and reading ebooks, is a relatively new phenomenon with much potential for future developments. A detailed discussion of the topic would lead us beyond the scope of this Toolkit; however, publishers working on electronic publications are advised to keep an eye on developments in social reading. 
 
-Examples of social reading platforms:<br/>
+Examples of social reading platforms: 
+
 - Goodreads - 'Goodreads is the world's largest site for readers and book recommendations. Our mission is to help people find and share books they love. Goodreads launched in January 2007.' 
 - Social Book - 'Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows readers to add their own commentary to texts, share these ideas with others, follow others' comments, and create communities of interactive readers/writers.' 
 - Wattpad - 'Wattpad stories are free. Whether you're online or off, use the devices you already own to carry an entire library wherever you go [...] Join the conversation about the stories you read: message the writer and interact with other people who love the story as much as you.' 
@@ -52,6 +53,7 @@ There are many services which offer **print-on-demand** publishing; a simple Goo
 ![Espresso-Book-Machine](images/05_01_onlinereadingplatforms_EspressoMachine.png "Espresso Book Machine")
 
 ###International options 
+
 - Kobo Writing Life[^Kobo-Writing-Life] - Allows authors and publishers to self-publish digital content in 160+ countries. The Kobo Writing Life website can be used to publish ebooks and to track sales. 
 - PubIt![^PubIt!] - Automatically converts digital files for viewing on NOOK, mobile, and computing devices. Also helps authors and publishers distribute their ebooks. 
 - Smashwords[^Smashwords] - Makes it free and easy to publish, distribute and sell ebooks globally through the largest ebook retailers, including Apple's iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBooks and more. There are no setup fees and no extra costs for updating or revising a published book. 
@@ -68,6 +70,7 @@ As with music and films, 'pirate' platforms haven often been at the avant-garde 
 Commercial providers of digital content can (and do) learn a lot from pirate platforms. For example, Netflix,[^Netflix] the most successful web service for **streaming** films and a growing competitor to paid cable television, has been known to decide which films to show based on the popularity of these films on The Pirate Bay.[^The-Pirate-Bay] 
 
 ####All-purpose download sites 
+
 Sites like The Pirate Bay offer every imaginable type of digital media for download: films, music, computer games and software, and of course electronic books. The content listed on The Pirate Bay (and other sites which make use of the file-sharing **protocol** known as **BitTorrent**) tends toward the mainstream: Hollywood films, pop music, and non-fiction and technical handbook literature as well as fantasy and science fiction. Since these sites are widely used and provide up-to-date download statistics, and since their technology (BitTorrent) depends on user participation for downloads to remain available, they provide a great deal of insight into which titles are truly popular among readers, as well as the popularity of ebooks in general. For example, at a particular moment in June 2014, the book *Atlas of Ancient Worlds* had been downloaded more than 2000 times in 48 hours (in comparison, the most popular film - an episode of the TV series *Game of Thrones* - had been downloaded more than 70,000 times). 
 
 ####General ebook sites 
@@ -82,7 +85,8 @@ The most well-known of these is UbuWeb,[^Ubuweb] a website offering an encyclope
 
 All these websites are operated much like small specialized bookstores - even though they don't sell anything. However they demonstrate the viability of an approach which is the complete opposite of that of mainstream businesses such as Amazon and bookfi.org - namely, offering a relatively small collection of personally selected publications. If the website enjoys a strong reputation, as in the case of UbuWeb, AAAAARG or Monoskop, users will regularly return to the site, and download and read works by authors they have never even heard of, simply based on the fact that the work is available on a site they trust. 
 
-What online booksellers could learn from these websites:<br/>
+What online booksellers could learn from these websites: 
+
 - Simplicity combined with encyclopedic scope. No other website except Amazon makes it so easy to find and download electronic books in any genre or language, from bestsellers to obscure out-of-print cult classics. 
 - Simplicity of format. The sites provide mostly PDFs and EPUBs, depending on the format the work was presented in. 
 
