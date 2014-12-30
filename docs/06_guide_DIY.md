@@ -156,6 +156,7 @@ The most important thing when creating EPUBs using InDesign (or any other tool f
 Keep in mind that this is a very brief step-by-step guide, while InDesign is a very complex general-purpose software package with many more options than those described here. 
 
 ###Styles 
+
 One of the most powerful tools provided by InDesign is the ability to identify different kinds of paragraphs (headings, sub-headings, body text, captions, etc.) and to instantly apply a whole set of formatting rules to such a group of paragraphs. Each defined set of rules is called a 'style'. These styles can later be exported to the EPUB in Cascading Style Sheets (CSS) format, allowing for any subsequent editing and adjustments which may be necessary in order to adapt the EPUB to a range of different devices, and/or to define layout settings for the EPUB which are different from those in the print document. 
 
 First we must define the styles, then apply them, and finally make sure they are properly mapped for export to EPUB. 
@@ -241,7 +242,6 @@ Generally it's a good idea to use anchored images for a layout that will be expo
 
 ![Image](images/InD_anchor4-dragbluesquare.png) 
 
-<!--- the following image missing or wrongly named -->
 ![Image](images/InD_anchor5-anchored2.png) 
 
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
@@ -260,6 +260,7 @@ You can also use this option to adjust how the image appears in the print editio
 ![Image](images/InD_anchor8-printadjust.png) 
 
 ###Links and cross-references 
+
 One of the main advantages of ebooks over print is that they can contain links to additional information, whether in the same book or on an external website. InDesign makes it easy to incorporate links into your ebook. 
 
 There are two main types of links: links which specify both the destination and the link text, and links in which the link text is automatically generated based on the text at the specified destination. This second type of link is called a cross-reference. It's a good idea to apply a character style to each type of link. 
@@ -271,6 +272,7 @@ There are two main types of links: links which specify both the destination and 
 ![Image](images/InD_hyperlink_destination_1.png) 
 
 ![Image](images/InD_hyperlink_destination_2.png) 
+
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
 3. Choose Text Anchor from the 'Link To' pull-down menu, then select the name of the document in which the destination Text Anchor can be found, and select the name of the Text Anchor. 
 
@@ -282,6 +284,7 @@ There are two main types of links: links which specify both the destination and 
 ![Image](images/InD_hyperlink_destination_4.png) 
 
 ###Creating cross-references 
+
 Cross-references are links in which the link text is automatically generated based on the text at the specified destination. A typical example of a cross-reference is a link to a different chapter or heading name. InDesign will always use the most up-to-date text in the heading. 
 
 1. To create a cross-reference, first place the cursor in the text where you want the link to appear. 
@@ -292,12 +295,15 @@ Cross-references are links in which the link text is automatically generated bas
 ![Image](images/InD_cross_references.png) 
 
 All paragraphs formatted with that particular style will show up in the list on the right-hand side, allowing you to choose the paragraph you want the cross-reference to link to. 
+
 5. Select a Cross-Reference Format, and click OK. 
+
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
 
 ![Image](images/InD_cross_references_2.png) 
 
 ###Tables of contents 
+
 Ebooks have two different types of tables of contents: the conventional one which is part of the text (more or less like any chapter in your book, only with links to the other chapters and sections); and one that is accessed through the menus of the user's e-reader device or application, regardless of which page the user is currently viewing. InDesign facilitates the creation of both types. 
 
 InDesign generates tables of contents based on styled paragraphs. For example, you might want to generate a table of contents based on all paragraphs formatted with the Heading 1 and Heading 2 styles, or as in the following example, based on all of the 'ChapName' elements. 
@@ -326,6 +332,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 ![Image](images/InD_TOC_indocument.png) 
 
 You are not required to place the table of contents at the beginning of the book, or indeed to include it all. 
+
 3. You will learn how to generate the navigational table of contents in the Export Options section of this step-by-step guide. 
 
 Tips: 
@@ -334,6 +341,7 @@ Tips:
 - You can create a navigational table of contents, an in-document table of contents, or both. Most e-readers will display an error message if no navigational table of contents is found. Some ebook stores will complain if you don't include an in-document table of contents. 
 
 ###Metadata 
+
 Metadata is information about your book, including the title of the publication, the name of the author, the names of other contributors, the publisher, date of publication, a description of the subject matter, keywords, copyright status, etc. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book. 
 
 InDesign gives you two opportunities to add metadata: in the File Info dialog box, and when you export your file to EPUB. The two sets of information overlap but are not identical. Empty fields will be filled in with data from the other set of information. 
@@ -345,6 +353,7 @@ InDesign gives you two opportunities to add metadata: in the File Info dialog bo
 2. You can add additional metadata as you export the document to EPUB as discussed further below. 
 
 ###Cover 
+
 The final step before exporting to EPUB is to create and add a cover image for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to visually preview the cover at a very small ('icon') size. Of course the resolution of the image should also be high enough to look good at full-screen size as well. Most ebook stores require images that are at least 1000 pixels on the shortest side. 
 
 1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the **JPEG** format. 
@@ -354,6 +363,7 @@ The final step before exporting to EPUB is to create and add a cover image for y
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
 ###Checklist and export options 
+
 Before finally exporting to EPUB, first make sure that all formatting has been applied using styles, that all images are properly placed and anchored, that you have defined all the necessary links and cross-references, that you have defined a Table of Contents Style, that you have specified all the necessary and desired metadata, and that you have created a high-resolution cover image that can also be viewed adequately at small sizes. 
 
 1. Select File > Export, then fill in a filename and destination, and select EPUB (Reflowable) from the Format pull-down menu. 
@@ -379,9 +389,11 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 ![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
 
 ###Testing and validating 
+
 Be sure to test the EPUB file with as many e-reader devices and applications as possible. You can use the application Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to the Kindle format so that you can test it on actual Kindle devices. Finally, it's always a good idea to validate your EPUB documents before releasing them.[^epub-validator] 
 
 ##3. Do-it-yourself EPUB using Pandoc 
+
 Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (*Hybrid Workflow How-To: Making Automated Workflows, Part 1*) [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2") (*Hybrid Workflow How-To: Making Automated Workflows, Part 2*) 
 
 In this guide we will use the Old English epic poem *Beowulf* as a working example. The text is available from the Project Gutenberg website in a variety of formats (including EPUB). The 'plain text' version is the complete text of the poem in a single file with no styling whatsoever (no fonts, font sizes, formatting such as bold or italic, etc.). We will use this text to show how a simple conversion to EPUB can be done. Before starting, first download and install Pandoc.[^pandoc-installation-page] Pandoc is a 'command-line' program, as opposed to a **graphical user interface (GUI)** environment, so once the software is installed you will not see a desktop icon with which to 'open' it. In the following step-by-step guide we will explain how to use the tool. 
@@ -393,7 +405,7 @@ In order to make an EPUB of the *Beowulf* text using Pandoc, start by downloadin
 
 Mac: Open the Terminal from the *Utilities* subfolder in the *Applications* folder, or through the search bar at the top right of the screen. Note: Pandoc does not work on older Mac operating systems. 
 
-Windows: To open the Command Prompt window, first type Windows+R (hold down the Windows key and briefly press the R key) and then type 'cmd' and hit the enter key. You will see a new black-and-white window with a command prompt which should look something like *C:\\user\\yourusername\>*. 
+Windows: To open the Command Prompt window, first type Windows+R (hold down the Windows key and briefly press the R key) and then type 'cmd' and hit the enter key. You will see a new black-and-white window with a command prompt which should look something like 'C:\\user\\yourusername\>'. 
 <!-- \\ used to display \ in Markdown --> 
 <!-- \> used to display > in Markdown --> 
 
@@ -405,6 +417,7 @@ Windows: To open the Command Prompt window, first type Windows+R (hold down the 
 `pandoc beowulf.docx -f docx -t epub -s -o beowulf.epub ` 
 
 The first term of the command line ('pandoc') indicates which program will process the command, in this case Pandoc. The second term tells Pandoc which file to process, in this case *beowulf.docx*. The following terms '-f docx -t epub' mean that the conversion will be from the .docx format to the EPUB format. The next term '-s' instructs Pandoc to create a 'standalone' file, with an appropriate header and footer, in other words a file which can be used immediately and doesn't need to be combined with other converted fragments. And the final term '-o beowulf.epub' tells Pandoc that the output file should be called *beowulf.epub*. 
+
 7. To check that the file was indeed created, type 'ls' or 'dir' again. You should now see the new file *beowulf.epub*. 
 8. Open the EPUB from the folder, or in the Terminal (Mac) type: 
 
@@ -426,11 +439,11 @@ Calibre[^calibre] has been described as a 'Swiss army knife' for reading, conver
 
 Calibre can be used to: 
 
-* open and read EPUB files on a personal computer; 
-* import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
-* manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
-* synchronize the user's ebook library with e-reader devices; 
-* edit ebooks in HTML source code, with a live preview in a graphical user interface. 
+- open and read EPUB files on a personal computer; 
+- import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
+- manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
+- synchronize the user's ebook library with e-reader devices; 
+- edit ebooks in HTML source code, with a live preview in a graphical user interface. 
 
 Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc produces better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
 
