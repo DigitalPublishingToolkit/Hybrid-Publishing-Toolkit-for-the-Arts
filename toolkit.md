@@ -69,6 +69,8 @@ ISBN 978-90-822345-4-1 (EPUB)<br/>
 - This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and Open Source tools. 
 </div> 
 
+## 
+
 'You must change your life' - borrowing from the philosopher Peter Sloterdijk, this could be the summary of our message to art-oriented and design-oriented publishers, writers, editors and designers who are currently transitioning from traditional book making to electronic publishing or - more typically - **hybrid publishing** of print and electronic formats. Hybrid publishing will sooner or later confront them with the need to re-think traditional publication formats, editorial and production workflows, and distribution. The changes required may well be greater and more extensive than initially expected! 
 
 *Change will be minor for scientific publishers and large publishers* 
@@ -81,8 +83,8 @@ Since this Toolkit - consisting of this manual and an [online software kit](http
 
 For art and design publishers, the challenge of 'going electronic' with their publications is greater than that faced by other fields of publishing, for a number of reasons: 
 
-- Visually oriented publications are still more difficult to realize technically in the electronic medium, particularly when designing for a multitude of different reading **devices** and ebook **platforms**; 
-- Small publishers are under a great deal of pressure to keep project costs low, often due to smaller budgets. However, the need to publish in multiple forms (print and electronic) will inevitably increase costs, unless one does as much work as possible in a way that is not dependent on the medium; 
+- Visually oriented publications are still more difficult to realize technically in the electronic medium, particularly when designing for a multitude of different reading **devices** and ebook **platforms**. 
+- Small publishers are under a great deal of pressure to keep project costs low, often due to smaller budgets. However, the need to publish in multiple forms (print and electronic) will inevitably increase costs, unless one does as much work as possible in a way that is not dependent on the medium. 
 - In order to make the investment in an electronic publication durable, electronic publications must be sustainable: they should not require constant investment in technical maintenance and version updates. 
 
 ##Industry promises vs. reality 
@@ -98,7 +100,7 @@ The possibilities for change can go beyond the rethinking of existing publishing
 
 ##What this Toolkit provides 
 
-'Going electronic' - or going hybrid - requires changing the way you work during the publishing process, from delivered manuscript to final publication. The software tools currently in use, from **word processors** such as Microsoft Word to **desktop publishing (DTP)** suites such as Adobe InDesign, were created for the world of analog print and desktop publishing. Although it is entirely possible to create electronic publications from Microsoft Word documents [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a Docx directly to EPUB using Calibre") (*Converting a Docx directly to EPUB using Calibre*) or InDesign documents [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6") (*Notes on EPUB Development in Adobe InDesign CS6*), which are likely to be the standard format used in existing publishing workflows, in most cases this will be a painful, slow, inefficient and expensive process. This Toolkit focuses instead on do-it-yourself (DIY) technical alternatives. Firstly because the Toolkit is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers; secondly because it is aimed at those who wish to keep the design process in their own hands. 
+'Going electronic' - or going hybrid - requires changing the way you work during the publishing process, from delivered manuscript to final publication. The software tools currently in use, from **word processors** such as Microsoft Word to **desktop publishing (DTP)** suites such as Adobe InDesign, were created for the world of analog print and desktop publishing. Although it is entirely possible to create electronic publications from Microsoft Word documents [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a Docx directly to EPUB using Calibre") (*Converting a Docx directly to EPUB using Calibre*) or InDesign documents, [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2013/05/21/epub-development-in-adobe-indesign-cs6/ "Link to blog post: NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6") (*Notes on EPUB Development in Adobe InDesign CS6*) which are likely to be the standard format used in existing publishing workflows, in most cases this will be a painful, slow, inefficient and expensive process. This Toolkit focuses instead on do-it-yourself (DIY) technical alternatives. Firstly because the Toolkit is primarily aimed at publishers who, in most cases, cannot afford to outsource ebook design to external service providers; secondly because it is aimed at those who wish to keep the design process in their own hands. 
 
 This Toolkit focuses particularly (but not exclusively) on EPUB3 as an electronic publication format, and on **Markdown** as a word processing format, because of the specific needs of small-edition publishers in the field of art and design: low costs, ease of use, sustainability, and platform independence. The recommendations stem from our practical experience in collaborating on electronic publication projects with four Dutch art, design and research publishers: BIS Publishers, Valiz, nai010 Publishers and the Institute of Network Cultures. 
 
@@ -133,7 +135,7 @@ We are not claiming that all ebooks will follow, or indeed should follow this pa
 [^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, <a href="http://networkcultures.org/digitalpublishing">http://networkcultures.org/digitalpublishing</a>. 
 [^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, <a href="http://www.regieorgaan-sia.nl">http://www.regieorgaan-sia.nl</a>. 
 [^DPT-GitHub]: Digital Publishing Toolkit GitHub, <a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>. 
-[^DPT-Consortium]: Digital Publishing Toolkit consortium, http://networkcultures.org/digitalpublishing/consortium/.
+[^DPT-Consortium]: Digital Publishing Toolkit consortium, <a href="http://networkcultures.org/digitalpublishing/consortium/">http://networkcultures.org/digitalpublishing/consortium/</a>.
 
 
 #2 The basics 
@@ -194,21 +196,21 @@ All these new possibilities will require thorough, and potentially more labor-in
 - The opportunities and challenges of electronic publishing are different for each genre. 
 - Common opportunities include searchability, ease of access and distribution, and modularization of content; common difficulties include layout consistency, page numbering and referencing, and potentially large file sizes. 
 - There are three ways of creating hybrid books: 
-	- one-to-one, where the book is one single product published in different media. 
-	- one-to-many, where the book has different appearances in different media. 
-	- one-to-database, where the book is based on the content of a database which can be used in a number of ways. 
+    - one-to-one, where the book is one single product published in different media. 
+    - one-to-many, where the book has different appearances in different media. 
+    - one-to-database, where the book is based on the content of a database which can be used in a number of ways. 
 </div>
 
 ##Five genres 
 In the present project we deal with a variety of publication products which we have categorized into five genres: 
  
-1. Research publication; 
-2. Art/design catalogue; 
-3. Artists'/designers' book; 
-4. Art/design periodical; 
-5. New genres. 
+1. Research publication 
+2. Art/design catalogue 
+3. Artists'/designers' book 
+4. Art/design periodical 
+5. New genres 
 
-###1) Research publication 
+###1. Research publication 
 - Usually text-based; 
 - Texts traditionally play a central role; 
 - Visuals are often secondary (images illustrate the text); 
@@ -216,20 +218,20 @@ In the present project we deal with a variety of publication products which we h
 - Often with a standardized structure; 
 - Often with complex referencing (table of contents, footnotes, endnotes, cross-references, citations, bibliography, keyword and name indexes, list of illustrations, glossary). 
 
-**Going electronic: advantages and issues**<br/> 
+**Going electronic: advantages and issues**  
 In the sciences and humanities, discussions on the digital opportunities for research publications mostly focus on the transition from the traditional textbook to new forms of publication which allow for more complex forms of visualization, inclusion of real-time **data**, and computation. However, if one wishes to publish in standard ebook formats and target a broad range of electronic reading platforms and devices, the visual and multimedia possibilities offered by current ebook technologies are in fact quite limited - mainly because the ebook files quickly become too large to be downloaded on mobile devices. The alternative, developing research publications as visual apps, will in most cases not be a viable solution since apps have short lifespans of technical **compatibility**, while research publishing is almost by definition long-term (and long-tail) publishing. 
 
 The first, most obvious advantage of 'going electronic' with research publications is that it makes things easier for users: electronic texts make it possible for researchers, students and other readers to search, copy and paste text in a simple and straightforward way. Also, the **datasets** used in the research can be included within the publication, allowing more serious readers and researchers to engage directly with the research material itself. For publishers, making texts available digitally offers huge advantages in terms of accessibility, particularly on an international level, since distribution of ebooks is not limited by logistical issues of shipment and storage. On the other hand there are also specific problems related to digital research publications. One of these has to do with citation references: without fixed page numbers, there is no standard way of referring to a specific part of the ebook in another publication. This is one reason why scientific ebooks are still often issued as PDFs. 
 
 'Going electronic' also opens up new possibilities for creating content. A high degree of standardized structure and ensuing 'modularization' allow for new ways of reading and writing essays. Particularly when different authors refer to each other, they often share data, quotations, tables, figures, etc. Multiple use and reuse of 'modules' can help foster communication within a community. However, this remains a future dream for the time being, since comments and annotations are not linked to (a specific place in) the book the way they are in the case of physical books, which makes sharing more complicated.[^Kircz] Another option that comes with modularization is that different users or readers of a text can each extract the modules they need. For example, if we consider an anthology of essays, a user could generate a customized ebook of all bibliographical references within the various texts. 
 
-###2) Art/design catalogue 
+###2. Art/design catalogue 
 - Mainly image-based; 
 - Visuals play a central role; 
 - Text is secondary (text refers to visuals); 
 - Descriptive texts of various lengths. 
 
-**Going electronic: advantages and issues**<br/> 
+**Going electronic: advantages and issues**  
 Most art/design catalogues are image-based, and here lies the greatest challenge for electronic publishing in this genre. A publication containing many images with high **resolution** and high color fidelity will take a long time to download and will occupy a great deal of storage space on the user's device as well as the publisher's servers. And as download speeds and storage space continue to increase exponentially, there is of course an endless temptation to continue increasing the file size accordingly. 
 
 Possibilities in this direction lie in offering high-quality 'zoomable' images and adding additional material such as video (documentary, animation, etc.), audio (interviews, lectures, etc.) or even 'interactive' media. Also, most tablet computers offer much better color fidelity than the printed page, a fact which can be used to good advantage when offering ebooks optimized specifically for reading on a tablet. A possible problematic issue is that such catalogues often require a fixed page layout: image and text that belong together should appear next to each other; however, changes in size (of the device or of the user's settings) affect the flow of content, so that the images and text will tend to 'drift apart'. 
@@ -237,21 +239,21 @@ Possibilities in this direction lie in offering high-quality 'zoomable' images a
 As with research publications, modularization offers interesting opportunities for writing and presenting material. Since a catalogue often consists of components which are already modular in nature, there is much to be gained from using these features in electronic publishing. For example, by providing readers with the opportunity to 'build' their own publication; by publishing different editions (small, medium, large) of a catalogue with little extra effort; or by easily updating specific parts of the catalogue. 
 
 
-###3) Artists'/designers' book 
+###3. Artists'/designers' book 
 - Book *by* an artist, rather than *about* an artist; 
 - Complex use of images and typography, often pushing the possibilities of the medium; 
 - In print: making use of the book as a material, visual and tactile object; 
 - Often difficult or impossible to adapt/convert to other media; 
 - Text is often used in a non-descriptive or non-narrative way. 
 
-**Going electronic: advantages and issues**<br/> 
-Since an artists'/designers' book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artists'/designers' book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artists' books, if we exclude the electronic (scanned) reproductions of printed artists' books which can be found on repository websites such as UbuWeb[^ubuweb] and Monoskop[^monoskop]. 
+**Going electronic: advantages and issues**  
+Since an artists'/designers' book often constitutes a reflection upon the medium itself, the question of choosing between a digital format or a print edition, of 'going electronic' and weighing the ensuing advantages and issues, does not apply here as it does with other genres. Rather, it is a fundamental choice which will determine from the start many basic characteristics of the book itself. Also, choosing an electronic format such as EPUB for an artists'/designers' book requires a good working knowledge of the specific features of such a format. This seems to be one of the reasons why there are few digital artists' books, if we exclude the electronic (scanned) reproductions of printed artists' books which can be found on repository websites such as UbuWeb[^ubuweb] and Monoskop.[^monoskop] 
 
 When working on an electronic edition of an existing printed artists'/designers' book, the choice of the file format is crucial. The end result is to a large extent determined by the specifications of each format, and more generally of each medium. Here too, as with art/design catalogues, one of the main concerns is the quality of the images; another is the relation between text and images. 
 
 In the case of artists' books or pamphlets which are not primarily a reflection of their medium (for example Sol LeWitt's 1968 *Sentences on Conceptual Art* which consists of handwritten text on paper pages) and are not particularly difficult to adapt/convert to electronic media, the advantages of doing so are similar to those for other genres: access and distribution, reaching new audiences, the ability to easily copy and paste text and images, and the possibility of incorporating interactive materials. 
 
-###4) Art/design periodical 
+###4. Art/design periodical 
 - Both text-based and image-based; 
 - Images as well as texts play a central role; 
 - Use of images is primary as well as secondary; 
@@ -259,7 +261,7 @@ In the case of artists' books or pamphlets which are not primarily a reflection 
 - More or less fixed page layout format; 
 - Recurring or periodical publication format (e.g. magazines, series etc.). 
 
-**Going electronic: advantages and issues**<br/> 
+**Going electronic: advantages and issues**  
 An important part of the appeal of a periodical is its physical presence. It can be easily picked up from a newsstand or a table, casually tossed in a bag, and eventually disposed of. Though the digital domain has its own ways of informing or reminding the readers of a publication's existence and presence (for example, through 'push messages' on tablets and smartphones, e-mail notifications, and sharing via social media) this is of course not quite the same thing. 
 
 In terms of archiving, 'going electronic' also provides a number of opportunities and challenges for art/design periodicals. New articles can refer to older ones, and even integrate parts of these older articles. The periodical as such becomes a repository and therefore a breeding ground for new work. 
@@ -282,7 +284,7 @@ Electronic publishing can be divided into three levels, as described in further 
 
 ![Three Levels of Electronic Publishing](images/04_1_three_levels.png "Three Levels of Electronic Publishing.") 
 
-###1) One-to-one 
+###1. One-to-one 
 On the first level there is the single edition. Each publication is considered as a separate product or project where text authors, illustrators, artists, photographers and designers work together as an ad-hoc team. The production workflow may be unique from book to book, but will usually follow a traditional pattern, from a manuscript to a designed PDF ready to be printed. Images and/or full layout pages are not suitable as reusable (digital) objects. The independent components which together make up the end product are usually not archived separately. 
 
 'Going electronic' in this case usually means no more than generating some kind of electronic representation, as accurate as possible, of the printed book. Sometimes the files used for making the printed book will be converted into an EPUB by a third party. This electronic edition is then checked for readability and accuracy of layout (for example, making sure that images and captions are on the same page). 
@@ -291,12 +293,12 @@ The publisher may make use of a **content management system (CMS)**, which in it
 
 There are many common characteristics between individual publications within each genre. A better understanding of these characteristics will allow publishers and designers to make good use of new possibilities. 
 
-###2) One-to-many 
+###2. One-to-many 
 On the next level we see a split between the manifestation of the (single) printed version, and the (one or many) electronic versions. The electronic version, unlike the paper version, is not a single object but has a different appearance for each ebook format. Also, due to the variety and flexibility of reading devices, different users will see the book differently on their display. The display sizes of reading devices are not standardized and generally allow for both portrait and landscape viewing. Furthermore, the popular (and more or less standard) EPUB allows for reflowable pages and variable fonts and font sizes. 
 
 Workflow schemes are crucial in one-to-many publications, as the same texts and images will be used across a variety of formats and devices. This requires a structured and detailed workflow, and the use of a set of descriptors (metadata) related to the objects or entities of the publication. Here the ebook is no longer a by-product of the print book, but is produced simultaneously, often in a variety of formats. 
 
-###3) One-to-database 
+###3. One-to-database 
 The final level is database publishing, in which all objects or entities of a publication can be used independently of each other. This is possible only when the editorial workflow has defined these objects or entities as individual and unique items within the database, along with the characteristics and features (metadata) of each item. 
 
 Particularly for publications which have a more or less fixed layout, database publishing opens up new ways of designing books. For example in the case of a collection of essays, a catalogue, or a journal, readers can compile a personal selection from the available texts. A structured presentation of all material is made possible based on the metadata, allowing readers to navigate and put together a collection based on their own personal interests. Of course this means that **tagging**, describing, and storing all the components must be done in the early stages of publication and with utmost care. 
@@ -317,6 +319,8 @@ It is important to note that there will never be one single workflow which fits 
 - EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook formats for its line of Kindle devices. 
 </div> 
 
+##
+
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 
 ##Reader hardware 
@@ -327,7 +331,7 @@ E-readers became widely known with the introduction of **Amazon**'s **Kindle** i
 
 Some manufacturers of e-readers also offer more expensive models, such as Amazon's Kindle Fire (and Fire HD) or Barnes & Noble's NOOK Tablet (and NOOK HD+). However these models are not really e-readers anymore, but full-fledged, small-sized tablets. Instead of e-paper, they have backlit color LCD screens, a standard feature of tablets such as Apple's iPad and Samsung's Galaxy Tab. Often these models use a version of **Android** (the most widely used **operating system** for mobile devices), in contrast to the traditional monochrome e-readers which use their own operating system, usually derived from a version of **Linux**. Conversely, Samsung's Galaxy Note and Apple's iPad Mini can be seen as these tablet manufacturers' answer to the smaller-sized e-reading tablets. 
 
-![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.") 
+![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations") 
 
 ###Tablets 
 The tablet market is currently dominated by two main players, Apple and Samsung.[^sales-figures-tablet] Apple uses its own operating system (**iOS**) for the iPad, while Samsung has opted for Android as the operating system for its Galaxy Tab product line. In the Android market segment, several manufacturers offer similar hardware with variants of the Android operating system. There are various e-reader software applications for both iOS and Android. We will review the most important of these in the [reader software](#reader-software) section below. 
@@ -343,7 +347,7 @@ Though ebooks can certainly be read on a laptop or personal computer, this may b
 ##Reader software 
 Various applications for PCs, tablets and smartphones support an extended subset of the EPUB standard, allowing for extra features such as customized fonts, layout styling, etc. In the following section we will examine the most important applications for electronic reading on mobile devices, desktop and laptop computers, and the web. We distinguish between four 'ecologies', each with its own devices, distribution platforms and software: Apple's iOS, Google's Android, Amazon's Kindle and **Kobo**. 
 
-![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
+![Four 'ecologies'](images/05_02_readersoftware.png "Four 'ecologies'") 
 
 ###Mobile applications 
 There are various software applications for tablets and smartphones, some of which are 'companion apps' to well-known e-reader devices such as Amazon's Kindle and Kobo's range of e-reader hardware. Other applications were not developed for specific e-reader devices but are integrated into a storefront, such as Apple's **iBooks** and Aldiko. The applications generally support EPUB2 and EPUB3, though some require the user to convert files into a proprietary file format before the document can be opened, such as the Kindle e-reader device and application which support only Amazon's proprietary file formats (**AZW**, **KF8**, MOBI) along with **plain text** and PDF. 
@@ -397,7 +401,7 @@ Technically, the MOBI file format is based partly on PalmDOC, an ebook file form
 Currently there are roughly two 'generations' of widely used ebook formats. The first generation is based on the EPUB2 standard as introduced in 2007 (or on an earlier version released under the Open eBook specification): for example, Amazon's MOBI/AZW format. The second generation usually implements features from the EPUB3 standard, while often remaining backward-compatible with older versions and subsets of EPUB2 (and to a certain extent earlier specifications as well). EPUB3, released in 2011, introduced new features such as support for **HTML5** (whereas EPUB2 supported XHTML), the more advanced Cascading Style Sheets specification CSS3, scripting (which had been discouraged in EPUB2) and easy embedding of video and audio.[^epub3-changes] Most ebook file formats available today are based on EPUB3, including proprietary formats such as Amazon's AZW and Apple's iBooks.[^amazon-kf8] For compatibility with older e-readers, the ebook package usually also includes a MOBI file. [![BlogLink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2013/06/crash-test-dummy/ "Link to blog post: Preliminary tests using a simple EPUB in order to establish support for various EPUB features.") (*Crash Test Dummy*) 
 
 ###Other formats 
-The file formats described above are all *reflowable* documents: their presentation can be adapted for each particular output device. There are of course other ways of presenting electronic publications, for example with a fixed layout, which preserves the look of the original, including fonts, colors, images, and formatting. A common way of doing this is to export the document as a PDF, though there are also more content-specific file formats (such as 'comic book archive').[^comic-book-archive] However, not all such formats are supported by all e-readers. 
+The file formats described above are all reflowable documents: their presentation can be adapted for each particular output device. There are of course other ways of presenting electronic publications, for example with a fixed layout, which preserves the look of the original, including fonts, colors, images, and formatting. A common way of doing this is to export the document as a PDF, though there are also more content-specific file formats (such as 'comic book archive').[^comic-book-archive] However, not all such formats are supported by all e-readers. 
 
 
 [^sales-figures-tablet]: *Gartner Says Worldwide Tablet Sales Grew 68 Percent in 2013, With Android Capturing 62 Percent of the Market*, <a href="http://www.gartner.com/newsroom/id/2674215">http://www.gartner.com/newsroom/id/2674215</a>. 
@@ -467,31 +471,33 @@ The following is an overview of the main characteristics, statistics, strengths 
 
 Social reading, a combination of social networking and reading ebooks, is a relatively new phenomenon with much potential for future developments. A detailed discussion of the topic would lead us beyond the scope of this Toolkit; however, publishers working on electronic publications are advised to keep an eye on developments in social reading. 
 
-Examples of social reading platforms:<br/>
-- *Goodreads* - 'Goodreads is the world's largest site for readers and book recommendations. Our mission is to help people find and share books they love. Goodreads launched in January 2007.' 
-- *Social Book* - 'Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows readers to add their own commentary to texts, share these ideas with others, follow others' comments, and create communities of interactive readers/writers.' 
-- *Wattpad* - 'Wattpad stories are free. Whether you're online or off, use the devices you already own to carry an entire library wherever you go [...] Join the conversation about the stories you read: message the writer and interact with other people who love the story as much as you.' 
-- *Hebban* - A Dutch social reading platform, pre-released in beta version in 2014. 
-- *Discussions on social media* are also part of the social reading experience: Twitter interviews, Facebook pages for newly released books, book reviews in podcasts or on YouTube. 
+Examples of social reading platforms: 
+
+- Goodreads - 'Goodreads is the world's largest site for readers and book recommendations. Our mission is to help people find and share books they love. Goodreads launched in January 2007.' 
+- Social Book - 'Social Book, created by the Institute for the Future of the Book, is a social reading platform that allows readers to add their own commentary to texts, share these ideas with others, follow others' comments, and create communities of interactive readers/writers.' 
+- Wattpad - 'Wattpad stories are free. Whether you're online or off, use the devices you already own to carry an entire library wherever you go [...] Join the conversation about the stories you read: message the writer and interact with other people who love the story as much as you.' 
+- Hebban - A Dutch social reading platform, pre-released in beta version in 2014. 
+- Discussions on social media are also part of the social reading experience: Twitter interviews, Facebook pages for newly released books, book reviews in podcasts or on YouTube. 
 
 ##Print on demand (POD) 
 
-There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine[^Espresso-Book-Machine]. 
+There are many services which offer **print-on-demand** publishing; a simple Google search for the term will turn up a myriad of results. The following section is a brief description of the most important services, in the Netherlands as well as abroad. Of course many 'regular' printers also offer print-on-demand services, though they usually require a minimum number of copies to be printed. The following is an overview of the main characteristics, strengths and weaknesses, revenue models and publishing guidelines for two major print-on-demand services, Lulu[^Lulu] and the Espresso Book Machine.[^Espresso-Book-Machine] 
 
 ![Lulu](images/05_01_onlinereadingplatforms_LULU.png "Lulu") 
 
 ![Espresso-Book-Machine](images/05_01_onlinereadingplatforms_EspressoMachine.png "Espresso Book Machine")
 
 ###International options 
-* Kobo Writing Life[^Kobo-Writing-Life] - Allows authors and publishers to self-publish digital content in 160+ countries. The Kobo Writing Life website can be used to publish ebooks and to track sales. 
-* PubIt![^PubIt!] - Automatically converts digital files for viewing on NOOK, mobile, and computing devices. Also helps authors and publishers distribute their ebooks. 
-* Smashwords[^Smashwords] - Makes it free and easy to publish, distribute and sell ebooks globally through the largest ebook retailers, including Apple's iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBooks and more. There are no setup fees and no extra costs for updating or revising a published book. 
-* XinXii[^XinXii] - Allows authors to upload and sell their publications online on their XinXii author page: short works, documents and ebooks, in multiple formats including PDF, EPUB and MOBI, as well as audiobooks. As an aggregator, XinXii distributes to major international ebook retailers. 
+
+- Kobo Writing Life[^Kobo-Writing-Life] - Allows authors and publishers to self-publish digital content in 160+ countries. The Kobo Writing Life website can be used to publish ebooks and to track sales. 
+- PubIt![^PubIt!] - Automatically converts digital files for viewing on NOOK, mobile, and computing devices. Also helps authors and publishers distribute their ebooks. 
+- Smashwords[^Smashwords] - Makes it free and easy to publish, distribute and sell ebooks globally through the largest ebook retailers, including Apple's iBookstore, Barnes & Noble, Sony, Kobo, Baker & Taylor, Diesel eBooks and more. There are no setup fees and no extra costs for updating or revising a published book. 
+- XinXii[^XinXii] - Allows authors to upload and sell their publications online on their XinXii author page: short works, documents and ebooks, in multiple formats including PDF, EPUB and MOBI, as well as audiobooks. As an aggregator, XinXii distributes to major international ebook retailers. 
 
 ###Options in the Netherlands 
 
-* CB's print-on-demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
-* Boekscout[^Boekscout] - Is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
+- CB's print-on-demand service[^CB-Print-on-demand] - The largest Dutch supplier of non-specialist printed books to bookstores and consumers. In addition to selling ebooks through Dutch and Belgian retailers, CB also facilitates international sales. One of the services offered is print on demand. This is directed primarily at publishers already working with the CB distribution center. The book will remain available through the databases used by bookstores and publishers, in the same way as paper books. 
+- Boekscout[^Boekscout] - Is one of the main print-on-demand publishers in the Netherlands, focused on self-publishing. 
 
 ##Pirate platforms: The Pirate Bay, library.ru, AAAAARG, Monoskop 
 As with music and films, 'pirate' platforms haven often been at the avant-garde of electronic publishing. They provide music, films, games and electronic books as free downloads - either in outright violation of copyrights, or in legal 'gray zones' (obscure and out-of-print books, films or recordings of which the rights owners are unknown). The mere existence and popularity of pirate sites for digitized books is in itself an indication of the actual size of the market for electronic reading. Pirate platforms are, by their nature, more volatile than online bookstores and e-reading platforms. Worldwide there are various organizations dedicated to fighting piracy and shutting down pirate websites, even small-scale ones. However pirate platforms have usually proven quite resilient to such crackdown attempts by copyright enforcers, often reincarnating on a different web domain shortly after a forced closure. 
@@ -499,6 +505,7 @@ As with music and films, 'pirate' platforms haven often been at the avant-garde 
 Commercial providers of digital content can (and do) learn a lot from pirate platforms. For example, Netflix,[^Netflix] the most successful web service for **streaming** films and a growing competitor to paid cable television, has been known to decide which films to show based on the popularity of these films on The Pirate Bay.[^The-Pirate-Bay] 
 
 ####All-purpose download sites 
+
 Sites like The Pirate Bay offer every imaginable type of digital media for download: films, music, computer games and software, and of course electronic books. The content listed on The Pirate Bay (and other sites which make use of the file-sharing **protocol** known as **BitTorrent**) tends toward the mainstream: Hollywood films, pop music, and non-fiction and technical handbook literature as well as fantasy and science fiction. Since these sites are widely used and provide up-to-date download statistics, and since their technology (BitTorrent) depends on user participation for downloads to remain available, they provide a great deal of insight into which titles are truly popular among readers, as well as the popularity of ebooks in general. For example, at a particular moment in June 2014, the book *Atlas of Ancient Worlds* had been downloaded more than 2000 times in 48 hours (in comparison, the most popular film - an episode of the TV series *Game of Thrones* - had been downloaded more than 70,000 times). 
 
 ####General ebook sites 
@@ -513,9 +520,10 @@ The most well-known of these is UbuWeb,[^Ubuweb] a website offering an encyclope
 
 All these websites are operated much like small specialized bookstores - even though they don't sell anything. However they demonstrate the viability of an approach which is the complete opposite of that of mainstream businesses such as Amazon and bookfi.org - namely, offering a relatively small collection of personally selected publications. If the website enjoys a strong reputation, as in the case of UbuWeb, AAAAARG or Monoskop, users will regularly return to the site, and download and read works by authors they have never even heard of, simply based on the fact that the work is available on a site they trust. 
 
-What online booksellers could learn from these websites:<br/>
-* Simplicity combined with encyclopedic scope. No other website except Amazon makes it so easy to find and download electronic books in any genre or language, from bestsellers to obscure out-of-print cult classics. 
-* Simplicity of format. The sites provide mostly PDFs and EPUBs, depending on the format the work was presented in. 
+What online booksellers could learn from these websites: 
+
+- Simplicity combined with encyclopedic scope. No other website except Amazon makes it so easy to find and download electronic books in any genre or language, from bestsellers to obscure out-of-print cult classics. 
+- Simplicity of format. The sites provide mostly PDFs and EPUBs, depending on the format the work was presented in. 
 
 ##Artist and designer-run projects: Badlands Unlimited, KYUR8, artistsebooks.org 
 
@@ -568,18 +576,20 @@ Of course, none of these projects can be considered serious competition to mains
 - The Open Source software Calibre, which features a graphical user interface (GUI), can alternatively be used for document conversion and editing. 
 </div>
 
+##
+
 Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these do-it-yourself tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
 
 This chapter consists of four sections: 
 
-1) Do-it-yourself EPUB from scratch 
-2) Do-it-yourself EPUB using InDesign 
-3) Do-it-yourself EPUB using Pandoc 
-4) Using Calibre and custom plug-ins 
+1. Do-it-yourself EPUB from scratch 
+2. Do-it-yourself EPUB using InDesign 
+3. Do-it-yourself EPUB using Pandoc 
+4. Using Calibre and custom plug-ins 
 
-##Do-it-yourself EPUB from scratch 
+##1. Do-it-yourself EPUB from scratch 
 
-The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do embed material located elsewhere in the **internet**, an EPUB is 'self-contained' and made for offline reading. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, or manually, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
+The process of creating an EPUB from scratch is similar to that of developing a simple website. The main difference is that while websites can and often do embed material located elsewhere on the **internet**, an EPUB is 'self-contained' and made for offline reading. This means that all pages or images displayed must be part of the collection. Making an EPUB from scratch, or manually, is useful for creating small and simple publications, for creating or modifying publications that make extensive use of the particularities of the EPUB format, or in order to explore and better understand the functionalities and inner workings of this format, which is what we will now do. 
 
 An EPUB file is in fact a ZIP archive, but with the **filename extension** '.epub' instead of '.zip'. As such, it is a **compressed** collection of HTML files, style sheets and images, much like the files found on a website, compiled together with some extra files which define the format and structure of the documents so that an e-reader can display them. Any file archiving software that can handle ZIP files can open and decompress an EPUB. In some cases this can be done simply by renaming the '.epub' extension to '.zip'.[^epub-zipping-process] 
 
@@ -593,11 +603,9 @@ Decompressing an EPUB file will reveal its internal folder (or directory) struct
 
 The *META-INF* and *OEBPS* directories and the *mimetype* file are required components, and are an important part of what constitutes an EPUB: 
 
-* The *META-INF* folder contains an XML file (*container.xml*) which directs the e-reader device or application to an inventory (an .opf file) of all the files used by the publication. 
-
-* The *OEBPS* folder is the location where all of the publication's content (HTML files, images, audio, video, etc.) is stored; subdirectories are allowed but not mandatory. The .opf file (traditionally named *content.opf*) is a key component; this file contains the metadata for the EPUB, and is in turn referenced by the aforementioned *container.xml* file. You may also see another file with a .ncx extension (traditionally *toc.ncx*), which contains the hierarchical table of contents for the EPUB, however this file is optional as it is not part of the EPUB specification. 
-
-* *Mimetype* is a file which contains a single line describing the EPUB file as 'application/epub+zip'; this file allows e-readers to check whether the file is actually an EPUB which they can read. 
+- The *META-INF* folder contains an XML file (*container.xml*) which directs the e-reader device or application to an inventory (an .opf file) of all the files used by the publication. 
+- The *OEBPS* folder is the location where all of the publication's content (HTML files, images, audio, video, etc.) is stored; subdirectories are allowed but not mandatory. The .opf file (traditionally named *content.opf*) is a key component; this file contains the metadata for the EPUB, and is in turn referenced by the aforementioned *container.xml* file. You may also see another file with a .ncx extension (traditionally *toc.ncx*), which contains the hierarchical table of contents for the EPUB, however this file is optional as it is not part of the EPUB specification. 
+- *Mimetype* is a file which contains a single line describing the EPUB file as 'application/epub+zip'; this file allows e-readers to check whether the file is actually an EPUB which they can read. 
 
 These three components form the basic structure of an EPUB, and are required in order for the file to be a valid EPUB.[^idpf.org] 
 
@@ -632,7 +640,7 @@ Next we will create the file *container.xml*, the XML file (located in the *META
          </container> 
  
 
-The first line is a declaration statement, which should always be present in XML files. This is followed by a 'container' tag indicating that the publication is based on the *Open Container Format* as specified by the EPUB standard.[^epub-standard] Next, the 'rootfiles' tag indicates a collection of rootfiles: these are the possible starting points where the e-reader can begin processing the content. In this case the rootfiles statement contains only one entry, called 'rootfile'; this tag has two attributes, 'full-path' and 'media-type'. The first attribute is the path to an inventory file (in this case *content.opf*) containing metadata describing the publication and its content. Finally, 'media-type' is a restatement of the EPUB's mimetype. 
+The first line is a declaration statement, which should always be present in XML files. This is followed by a 'container' tag indicating that the publication is based on the Open Container Format as specified by the EPUB standard.[^epub-standard] Next, the 'rootfiles' tag indicates a collection of rootfiles: these are the possible starting points where the e-reader can begin processing the content. In this case the rootfiles statement contains only one entry, called 'rootfile'; this tag has two attributes, 'full-path' and 'media-type'. The first attribute is the path to an inventory file (in this case *content.opf*) containing metadata describing the publication and its content. Finally, 'media-type' is a restatement of the EPUB's mimetype. 
 
 The most important part of this document is the information in quotes following the 'full-path' attribute: 'OEBPS/content.opf'. This attribute should indicate the name of an .opf file which we will create in the next step. 
 
@@ -690,7 +698,7 @@ Because some archive programs create unnecessary (hidden) files inside the archi
 
 And your EPUB is ready! 
 
-##Do-it-yourself EPUB using InDesign 
+##2. Do-it-yourself EPUB using InDesign 
 
 InDesign is an excellent tool for creating and managing print projects. It also includes a powerful EPUB production tool which has steadily improved over time. InDesign's omnipresence and importance in print design make it an obvious choice for projects that have both print and electronic outputs. InDesign is so powerful that it will be useful even if print isn't part of the equation - though cost considerations may preclude its use if print is not going to be a requirement. Below we will describe step-by-step how to create an EPUB with custom layout using InDesign. 
 
@@ -699,15 +707,15 @@ Another option when using InDesign is to import files in the ICML file format. T
 InDesign can generate both reflowable and fixed-layout EPUB files. Reflowable layout means that the size and positioning of text and images are adjusted according to the screen size as well as the user's individual preferences. Fixed layout means that the text and images are always shown in the same (relative) size and positions on a page, regardless of the screen size or other factors. Fixed-layout text and images are usually reduced in size to fit on smaller screens, often to the point of becoming completely illegible on mobile phones. Finally, reflowable EPUB is supported by a broader range of e-readers and tablets, while fixed layout is supported by only a few. 
 
 <!-- the following 3 images missing or wrongly named -->
-![image](images/InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
+!["Text reflows depending on the size of the window (this is iBooks on the Mac)"](images/InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
 
-![image](images/InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
+!["When the screen is wider, the text flows into a wider paragraph"](images/InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
 
-![image](images/InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
+!["If the user widens iBooks sufficiently, facing pages are displayed."](images/InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
 
-![image](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
+!["A user can change the size of the text to facilitate reading on smaller screens"](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
 
-![image](images/InD_reflowiphone4.png "The text reflows to fit") 
+!["The text reflows to fit"](images/InD_reflowiphone4.png "The text reflows to fit") 
 
 InDesign's features for print layouts - such as master pages, control of headers and footers, and precise positioning of text, images and other elements - are ignored in reflowable EPUB documents. However reflowable EPUB does permit choosing settings such as (initial) font size, leading, font type, spacing before and after paragraphs, whether a paragraph should begin on a new page, etc. Keep in mind however that individual users are often able to partially or completely override these settings in their e-reader devices or applications. 
 
@@ -718,6 +726,7 @@ The most important thing when creating EPUBs using InDesign (or any other tool f
 Keep in mind that this is a very brief step-by-step guide, while InDesign is a very complex general-purpose software package with many more options than those described here. 
 
 ###Styles 
+
 One of the most powerful tools provided by InDesign is the ability to identify different kinds of paragraphs (headings, sub-headings, body text, captions, etc.) and to instantly apply a whole set of formatting rules to such a group of paragraphs. Each defined set of rules is called a 'style'. These styles can later be exported to the EPUB in Cascading Style Sheets (CSS) format, allowing for any subsequent editing and adjustments which may be necessary in order to adapt the EPUB to a range of different devices, and/or to define layout settings for the EPUB which are different from those in the print document. 
 
 First we must define the styles, then apply them, and finally make sure they are properly mapped for export to EPUB. 
@@ -726,11 +735,11 @@ First we must define the styles, then apply them, and finally make sure they are
 
 1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the **icon** in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.  
 
-![image](images/InD_Styles_1_new.png) 
+![](images/InD_Styles_1_new.png) 
 
 2. Give the style a name. 
 
-![image](images/InD_Styles_2_New_Paragraph_Style.png) 
+![](images/InD_Styles_2_New_Paragraph_Style.png) 
 
 3. Select any additional options. The right-hand side of the dialog box will show different options, depending on the category selected on the left-hand side.  
 
@@ -743,11 +752,11 @@ Tips:
 
 1. Click anywhere in the paragraph to which you want to apply the style.
 
-![image](images/InD_Styles_3_cursor.png) 
+![](images/InD_Styles_3_cursor.png) 
 
 2. Choose the desired style from the Paragraph Styles panel.
 
-![image](images/InD_Styles_4_apply.png) 
+![](images/InD_Styles_4_apply.png) 
 
 3. Repeat steps 1 and 2 for all paragraphs in the document.
 
@@ -756,7 +765,7 @@ Tips:
 - You can apply a basic style to all paragraphs at once by choosing Select All and then choosing a basic style such as Body or Normal, after which you can individually apply the less frequent heading, caption and other paragraph styles to the relevant paragraphs. 
 - If you have imported a document with large quantities of existing bold or italic text, you can automatically apply a character style using the search and replace function. 
 
-![Image](images/InD_Styles_5_Find_change.png) 
+![](images/InD_Styles_5_Find_change.png) 
 
 ####Mapping styles to tags 
 
@@ -765,14 +774,14 @@ Though InDesign can perform this step automatically, for more control you can sp
 1. Choose Edit All Export Tags from the Paragraph Styles panel menu. 
 2. In the dialog box that appears, verify that each style in the Style column is mapped to the appropriate CSS in the Tag column. It's a good idea, for example, for heading paragraphs in your book to be exported as 'h1', 'h2', etc., and also for each style to have its own 'Class'. 
 
-![Image](images/InD_Styles_8_add_class.png) 
+![](images/InD_Styles_8_add_class.png) 
 
 Tips: 
 
 - If you import XML documents, you can have InDesign automatically map specific XML tags to the desired paragraph styles (which later will be mapped to the proper EPUB CSS tags as shown above). 
 - You can also map a style to a tag by selecting Export Tagging in the Paragraph Style and Character Style dialog boxes. 
 
-![Image](images/InD_Styles_7_pstyle_options_edit_tags.png) 
+![](images/InD_Styles_7_pstyle_options_edit_tags.png) 
 
 - Earlier versions of InDesign were not so good at exporting all of a document's styles to CSS. The most recent version InDesign CC offers a substantial improvement in this respect. 
 - Besides (or in addition to) the formatting from the styles provided by InDesign, you can apply your own CSS in the 'EPUB - Reflowable Layout Export Options' dialog box (see the Export Options section of this step-by-step guide). 
@@ -791,37 +800,37 @@ Generally it's a good idea to use anchored images for a layout that will be expo
 
 1. Place an image on the pasteboard. 
 
-![Image](images/InD_anchor-1.png) 
+![](images/InD_anchor-1.png) 
 
 2. If desired, you can create a caption, apply a style to the caption, and then group the caption with the image. 
 
-![Image](images/InD_anchor-2.png) 
+![](images/InD_anchor-2.png) 
 
-![Image](images/InD_anchor3-group.png) 
+![](images/InD_anchor3-group.png) 
 
 3. Select the image in order to make its controls visible. Click and drag the blue box (near the upper right-hand corner of the image) to the desired location in the text. The blue box now changes to an anchor symbol. 
 
-![Image](images/InD_anchor4-dragbluesquare.png) 
+![](images/InD_anchor4-dragbluesquare.png) 
 
-<!--- the following image missing or wrongly named -->
-![Image](images/InD_anchor5-anchored2.png) 
+![](images/InD_anchor5-anchored2.png) 
 
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want the text to wrap around the image, select the image and then choose Object > Object Export Options. 
 
-![Image](images/InD_anchor6-Object_Export_Options.png) 
+![](images/InD_anchor6-Object_Export_Options.png) 
 
 a. Select the 'EPUB and HTML' options tab. 
 b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu. 
 c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field. 
 
-![Image](images/InD_anchor7-textwrap.png) 
+![](images/InD_anchor7-textwrap.png) 
 
 You can also use this option to adjust how the image appears in the print edition. 
 
-![Image](images/InD_anchor8-printadjust.png) 
+![](images/InD_anchor8-printadjust.png) 
 
 ###Links and cross-references 
+
 One of the main advantages of ebooks over print is that they can contain links to additional information, whether in the same book or on an external website. InDesign makes it easy to incorporate links into your ebook. 
 
 There are two main types of links: links which specify both the destination and the link text, and links in which the link text is automatically generated based on the text at the specified destination. This second type of link is called a cross-reference. It's a good idea to apply a character style to each type of link. 
@@ -830,20 +839,22 @@ There are two main types of links: links which specify both the destination and 
 
 1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New Hyperlink Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
 
-![Image](images/InD_hyperlink_destination_1.png) 
+![](images/InD_hyperlink_destination_1.png) 
 
-![Image](images/InD_hyperlink_destination_2.png) 
+![](images/InD_hyperlink_destination_2.png) 
+
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
 3. Choose Text Anchor from the 'Link To' pull-down menu, then select the name of the document in which the destination Text Anchor can be found, and select the name of the Text Anchor. 
 
-![Image](images/InD_hyperlink_destination_3.png) 
+![](images/InD_hyperlink_destination_3.png) 
 
 4. It's also a good idea to apply a style so that you can format all the links later. 
 5. Click OK to create the link. 
 
-![Image](images/InD_hyperlink_destination_4.png) 
+![](images/InD_hyperlink_destination_4.png) 
 
 ###Creating cross-references 
+
 Cross-references are links in which the link text is automatically generated based on the text at the specified destination. A typical example of a cross-reference is a link to a different chapter or heading name. InDesign will always use the most up-to-date text in the heading. 
 
 1. To create a cross-reference, first place the cursor in the text where you want the link to appear. 
@@ -851,15 +862,18 @@ Cross-references are links in which the link text is automatically generated bas
 3. Choose Insert Cross-Reference from the panel menu. 
 4. Under Destination, specify the desired Document. Then, from the list on the left-hand side, choose the type of paragraph you wish to link to. 
 
-![Image](images/InD_cross_references.png) 
+![](images/InD_cross_references.png) 
 
 All paragraphs formatted with that particular style will show up in the list on the right-hand side, allowing you to choose the paragraph you want the cross-reference to link to. 
+
 5. Select a Cross-Reference Format, and click OK. 
+
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
 
-![Image](images/InD_cross_references_2.png) 
+![](images/InD_cross_references_2.png) 
 
 ###Tables of contents 
+
 Ebooks have two different types of tables of contents: the conventional one which is part of the text (more or less like any chapter in your book, only with links to the other chapters and sections); and one that is accessed through the menus of the user's e-reader device or application, regardless of which page the user is currently viewing. InDesign facilitates the creation of both types. 
 
 InDesign generates tables of contents based on styled paragraphs. For example, you might want to generate a table of contents based on all paragraphs formatted with the Heading 1 and Heading 2 styles, or as in the following example, based on all of the 'ChapName' elements. 
@@ -868,7 +882,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 
 1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. The New Table of Contents Style dialog box will now appear. 
 
-![Image](images/InD_TOC_1_new.png) 
+![](images/InD_TOC_1_new.png) 
 
 2. Fill in the Title, for example 'Contents'. This will be used for the heading above the generated table of contents. Then choose which paragraph style to apply to that heading. 
 3. Choose which types of paragraph will be used to populate the table of contents, such as headings or chapter names. 
@@ -876,7 +890,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 5. In the area titled Style, choose which style to apply to each type of element in the table of contents. It's a good idea to create special styles for these elements. 
 6. In the Page Number menu box, choose No Page Number, since page numbers are not necessary in an ebook. 
 
-![Image](images/InD_TOC_options.png) 
+![](images/InD_TOC_options.png) 
 
 7. Click OK to save the Table of Contents Style. This is the first step for creating both a navigational and an in-document table of contents. 
 
@@ -885,9 +899,10 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 1. Once you've created a Table of Contents Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs formatted in the styles you have selected. 
 2. Use the 'loaded' pointer to place the table of contents at the desired location in the document. 
 
-![Image](images/InD_TOC_indocument.png) 
+![](images/InD_TOC_indocument.png) 
 
 You are not required to place the table of contents at the beginning of the book, or indeed to include it all. 
+
 3. You will learn how to generate the navigational table of contents in the Export Options section of this step-by-step guide. 
 
 Tips: 
@@ -896,54 +911,60 @@ Tips:
 - You can create a navigational table of contents, an in-document table of contents, or both. Most e-readers will display an error message if no navigational table of contents is found. Some ebook stores will complain if you don't include an in-document table of contents. 
 
 ###Metadata 
+
 Metadata is information about your book, including the title of the publication, the name of the author, the names of other contributors, the publisher, date of publication, a description of the subject matter, keywords, copyright status, etc. It's a good idea to provide as much metadata as possible to make it easy for prospective readers to find your book. 
 
 InDesign gives you two opportunities to add metadata: in the File Info dialog box, and when you export your file to EPUB. The two sets of information overlap but are not identical. Empty fields will be filled in with data from the other set of information. 
 
 1. To add metadata to your file, go to File > File Info. 
 
-![Image](images/InD_Metadata_1.png) 
+![](images/InD_Metadata_1.png) 
 
 2. You can add additional metadata as you export the document to EPUB as discussed further below. 
 
 ###Cover 
+
 The final step before exporting to EPUB is to create and add a cover image for your ebook. Because ebook covers are often viewed at small sizes, it's important to have large, clear text and to visually preview the cover at a very small ('icon') size. Of course the resolution of the image should also be high enough to look good at full-screen size as well. Most ebook stores require images that are at least 1000 pixels on the shortest side. 
 
 1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the **JPEG** format. 
 
-![Image](images/InD_SaveCover.png) 
+![](images/InD_SaveCover.png) 
 
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
 ###Checklist and export options 
+
 Before finally exporting to EPUB, first make sure that all formatting has been applied using styles, that all images are properly placed and anchored, that you have defined all the necessary links and cross-references, that you have defined a Table of Contents Style, that you have specified all the necessary and desired metadata, and that you have created a high-resolution cover image that can also be viewed adequately at small sizes. 
 
 1. Select File > Export, then fill in a filename and destination, and select EPUB (Reflowable) from the Format pull-down menu. 
 
-![Image](images/InD_Export_1.png) 
+![](images/InD_Export_1.png) 
 
 2. Click Save. The 'EPUB - Reflowable Layout Export Options' dialog box appears with eight separate panels of options. 
 3. In the General panel, choose EPUB 3.0 from the Version pull-down menu to ensure that your document complies with the latest standards. 
 
-![Image](images/InD_Export_2.png) 
+![](images/InD_Export_2.png) 
 
 4. Select the Choose Image option from the Cover pull-down menu; then navigate to the folder where you have saved the JPEG cover image you created earlier, and select that file. If you select the Rasterize Front Page option from the Cover pull-down menu instead, InDesign will create a snapshot of the first page of your book and use that image for the cover. 
 5. Select the option Multi Level (TOC Style) from the Navigation TOC pull-down menu; then choose the TOC Style that you created earlier in the New Table of Contents Style dialog box. 
 6. On the left-hand side of the dialog box, select the Metadata panel. 
 7. If the book has an ISBN, enter it in the Identifier field. 
 
-![Image](images/InD_Metadata_Export.png) 
+![](images/InD_Metadata_Export.png) 
 
 8. All the other fields besides the Date field should be automatically populated with data entered earlier in the File Info dialog box. You can add any missing information now. InDesign uses the information in the Date field for the EPUB2 element 'dc:date', but will use the actual date and time to automatically fill in this information in a format compatible with EPUB3. In other words, you don't have to enter anything in the Date field. 
 9. There are many other export options: for controlling how images and text are exported, for adding **JavaScript** and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
 
-![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
+![](images/InD_finishedbook.png)
+![](images/InD_finishedbook2.png) 
 
 ###Testing and validating 
+
 Be sure to test the EPUB file with as many e-reader devices and applications as possible. You can use the application Kindle Previewer to open the EPUB in a Kindle simulator and/or to convert the EPUB to the Kindle format so that you can test it on actual Kindle devices. Finally, it's always a good idea to validate your EPUB documents before releasing them.[^epub-validator] 
 
-##Do-it-yourself EPUB using Pandoc 
+##3. Do-it-yourself EPUB using Pandoc 
+
 Pandoc and Calibre are two popular tools for converting documents to and from a wide variety of formats.[^pandoc-calibre] Both can be used to make EPUBs. First we will explore Pandoc; Calibre will be described in the next section. Using Pandoc, it is possible to convert even a Microsoft Word .docx file directly to EPUB; however this is not advisable. It is best to first convert the .docx file to a format which can be directly manipulated by the designer, such as Markdown which we will discuss more in detail in chapter 7. [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-1/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 1") (*Hybrid Workflow How-To: Making Automated Workflows, Part 1*) [![Bloglink](images/dpt_blog_verwijzing.png)](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-making-automated-workflows-part-2/ "Link to blog post: Hybrid workflow how-to: Making automated workflows, part 2") (*Hybrid Workflow How-To: Making Automated Workflows, Part 2*) 
 
 In this guide we will use the Old English epic poem *Beowulf* as a working example. The text is available from the Project Gutenberg website in a variety of formats (including EPUB). The 'plain text' version is the complete text of the poem in a single file with no styling whatsoever (no fonts, font sizes, formatting such as bold or italic, etc.). We will use this text to show how a simple conversion to EPUB can be done. Before starting, first download and install Pandoc.[^pandoc-installation-page] Pandoc is a 'command-line' program, as opposed to a **graphical user interface (GUI)** environment, so once the software is installed you will not see a desktop icon with which to 'open' it. In the following step-by-step guide we will explain how to use the tool. 
@@ -955,7 +976,7 @@ In order to make an EPUB of the *Beowulf* text using Pandoc, start by downloadin
 
 Mac: Open the Terminal from the *Utilities* subfolder in the *Applications* folder, or through the search bar at the top right of the screen. Note: Pandoc does not work on older Mac operating systems. 
 
-Windows: To open the Command Prompt window, first type Windows+R (hold down the Windows key and briefly press the R key) and then type 'cmd' and hit the enter key. You will see a new black-and-white window with a command prompt which should look something like C:\\user\\yourusername\>. 
+Windows: To open the Command Prompt window, first type Windows+R (hold down the Windows key and briefly press the R key) and then type 'cmd' and hit the enter key. You will see a new black-and-white window with a command prompt which should look something like 'C:\\user\\yourusername\>'. 
 <!-- \\ used to display \ in Markdown --> 
 <!-- \> used to display > in Markdown --> 
 
@@ -967,6 +988,7 @@ Windows: To open the Command Prompt window, first type Windows+R (hold down the 
 `pandoc beowulf.docx -f docx -t epub -s -o beowulf.epub ` 
 
 The first term of the command line ('pandoc') indicates which program will process the command, in this case Pandoc. The second term tells Pandoc which file to process, in this case *beowulf.docx*. The following terms '-f docx -t epub' mean that the conversion will be from the .docx format to the EPUB format. The next term '-s' instructs Pandoc to create a 'standalone' file, with an appropriate header and footer, in other words a file which can be used immediately and doesn't need to be combined with other converted fragments. And the final term '-o beowulf.epub' tells Pandoc that the output file should be called *beowulf.epub*. 
+
 7. To check that the file was indeed created, type 'ls' or 'dir' again. You should now see the new file *beowulf.epub*. 
 8. Open the EPUB from the folder, or in the Terminal (Mac) type: 
 
@@ -978,21 +1000,21 @@ The first term of the command line ('pandoc') indicates which program will proce
 
 While developing this Toolkit we created an online graphical user interface which makes it possible to use Pandoc to convert .docx files to HTML, plain text, ICML (InDesign) and Markdown. This browser-based converter is freely accessible online.[^pandoc-convert] 
 
-##Using Calibre and custom plug-ins 
+##4. Using Calibre and custom plug-ins 
 
 Many other publishing tools are available, which roughly fall into two categories. One can be described as full-fledged editors, the other are tools which allow publishers to enhance existing publications with interactive features. 
 
 ###Calibre 
 
-Calibre[^calibre] has been described as a 'Swiss army knife' for reading, converting, authoring and cataloging ebooks. It is Open Source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is being very actively developed, with frequent version updates. We recommend it, along with Pandoc, as a standard tool for all ebook publishers. There are also (older) alternatives such as Sigil[^Sigil] which was discontinued in February 2014, and the inexpensive commercial program Jutoh[^Jutoh], which also runs on Windows, Mac OS X and Linux. Jutoh provides an easy-to-use editor for ebooks, with a graphical user interface similar to that of Microsoft Word. However, it is less powerful as a document converter and ebook database. 
+Calibre[^calibre] has been described as a 'Swiss army knife' for reading, converting, authoring and cataloging ebooks. It is Open Source, runs on Windows, Mac OS X, and Linux (with identical graphical interfaces on all these platforms) and is being very actively developed, with frequent version updates. We recommend it, along with Pandoc, as a standard tool for all ebook publishers. There are also (older) alternatives such as Sigil[^Sigil] which was discontinued in February 2014, and the inexpensive commercial program Jutoh,[^Jutoh] which also runs on Windows, Mac OS X and Linux. Jutoh provides an easy-to-use editor for ebooks, with a graphical user interface similar to that of Microsoft Word. However, it is less powerful as a document converter and ebook database. 
 
 Calibre can be used to: 
 
-* open and read EPUB files on a personal computer; 
-* import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
-* manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
-* synchronize the user's ebook library with e-reader devices; 
-* edit ebooks in HTML source code, with a live preview in a graphical user interface. 
+- Open and read EPUB files on a personal computer; 
+- Import documents in various ebook and electronic text formats (including .docx, **RTF**, HTML and plain text) and convert them to EPUB and other document formats including Amazon Kindle, PDF and RTF; 
+- Manage a local library/database of all imported ebooks, with easy editing of the bibliographical metadata of each ebook; 
+- Synchronize the user's ebook library with e-reader devices; 
+- Edit ebooks in HTML source code, with a live preview in a graphical user interface. 
 
 Calibre advertises itself as 'the one stop solution to all your ebook needs'. And indeed, (small) publishers can use Calibre as their single, one-size-fits-all tool for ebook production. Calibre is the most accessible and straightforward authoring software currently available for creating text-oriented, standards-compliant ebooks. However, Calibre's user interface can be confusing. The program has so many features and modules that it can feel like several programs jammed into one. When it comes to converting files, the graphical user interface of Calibre is perhaps more user-friendly, but Pandoc produces better results. Despite these limitations, Calibre is an excellent program for importing simple text documents, adjusting the formatting, and exporting the result to the most common ebook formats. 
 
@@ -1043,6 +1065,8 @@ Finally, why not simply publish essays, articles or even whole books on a websit
 - Hybrid publication projects can also be authored in database-driven content management systems, which have their own advantages and limitations. 
 </div> 
 
+##
+
 Creating a workflow that is both structured and flexible enough to cater to a variety of demands is a key step towards establishing an efficient electronic or hybrid publishing strategy. What we propose here is a hybrid workflow based on the need for publishing across different media, while keeping the main part of the work process in-house rather than outsourcing it. 
 
 Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the main workflow should be adapted at an earlier stage, and made efficient and practical for hybrid publishing. Development of each publication format from scratch is thus superseded by single-source, multi-format publishing. In other words: rather than working separately on the PDF for the print book, the EPUB version, and a Kindle edition, the workflow is instead focused on a single source file (in the Markdown format) which can easily be converted into these different output formats using a relatively small number of digital tools. 
@@ -1073,7 +1097,7 @@ It is possible to create 'interactive' publications in the PDF format, working w
 
 Desktop publishing applications such as InDesign, and WYSIWYG word processors such as Microsoft Word or OpenOffice, are generally not well suited for processing structured text (see Chapter 2, The basics <!-- internal link chapter 2-->). Though it is possible to work in a structured manner, for example by using style definitions rather than manually applying formatting, the user is not required to make a distinction between formatting and structure, which is essential in the world of digital publishing. 
 
-There is a viable solution for generating an EPUB from a Microsoft Word .docx file using the latest version of the command-line tool Pandoc, a powerful universal document converter.[^pandoc] However, since Word does not, as explained above, enforce good structure in a document, the EPUB generated by Pandoc will always be imperfect and thus not ready for publishing. Still, it should provide a relatively clean foundation for a designer to produce the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a Docx directly to EPUB using Calibre") (*Converting a Docx directly to EPUB using Calibre*), produce less satisfying results. 
+There is a viable solution for generating an EPUB from a Microsoft Word .docx file using the latest version of the command-line tool Pandoc, a powerful universal document converter.[^pandoc] However, since Word does not, as explained above, enforce good structure in a document, the EPUB generated by Pandoc will always be imperfect and thus not ready for publishing. Still, it should provide a relatively clean foundation for a designer to produce the final ebook. Other Word-to-EPUB programs, such as the built-in document converter of Calibre,[![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/03/28/converting-a-docx-directly-to-epub-using-calibre/ "Link to blog post: Converting a Docx directly to EPUB using Calibre") (*Converting a Docx directly to EPUB using Calibre*) produce less satisfying results. 
 
 In order to obtain the best possible EPUB file, the .docx file should be formatted using only Word's standard paragraph styles such as 'Normal', 'Title', 'Subtitle', 'Quote' and most importantly 'Heading 1', 'Heading 2', 'Heading 3' for the headings according to their logical hierarchy. For example: 'Heading 1' for chapters, 'Heading 2' for sections, 'Heading 3' for sub-sections. Since the resulting EPUB document will contain a table of contents and document navigation menu based on the 'Heading' hierarchy, a proper structuring of headings is crucial. Word footnotes will appear as linked endnotes in the EPUB, thereby elegantly simplifying an otherwise tedious document redesign task. 
 
@@ -1087,7 +1111,6 @@ Often, such inconsistencies in a Word document will only become visible after th
 We recommend two ways of working with Word + Pandoc. 
 
 1. Conversion from Word to EPUB using Pandoc directly from the Terminal (Mac) / Command Prompt (Windows), or using the browser-based converter developed for this Toolkit.[^pandoc-convert2] This should only be done only at the very end of the editorial process, because after this conversion no further editorial changes can be applied to the Word document. A graphic designer can quite easily transform the converted document into the final electronic publication (for example, by modifying the typographic design to make it suitable for e-readers, by scaling and optimizing images for screen reading, by adding bibliographical metadata, etc.). 
-
 2. Conversion from Word to Markdown using Pandoc. Since Pandoc can also convert files *to* the Markdown format, this is often the preferable option, especially for complex publishing projects. The resulting Markdown file can then be used as the 'master file' for conversions to various other file formats (such as EPUB, or HTML for publishing on a website). The advantage of converting to Markdown is that any formatting glitch in the Word document will now become clearly visible. For example, a heading formatted manually will be converted as \*\*heading\*\* while a heading formatted with the proper style definition will be converted as \#heading. This makes it much easier to clean up the internal formatting of the document and produce a 'clean' master file for all subsequent document conversions. The EPUB generated from this Markdown file will in most cases be much better structured than an EPUB directly generated from the Word file, making the subsequent work to be performed by the designer much easier. It is also possible to customize the Pandoc conversion by defining style templates. This in turn may make it possible, depending on the type and complexity of the publication, to automatically generate a complete and well-formatted EPUB from the Markdown files without even having to hire a designer. 
 
 We would advise against using Pandoc to convert back and forth between Word and EPUB. If the Word document is subject to further editorial changes, then the conversion to EPUB (as in the first scenario) should be done again, as would any work already done by the designer on the previously exported EPUB file. Therefore, if possible the editorial changes should be implemented directly in the EPUB or Markdown file. 
@@ -1110,7 +1133,7 @@ As mentioned above, we recommend the use of the markup language Markdown as part
 
 ####Introduction: advantages and limitations 
 
-John Gruber, the creator and main developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain-text format, then convert it to structurally valid XHTML (or HTML).'[^gruber] In other words, Markdown is a way of formatting plain text using human-readable formatting symbols, rather than HTML-style tags such as `<b\>` for bold or `<h1\>` to define a top-level heading. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
+John Gruber, the creator and main developer of Markdown, describes Markdown on his website as follows: 'Markdown allows you to write using an easy-to-read, easy-to-write plain-text format, then convert it to structurally valid XHTML (or HTML).'[^gruber] In other words, Markdown is a way of formatting plain text using human-readable formatting symbols, rather than HTML-style tags such as `<b>` for bold or `<h1>` to define a top-level heading. For example, this is what the beginning of *Alice's Adventures in Wonderland* would like in Markdown: 
 
 ![Markdown](images/Markdown.png "Markdown.") 
 
@@ -1118,7 +1141,7 @@ In this example, the tag '\#' defines a top-level heading, '\#\#' a second-level
 
 Markdown is a product of internet culture. It uses ad-hoc formatting signs commonly used in e-mail and chat platforms, and further popularized on blogging platforms, to provide a standardized, human-readable, user-friendly and well-structured document format, suitable for long-term storage and as a basic source for conversions to contemporary and future document formats. While its formatting **syntax** is simple, it is also both strict and unambiguous enough to allow multiple writers and editors to work on a single document without unnecessary confusion. Another advantage of Markdown is that it can be written and edited in any software application capable of processing basic text: unlike the proprietary file formats of Microsoft Word or other word processors, Markdown can be opened using a simple text editor. 
 
-Why do we recommend Markdown in particular? For certain publishing projects - for example, handbooks or books derived from wikis, it may be worth considering alternatives to Markdown, such as *reStructuredText*. There are, however, two reasons why we recommend Markdown as a practical tool for electronic and mixed-media publishing: 
+Why do we recommend Markdown in particular? For certain publishing projects - for example, handbooks or books derived from wikis, it may be worth considering alternatives to Markdown, such as reStructuredText. There are, however, two reasons why we recommend Markdown as a practical tool for electronic and mixed-media publishing: 
 
 1. Excellent software support. There are many user-friendly, high quality applications for writing and editing documents in Markdown and for converting Markdown to other formats. While Markdown may be written and edited in any text editor, there are several user-friendly text editing applications that make it easier to edit and immediately view the results, such as Mou, MacDown, Texts, MarkdownPad, UberWriter and MdCharm. 
 
@@ -1140,12 +1163,12 @@ Technically speaking, Markdown provides some of the same features and advantages
 
 **Mac** 
 
-*Freeware:* 
+Freeware: 
 
 - [Mou](http://www.mouapp.com)[^Mou], with features such as live preview, sync scroll, auto save, auto pair, custom themes, CSS, HTML and PDF export, enhanced CJK support, and more. 
 - [MacDown](http://macdown.uranusjr.com/)[^MacDown], released under the MIT License and with a design and setup influenced by Mou. 
 
-*Paid* 
+Paid: 
 
 - [Byword](http://bywordapp.com)[^Byword], a user-friendly, distraction-free text writing program with built-in MultiMarkdown support and export to HTML, RTF, PDF and Microsoft Word. The program runs on Mac, iPhone and iPad. 
 - [iA Writer](http://www.iawriter.com/mac/)[^iAWriter], a program similar to Byword. The program runs on Mac, iPhone and iPad. 
@@ -1203,7 +1226,7 @@ In pure text databases we also have to be careful. On one hand we have the data 
 [^gruber]: John Gruber, *Markdown: Introduction*, daringfireball.net/projects/markdown/. 
 
 
-#8 Guide: Hybrid publishing for each genre 
+﻿#8 Guide: Hybrid publishing for each genre 
 
 <div class="summary"> 
 - Research publications can be converted or adapted to electronic publishing in a relatively straightforward manner. This often involves working with document conversion software. 
@@ -1219,15 +1242,15 @@ Following the step-by-step guide to making a simple EPUB (chapter 6) <!-- intern
 
 The following points, which apply to all genres, should be clearly defined at the beginning of any hybrid publication project: 
 
-* Will the publication be medium-specific or medium-neutral? In other words, is the project a one-to-one conversion of a print book into an electronic book, or will the project include content and design elements that can only be realized with electronic media? One should also consider that many of the advantages of a hybrid publishing approach, as pointed out earlier, lie in modularized or database publishing. By dividing a larger work into small modules or 'building blocks', it is easier to generate custom publications, to apply updates to some parts only, to replace 'heavy' high-resolution images or other media files with 'lighter' ones when necessary, etc. 
-* Metadata is significantly more important in the context of hybrid publishing than it is in traditional print publishing. Carefully applied metadata will ensure that the publication can be found online in databases and bookstores such as Amazon, and will also make the electronic editing and design process more efficient. Especially in the case of modularized or database publishing, it is of utmost importance to start gathering metadata as early as possible in the production process. Otherwise it soon becomes impossible to meaningfully keep track of, and put together, the modular building blocks of the source document. 
-* For publishers in the field of arts and culture, file sizes pose a fundamental problem: on one hand, electronic publication seems to offer new opportunities for including multimedia and other possibilities not provided by 'static' print publishing; on the other hand, in the real world this often results in files that will be too large to be downloaded, stored or 'flipped through' in a practical manner. 
+- Will the publication be medium-specific or medium-neutral? In other words, is the project a one-to-one conversion of a print book into an electronic book, or will the project include content and design elements that can only be realized with electronic media? One should also consider that many of the advantages of a hybrid publishing approach, as pointed out earlier, lie in modularized or database publishing. By dividing a larger work into small modules or 'building blocks', it is easier to generate custom publications, to apply updates to some parts only, to replace 'heavy' high-resolution images or other media files with 'lighter' ones when necessary, etc. 
+- Metadata is significantly more important in the context of hybrid publishing than it is in traditional print publishing. Carefully applied metadata will ensure that the publication can be found online in databases and bookstores such as Amazon, and will also make the electronic editing and design process more efficient. Especially in the case of modularized or database publishing, it is of utmost importance to start gathering metadata as early as possible in the production process. Otherwise it soon becomes impossible to meaningfully keep track of, and put together, the modular building blocks of the source document. 
+- For publishers in the field of arts and culture, file sizes pose a fundamental problem: on one hand, electronic publication seems to offer new opportunities for including multimedia and other possibilities not provided by 'static' print publishing; on the other hand, in the real world this often results in files that will be too large to be downloaded, stored or 'flipped through' in a practical manner. 
 
 When it comes to choosing a publication format, the following general recommendations should be kept in mind: 
 
-* EPUB is a good choice for ebooks, less so for periodicals. EPUB potentially combines the advantages of PDF (single-file distribution) with HTML (reflowable/screen size-independent design, small file sizes, modularity/reusability, automation). 
-* At the time of writing, HTML5 is theoretically the 'ideal' format. It is increasingly used in multimedia journalism (a good example is the report 'Snow Fall' published in the *New York Times* in December 2012 <!-- link to: <a href="http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek">http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek</a> --> ). However this poses three important problems for publishers: the format is not supported by ebook stores such as iBooks and Kobo; it lacks the rich metadata support of EPUB; and it requires technical workarounds in order to allow for single-file distribution. 
-* PDF is the easiest format to integrate in existing workflows, but since it is essentially meant for print, it too has disadvantages when it comes to electronic publishing. It is a fixed-layout format, meaning that it does not dynamically reflow to adapt to different screen dimensions; it provides only rudimentary multimedia support; and the files can quickly become too large for the purposes intended. 
+- EPUB is a good choice for ebooks, less so for periodicals. EPUB potentially combines the advantages of PDF (single-file distribution) with HTML (reflowable/screen size-independent design, small file sizes, modularity/reusability, automation). 
+- At the time of writing, HTML5 is theoretically the 'ideal' format. It is increasingly used in multimedia journalism (a good example is the report 'Snow Fall' published in *The New York Times* in December 2012 <!-- link to: <a href="http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek">http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek</a> --> ). However this poses three important problems for publishers: the format is not supported by ebook stores such as iBooks and Kobo; it lacks the rich metadata support of EPUB; and it requires technical workarounds in order to allow for single-file distribution. 
+- PDF is the easiest format to integrate in existing workflows, but since it is essentially meant for print, it too has disadvantages when it comes to electronic publishing. It is a fixed-layout format, meaning that it does not dynamically reflow to adapt to different screen dimensions; it provides only rudimentary multimedia support; and the files can quickly become too large for the purposes intended. 
 
 ##Research publication 
 
@@ -1236,12 +1259,12 @@ In pragmatic terms, electronic research publishing in the near future will focus
 ###Workflows 
 In print research publications, the typical workflow is as follows: 
 
-* An editor works with the author(s) on the manuscript. 
-* Several versions of the manuscript are passed back and forth between several people in different roles (editor, author, copy editor, designer). 
-* The final version of the manuscript is established in a word processor (typically Microsoft Word) or a desktop publishing program (typically Adobe InDesign). 
-* A graphic designer designs the publication in InDesign. 
-* Corrections are made to the print proof and implemented in the InDesign file. 
-* A PDF file of the corrected InDesign file is sent to the printer. 
+- An editor works with the author(s) on the manuscript. 
+- Several versions of the manuscript are passed back and forth between several people in different roles (editor, author, copy editor, designer). 
+- The final version of the manuscript is established in a word processor (typically Microsoft Word) or a desktop publishing program (typically Adobe InDesign). 
+- A graphic designer designs the publication in InDesign. 
+- Corrections are made to the print proof and implemented in the InDesign file. 
+- A PDF file of the corrected InDesign file is sent to the printer. 
 In Chapter 6 <!-- internal link needed--> we described how to generate an electronic book based on an InDesign project. This requires a meticulous internal structuring of the InDesign document, something that is untypical for the typical workflow in book projects, and for which most graphic designers working with InDesign have not been trained. There is also another way to make use of the possibilities offered by hybrid publishing: rather than designing for print and then adding the electronic book as an afterthought at the end of the process, the publishing process is instead geared towards multiple output formats from the start. 
 
 This new workflow allows for a hybrid output to various media (including print, ebook and web) and is centered on a single editorial and archival file format, a finalized version of the source document from which multiple outputs can be generated. Instead of a Word document which is further modified in InDesign - both of which are less than optimal formats for converting to EPUB - the editorial and archival file will instead be in a format that can easily be converted to InDesign for the print edition and to EPUB, MOBI or web for the electronic publication. As explained earlier in chapters 6 <!-- internal link needed--> and 7, <!-- internal link needed--> the most suitable format for this workflow is Markdown, augmented with the additional MultiMarkdown extension (which allows for footnotes, cross-references and bibliographies), and subsequent conversion to InDesign, EPUB and web, which is then a very straightforward procedure using the Open Source software tool Pandoc. 
@@ -1250,27 +1273,27 @@ This new workflow allows for a hybrid output to various media (including print, 
 
 A hybrid workflow, focused on print as well as electronic publications, offers a number of advantages: 
 
-* Easy conversion into various electronic file formats. 
-* The possibility of collaborative editing and revision control, using resources ranging from simple user-friendly tools such as wikis and blogs to sophisticated revision control systems such as Git and GitHub (originally used for software development by teams of programmers working internationally on large projects). 
-* The possibility of adding elements other than text (videos, images, links) while keeping these separate from the main document files. This way, the size of the central editorial document remains very small, while images and videos in various resolutions for various publication media are easier to maintain. 
-* Easy extraction of output derived from the book itself, such as abstracts, video book trailers, newsletters, or personalized electronic publications. 
-* Easier extraction of parts of a publication which can then be published separately. 
-* Independence from any particular software program (such as Word and InDesign). 
-* Long-term archivability. 
+- Easy conversion into various electronic file formats. 
+- The possibility of collaborative editing and revision control, using resources ranging from simple user-friendly tools such as wikis and blogs to sophisticated revision control systems such as Git and GitHub (originally used for software development by teams of programmers working internationally on large projects). 
+- The possibility of adding elements other than text (videos, images, links) while keeping these separate from the main document files. This way, the size of the central editorial document remains very small, while images and videos in various resolutions for various publication media are easier to maintain. 
+- Easy extraction of output derived from the book itself, such as abstracts, video book trailers, newsletters, or personalized electronic publications. 
+- Easier extraction of parts of a publication which can then be published separately. 
+- Independence from any particular software program (such as Word and InDesign). 
+- Long-term archivability. 
 
 ###Style guide 
 A new workflow will require taking a number of measures in order to ensure suitable source documents for publication. First of all, it is necessary to communicate the details of the workflow to all contributors (authors, editors, designers) involved in the publishing process. Publication style guides must be adjusted accordingly and must specify: 
 
-* The file format to be submitted by contributors (for example: Markdown or .docx). 
-* If the file format is .docx, contributors should be required to use predefined paragraph and character styles for all formatting (such as 'Heading 1', 'Heading 2', 'Quote', etc.), and to absolutely avoid any direct text formatting other than italic or bold. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this subject. 
-* Image style and format: only high-resolution images that are suitable for print but can also be downsized to lower resolutions for electronic publication. 
-* Metadata to be provided by the contributors such as keywords, contact information, abstract, biography. 
+- The file format to be submitted by contributors (for example: Markdown or .docx). 
+- If the file format is .docx, contributors should be required to use predefined paragraph and character styles for all formatting (such as 'Heading 1', 'Heading 2', 'Quote', etc.), and to absolutely avoid any direct text formatting other than italic or bold. Microsoft provides [a useful introduction](https://support.office.com/en-us/article/Style-basics-in-Word-d382f84d-5c38-4444-98a5-9cbb6ede1ba4) on this subject. 
+- Image style and format: only high-resolution images that are suitable for print but can also be downsized to lower resolutions for electronic publication. 
+- Metadata to be provided by the contributors such as keywords, contact information, abstract, biography. 
 
 There may also be different editorial criteria for the content in a hybrid workflow: 
 
-* Different style of writing: 'writing for the web' vs. 'writing for print'. 
-* The inclusion of interactive material, audio and video, as well as additional or other images for print. 
-* Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing") (*Style Guide for Hybrid Publishing*) 
+- Different style of writing: 'writing for the web' vs. 'writing for print'. 
+- The inclusion of interactive material, audio and video, as well as additional or other images for print. 
+- Metadata to be added by the editor/publisher. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/ "Link to blog post: Style Guide for Hybrid Publishing") (*Style Guide for Hybrid Publishing*) 
 
 ##Art/design catalogue 
 
@@ -1286,16 +1309,16 @@ On a more philosophical level, we may well wonder whether a catalogue in the tra
 
 In the specific case of art and design catalogues, the following changes to the workflow should be taken into consideration: 
 
-* Modularize the content and offer multiple small portions of a catalogue, i.e. one art work for each entry, separate images, videos, texts, etc. 
-* Make sure that each module is tagged with relevant metadata as early as possible in the workflow; this is absolutely necessary in order to enable the selection and filtering process which will lead to the aggregation of the various modules for a specific ebook. 
-* Create separate low-resolution and high-resolution versions of the EPUB files, for example through **server-side scripting**. This can also be used as a business model: offer the low-resolution book cheap or for free, and the high-resolution version for the regular price. 
-* For a more or less direct conversion of a print book into an electronic publication, it may be a good idea to target only one specific reading platform (in most cases: tablets), simply because the market for the publication is often limited, and because there are still major technical constraints regarding practical file sizes, download times and development costs. In this case we would recommend PDF rather than EPUB if the publication/catalogue is primarily focused on images, since PDF offers a fixed (and thus limited but easy-to-design) image layout, and can be quickly generated from an InDesign project. When cost constraints play a central role in the decision-making process, it makes sense to focus on tablets and desktop computers since these currently provide the best screen resolution, color fidelity and reading comfort for image-oriented publications. PDF is also suitable for at least some degree of interactive and multimedia content. However, such a publication should be considered a short- to medium-term product which may become technically obsolete or outmoded within three to five years. The pragmatic advice for such a rather short-lived publication is to design for a 10" tablet screen with a resolution of 1024x768 to 1920x1080 pixels, to work in InDesign, and to create if necessary a customized new page layout for these specific screen dimensions. For possible small additions of interactive and multimedia elements, consider using Adobe Acrobat Pro as a final authoring tool, but be sure to test whether the resulting PDF is also viewable in the default PDF viewing applications on iPad and Android devices. 
-* For a custom electronic publication which isn't conceived as a print-to-ebook conversion but rather as a modularized hybrid publishing project, EPUB is the file format of choice since it is internally modular (being a ZIP archive of individual HTML files, images, fonts etc.). It is easy to generate an EPUB on demand from a database or a content management system (possibly in collaboration with a web developer and/or web designer) but it can be very difficult and costly to generate a high-quality PDF from the same source materials. 
+- Modularize the content and offer multiple small portions of a catalogue, i.e. one art work for each entry, separate images, videos, texts, etc. 
+- Make sure that each module is tagged with relevant metadata as early as possible in the workflow; this is absolutely necessary in order to enable the selection and filtering process which will lead to the aggregation of the various modules for a specific ebook. 
+- Create separate low-resolution and high-resolution versions of the EPUB files, for example through **server-side scripting**. This can also be used as a business model: offer the low-resolution book cheap or for free, and the high-resolution version for the regular price. 
+- For a more or less direct conversion of a print book into an electronic publication, it may be a good idea to target only one specific reading platform (in most cases: tablets), simply because the market for the publication is often limited, and because there are still major technical constraints regarding practical file sizes, download times and development costs. In this case we would recommend PDF rather than EPUB if the publication/catalogue is primarily focused on images, since PDF offers a fixed (and thus limited but easy-to-design) image layout, and can be quickly generated from an InDesign project. When cost constraints play a central role in the decision-making process, it makes sense to focus on tablets and desktop computers since these currently provide the best screen resolution, color fidelity and reading comfort for image-oriented publications. PDF is also suitable for at least some degree of interactive and multimedia content. However, such a publication should be considered a short- to medium-term product which may become technically obsolete or outmoded within three to five years. The pragmatic advice for such a rather short-lived publication is to design for a 10" tablet screen with a resolution of 1024x768 to 1920x1080 pixels, to work in InDesign, and to create if necessary a customized new page layout for these specific screen dimensions. For possible small additions of interactive and multimedia elements, consider using Adobe Acrobat Pro as a final authoring tool, but be sure to test whether the resulting PDF is also viewable in the default PDF viewing applications on iPad and Android devices. 
+- For a custom electronic publication which isn't conceived as a print-to-ebook conversion but rather as a modularized hybrid publishing project, EPUB is the file format of choice since it is internally modular (being a ZIP archive of individual HTML files, images, fonts etc.). It is easy to generate an EPUB on demand from a database or a content management system (possibly in collaboration with a web developer and/or web designer) but it can be very difficult and costly to generate a high-quality PDF from the same source materials. 
 
 Some practical tips: 
 
-* Save text in the Markdown format, and make use of images in the highest resolution. 
-* Use a tool like Pandoc to convert the Markdown document to EPUB and to any of the other file formats you will need once the source document has been consolidated. Test the EPUB file with several e-reader devices and applications, unpack (decompress) it and adjust the HTML and CSS if necessary, and then repack (compress) it into EPUB when these customizations are done. 
+- Save text in the Markdown format, and make use of images in the highest resolution. 
+- Use a tool like Pandoc to convert the Markdown document to EPUB and to any of the other file formats you will need once the source document has been consolidated. Test the EPUB file with several e-reader devices and applications, unpack (decompress) it and adjust the HTML and CSS if necessary, and then repack (compress) it into EPUB when these customizations are done. 
 
 The step-by-step guides in the previous chapters provide a detailed description of how to use these tools. 
 
@@ -1312,20 +1335,20 @@ More recently, artists' and designers' (print) books have grown from a niche phe
 
 Since the artists' book is not a defined genre, there is no such thing as a standard methodology or workflow. The whole spectrum of the medium can be used and experimented with. On the other hand, many contemporary artists, designers and media activists actively experiment with electronic publishing as a 'poor' (i.e. simple low-tech) medium of social sharing rather than a 'rich' visual and tactile medium; this is particularly the case in the context of artists' pirate book-sharing projects. 
 
-For artists' and designers' books that are characterized by elaborate use of typography and images, the simplest possibility is to design electronic books as a series or sequence of page-size images which can be easily converted into screen-readable PDF, EPUB and HTML5 documents. This approach would be suitable for conceptual-visual artists' books as pioneered by the Californian artist Ed Ruscha in the 1960s[^ruscha-books]. This would require no drastic change of workflow, and can be standardized as described in the sections on the other genres. 
+For artists' and designers' books that are characterized by elaborate use of typography and images, the simplest possibility is to design electronic books as a series or sequence of page-size images which can be easily converted into screen-readable PDF, EPUB and HTML5 documents. This approach would be suitable for conceptual-visual artists' books as pioneered by the Californian artist Ed Ruscha in the 1960s.[^ruscha-books] This would require no drastic change of workflow, and can be standardized as described in the sections on the other genres. 
 
 When creating an electronic artists'/designers' book, the editorial and design workflow - even if it is non-standard and continuously changing from one publication to the next - should nevertheless take into account the following considerations: 
 
-* Consider first the specific medium being targeted: a print book will require a completely different approach than a mobile app, a web page, an EPUB, etc. 
-* Depending on the final output medium, different input materials may be included or excluded. 
-* An artists' ebook can be based on a 'media art' approach: experiments with computer/server-generated EPUBs, use of collage and cut-up methods, and generative art or appropriation art methodologies. (An early example is the Yes Men's appropriation of the World Trade Organization website, for which they used a self-designed software tool which automatically modified the content of the mirrored pages to suit to the Yes Men's own subversive purposes. The same could be done with electronic books.) 
-* An artists' blog such as those found on Tumblr can quite easily be turned into an artists' electronic book. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/05/27/elizabeth-castro-catalantalk-publishing-multilingual-interviews-from-twitter-to-ebooks-to-paper/"Link to blog post: Elizabeth Castro: CatalanTalk - Publishing multilingual interviews, from Twitter to ebooks to paper") (*Elizabeth Castro: CatalanTalk - Publishing multilingual interviews, from Twitter to ebooks to paper*) 
-* Some artists have based their work on distribution processes such as Pirate Bay-style file sharing: existing books are scanned and quickly converted into downloadable ebooks, with an emphasis on spreading and on alternative ways of networking (such as person-to-person exchange of files on flash drives). 
-* Electronic artists' books can be based on experimentation with existing easy-to-use authoring apps and online authoring platforms such as *The People's E-Book* or *KYUR8*. 
-* Proprietary authoring tools and distribution platforms such as Apple's iBooks Author can be used out of pragmatic considerations (as pioneered by Paul Chan's artists' book publishing house Badlands Unlimited). However, this will greatly limit the scope of distribution as well as the long-term readability of the project, as was the case with CD-ROM and Flash multimedia books in the past. 
-* Other standard file formats creatively used and abused as document formats for visual books include: **animated GIF** graphics files for the digital equivalent of flip books, **MP4** video files displaying a book with pages that turn by themselves, **MP3** audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artifacts of corrupted **bits**, etc.[^other-formats] Such files are relatively easy to create, and there are substantial communities of artists/designers actively working with such media. However, in most cases, the resulting works will only be viewable in web browsers, not on e-reader devices and applications. They also cannot be distributed through electronic bookstores. 
-* Self-contained HTML/HTML5; using Pandoc, it is possible to store an HTML file and all its images and style sheets as one single, large file. 
-* Plain (ASCII) text files: these were the standard medium for self-published electronic magazines ('e-zines') and electronic 'samizdat' (Soviet hand-copied underground) books from the 1970s to the early 1990s. Since the plain-text format has remained stable since 1963, this is in fact the most resilient form of experimental electronic publishing. The website [textfiles.com](http://www.textfiles.com) provides a rich archive of the plain-text electronic publishing subculture from the 1970s to the 1990s. 
+- Consider first the specific medium being targeted: a print book will require a completely different approach than a mobile app, a web page, an EPUB, etc. 
+- Depending on the final output medium, different input materials may be included or excluded. 
+- An artists' ebook can be based on a 'media art' approach: experiments with computer/server-generated EPUBs, use of collage and cut-up methods, and generative art or appropriation art methodologies. (An early example is the Yes Men's appropriation of the World Trade Organization website, for which they used a self-designed software tool which automatically modified the content of the mirrored pages to suit to the Yes Men's own subversive purposes. The same could be done with electronic books.) 
+- An artists' blog such as those found on Tumblr can quite easily be turned into an artists' electronic book. [![Bloglink](images/dpt_blog_verwijzing.png)](http://networkcultures.org/digitalpublishing/2014/05/27/elizabeth-castro-catalantalk-publishing-multilingual-interviews-from-twitter-to-ebooks-to-paper/"Link to blog post: Elizabeth Castro: CatalanTalk - Publishing multilingual interviews, from Twitter to ebooks to paper") (*Elizabeth Castro: CatalanTalk - Publishing multilingual interviews, from Twitter to ebooks to paper*) 
+- Some artists have based their work on distribution processes such as Pirate Bay-style file sharing: existing books are scanned and quickly converted into downloadable ebooks, with an emphasis on spreading and on alternative ways of networking (such as person-to-person exchange of files on flash drives). 
+- Electronic artists' books can be based on experimentation with existing easy-to-use authoring apps and online authoring platforms such as *The People's E-Book* or *KYUR8*. 
+- Proprietary authoring tools and distribution platforms such as Apple's iBooks Author can be used out of pragmatic considerations (as pioneered by Paul Chan's artists' book publishing house Badlands Unlimited). However, this will greatly limit the scope of distribution as well as the long-term readability of the project, as was the case with CD-ROM and Flash multimedia books in the past. 
+- Other standard file formats creatively used and abused as document formats for visual books include: **animated GIF** graphics files for the digital equivalent of flip books, **MP4** video files displaying a book with pages that turn by themselves, **MP3** audio files triggering abstract art on the volume meter display of an audio player, JPEG files with encoding artifacts of corrupted **bits**, etc.[^other-formats] Such files are relatively easy to create, and there are substantial communities of artists/designers actively working with such media. However, in most cases, the resulting works will only be viewable in web browsers, not on e-reader devices and applications. They also cannot be distributed through electronic bookstores. 
+- Self-contained HTML/HTML5; using Pandoc, it is possible to store an HTML file and all its images and style sheets as one single, large file. 
+- Plain (ASCII) text files: these were the standard medium for self-published electronic magazines ('e-zines') and electronic 'samizdat' (Soviet hand-copied underground) books from the 1970s to the early 1990s. Since the plain-text format has remained stable since 1963, this is in fact the most resilient form of experimental electronic publishing. The website [textfiles.com](http://www.textfiles.com) provides a rich archive of the plain-text electronic publishing subculture from the 1970s to the 1990s. 
 
 ##Art/design periodical 
 
@@ -1339,15 +1362,15 @@ Aside from revenue, the main editorial question is: should the publication still
 
 We distinguish between two major types of workflow, the first based on a print publication which is digitized for electronic distribution, the second based on the electronic medium itself, such as a website or blog which can make use of several distribution channels. 
 
-* Print-based workflow: The magazine is designed and put together as a print publication, using desktop publishing software such as InDesign, and exported as a printable PDF. This PDF is then optimized for reading and/or downloading on the web, meaning that the file is often smaller and the publication is distributed on different platforms which allow for online PDF reading, such as Issuu and Scribd. <!-- internal link to ch. 5--> This provides a low-cost solution with a traditional revenue model (in-app purchase). We will not cover this field in detail here, as it is highly unstable and specific to certain countries and geographic regions. For large-scale periodicals, companies such as WoodWing offer (expensive) content management systems made for hybrid print/electronic publishing of magazines based on standard Adobe software and the PDF file format. 
-* HTML5-based workflow: In the Netherlands and, thanks to a strategic investment by *The New York Times*, elsewhere in the world, the Dutch electronic news platform Blendle is currently gaining ground as an 'iTunes for newspapers and magazines'. It serves as an electronic newsstand where readers can purchase access to whole issues or single articles of all major newspapers and magazines available in their country, and is run as an open, publisher-neutral platform. It remains to be seen whether this model will provide a viable solution for smaller publishers or for selling (articles from) art periodicals. At the moment, it is too early to offer any practical recommendations on this subject. Currently, only small numbers of readers in the field of arts, design and culture are likely to be users of apps such as Blendle. 
-* Web-based workflow: The magazine is a self-published website. There are many ways of building websites, but the easiest Open Source, free solution is to use a content management system like WordPress with a custom design template for your own publication. This allows you to have a responsive design that adapts to all available reading devices. An additional technical benefit is that this workflow allows you to have a structured database of everything ever published on the site, which is easy to use as a basis for exporting to custom publications such as downloadable ebooks, InDesign layout for print yearbooks, PDFs, a tablet app, etc. 
+- Print-based workflow: The magazine is designed and put together as a print publication, using desktop publishing software such as InDesign, and exported as a printable PDF. This PDF is then optimized for reading and/or downloading on the web, meaning that the file is often smaller and the publication is distributed on different platforms which allow for online PDF reading, such as Issuu and Scribd. <!-- internal link to ch. 5--> This provides a low-cost solution with a traditional revenue model (in-app purchase). We will not cover this field in detail here, as it is highly unstable and specific to certain countries and geographic regions. For large-scale periodicals, companies such as WoodWing offer (expensive) content management systems made for hybrid print/electronic publishing of magazines based on standard Adobe software and the PDF file format. 
+- HTML5-based workflow: In the Netherlands and, thanks to a strategic investment by *The New York Times*, elsewhere in the world, the Dutch electronic news platform Blendle is currently gaining ground as an 'iTunes for newspapers and magazines'. It serves as an electronic newsstand where readers can purchase access to whole issues or single articles of all major newspapers and magazines available in their country, and is run as an open, publisher-neutral platform. It remains to be seen whether this model will provide a viable solution for smaller publishers or for selling (articles from) art periodicals. At the moment, it is too early to offer any practical recommendations on this subject. Currently, only small numbers of readers in the field of arts, design and culture are likely to be users of apps such as Blendle. 
+- Web-based workflow: The magazine is a self-published website. There are many ways of building websites, but the easiest Open Source, free solution is to use a content management system like WordPress with a custom design template for your own publication. This allows you to have a responsive design that adapts to all available reading devices. An additional technical benefit is that this workflow allows you to have a structured database of everything ever published on the site, which is easy to use as a basis for exporting to custom publications such as downloadable ebooks, InDesign layout for print yearbooks, PDFs, a tablet app, etc. 
 
 [^bookworks]: Carrión, Ulises. *The New Art of Making Books*, Aegean Editions, 2001. 
 [^e-zines]: The Textfile Directory, <a href="http://www.textfiles.com/directory.html">http://www.textfiles.com/directory.html</a>. 
 [^electronic-literature-organization]: Electronic Literature Organization, <a href="http://eliterature.org">http://eliterature.org</a>. 
 [^elmcip]: Electronic Literature Knowledge Base, <a href="http://elmcip.net/knowledgebase">http://elmcip.net/knowledgebase</a>. 
-[^PDF/A]: PDF/A stands for *archival PDF* and is an ISO standard originally formulated by Adobe in collaboration with non-profit organizations in the field of information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles must be fully embedded in a document, <a href="http://en.wikipedia.org/?title=PDF/A">http://en.wikipedia.org/?title=PDF/A</a>. 
+[^PDF/A]: PDF/A stands for 'archival PDF' and is an ISO standard originally formulated by Adobe in collaboration with non-profit organizations in the field of information management. As opposed to generic PDF, PDF/A requires that all fonts, references and color profiles must be fully embedded in a document, <a href="http://en.wikipedia.org/?title=PDF/A">http://en.wikipedia.org/?title=PDF/A</a>. 
 [^other-formats]: Used as a medium of artistic experimentation among by various artists and designers, including net artists since the 1990s, and also by the conceptual poet and UbuWeb founder Kenneth Goldsmith. 
 [^roth-book-art]: Electronic reproduction of Dieter Roth's sculptural book objects, <a href="http://www.moma.org/visit/calendar/exhibitions/129">http://www.moma.org/visit/calendar/exhibitions/129</a>. 
 [^ruscha-books]: Ed Ruscha’s conceptual-visual artists’ books, <a href="http://www.artnet.com/artists/ed-ruscha/">http://www.artnet.com/artists/ed-ruscha/</a>. 
@@ -1363,6 +1386,9 @@ We distinguish between two major types of workflow, the first based on a print p
 - Self-publishing is likely to go on increasing. 
 - As a consequence, there will probably be an increased need for editorial selection and content curation. 
 </div> 
+
+
+##
 
 Throughout the 20th century, new art forms and mass media have often been closely interrelated. For example, it is almost impossible to consider Cubist, Dadaist and Pop Art collage outside the context of a mass culture of newspaper publishing. With the advent of electronic publishing, the practices of dissecting, copy-pasting and perpetually reorganizing have become technologically and culturally more complex - as well as more common. In this Toolkit, we have referred to such processes as the 'modularization' of electronic publishing. Personalized, individually curated, or 'collaged' content can be done both on the side of the producer and of the receiver. Furthermore, users can choose their own combinations of reading technologies. There is no reason to believe that the current diversity of reading software and hardware is going to decrease. Indeed, perhaps it will increase even further - contrary to expectations from only five years ago, when many believed that Apple's iPad would establish a unified standard for electronic reading devices. 
 
@@ -1643,7 +1669,7 @@ Software that allows human users to use a computer or other digital device in a 
 ###H 
 
 #####HTML (Hypertext Markup Language) 
-A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: `<tag\>`. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
+A file format and markup standard used mainly for web pages. HTML consists of ASCII files with markup tags in angular brackets, like this: `<tag>`. These tags allow the author or designer to define the structural document layout (such as the title, headlines, block quotes, lists, tables) and interaction elements (such as hyperlinks and fill-out forms). 
 
 #####HTML5 
 The most recent version of the HTML format. HTML5 adds various new features, notably support for the multimedia (audio and video) capabilities of the World Wide Web. Through the adoption of HTML5, web designers hope to render obsolete the use of browser plug-ins for interactive multimedia websites. 

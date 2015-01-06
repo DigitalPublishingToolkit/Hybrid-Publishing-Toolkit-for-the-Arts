@@ -102,7 +102,7 @@ def find_chapter(glossary_title, search_dir):
     for f in xhtmls:
         xhtml_parsed = parse_html(temp_dir, f)
         title = (xhtml_parsed.findall('.//title'))[0].text
-        if title in glossary_title:
+        if title is not None and title in glossary_title:
             return(f, xhtml_parsed)
 
 print "** Adding hyperlinks to EPUB Glossary **"

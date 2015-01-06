@@ -6,6 +6,8 @@
 - EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook formats for its line of Kindle devices. 
 </div> 
 
+##
+
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 
 ##Reader hardware 
