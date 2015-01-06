@@ -94,6 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 2em;
+    line-height: 1em;
     text-transform: uppercase;
     letter-spacing: 1px;
     border-top: 3px solid #0F0;
@@ -232,7 +233,6 @@ div.summary{
     border-top: 1px solid #0F0;
     border-bottom: 1px solid #0F0; 
     padding: 10px;
-    font-weight: normal;
     width:75%;
     margin-left: auto;
     margin-right: auto;
@@ -270,4 +270,19 @@ a.footnoteRef {
 vertical-align: super;
 line-height: normal;
 font-size: 0.5em;
+}
+
+
+div#description{
+    margin-top:80px;
+    margin-bottom:20px;
+    /* border-top: 1px solid #0F0; */
+    /* border-bottom: 1px solid #0F0;  */
+    /* padding: 10px; */
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    page-break-after: always;
+    font-weight: normal;    
 }
