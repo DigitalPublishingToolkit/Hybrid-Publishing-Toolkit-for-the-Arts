@@ -71,4 +71,4 @@ We are not claiming that all ebooks will follow, or indeed should follow this pa
 [^DPT-blog]: *Blog of the Digital Publishing Toolkit research program*, <a href="http://networkcultures.org/digitalpublishing">http://networkcultures.org/digitalpublishing</a>. 
 [^RAAK-MKB]: Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, <a href="http://www.regieorgaan-sia.nl">http://www.regieorgaan-sia.nl</a>. 
 [^DPT-GitHub]: Digital Publishing Toolkit GitHub, <a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>. 
-[^DPT-Consortium]: Digital Publishing Toolkit consortium, http://networkcultures.org/digitalpublishing/consortium/.
+[^DPT-Consortium]: Digital Publishing Toolkit consortium, <a href="http://networkcultures.org/digitalpublishing/consortium/">http://networkcultures.org/digitalpublishing/consortium/</a>.

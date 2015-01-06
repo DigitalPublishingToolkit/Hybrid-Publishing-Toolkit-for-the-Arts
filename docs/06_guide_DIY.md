@@ -137,15 +137,15 @@ Another option when using InDesign is to import files in the ICML file format. T
 InDesign can generate both reflowable and fixed-layout EPUB files. Reflowable layout means that the size and positioning of text and images are adjusted according to the screen size as well as the user's individual preferences. Fixed layout means that the text and images are always shown in the same (relative) size and positions on a page, regardless of the screen size or other factors. Fixed-layout text and images are usually reduced in size to fit on smaller screens, often to the point of becoming completely illegible on mobile phones. Finally, reflowable EPUB is supported by a broader range of e-readers and tablets, while fixed layout is supported by only a few. 
 
 <!-- the following 3 images missing or wrongly named -->
-![image](images/InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
+!["Text reflows depending on the size of the window (this is iBooks on the Mac)"](images/InD_reflow1.png "Text reflows depending on the size of the window (this is iBooks on the Mac)") 
 
-![image](images/InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
+!["When the screen is wider, the text flows into a wider paragraph"](images/InD_reflow2.png "When the screen is wider, the text flows into a wider paragraph") 
 
-![image](images/InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
+!["If the user widens iBooks sufficiently, facing pages are displayed."](images/InD_reflow3.png "If the user widens iBooks sufficiently, facing pages are displayed.") 
 
-![image](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
+!["A user can change the size of the text to facilitate reading on smaller screens"](images/InD_reflowiphone1.png "A user can change the size of the text to facilitate reading on smaller screens") 
 
-![image](images/InD_reflowiphone4.png "The text reflows to fit") 
+!["The text reflows to fit"](images/InD_reflowiphone4.png "The text reflows to fit") 
 
 InDesign's features for print layouts - such as master pages, control of headers and footers, and precise positioning of text, images and other elements - are ignored in reflowable EPUB documents. However reflowable EPUB does permit choosing settings such as (initial) font size, leading, font type, spacing before and after paragraphs, whether a paragraph should begin on a new page, etc. Keep in mind however that individual users are often able to partially or completely override these settings in their e-reader devices or applications. 
 
@@ -165,11 +165,11 @@ First we must define the styles, then apply them, and finally make sure they are
 
 1. To create a new style, open the Paragraph Styles panel (accessed through Type > Paragraph Styles) and select New Paragraph Style from the panel menu (panel menus are accessed by clicking the **icon** in the upper right-hand corner). Any formatting in the active paragraph will be incorporated automatically into the new style.  
 
-![image](images/InD_Styles_1_new.png) 
+![](images/InD_Styles_1_new.png) 
 
 2. Give the style a name. 
 
-![image](images/InD_Styles_2_New_Paragraph_Style.png) 
+![](images/InD_Styles_2_New_Paragraph_Style.png) 
 
 3. Select any additional options. The right-hand side of the dialog box will show different options, depending on the category selected on the left-hand side.  
 
@@ -182,11 +182,11 @@ Tips:
 
 1. Click anywhere in the paragraph to which you want to apply the style.
 
-![image](images/InD_Styles_3_cursor.png) 
+![](images/InD_Styles_3_cursor.png) 
 
 2. Choose the desired style from the Paragraph Styles panel.
 
-![image](images/InD_Styles_4_apply.png) 
+![](images/InD_Styles_4_apply.png) 
 
 3. Repeat steps 1 and 2 for all paragraphs in the document.
 
@@ -195,7 +195,7 @@ Tips:
 - You can apply a basic style to all paragraphs at once by choosing Select All and then choosing a basic style such as Body or Normal, after which you can individually apply the less frequent heading, caption and other paragraph styles to the relevant paragraphs. 
 - If you have imported a document with large quantities of existing bold or italic text, you can automatically apply a character style using the search and replace function. 
 
-![Image](images/InD_Styles_5_Find_change.png) 
+![](images/InD_Styles_5_Find_change.png) 
 
 ####Mapping styles to tags 
 
@@ -204,14 +204,14 @@ Though InDesign can perform this step automatically, for more control you can sp
 1. Choose Edit All Export Tags from the Paragraph Styles panel menu. 
 2. In the dialog box that appears, verify that each style in the Style column is mapped to the appropriate CSS in the Tag column. It's a good idea, for example, for heading paragraphs in your book to be exported as 'h1', 'h2', etc., and also for each style to have its own 'Class'. 
 
-![Image](images/InD_Styles_8_add_class.png) 
+![](images/InD_Styles_8_add_class.png) 
 
 Tips: 
 
 - If you import XML documents, you can have InDesign automatically map specific XML tags to the desired paragraph styles (which later will be mapped to the proper EPUB CSS tags as shown above). 
 - You can also map a style to a tag by selecting Export Tagging in the Paragraph Style and Character Style dialog boxes. 
 
-![Image](images/InD_Styles_7_pstyle_options_edit_tags.png) 
+![](images/InD_Styles_7_pstyle_options_edit_tags.png) 
 
 - Earlier versions of InDesign were not so good at exporting all of a document's styles to CSS. The most recent version InDesign CC offers a substantial improvement in this respect. 
 - Besides (or in addition to) the formatting from the styles provided by InDesign, you can apply your own CSS in the 'EPUB - Reflowable Layout Export Options' dialog box (see the Export Options section of this step-by-step guide). 
@@ -230,34 +230,34 @@ Generally it's a good idea to use anchored images for a layout that will be expo
 
 1. Place an image on the pasteboard. 
 
-![Image](images/InD_anchor-1.png) 
+![](images/InD_anchor-1.png) 
 
 2. If desired, you can create a caption, apply a style to the caption, and then group the caption with the image. 
 
-![Image](images/InD_anchor-2.png) 
+![](images/InD_anchor-2.png) 
 
-![Image](images/InD_anchor3-group.png) 
+![](images/InD_anchor3-group.png) 
 
 3. Select the image in order to make its controls visible. Click and drag the blue box (near the upper right-hand corner of the image) to the desired location in the text. The blue box now changes to an anchor symbol. 
 
-![Image](images/InD_anchor4-dragbluesquare.png) 
+![](images/InD_anchor4-dragbluesquare.png) 
 
-![Image](images/InD_anchor5-anchored2.png) 
+![](images/InD_anchor5-anchored2.png) 
 
 4. If the layout of the print output is important, adjust the location of the image. This does not affect the image's location in the EPUB. 
 5. If you want the text to wrap around the image, select the image and then choose Object > Object Export Options. 
 
-![Image](images/InD_anchor6-Object_Export_Options.png) 
+![](images/InD_anchor6-Object_Export_Options.png) 
 
 a. Select the 'EPUB and HTML' options tab. 
 b. Check the Custom Layout check box, and choose Float Left or Float Right from the pull-down menu. 
 c. To specify the amount of space between the image and the text, select the image, display the Text Wrap dialog box, click the second icon from the left, and specify the amount of space above, below, left and right in each field. 
 
-![Image](images/InD_anchor7-textwrap.png) 
+![](images/InD_anchor7-textwrap.png) 
 
 You can also use this option to adjust how the image appears in the print edition. 
 
-![Image](images/InD_anchor8-printadjust.png) 
+![](images/InD_anchor8-printadjust.png) 
 
 ###Links and cross-references 
 
@@ -269,19 +269,19 @@ There are two main types of links: links which specify both the destination and 
 
 1. First, determine the destination by selecting the location in the book where you want the link to point to, and choose New Hyperlink Destination from the panel menu of the Hyperlinks panel (accessed through Window > Interactive > Hyperlinks). Note the name of the Text Anchor, you'll need it later. By default, the name of the Text Anchor is the first few words of the destination text. Then click OK. 
 
-![Image](images/InD_hyperlink_destination_1.png) 
+![](images/InD_hyperlink_destination_1.png) 
 
-![Image](images/InD_hyperlink_destination_2.png) 
+![](images/InD_hyperlink_destination_2.png) 
 
 2. Next select the text that you want to convert into a link and choose New Hyperlink from the Hyperlinks panel menu. 
 3. Choose Text Anchor from the 'Link To' pull-down menu, then select the name of the document in which the destination Text Anchor can be found, and select the name of the Text Anchor. 
 
-![Image](images/InD_hyperlink_destination_3.png) 
+![](images/InD_hyperlink_destination_3.png) 
 
 4. It's also a good idea to apply a style so that you can format all the links later. 
 5. Click OK to create the link. 
 
-![Image](images/InD_hyperlink_destination_4.png) 
+![](images/InD_hyperlink_destination_4.png) 
 
 ###Creating cross-references 
 
@@ -292,7 +292,7 @@ Cross-references are links in which the link text is automatically generated bas
 3. Choose Insert Cross-Reference from the panel menu. 
 4. Under Destination, specify the desired Document. Then, from the list on the left-hand side, choose the type of paragraph you wish to link to. 
 
-![Image](images/InD_cross_references.png) 
+![](images/InD_cross_references.png) 
 
 All paragraphs formatted with that particular style will show up in the list on the right-hand side, allowing you to choose the paragraph you want the cross-reference to link to. 
 
@@ -300,7 +300,7 @@ All paragraphs formatted with that particular style will show up in the list on 
 
 The text from the destination will now appear in the body of your document. It will be exported as a link in the EPUB document. 
 
-![Image](images/InD_cross_references_2.png) 
+![](images/InD_cross_references_2.png) 
 
 ###Tables of contents 
 
@@ -312,7 +312,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 
 1. Choose Layout > Table of Contents Styles and then click New in the dialog box that appears. The New Table of Contents Style dialog box will now appear. 
 
-![Image](images/InD_TOC_1_new.png) 
+![](images/InD_TOC_1_new.png) 
 
 2. Fill in the Title, for example 'Contents'. This will be used for the heading above the generated table of contents. Then choose which paragraph style to apply to that heading. 
 3. Choose which types of paragraph will be used to populate the table of contents, such as headings or chapter names. 
@@ -320,7 +320,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 5. In the area titled Style, choose which style to apply to each type of element in the table of contents. It's a good idea to create special styles for these elements. 
 6. In the Page Number menu box, choose No Page Number, since page numbers are not necessary in an ebook. 
 
-![Image](images/InD_TOC_options.png) 
+![](images/InD_TOC_options.png) 
 
 7. Click OK to save the Table of Contents Style. This is the first step for creating both a navigational and an in-document table of contents. 
 
@@ -329,7 +329,7 @@ InDesign generates tables of contents based on styled paragraphs. For example, y
 1. Once you've created a Table of Contents Style, choose Layout > Table of Contents to have InDesign generate the table of contents by extracting the text from the paragraphs formatted in the styles you have selected. 
 2. Use the 'loaded' pointer to place the table of contents at the desired location in the document. 
 
-![Image](images/InD_TOC_indocument.png) 
+![](images/InD_TOC_indocument.png) 
 
 You are not required to place the table of contents at the beginning of the book, or indeed to include it all. 
 
@@ -348,7 +348,7 @@ InDesign gives you two opportunities to add metadata: in the File Info dialog bo
 
 1. To add metadata to your file, go to File > File Info. 
 
-![Image](images/InD_Metadata_1.png) 
+![](images/InD_Metadata_1.png) 
 
 2. You can add additional metadata as you export the document to EPUB as discussed further below. 
 
@@ -358,7 +358,7 @@ The final step before exporting to EPUB is to create and add a cover image for y
 
 1. Create or edit the cover image (either in InDesign or in a graphics editor such as Photoshop) and save it in the **JPEG** format. 
 
-![Image](images/InD_SaveCover.png) 
+![](images/InD_SaveCover.png) 
 
 2. You will indicate the cover image to be used when you export to EPUB in the next section. 
 
@@ -368,25 +368,26 @@ Before finally exporting to EPUB, first make sure that all formatting has been a
 
 1. Select File > Export, then fill in a filename and destination, and select EPUB (Reflowable) from the Format pull-down menu. 
 
-![Image](images/InD_Export_1.png) 
+![](images/InD_Export_1.png) 
 
 2. Click Save. The 'EPUB - Reflowable Layout Export Options' dialog box appears with eight separate panels of options. 
 3. In the General panel, choose EPUB 3.0 from the Version pull-down menu to ensure that your document complies with the latest standards. 
 
-![Image](images/InD_Export_2.png) 
+![](images/InD_Export_2.png) 
 
 4. Select the Choose Image option from the Cover pull-down menu; then navigate to the folder where you have saved the JPEG cover image you created earlier, and select that file. If you select the Rasterize Front Page option from the Cover pull-down menu instead, InDesign will create a snapshot of the first page of your book and use that image for the cover. 
 5. Select the option Multi Level (TOC Style) from the Navigation TOC pull-down menu; then choose the TOC Style that you created earlier in the New Table of Contents Style dialog box. 
 6. On the left-hand side of the dialog box, select the Metadata panel. 
 7. If the book has an ISBN, enter it in the Identifier field. 
 
-![Image](images/InD_Metadata_Export.png) 
+![](images/InD_Metadata_Export.png) 
 
 8. All the other fields besides the Date field should be automatically populated with data entered earlier in the File Info dialog box. You can add any missing information now. InDesign uses the information in the Date field for the EPUB2 element 'dc:date', but will use the actual date and time to automatically fill in this information in a format compatible with EPUB3. In other words, you don't have to enter anything in the Date field. 
 9. There are many other export options: for controlling how images and text are exported, for adding **JavaScript** and CSS, and for choosing how the ebook should be previewed. Feel free to explore these at your own leisure. The CSS panel has some of the most interesting options, since it allows you to override or even completely substitute the sometimes bulky and awkward CSS generated by InDesign with your own carefully crafted CSS. 
 10. Finally, click OK to generate the EPUB file. 
 
-![Image](images/InD_finishedbook.png)![Image](images/InD_finishedbook2.png) 
+![](images/InD_finishedbook.png)
+![](images/InD_finishedbook2.png) 
 
 ###Testing and validating 
 

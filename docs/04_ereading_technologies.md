@@ -16,7 +16,7 @@ E-readers became widely known with the introduction of **Amazon**'s **Kindle** i
 
 Some manufacturers of e-readers also offer more expensive models, such as Amazon's Kindle Fire (and Fire HD) or Barnes & Noble's NOOK Tablet (and NOOK HD+). However these models are not really e-readers anymore, but full-fledged, small-sized tablets. Instead of e-paper, they have backlit color LCD screens, a standard feature of tablets such as Apple's iPad and Samsung's Galaxy Tab. Often these models use a version of **Android** (the most widely used **operating system** for mobile devices), in contrast to the traditional monochrome e-readers which use their own operating system, usually derived from a version of **Linux**. Conversely, Samsung's Galaxy Note and Apple's iPad Mini can be seen as these tablet manufacturers' answer to the smaller-sized e-reading tablets. 
 
-![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations.") 
+![Strengths & Limitations](images/05_2_strengths_limitations_04.png "Strengths & Limitations") 
 
 ###Tablets 
 The tablet market is currently dominated by two main players, Apple and Samsung.[^sales-figures-tablet] Apple uses its own operating system (**iOS**) for the iPad, while Samsung has opted for Android as the operating system for its Galaxy Tab product line. In the Android market segment, several manufacturers offer similar hardware with variants of the Android operating system. There are various e-reader software applications for both iOS and Android. We will review the most important of these in the [reader software](#reader-software) section below. 
@@ -32,7 +32,7 @@ Though ebooks can certainly be read on a laptop or personal computer, this may b
 ##Reader software 
 Various applications for PCs, tablets and smartphones support an extended subset of the EPUB standard, allowing for extra features such as customized fonts, layout styling, etc. In the following section we will examine the most important applications for electronic reading on mobile devices, desktop and laptop computers, and the web. We distinguish between four 'ecologies', each with its own devices, distribution platforms and software: Apple's iOS, Google's Android, Amazon's Kindle and **Kobo**. 
 
-![Strengths & Limitations](images/05_02_readersoftware.png "Strengths & Limitations.") 
+![Four 'ecologies'](images/05_02_readersoftware.png "Four 'ecologies'") 
 
 ###Mobile applications 
 There are various software applications for tablets and smartphones, some of which are 'companion apps' to well-known e-reader devices such as Amazon's Kindle and Kobo's range of e-reader hardware. Other applications were not developed for specific e-reader devices but are integrated into a storefront, such as Apple's **iBooks** and Aldiko. The applications generally support EPUB2 and EPUB3, though some require the user to convert files into a proprietary file format before the document can be opened, such as the Kindle e-reader device and application which support only Amazon's proprietary file formats (**AZW**, **KF8**, MOBI) along with **plain text** and PDF. 
