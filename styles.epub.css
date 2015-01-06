@@ -83,8 +83,6 @@ p {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Ubuntu Mono Bold', monospace;
     font-weight: 300;
-    font-size: 24pt;
-    line-height: 24pt;
     hyphens: none !important;
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
@@ -95,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+    font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 1px;
     border-top: 3px solid #0F0;
@@ -102,40 +101,36 @@ h1 {
 }
 
 h2 {
-    font-size: 22pt;
-    line-height: 22pt;  
+    font-size: 1.9em;
+    line-height: 1.9em;  
 }
 
 h3 {
-    font-size: 18pt;
-    line-height: 18pt;
-    margin-top: 30pt;
+    font-size: 1.6em;
+    line-height:1.6em;
+    margin-top: 1.2em;
     margin-bottom: 18pt;
 }
 
 
 
 section#glossary-of-technical-terms h3 {
-    font-size: 22pt;
-    line-height: 22pt;  
-    margin-bottom: 18pt;
+    font-size: 1.6em;
+    line-height: 1.6em;
+    margin-top: 1em;    
+    margin-bottom: 0.5em;
 }
 
 h4 {
-    font-size: 16pt;
-    line-height: 16pt;
-    margin-bottom: -12pt;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    margin-bottom: -0.5em;
 }
 
 h5 {
-    font-size: 16pt;
-    line-height: 16pt;
-    margin-bottom: -16pt; 
-}
-
-h6 {
-    font-size: 10pt;
-    line-height: 10pt;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    margin-bottom: -0.8em;
 }
 
 a {
@@ -247,7 +242,7 @@ div.summary{
 }
 
 div.summary li{
-    margin-bottom: 12pt;
+    margin-bottom: 1em;
 }
 
 div#cover-image{
