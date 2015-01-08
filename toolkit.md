@@ -1,7 +1,7 @@
-# From Print to Ebooks
-<!--: a Hybrid Publishing Toolkit for the Arts-->
+# From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts
 
 <div id="description">
+
 Electronic publishing has become an essential medium for the field of contemporary arts and design. While traditional models of art book publishing are becoming less and less viable for artists, writers, designers and publishers, periodicals like the *e-flux journal*, art and design blogs, and internet libraries such as *UbuWeb* are widely read and discussed. 
 
 Is electronic book technology really the way forward for these types of publications? Or does the answer lie in some hybrid form of publication, in which both print and electronic editions of the same basic content can be published in a parallel or complementary fashion?  And perhaps more importantly, what are the changes in workflow and design mentality that will need to be implemented in order to allow for such hybrid publications? 
@@ -9,10 +9,11 @@ Is electronic book technology really the way forward for these types of publicat
 This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital technology, or indeed traditional publishing technology, is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. 
 
 Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists'/designer's books. 
+
 </div>
 
 
-#Colophon 
+#Colophon
 
 ###From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts 
 **Authors:** DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Pia Pol, Miriam Rasch and Margreet Riphagen<br/> 
@@ -83,7 +84,6 @@ ISBN 978-90-822345-4-1 (EPUB)<br/>
 - This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and Open Source tools. 
 </div> 
 
-## 
 
 'You must change your life' - borrowing from the philosopher Peter Sloterdijk, this could be the summary of our message to art-oriented and design-oriented publishers, writers, editors and designers who are currently transitioning from traditional book making to electronic publishing or - more typically - **hybrid publishing** of print and electronic formats. Hybrid publishing will sooner or later confront them with the need to re-think traditional publication formats, editorial and production workflows, and distribution. The changes required may well be greater and more extensive than initially expected! 
 
@@ -327,13 +327,13 @@ It is important to note that there will never be one single workflow which fits 
 
 #4 Technologies for electronic reading 
 
-<div class="summary"> 
+<div class="summary">
 - Users can choose from a multitude of hardware e-reader devices and software e-reader applications. 
 - The possible combinations of software and hardware are complex and virtually unlimited. 
 - EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook formats for its line of Kindle devices. 
 </div> 
 
-##
+
 
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 

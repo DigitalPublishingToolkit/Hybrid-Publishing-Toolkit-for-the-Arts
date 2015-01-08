@@ -7,7 +7,6 @@
 - This Toolkit focuses on low-budget, hybrid print and electronic books designed in-house using standard software and Open Source tools. 
 </div> 
 
-## 
 
 'You must change your life' - borrowing from the philosopher Peter Sloterdijk, this could be the summary of our message to art-oriented and design-oriented publishers, writers, editors and designers who are currently transitioning from traditional book making to electronic publishing or - more typically - **hybrid publishing** of print and electronic formats. Hybrid publishing will sooner or later confront them with the need to re-think traditional publication formats, editorial and production workflows, and distribution. The changes required may well be greater and more extensive than initially expected! 
 

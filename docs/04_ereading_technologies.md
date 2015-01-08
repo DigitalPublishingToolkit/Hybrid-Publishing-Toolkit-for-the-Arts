@@ -1,12 +1,12 @@
 #4 Technologies for electronic reading 
 
-<div class="summary"> 
+<div class="summary">
 - Users can choose from a multitude of hardware e-reader devices and software e-reader applications. 
 - The possible combinations of software and hardware are complex and virtually unlimited. 
 - EPUB is the most common format for electronic books, followed by Amazon's own proprietary ebook formats for its line of Kindle devices. 
 </div> 
 
-##
+
 
 ![Digital Publishing Range](images/05_1_rich_poor.png "Digital Publishing Range") 
 

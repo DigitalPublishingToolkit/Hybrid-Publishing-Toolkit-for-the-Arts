@@ -87,8 +87,6 @@ h1, h2, h3, h4, h5, h6 {
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
     adobe-hyphenate: none !important;
-    page-break-after: avoid;
-    page-break-inside: avoid;
     margin: 0;
 }
 
@@ -101,14 +99,15 @@ h1 {
     padding-top: 10px;
 }
 
+
 h2 {
     font-size: 1.9em;
-    line-height: 1.9em;  
+    line-height: 1.0em;
 }
 
 h3 {
-    font-size: 1.6em;
-    line-height:1.6em;
+    font-size: 1.5em;
+    line-height:1.0em;
     margin-top: 1.2em;
     margin-bottom: 18pt;
 }
@@ -116,21 +115,21 @@ h3 {
 
 
 section#glossary-of-technical-terms h3 {
-    font-size: 1.6em;
-    line-height: 1.6em;
+    font-size: 1.5em;
+    line-height: 1.0em;
     margin-top: 1em;    
     margin-bottom: 0.5em;
 }
 
 h4 {
     font-size: 1.3em;
-    line-height: 1.3em;
+    line-height: 1.0em;
     margin-bottom: -0.5em;
 }
 
 h5 {
     font-size: 1.2em;
-    line-height: 1.2em;
+    line-height: 1.0em;
     margin-bottom: -0.8em;
 }
 
@@ -228,17 +227,18 @@ img.fig {
 
 
 div.summary{
-    margin-top:40px;
-    margin-bottom:20px;
-    border-top: 1px solid #0F0;
-    border-bottom: 1px solid #0F0; 
+    border-top: 3px solid #0F0;
+    border-bottom: 3px solid #0F0; 
     padding: 10px;
-    width:75%;
     margin-left: auto;
     margin-right: auto;
     page-break-inside: avoid;
     page-break-after: always;
+    -webkit-column-break-inside: avoid;
+    -webkit-column-break-after: always;
     font-weight: bold;    
+    page-break-before: always;
+    -webkit-column-break-before: always;
 }
 
 div.summary li{
@@ -253,6 +253,9 @@ div.end{
     text-align:center;
     page-break-before: always;
     page-break-after: always;   
+    -webkit-column-break-after: always;
+    -webkit-column-break-after: always;
+
 }
 
 img.end{
@@ -276,13 +279,7 @@ font-size: 0.5em;
 div#description{
     margin-top:80px;
     margin-bottom:20px;
-    /* border-top: 1px solid #0F0; */
-    /* border-bottom: 1px solid #0F0;  */
-    /* padding: 10px; */
-    width:75%;
-    margin-left: auto;
-    margin-right: auto;
-    page-break-inside: avoid;
     page-break-after: always;
+    -webkit-column-break-after: always;
     font-weight: normal;    
 }
