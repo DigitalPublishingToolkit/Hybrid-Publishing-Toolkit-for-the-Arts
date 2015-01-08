@@ -78,13 +78,13 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
         new_fig_tag = ET.fromstring(new_fig)
         tag.extend(new_fig_tag) # insert into figure
 
-def spine(filename): # makes cover linear is <spine>
+def spine(filename): # makes cover & title page linear is <spine>
     tree = ET.parse(filename)
     ET.register_namespace('epub', 'http://www.idpf.org/2007/ops')
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
     manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
     for child in spine.getchildren():
-        if child.attrib['idref'] == 'cover_xhtml':            
+        if child.attrib['idref'] == 'cover_xhtml' or child.attrib['idref'] == 'title_page_xhtml':            
             child.attrib['linear'] = 'yes'
     return tree
 
@@ -122,6 +122,11 @@ for f in temp_ls:
         ET.register_namespace('', 'http://www.idpf.org/2007/opf')
         tree.write(filename, encoding='utf-8', xml_declaration='True' )
 
+    elif f == 'title_page.xhtml':
+        print 'TITLE PAGE'
+        os.remove("temp/title_page.xhtml")
+        shutil.copy("title_page.xhtml", "temp/title_page.xhtml")
+        
         
 # Step 3: zip epub
 epub = zipfile.ZipFile("FromPrintToEbooks.epub", "w")
