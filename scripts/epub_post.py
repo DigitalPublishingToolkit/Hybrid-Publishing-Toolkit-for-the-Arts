@@ -123,7 +123,6 @@ for f in temp_ls:
         tree.write(filename, encoding='utf-8', xml_declaration='True' )
 
     elif f == 'title_page.xhtml':
-        print 'TITLE PAGE'
         os.remove("temp/title_page.xhtml")
         shutil.copy("title_page.xhtml", "temp/title_page.xhtml")
         

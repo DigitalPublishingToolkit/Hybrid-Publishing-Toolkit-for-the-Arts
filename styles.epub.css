@@ -229,9 +229,6 @@ img.fig {
 div.summary{
     border-top: 3px solid #0F0;
     border-bottom: 3px solid #0F0; 
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
     page-break-inside: avoid;
     page-break-after: always;
     -webkit-column-break-inside: avoid;
