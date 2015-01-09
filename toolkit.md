@@ -575,8 +575,6 @@ Of course, none of these projects can be considered serious competition to mains
 - The Open Source software Calibre, which features a graphical user interface (GUI), can alternatively be used for document conversion and editing. 
 </div>
 
-##
-
 Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these do-it-yourself tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
 
 This chapter consists of four sections: 
@@ -1064,8 +1062,6 @@ Finally, why not simply publish essays, articles or even whole books on a websit
 - Hybrid publication projects can also be authored in database-driven content management systems, which have their own advantages and limitations. 
 </div> 
 
-##
-
 Creating a workflow that is both structured and flexible enough to cater to a variety of demands is a key step towards establishing an efficient electronic or hybrid publishing strategy. What we propose here is a hybrid workflow based on the need for publishing across different media, while keeping the main part of the work process in-house rather than outsourcing it. 
 
 Instead of developing a digital publication based on the printed book at the end of a production process, as is common practice by publishers, the main workflow should be adapted at an earlier stage, and made efficient and practical for hybrid publishing. Development of each publication format from scratch is thus superseded by single-source, multi-format publishing. In other words: rather than working separately on the PDF for the print book, the EPUB version, and a Kindle edition, the workflow is instead focused on a single source file (in the Markdown format) which can easily be converted into these different output formats using a relatively small number of digital tools. 
@@ -1387,7 +1383,6 @@ We distinguish between two major types of workflow, the first based on a print p
 </div> 
 
 
-##
 
 Throughout the 20th century, new art forms and mass media have often been closely interrelated. For example, it is almost impossible to consider Cubist, Dadaist and Pop Art collage outside the context of a mass culture of newspaper publishing. With the advent of electronic publishing, the practices of dissecting, copy-pasting and perpetually reorganizing have become technologically and culturally more complex - as well as more common. In this Toolkit, we have referred to such processes as the 'modularization' of electronic publishing. Personalized, individually curated, or 'collaged' content can be done both on the side of the producer and of the receiver. Furthermore, users can choose their own combinations of reading technologies. There is no reason to believe that the current diversity of reading software and hardware is going to decrease. Indeed, perhaps it will increase even further - contrary to expectations from only five years ago, when many believed that Apple's iPad would establish a unified standard for electronic reading devices. 
 

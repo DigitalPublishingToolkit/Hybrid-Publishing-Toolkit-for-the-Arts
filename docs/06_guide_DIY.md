@@ -8,8 +8,6 @@
 - The Open Source software Calibre, which features a graphical user interface (GUI), can alternatively be used for document conversion and editing. 
 </div>
 
-##
-
 Making an EPUB doesn't have to be a complicated process. Since the EPUB standard is open and based on HTML (the same standard used for designing web pages), there's an increasingly large number of ways of converting and exporting different types of source file formats to EPUB. For very simple publications, it may be possible to use a software tool that directly converts your document to EPUB. However, before exploring in detail any of these do-it-yourself tools, we will first explain what an EPUB contains, how it works, and how to make one from scratch. 
 
 This chapter consists of four sections: 

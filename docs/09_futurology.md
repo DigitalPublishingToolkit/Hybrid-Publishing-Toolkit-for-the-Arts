@@ -10,7 +10,6 @@
 </div> 
 
 
-##
 
 Throughout the 20th century, new art forms and mass media have often been closely interrelated. For example, it is almost impossible to consider Cubist, Dadaist and Pop Art collage outside the context of a mass culture of newspaper publishing. With the advent of electronic publishing, the practices of dissecting, copy-pasting and perpetually reorganizing have become technologically and culturally more complex - as well as more common. In this Toolkit, we have referred to such processes as the 'modularization' of electronic publishing. Personalized, individually curated, or 'collaged' content can be done both on the side of the producer and of the receiver. Furthermore, users can choose their own combinations of reading technologies. There is no reason to believe that the current diversity of reading software and hardware is going to decrease. Indeed, perhaps it will increase even further - contrary to expectations from only five years ago, when many believed that Apple's iPad would establish a unified standard for electronic reading devices. 
 
