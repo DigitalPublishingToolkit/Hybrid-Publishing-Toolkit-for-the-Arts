@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList" Name="BulList" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList &gt; first" Name="BulList &gt; first" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>9 Futurology</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Customization and curation seem to be key concepts in electronic publishing for the future.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Traditional e-readers appear to be losing market share, with more and more people reading on their standard mobile devices.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Electronic reading and paper publications will in all likelihood continue to coexist.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Flat-rate subscriptions to entire catalogues of ebooks will likely become more common, seriously disrupting today's publishing and library culture.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Self-publishing is likely to go on increasing.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As a consequence, there will probably be an increased need for editorial selection and content curation.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Throughout the 20th century, new art forms and mass media have often been closely interrelated. For example, it is almost impossible to consider Cubist, Dadaist and Pop Art collage outside the context of a mass culture of newspaper publishing. With the advent of electronic publishing, the practices of dissecting, copy-pasting and perpetually reorganizing have become technologically and culturally more complex - as well as more common. In this Toolkit, we have referred to such processes as the 'modularization' of electronic publishing. Personalized, individually curated, or 'collaged' content can be done both on the side of the producer and of the receiver. Furthermore, users can choose their own combinations of reading technologies. There is no reason to believe that the current diversity of reading software and hardware is going to decrease. Indeed, perhaps it will increase even further - contrary to expectations from only five years ago, when many believed that Apple's iPad would establish a unified standard for electronic reading devices.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Is it possible then to make a few general statements about the future of electronic publishing? We can distinguish some real trends, though of course predictions are always questionable in a field so prone to fashions and hypes. </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="Link to blog post: Book review. The End of Ebooks. 20 Visionaries on the Future of Digital Reading" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/dpt_blog_verwijzing.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The End of Ebooks. 20 Visionaries on the Future of Digital Reading</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>)</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Technology</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Reading novels and other conventional texts on e-reader devices is already a common practice, and the technology is clearly an industry success. Publishers report ever-increasing sales of ebooks. It is quite possible that someday soon, sales of electronic publications will surpass those of paper publications.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital sales outstrip bricks and mortar in US</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, (</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>&lt;a href=&quot;http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us&quot;&gt;</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>http://www.thebookseller.com/news/digital-sales-outstrip-bricks-and-mortar-us</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>&lt;/a&gt;</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At the same time, the market for e-reading devices is increasingly showing signs of saturation. Early mass producers of monochrome e-readers such as Sony have dropped out of this market, so that the further development of these devices is left to smaller companies such as Kobo. This may to a large extent be a result of the popularity of tablets and smartphones. Since smartphones are sold with increasingly large screens, we are already seeing signs of a convergence between these two types of devices. It is quite possible to read comfortably from a large smartphone, with the added advantage that people already carry their phones on them, always and everywhere. Generally speaking, and beyond the relatively narrow field of ebooks, it is fair to assume that at least in Western and East Asian countries, most people spend more time reading on electronic devices than they do on print.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ongoing technological development of higher-quality screens is, at least for the time being, a never-ending process: color e-paper screens, Ultra High Density (4K) resolution, even flexible displays. However, recent research shows that students preparing for tests and exams still prefer paper to electronic displays.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Judith Stoop, Paulien Kreutzer, and Joost Kircz. 'Reading and Learning from Screens versus Print: a study in changing habits. Part 1 - reading long information rich texts', </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New Library World</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Vol. 114, Issue 7/8, pp. 284-300, 2013. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>Copy of final accepted draft:</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. 'Part 2 - comparing different text structures on paper and on screen', </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New Library World</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Vol. 114, Issue 9/10, pp. 371-383, 2013. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>Copy of final accepted draft:</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In the field of educational texts, we are already seeing new combinations of paper textbooks and electronic materials (such as image, audio and film collections, and interactive tests and exams) that are written and developed to complement each other. Where paper publications are used for reading complex texts, (portable) electronic devices will simultaneously be used for purposes of searching and meta-tagging, and for commenting and debating on the content.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Presumably, all these developments will also find their way into areas outside the world of education. It remains to be seen whether 'social reading' - which includes social practices of browsing, annotating, sharing and quoting - will really take off for ebooks, or whether this will remain the domain of 'traditional' social media such as Facebook, Twitter and Reddit. So far, the efforts in this respect by established players like Kobo and startups like Sobooks have not lived up to expectations.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The impact and value of digital libraries, with their extensive collections and their specific advantages of affordability and portability, can hardly be overstated. However this gain also comes at a price: dependence on electricity, and loss of the visual and tactile qualities of paper books. Arguably, electronic and print publishing are currently developing into opposite directions precisely because of their opposite qualities of affordability/portability vs. tangibility. As electronic books - integrated into vast digital libraries - gradually replace generic text books such as paperbacks, printed books may well become valuable design objects rather than cheap throwaway mass media, eventually occupying a similar 'craft' niche as calligraphy after the invention of the printing press, and letterpress typesetting after the invention of phototypesetting.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But where will these electronic libraries be stored, and who will control access to them? The 'cloud' is entirely dependent on a permanent supply of electricity, on a dense and fast internet infrastructure, and on hardware/software platform consistency. Who will guarantee that the cloud, containing all your books and other data, will be perpetually maintained, kept open and accessible - let alone unfiltered and free from surveillance and censorship?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Reading and book culture</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In reading culture and book retail, we can already see a shift from buying and owning individual ebooks towards all-you-can-read subscription models. Just like the music and film industries before them (with Spotify and Netflix respectively), the publishing industry is moving towards flat-rate subscription packages. In the U.S., Oyster Books offers a 'streaming service' for books, while Amazon has recently launched its Kindle Unlimited program, with access to 600,000 ebooks for a monthly fee of $10. Such services have major drawbacks: the books they offer are no longer stored on people's devices, but only accessed from a remote server. Therefore they are subject to arbitrary modifications, censorship or even outright deletion. These books will disappear as soon as the central server disappears - which can happen overnight. The same economic pressures that are currently forcing the industry to lower the price of ebooks, may well end up disempowering readers.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The commerce of publishing will also be increasingly advertisement-driven. Statistical data-mining of consumer habits, as already practiced by Facebook, Google and Amazon, will of course influence consumers' choices. This model is likely to become the norm once subscription models are widely adopted. Then user statistics and 'big data' will be at the heart of the publishing industry's business models.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Flat-rate ebook subscriptions will eventually pose a serious threat to today's public libraries. Such new models offer attractive cost-cutting opportunities for policy makers. After transportation, energy, arts and education, public libraries could be the next on the list of public services and infrastructure that will be subject to sweeping neo-liberal budget cuts. On the other hand, the new electronic libraries will help level the global playing field of higher education: first-class research libraries will then no longer be the exclusive domain of traditional, highly-funded, Western universities.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>How will people read in the future? Do people read ebooks from the beginning to the end, or do they casually browse them - or merely keep them as searchable items in a personal electronic library? Do they read PDF versions of books and articles on display screens, or do they first print them on paper? How much content is read only by internet bots and search engines? Will attention spans decrease (the age-old criticism of any new medium)? Or will long, complex texts and printed books become fashionable again in a more mature technological environment? It is very possible that in the course of time, users will adjust to the new reading technologies, and have no trouble digesting long and complex texts from the displays of their mobile devices.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The future of publishing culture?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Already today, increasing numbers of writers and artists self-publish their works. For them, print-on-demand (POD) publication often fills a gap between traditional and electronic publishing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Take for example the 528 page (and 10.8 x 17.48 cm) thick anthology </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>What will be / Ce qui sera / Lo que será Almanac</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> on the international Surrealist movement, with more than 170 contributors from 25 countries: essays, poems, images, manifestos, a debate on Surrealist editions, a chronology of 50 years of Surrealism from 1964 to 2014. Downloading such a book is problematic due to the need of a complete structured index and advanced search options. Printing it locally is almost impossible because of its small fixed-page size. Buying it at lulu.com gives readers a print-on-demand book on standard glossy paper which is certainly not in line with the Surrealist tradition.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The role of publishers as book producers is rapidly becoming a thing of the past. However, at a certain point of overproduction and oversaturation, publishers may redefine their role to become aggregators and curators. A new publishing house like Zero Books (featuring authors who mostly belong to a small, carefully selected group of critical theory bloggers) demonstrates that this model already works today. In the meantime, sales platforms like Amazon have become too large to provide a competitive level of selection and curatorship; even their statistics-driven customer personalization has not yet proven successful in this respect.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The electronic publishing models which we have focused on in this Toolkit, using technologies such as EPUB, may in some cases appear counter-intuitive to today's digital media culture: why create what are essentially offline websites in ZIP files, in this age of 'cloud computing' and an 'always-on' culture in which we are constantly connected and networked? However, it is precisely the ephemeral nature of networked media that makes a format like EPUB increasingly attractive. As an offline, stable medium based on </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>World Wide Web</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> technology, it is perfect for everyone who wishes to personally curate, collect and preserve what otherwise may soon be lost.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See also Henry Warwick, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+            <Content>Radical Tactics of the Offline LIbrary</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Network Notebooks No. 07, Amsterdam; Institute of Network Cultures, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Faced with on one hand all these new possibilities for self-publishing and self-curating, and on the other hand the rise and consolidation of huge commercial monopolies, the art and craftsmanship of publishing will have no choice but to reinvent and rebuild itself. Through this Toolkit, we hope to contribute to at least one of the building blocks of this process.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf" Name="link" DestinationURL="http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part2-acceptedversion.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf" Name="link" DestinationURL="http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.kra.nl/Website/Artikelen/NLW-Reading-Learning-part1-acceptedversion.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://digitalpublishingtoolkit.org/?p=921" Name="link" DestinationURL="http://digitalpublishingtoolkit.org/?p=921" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://digitalpublishingtoolkit.org/?p=921" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://digitalpublishingtoolkit.org/?p=921</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

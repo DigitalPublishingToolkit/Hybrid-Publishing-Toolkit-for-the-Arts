@@ -108,10 +108,10 @@ toolkit.odf: toolkit.md
 	python scripts/epubtrailer.py $< --width 320 --height 240 --duration=0.5 -o $@
 
 
-toolkit.icml: toolkit.icml
+toolkit.icml: toolkit.md
 	cd docs && pandoc \
 		--from markdown \
-		--to epub3 \
+		--to icml \
 		--self-contained \
 		-o ../toolkit.icml \
 		../toolkit.md

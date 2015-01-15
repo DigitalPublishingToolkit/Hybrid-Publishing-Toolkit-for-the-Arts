@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Colophon</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Authors:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> DPT Collective, consisting of: Marc de Bruijn, Liz Castro, Florian Cramer, Joost Kircz, Silvio Lorusso, Michael Murtaugh, Pia Pol, Miriam Rasch and Margreet Riphagen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Editors:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Joe Monk, Miriam Rasch, Florian Cramer and Amy Wu</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Images:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Medamo and Kimmy Spreeuwenberg</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Print design:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Medamo and Kimmy Spreeuwenberg</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>EPUB design:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> André Castro</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Cover design:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Medamo and Kimmy Spreeuwenberg</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Printer:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Drukkerij Printvisie B.V., Rotterdam</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Publisher:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Institute of Network Cultures, Amsterdam</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Supported by:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> SIA National Regieorgaan Praktijkgericht Onderzoek</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>An EPUB and PDF edition of this publication are freely downloadable from:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://networkcultures.org/publications/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Order a copy of this book by email</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: books@networkcultures.org</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Contact:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Institute of Network Cultures</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Hogeschool van Amsterdam</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Rhijnspoorplein 1</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1091 GC Amsterdam</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The Netherlands</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.networkcultures.org</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> books@networkcultures.org</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> t: +31 (0)20 595 18 65</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://creativecommons.org/licenses/by-nc-sa/4.0/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For background material, blog posts, videos and the software created within this Digital Publishing Toolkit project please visit: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://networkcultures.org/digitalpublishing</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Throughout the book the following symbol </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="images/dpt_blog_verwijzing.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> will appear, pointing to blog posts relevant to the discussed topic.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Amsterdam, 2014</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ISBN 978-90-822345-3-4 (print)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ISBN 978-90-822345-4-1 (EPUB)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;br/&gt;</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_HvA.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_medamo.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_Creating010.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_valiz.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_Create-it.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_SilvioLorusso.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_Meeusontwerpt.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_HRO.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_INC.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_Restruct.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_Bis.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_nai.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_essense.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_puntpixel.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_SIA.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+        <Properties>
+          <PathGeometry>
+            <GeometryPathType PathOpen="false">
+              <PathPointArray>
+                <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+                <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+                <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+                <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              </PathPointArray>
+            </GeometryPathType>
+          </PathGeometry>
+        </Properties>
+        <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+          <Properties>
+            <Profile type="string">
+              $ID/Embedded
+              <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+            </Profile>
+          </Properties>
+          <Link Self="ueb" LinkResourceURI="images/logos_partners/logo_partner_MrSauli.png" />
+        </Image>
+      </Rectangle>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mrsauli.nl/" Name="link" DestinationURL="http://mrsauli.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-20" Name="http://mrsauli.nl/" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://mrsauli.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.regieorgaan-sia.nl/" Name="link" DestinationURL="http://www.regieorgaan-sia.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="http://www.regieorgaan-sia.nl/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.regieorgaan-sia.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://puntpixel.nl/" Name="link" DestinationURL="http://puntpixel.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="http://puntpixel.nl/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://puntpixel.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://essense.eu/" Name="link" DestinationURL="http://essense.eu/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="http://essense.eu/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://essense.eu/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nai010.com/" Name="link" DestinationURL="http://www.nai010.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://www.nai010.com/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nai010.com/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bispublishers.nl/" Name="link" DestinationURL="http://www.bispublishers.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://www.bispublishers.nl/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.bispublishers.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://restruct.nl/" Name="link" DestinationURL="https://restruct.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="https://restruct.nl/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://restruct.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org" Name="link" DestinationURL="http://networkcultures.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://networkcultures.org" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hogeschoolrotterdam.nl/" Name="link" DestinationURL="http://www.hogeschoolrotterdam.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.hogeschoolrotterdam.nl/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.hogeschoolrotterdam.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.meeusontwerpt.nl/" Name="link" DestinationURL="http://www.meeusontwerpt.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.meeusontwerpt.nl/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.meeusontwerpt.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://silviolorusso.com/" Name="link" DestinationURL="http://silviolorusso.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://silviolorusso.com/" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://silviolorusso.com/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hva.nl/create-it" Name="link" DestinationURL="http://www.hva.nl/create-it" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.hva.nl/create-it" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.hva.nl/create-it</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.valiz.nl/" Name="link" DestinationURL="http://www.valiz.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.valiz.nl/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.valiz.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://creating010.hr.nl" Name="link" DestinationURL="http://creating010.hr.nl" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://creating010.hr.nl" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://creating010.hr.nl</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.medamo.nl/" Name="link" DestinationURL="http://www.medamo.nl/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.medamo.nl/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.medamo.nl/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://hva.nl" Name="link" DestinationURL="http://hva.nl" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://hva.nl" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://hva.nl</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/digitalpublishing/" Name="link" DestinationURL="http://networkcultures.org/digitalpublishing/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://networkcultures.org/digitalpublishing/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/digitalpublishing/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://creativecommons.org/licenses/by-nc-sa/4.0/" Name="link" DestinationURL="http://creativecommons.org/licenses/by-nc-sa/4.0/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://creativecommons.org/licenses/by-nc-sa/4.0/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://creativecommons.org/licenses/by-nc-sa/4.0/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.networkcultures.org" Name="link" DestinationURL="http://www.networkcultures.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.networkcultures.org" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.networkcultures.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/publications/" Name="link" DestinationURL="http://networkcultures.org/publications/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://networkcultures.org/publications/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/publications/</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>
