@@ -1,14 +1,7 @@
 
-# [Colophon](docs/00_colophon.md)
-
-
 # [01 Introduction](docs/01_introduction.md)
-## Industry promises versus reality
-## What this Toolkit provides
-## Whom is this Toolkit written for
-## How to use this Toolkit
-## Who worked on this Toolkit
 
+# [Colophon](docs/00_colophon.md)
 
 # [02 The Basics](docs/02_the_basics.md)
 ## Layout and structure of a text

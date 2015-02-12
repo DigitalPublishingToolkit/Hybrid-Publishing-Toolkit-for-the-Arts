@@ -116,7 +116,7 @@ Of course, none of these projects can be considered serious competition to mains
 [^Netflix]: Netflix, <a href="http://www.netflix.com">http://www.netflix.com</a>. 
 [^The-Pirate-Bay]: The Pirate Bay, <a href="http://thepiratebay.se">http://thepiratebay.se</a>. 
 [^bookfi.org]: <a href="http://Bookfi.org">Bookfi.org</a>, <a href="http://bookfi.org">http://bookfi.org</a>. 
-[^libgen.info]: <a href="http://Bookfi.org">Bookfi.org</a>, <a href="http://libgen.info">http://libgen.info</a>. 
+[^libgen.info]: <a href="http://www.libgen.info/">libgen.info</a>.
 [^aaaaarg.org]: AAAAARG, <a href="http://aaaaarg.org/">http://aaaaarg.org/</a>. 
 [^Monoskop]: Monoskop Log, <a href="http://monoskop.org/log">http://monoskop.org/log</a>. 
 [^Ubuweb]: UbuWeb, <a href="http://www.ubu.com">http://www.ubu.com</a>. 

@@ -101,7 +101,7 @@ The file formats described above are all reflowable documents: their presentatio
 [^bookish]: Booki.sh, <a href="https://booki.sh">https://booki.sh</a>. 
 [^bookish-blog]: <a href="http://blog.booki.sh/blog/post/ebook-sales-via-booki-sh-to-end-on-june-30">http://blog.booki.sh/blog/post/ebook-sales-via-booki-sh-to-end-on-june-30</a>. 
 [^readium-goals]: *Readium Project Goals*, <a href="http://readium.org/readium-project-goals">http://readium.org/readium-project-goals</a>. 
-[^readium-extension]: *EPUB reader for Chrome*, <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl">https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl</a>. 
+[^readium-extension]: *Readium* - EPUB reader for Chrome, <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl">https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl</a>. 
 [^businessweek-ebooks]: *E-books: A Library on Your Lap*, <a href="http://www.businessweek.com/1998/46/b3604010.htm">http://www.businessweek.com/1998/46/b3604010.htm</a>. 
 [^interoperability-of-ebook-formats]: Bläsi, C., Rothlauf, F., *On the Interoperability of eBook Formats*, Johannes Gutenberg-Universität Mainz, 2013, p. 12, <a href="http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf">http://wi.bwl.uni-mainz.de/publikationen/InteroperabilityReportGutenbergfinal07052013.pdf</a>. 
 [^epub2-specification]: IDPF, *Open Publication Structure (OPS) 2.0.1 v1.0.1, Recommended Specification September 4, 2010*, 2010, <a href="http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm">http://www.idpf.org/epub/20/spec/OPS_2.0_latest.htm</a>. 
